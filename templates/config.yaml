@@ -3,5 +3,5 @@ default:
   output: colors
 
 default-256:
-  extension: -256.toml
+  extension: .toml
   output: colors-256
