@@ -1,0 +1,38 @@
+# base24 Espresso - alacritty color config
+# FredHappyface (https://github.com/fredHappyface)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x262626'
+foreground = '0xc7c7c5'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x262626'
+cursor = '0xc7c7c5'
+
+# Normal colors
+[colors.normal]
+black = '0x262626'
+red = '0xd25151'
+green = '0xa5c261'
+yellow = '0x8ab7d9'
+blue = '0x6c99bb'
+magenta = '0xd197d9'
+cyan = '0xbed6ff'
+white = '0xc7c7c5'
+#
+# Bright colors
+[colors.bright]
+black = '0x797979'
+red = '0xf00c0c'
+green = '0xc2e075'
+yellow = '0xe1e38b'
+blue = '0x8ab7d9'
+magenta = '0xefb5f7'
+cyan = '0xdcf3ff'
+white = '0xffffff'
+

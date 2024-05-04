@@ -1,0 +1,38 @@
+# base24 Dracula - alacritty color config
+# FredHappyface (https://github.com/fredHappyface)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x21222c'
+foreground = '0xe9e9f4'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x21222c'
+cursor = '0xe9e9f4'
+
+# Normal colors
+[colors.normal]
+black = '0x21222c'
+red = '0xff5555'
+green = '0x50fa7b'
+yellow = '0xebff87'
+blue = '0xbd93f9'
+magenta = '0xff79c6'
+cyan = '0x8be9fd'
+white = '0xe9e9f4'
+#
+# Bright colors
+[colors.bright]
+black = '0x4d4f68'
+red = '0xff6e6e'
+green = '0x69ff94'
+yellow = '0xffffa5'
+blue = '0xd6acff'
+magenta = '0xff92df'
+cyan = '0xa4ffff'
+white = '0xffffff'
+

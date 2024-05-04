@@ -1,7 +1,19 @@
-default:
+base16:
   extension: .toml
   output: colors
+  supported-systems: [base16]
 
-default-256:
+base24:
+  extension: .toml
+  output: colors
+  supported-systems: [base24]
+
+base16-256:
   extension: .toml
   output: colors-256
+  supported-systems: [base16]
+
+base24-256:
+  extension: .toml
+  output: colors-256
+  supported-systems: [base24]

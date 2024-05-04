@@ -1,0 +1,38 @@
+# base24 Sparky - alacritty color config
+# Leila Sother (https://github.com/mixcoac)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x072b31'
+foreground = '0xf4f5f0'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x072b31'
+cursor = '0xf4f5f0'
+
+# Normal colors
+[colors.normal]
+black = '0x072b31'
+red = '0xff585d'
+green = '0x78d64b'
+yellow = '0xfbdd40'
+blue = '0x4698cb'
+magenta = '0xd59ed7'
+cyan = '0x2dccd3'
+white = '0xf4f5f0'
+#
+# Bright colors
+[colors.bright]
+black = '0x003b49'
+red = '0xff7276'
+green = '0x8edd65'
+yellow = '0xf6eb61'
+blue = '0x69b3e7'
+magenta = '0xf99fc9'
+cyan = '0x00c1d5'
+white = '0xffffff'
+
