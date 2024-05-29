@@ -1,0 +1,41 @@
+# Rio Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Hardcore by FredHappyface (https://github.com/fredHappyface)
+
+[colors]
+selection-background = '#414141' # base02
+selection-foreground = '#a9a9a9' # base05
+
+cursor         = '#a9a9a9' # base05
+tabs           = '#141414' # base01
+tabs-active    = '#414141' # base02
+
+background     = '#111111' # base00
+foreground     = '#a9a9a9' # base05
+black          = '#141414' # base01
+white          = '#cccccc' # base06
+red            = '#ff8888' # base12
+yellow         = '#ffd966' # base13
+green          = '#b6f292' # base14
+cyan           = '#bbecff' # base15
+blue           = '#33bbff' # base16
+magenta        = '#cebbff' # base17
+
+dim-foreground   = '#868686' # base04
+dim-white        = '#868686' # base04
+dim-black        = '#141414' # base01
+dim-yellow       = '#ffcc33' # base09
+dim-green        = '#98ec65' # base0B
+dim-cyan         = '#88ddff' # base0C
+dim-blue         = '#00aaff' # base0D
+dim-magenta      = '#aa88ff' # base0E
+dim-red          = '#7f2a2a' # base0F
+
+light-foreground = '#ffffff' # base07
+light_white      = '#ffffff' # base07
+light_black      = '#414141' # base02
+light_red        = '#ff5555' # base08
+light_yellow     = '#33bbff' # base0A
+light_green      = '#98ec65' # base0B
+light_cyan       = '#88ddff' # base0C
+light_blue       = '#00aaff' # base0D
+light_magenta    = '#aa88ff' # base0E

@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Zenbones by mcchrish
+
+[colors]
+selection-background = '#819b69' # base02
+selection-foreground = '#b279a7' # base05
+
+cursor         = '#b279a7' # base05
+tabs           = '#de6e7c' # base01
+tabs-active    = '#819b69' # base02
+
+background     = '#191919' # base00
+foreground     = '#b279a7' # base05
+black          = '#de6e7c' # base01
+white          = '#66a5ad' # base06
+red            = '#3d3839' # base08
+yellow         = '#e8838f' # base09
+green          = '#d68c67' # base0B
+cyan           = '#61abda' # base0C
+blue           = '#cf86c1' # base0D
+magenta        = '#65b8c1' # base0E
+
+dim-foreground   = '#6099c0' # base04
+dim-white        = '#6099c0' # base04
+dim-black        = '#de6e7c' # base01
+dim-yellow       = '#e8838f' # base09
+dim-green        = '#d68c67' # base0B
+dim-cyan         = '#61abda' # base0C
+dim-blue         = '#cf86c1' # base0D
+dim-magenta      = '#65b8c1' # base0E
+dim-red          = '#8e8e8e' # base0F
+
+light-foreground = '#bbbbbb' # base07
+light_white      = '#bbbbbb' # base07
+light_black      = '#819b69' # base02
+light_red        = '#3d3839' # base08
+light_yellow     = '#8bae68' # base0A
+light_green      = '#d68c67' # base0B
+light_cyan       = '#61abda' # base0C
+light_blue       = '#cf86c1' # base0D
+light_magenta    = '#65b8c1' # base0E

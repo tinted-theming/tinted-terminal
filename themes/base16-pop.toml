@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Pop by Chris Kempson (http://chriskempson.com)
+
+[colors]
+selection-background = '#303030' # base02
+selection-foreground = '#d0d0d0' # base05
+
+cursor         = '#d0d0d0' # base05
+tabs           = '#202020' # base01
+tabs-active    = '#303030' # base02
+
+background     = '#000000' # base00
+foreground     = '#d0d0d0' # base05
+black          = '#202020' # base01
+white          = '#e0e0e0' # base06
+red            = '#eb008a' # base08
+yellow         = '#f29333' # base09
+green          = '#37b349' # base0B
+cyan           = '#00aabb' # base0C
+blue           = '#0e5a94' # base0D
+magenta        = '#b31e8d' # base0E
+
+dim-foreground   = '#b0b0b0' # base04
+dim-white        = '#b0b0b0' # base04
+dim-black        = '#202020' # base01
+dim-yellow       = '#f29333' # base09
+dim-green        = '#37b349' # base0B
+dim-cyan         = '#00aabb' # base0C
+dim-blue         = '#0e5a94' # base0D
+dim-magenta      = '#b31e8d' # base0E
+dim-red          = '#7a2d00' # base0F
+
+light-foreground = '#ffffff' # base07
+light_white      = '#ffffff' # base07
+light_black      = '#303030' # base02
+light_red        = '#eb008a' # base08
+light_yellow     = '#f8ca12' # base0A
+light_green      = '#37b349' # base0B
+light_cyan       = '#00aabb' # base0C
+light_blue       = '#0e5a94' # base0D
+light_magenta    = '#b31e8d' # base0E

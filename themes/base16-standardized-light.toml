@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: standardized-light by ali (https://github.com/ali-githb/base16-standardized-scheme)
+
+[colors]
+selection-background = '#cccccc' # base02
+selection-foreground = '#444444' # base05
+
+cursor         = '#444444' # base05
+tabs           = '#eeeeee' # base01
+tabs-active    = '#cccccc' # base02
+
+background     = '#ffffff' # base00
+foreground     = '#444444' # base05
+black          = '#eeeeee' # base01
+white          = '#333333' # base06
+red            = '#d03e3e' # base08
+yellow         = '#d7691d' # base09
+green          = '#31861f' # base0B
+cyan           = '#00998f' # base0C
+blue           = '#3173c5' # base0D
+magenta        = '#9e57c2' # base0E
+
+dim-foreground   = '#767676' # base04
+dim-white        = '#767676' # base04
+dim-black        = '#eeeeee' # base01
+dim-yellow       = '#d7691d' # base09
+dim-green        = '#31861f' # base0B
+dim-cyan         = '#00998f' # base0C
+dim-blue         = '#3173c5' # base0D
+dim-magenta      = '#9e57c2' # base0E
+dim-red          = '#895025' # base0F
+
+light-foreground = '#222222' # base07
+light_white      = '#222222' # base07
+light_black      = '#cccccc' # base02
+light_red        = '#d03e3e' # base08
+light_yellow     = '#ad8200' # base0A
+light_green      = '#31861f' # base0B
+light_cyan       = '#00998f' # base0C
+light_blue       = '#3173c5' # base0D
+light_magenta    = '#9e57c2' # base0E

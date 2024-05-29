@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Mountain by gnsfujiwara (https://github.com/gnsfujiwara)
+
+[colors]
+selection-background = '#262626' # base02
+selection-foreground = '#cacaca' # base05
+
+cursor         = '#cacaca' # base05
+tabs           = '#191919' # base01
+tabs-active    = '#262626' # base02
+
+background     = '#0f0f0f' # base00
+foreground     = '#cacaca' # base05
+black          = '#191919' # base01
+white          = '#e7e7e7' # base06
+red            = '#ac8a8c' # base08
+yellow         = '#ceb188' # base09
+green          = '#8aac8b' # base0B
+cyan           = '#8aabac' # base0C
+blue           = '#8f8aac' # base0D
+magenta        = '#ac8aac' # base0E
+
+dim-foreground   = '#ac8a8c' # base04
+dim-white        = '#ac8a8c' # base04
+dim-black        = '#191919' # base01
+dim-yellow       = '#ceb188' # base09
+dim-green        = '#8aac8b' # base0B
+dim-cyan         = '#8aabac' # base0C
+dim-blue         = '#8f8aac' # base0D
+dim-magenta      = '#ac8aac' # base0E
+dim-red          = '#ac8a8c' # base0F
+
+light-foreground = '#f0f0f0' # base07
+light_white      = '#f0f0f0' # base07
+light_black      = '#262626' # base02
+light_red        = '#ac8a8c' # base08
+light_yellow     = '#aca98a' # base0A
+light_green      = '#8aac8b' # base0B
+light_cyan       = '#8aabac' # base0C
+light_blue       = '#8f8aac' # base0D
+light_magenta    = '#ac8aac' # base0E

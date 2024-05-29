@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Spaceduck by Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+
+[colors]
+selection-background = '#30365f' # base02
+selection-foreground = '#ecf0c1' # base05
+
+cursor         = '#ecf0c1' # base05
+tabs           = '#1b1c36' # base01
+tabs-active    = '#30365f' # base02
+
+background     = '#16172d' # base00
+foreground     = '#ecf0c1' # base05
+black          = '#1b1c36' # base01
+white          = '#c1c3cc' # base06
+red            = '#e33400' # base08
+yellow         = '#e39400' # base09
+green          = '#5ccc96' # base0B
+cyan           = '#00a3cc' # base0C
+blue           = '#7a5ccc' # base0D
+magenta        = '#b3a1e6' # base0E
+
+dim-foreground   = '#818596' # base04
+dim-white        = '#818596' # base04
+dim-black        = '#1b1c36' # base01
+dim-yellow       = '#e39400' # base09
+dim-green        = '#5ccc96' # base0B
+dim-cyan         = '#00a3cc' # base0C
+dim-blue         = '#7a5ccc' # base0D
+dim-magenta      = '#b3a1e6' # base0E
+dim-red          = '#ce6f8f' # base0F
+
+light-foreground = '#ffffff' # base07
+light_white      = '#ffffff' # base07
+light_black      = '#30365f' # base02
+light_red        = '#e33400' # base08
+light_yellow     = '#f2ce00' # base0A
+light_green      = '#5ccc96' # base0B
+light_cyan       = '#00a3cc' # base0C
+light_blue       = '#7a5ccc' # base0D
+light_magenta    = '#b3a1e6' # base0E

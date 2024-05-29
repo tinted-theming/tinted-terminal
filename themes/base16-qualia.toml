@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Qualia by isaacwhanson
+
+[colors]
+selection-background = '#454545' # base02
+selection-foreground = '#c0c0c0' # base05
+
+cursor         = '#c0c0c0' # base05
+tabs           = '#454545' # base01
+tabs-active    = '#454545' # base02
+
+background     = '#101010' # base00
+foreground     = '#c0c0c0' # base05
+black          = '#454545' # base01
+white          = '#c0c0c0' # base06
+red            = '#efa6a2' # base08
+yellow         = '#a3b8ef' # base09
+green          = '#80c990' # base0B
+cyan           = '#c8c874' # base0C
+blue           = '#50cacd' # base0D
+magenta        = '#e0af85' # base0E
+
+dim-foreground   = '#808080' # base04
+dim-white        = '#808080' # base04
+dim-black        = '#454545' # base01
+dim-yellow       = '#a3b8ef' # base09
+dim-green        = '#80c990' # base0B
+dim-cyan         = '#c8c874' # base0C
+dim-blue         = '#50cacd' # base0D
+dim-magenta      = '#e0af85' # base0E
+dim-red          = '#808080' # base0F
+
+light-foreground = '#454545' # base07
+light_white      = '#454545' # base07
+light_black      = '#454545' # base02
+light_red        = '#efa6a2' # base08
+light_yellow     = '#e6a3dc' # base0A
+light_green      = '#80c990' # base0B
+light_cyan       = '#c8c874' # base0C
+light_blue       = '#50cacd' # base0D
+light_magenta    = '#e0af85' # base0E

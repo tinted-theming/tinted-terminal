@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Framer by Framer (Maintained by Jesse Hoyos)
+
+[colors]
+selection-background = '#464646' # base02
+selection-foreground = '#d0d0d0' # base05
+
+cursor         = '#d0d0d0' # base05
+tabs           = '#151515' # base01
+tabs-active    = '#464646' # base02
+
+background     = '#181818' # base00
+foreground     = '#d0d0d0' # base05
+black          = '#151515' # base01
+white          = '#e8e8e8' # base06
+red            = '#fd886b' # base08
+yellow         = '#fc4769' # base09
+green          = '#32ccdc' # base0B
+cyan           = '#acddfd' # base0C
+blue           = '#20bcfc' # base0D
+magenta        = '#ba8cfc' # base0E
+
+dim-foreground   = '#b9b9b9' # base04
+dim-white        = '#b9b9b9' # base04
+dim-black        = '#151515' # base01
+dim-yellow       = '#fc4769' # base09
+dim-green        = '#32ccdc' # base0B
+dim-cyan         = '#acddfd' # base0C
+dim-blue         = '#20bcfc' # base0D
+dim-magenta      = '#ba8cfc' # base0E
+dim-red          = '#b15f4a' # base0F
+
+light-foreground = '#eeeeee' # base07
+light_white      = '#eeeeee' # base07
+light_black      = '#464646' # base02
+light_red        = '#fd886b' # base08
+light_yellow     = '#fecb6e' # base0A
+light_green      = '#32ccdc' # base0B
+light_cyan       = '#acddfd' # base0C
+light_blue       = '#20bcfc' # base0D
+light_magenta    = '#ba8cfc' # base0E

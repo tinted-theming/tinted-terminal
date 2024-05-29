@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Atelier Heath by Bram de Haan (http://atelierbramdehaan.nl)
+
+[colors]
+selection-background = '#695d69' # base02
+selection-foreground = '#ab9bab' # base05
+
+cursor         = '#ab9bab' # base05
+tabs           = '#292329' # base01
+tabs-active    = '#695d69' # base02
+
+background     = '#1b181b' # base00
+foreground     = '#ab9bab' # base05
+black          = '#292329' # base01
+white          = '#d8cad8' # base06
+red            = '#ca402b' # base08
+yellow         = '#a65926' # base09
+green          = '#918b3b' # base0B
+cyan           = '#159393' # base0C
+blue           = '#516aec' # base0D
+magenta        = '#7b59c0' # base0E
+
+dim-foreground   = '#9e8f9e' # base04
+dim-white        = '#9e8f9e' # base04
+dim-black        = '#292329' # base01
+dim-yellow       = '#a65926' # base09
+dim-green        = '#918b3b' # base0B
+dim-cyan         = '#159393' # base0C
+dim-blue         = '#516aec' # base0D
+dim-magenta      = '#7b59c0' # base0E
+dim-red          = '#cc33cc' # base0F
+
+light-foreground = '#f7f3f7' # base07
+light_white      = '#f7f3f7' # base07
+light_black      = '#695d69' # base02
+light_red        = '#ca402b' # base08
+light_yellow     = '#bb8a35' # base0A
+light_green      = '#918b3b' # base0B
+light_cyan       = '#159393' # base0C
+light_blue       = '#516aec' # base0D
+light_magenta    = '#7b59c0' # base0E

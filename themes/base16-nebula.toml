@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Nebula by Gabriel Fontes (https://github.com/Misterio77)
+
+[colors]
+selection-background = '#5a8380' # base02
+selection-foreground = '#a4a6a9' # base05
+
+cursor         = '#a4a6a9' # base05
+tabs           = '#414f60' # base01
+tabs-active    = '#5a8380' # base02
+
+background     = '#22273b' # base00
+foreground     = '#a4a6a9' # base05
+black          = '#414f60' # base01
+white          = '#c7c9cd' # base06
+red            = '#777abc' # base08
+yellow         = '#94929e' # base09
+green          = '#6562a8' # base0B
+cyan           = '#226f68' # base0C
+blue           = '#4d6bb6' # base0D
+magenta        = '#716cae' # base0E
+
+dim-foreground   = '#87888b' # base04
+dim-white        = '#87888b' # base04
+dim-black        = '#414f60' # base01
+dim-yellow       = '#94929e' # base09
+dim-green        = '#6562a8' # base0B
+dim-cyan         = '#226f68' # base0C
+dim-blue         = '#4d6bb6' # base0D
+dim-magenta      = '#716cae' # base0E
+dim-red          = '#8c70a7' # base0F
+
+light-foreground = '#8dbdaa' # base07
+light_white      = '#8dbdaa' # base07
+light_black      = '#5a8380' # base02
+light_red        = '#777abc' # base08
+light_yellow     = '#4f9062' # base0A
+light_green      = '#6562a8' # base0B
+light_cyan       = '#226f68' # base0C
+light_blue       = '#4d6bb6' # base0D
+light_magenta    = '#716cae' # base0E

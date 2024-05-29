@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Brewer by Timothée Poisot (http://github.com/tpoisot)
+
+[colors]
+selection-background = '#515253' # base02
+selection-foreground = '#b7b8b9' # base05
+
+cursor         = '#b7b8b9' # base05
+tabs           = '#2e2f30' # base01
+tabs-active    = '#515253' # base02
+
+background     = '#0c0d0e' # base00
+foreground     = '#b7b8b9' # base05
+black          = '#2e2f30' # base01
+white          = '#dadbdc' # base06
+red            = '#e31a1c' # base08
+yellow         = '#e6550d' # base09
+green          = '#31a354' # base0B
+cyan           = '#80b1d3' # base0C
+blue           = '#3182bd' # base0D
+magenta        = '#756bb1' # base0E
+
+dim-foreground   = '#959697' # base04
+dim-white        = '#959697' # base04
+dim-black        = '#2e2f30' # base01
+dim-yellow       = '#e6550d' # base09
+dim-green        = '#31a354' # base0B
+dim-cyan         = '#80b1d3' # base0C
+dim-blue         = '#3182bd' # base0D
+dim-magenta      = '#756bb1' # base0E
+dim-red          = '#b15928' # base0F
+
+light-foreground = '#fcfdfe' # base07
+light_white      = '#fcfdfe' # base07
+light_black      = '#515253' # base02
+light_red        = '#e31a1c' # base08
+light_yellow     = '#dca060' # base0A
+light_green      = '#31a354' # base0B
+light_cyan       = '#80b1d3' # base0C
+light_blue       = '#3182bd' # base0D
+light_magenta    = '#756bb1' # base0E

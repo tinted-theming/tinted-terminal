@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: PhD by Hennig Hasemann (http://leetless.de/vim.html)
+
+[colors]
+selection-background = '#4d5666' # base02
+selection-foreground = '#b8bbc2' # base05
+
+cursor         = '#b8bbc2' # base05
+tabs           = '#2a3448' # base01
+tabs-active    = '#4d5666' # base02
+
+background     = '#061229' # base00
+foreground     = '#b8bbc2' # base05
+black          = '#2a3448' # base01
+white          = '#dbdde0' # base06
+red            = '#d07346' # base08
+yellow         = '#f0a000' # base09
+green          = '#99bf52' # base0B
+cyan           = '#72b9bf' # base0C
+blue           = '#5299bf' # base0D
+magenta        = '#9989cc' # base0E
+
+dim-foreground   = '#9a99a3' # base04
+dim-white        = '#9a99a3' # base04
+dim-black        = '#2a3448' # base01
+dim-yellow       = '#f0a000' # base09
+dim-green        = '#99bf52' # base0B
+dim-cyan         = '#72b9bf' # base0C
+dim-blue         = '#5299bf' # base0D
+dim-magenta      = '#9989cc' # base0E
+dim-red          = '#b08060' # base0F
+
+light-foreground = '#ffffff' # base07
+light_white      = '#ffffff' # base07
+light_black      = '#4d5666' # base02
+light_red        = '#d07346' # base08
+light_yellow     = '#fbd461' # base0A
+light_green      = '#99bf52' # base0B
+light_cyan       = '#72b9bf' # base0C
+light_blue       = '#5299bf' # base0D
+light_magenta    = '#9989cc' # base0E

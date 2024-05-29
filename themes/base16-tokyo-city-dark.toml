@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Tokyo City Dark by Michaël Ball
+
+[colors]
+selection-background = '#28323a' # base02
+selection-foreground = '#d8e2ec' # base05
+
+cursor         = '#d8e2ec' # base05
+tabs           = '#1d252c' # base01
+tabs-active    = '#28323a' # base02
+
+background     = '#171d23' # base00
+foreground     = '#d8e2ec' # base05
+black          = '#1d252c' # base01
+white          = '#f6f6f8' # base06
+red            = '#f7768e' # base08
+yellow         = '#ff9e64' # base09
+green          = '#9ece6a' # base0B
+cyan           = '#89ddff' # base0C
+blue           = '#7aa2f7' # base0D
+magenta        = '#bb9af7' # base0E
+
+dim-foreground   = '#b7c5d3' # base04
+dim-white        = '#b7c5d3' # base04
+dim-black        = '#1d252c' # base01
+dim-yellow       = '#ff9e64' # base09
+dim-green        = '#9ece6a' # base0B
+dim-cyan         = '#89ddff' # base0C
+dim-blue         = '#7aa2f7' # base0D
+dim-magenta      = '#bb9af7' # base0E
+dim-red          = '#bb9af7' # base0F
+
+light-foreground = '#fbfbfd' # base07
+light_white      = '#fbfbfd' # base07
+light_black      = '#28323a' # base02
+light_red        = '#f7768e' # base08
+light_yellow     = '#b7c5d3' # base0A
+light_green      = '#9ece6a' # base0B
+light_cyan       = '#89ddff' # base0C
+light_blue       = '#7aa2f7' # base0D
+light_magenta    = '#bb9af7' # base0E

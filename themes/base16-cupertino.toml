@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Cupertino by Defman21
+
+[colors]
+selection-background = '#c0c0c0' # base02
+selection-foreground = '#404040' # base05
+
+cursor         = '#404040' # base05
+tabs           = '#c0c0c0' # base01
+tabs-active    = '#c0c0c0' # base02
+
+background     = '#ffffff' # base00
+foreground     = '#404040' # base05
+black          = '#c0c0c0' # base01
+white          = '#404040' # base06
+red            = '#c41a15' # base08
+yellow         = '#eb8500' # base09
+green          = '#007400' # base0B
+cyan           = '#318495' # base0C
+blue           = '#0000ff' # base0D
+magenta        = '#a90d91' # base0E
+
+dim-foreground   = '#808080' # base04
+dim-white        = '#808080' # base04
+dim-black        = '#c0c0c0' # base01
+dim-yellow       = '#eb8500' # base09
+dim-green        = '#007400' # base0B
+dim-cyan         = '#318495' # base0C
+dim-blue         = '#0000ff' # base0D
+dim-magenta      = '#a90d91' # base0E
+dim-red          = '#826b28' # base0F
+
+light-foreground = '#5e5e5e' # base07
+light_white      = '#5e5e5e' # base07
+light_black      = '#c0c0c0' # base02
+light_red        = '#c41a15' # base08
+light_yellow     = '#826b28' # base0A
+light_green      = '#007400' # base0B
+light_cyan       = '#318495' # base0C
+light_blue       = '#0000ff' # base0D
+light_magenta    = '#a90d91' # base0E

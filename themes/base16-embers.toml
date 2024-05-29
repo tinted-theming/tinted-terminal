@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Embers by Jannik Siebert (https://github.com/janniks)
+
+[colors]
+selection-background = '#433b32' # base02
+selection-foreground = '#a39a90' # base05
+
+cursor         = '#a39a90' # base05
+tabs           = '#2c2620' # base01
+tabs-active    = '#433b32' # base02
+
+background     = '#16130f' # base00
+foreground     = '#a39a90' # base05
+black          = '#2c2620' # base01
+white          = '#beb6ae' # base06
+red            = '#826d57' # base08
+yellow         = '#828257' # base09
+green          = '#57826d' # base0B
+cyan           = '#576d82' # base0C
+blue           = '#6d5782' # base0D
+magenta        = '#82576d' # base0E
+
+dim-foreground   = '#8a8075' # base04
+dim-white        = '#8a8075' # base04
+dim-black        = '#2c2620' # base01
+dim-yellow       = '#828257' # base09
+dim-green        = '#57826d' # base0B
+dim-cyan         = '#576d82' # base0C
+dim-blue         = '#6d5782' # base0D
+dim-magenta      = '#82576d' # base0E
+dim-red          = '#825757' # base0F
+
+light-foreground = '#dbd6d1' # base07
+light_white      = '#dbd6d1' # base07
+light_black      = '#433b32' # base02
+light_red        = '#826d57' # base08
+light_yellow     = '#6d8257' # base0A
+light_green      = '#57826d' # base0B
+light_cyan       = '#576d82' # base0C
+light_blue       = '#6d5782' # base0D
+light_magenta    = '#82576d' # base0E

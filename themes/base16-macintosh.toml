@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Macintosh by Rebecca Bettencourt (http://www.kreativekorp.com)
+
+[colors]
+selection-background = '#404040' # base02
+selection-foreground = '#c0c0c0' # base05
+
+cursor         = '#c0c0c0' # base05
+tabs           = '#404040' # base01
+tabs-active    = '#404040' # base02
+
+background     = '#000000' # base00
+foreground     = '#c0c0c0' # base05
+black          = '#404040' # base01
+white          = '#c0c0c0' # base06
+red            = '#dd0907' # base08
+yellow         = '#ff6403' # base09
+green          = '#1fb714' # base0B
+cyan           = '#02abea' # base0C
+blue           = '#0000d3' # base0D
+magenta        = '#4700a5' # base0E
+
+dim-foreground   = '#808080' # base04
+dim-white        = '#808080' # base04
+dim-black        = '#404040' # base01
+dim-yellow       = '#ff6403' # base09
+dim-green        = '#1fb714' # base0B
+dim-cyan         = '#02abea' # base0C
+dim-blue         = '#0000d3' # base0D
+dim-magenta      = '#4700a5' # base0E
+dim-red          = '#90713a' # base0F
+
+light-foreground = '#ffffff' # base07
+light_white      = '#ffffff' # base07
+light_black      = '#404040' # base02
+light_red        = '#dd0907' # base08
+light_yellow     = '#fbf305' # base0A
+light_green      = '#1fb714' # base0B
+light_cyan       = '#02abea' # base0C
+light_blue       = '#0000d3' # base0D
+light_magenta    = '#4700a5' # base0E

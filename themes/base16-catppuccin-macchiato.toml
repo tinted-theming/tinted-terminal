@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Catppuccin Macchiato by https://github.com/catppuccin/catppuccin
+
+[colors]
+selection-background = '#363a4f' # base02
+selection-foreground = '#cad3f5' # base05
+
+cursor         = '#cad3f5' # base05
+tabs           = '#1e2030' # base01
+tabs-active    = '#363a4f' # base02
+
+background     = '#24273a' # base00
+foreground     = '#cad3f5' # base05
+black          = '#1e2030' # base01
+white          = '#f4dbd6' # base06
+red            = '#ed8796' # base08
+yellow         = '#f5a97f' # base09
+green          = '#a6da95' # base0B
+cyan           = '#8bd5ca' # base0C
+blue           = '#8aadf4' # base0D
+magenta        = '#c6a0f6' # base0E
+
+dim-foreground   = '#5b6078' # base04
+dim-white        = '#5b6078' # base04
+dim-black        = '#1e2030' # base01
+dim-yellow       = '#f5a97f' # base09
+dim-green        = '#a6da95' # base0B
+dim-cyan         = '#8bd5ca' # base0C
+dim-blue         = '#8aadf4' # base0D
+dim-magenta      = '#c6a0f6' # base0E
+dim-red          = '#f0c6c6' # base0F
+
+light-foreground = '#b7bdf8' # base07
+light_white      = '#b7bdf8' # base07
+light_black      = '#363a4f' # base02
+light_red        = '#ed8796' # base08
+light_yellow     = '#eed49f' # base0A
+light_green      = '#a6da95' # base0B
+light_cyan       = '#8bd5ca' # base0C
+light_blue       = '#8aadf4' # base0D
+light_magenta    = '#c6a0f6' # base0E

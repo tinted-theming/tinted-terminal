@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Windows NT Light by Fergus Collins (https://github.com/C-Fergus)
+
+[colors]
+selection-background = '#d5d5d5' # base02
+selection-foreground = '#808080' # base05
+
+cursor         = '#808080' # base05
+tabs           = '#eaeaea' # base01
+tabs-active    = '#d5d5d5' # base02
+
+background     = '#ffffff' # base00
+foreground     = '#808080' # base05
+black          = '#eaeaea' # base01
+white          = '#404040' # base06
+red            = '#800000' # base08
+yellow         = '#ffff00' # base09
+green          = '#008000' # base0B
+cyan           = '#008080' # base0C
+blue           = '#000080' # base0D
+magenta        = '#800080' # base0E
+
+dim-foreground   = '#a0a0a0' # base04
+dim-white        = '#a0a0a0' # base04
+dim-black        = '#eaeaea' # base01
+dim-yellow       = '#ffff00' # base09
+dim-green        = '#008000' # base0B
+dim-cyan         = '#008080' # base0C
+dim-blue         = '#000080' # base0D
+dim-magenta      = '#800080' # base0E
+dim-red          = '#00ff00' # base0F
+
+light-foreground = '#000000' # base07
+light_white      = '#000000' # base07
+light_black      = '#d5d5d5' # base02
+light_red        = '#800000' # base08
+light_yellow     = '#808000' # base0A
+light_green      = '#008000' # base0B
+light_cyan       = '#008080' # base0C
+light_blue       = '#000080' # base0D
+light_magenta    = '#800080' # base0E

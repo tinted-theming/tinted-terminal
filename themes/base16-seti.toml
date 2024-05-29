@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Seti UI by 
+
+[colors]
+selection-background = '#3b758c' # base02
+selection-foreground = '#d6d6d6' # base05
+
+cursor         = '#d6d6d6' # base05
+tabs           = '#282a2b' # base01
+tabs-active    = '#3b758c' # base02
+
+background     = '#151718' # base00
+foreground     = '#d6d6d6' # base05
+black          = '#282a2b' # base01
+white          = '#eeeeee' # base06
+red            = '#cd3f45' # base08
+yellow         = '#db7b55' # base09
+green          = '#9fca56' # base0B
+cyan           = '#55dbbe' # base0C
+blue           = '#55b5db' # base0D
+magenta        = '#a074c4' # base0E
+
+dim-foreground   = '#43a5d5' # base04
+dim-white        = '#43a5d5' # base04
+dim-black        = '#282a2b' # base01
+dim-yellow       = '#db7b55' # base09
+dim-green        = '#9fca56' # base0B
+dim-cyan         = '#55dbbe' # base0C
+dim-blue         = '#55b5db' # base0D
+dim-magenta      = '#a074c4' # base0E
+dim-red          = '#8a553f' # base0F
+
+light-foreground = '#ffffff' # base07
+light_white      = '#ffffff' # base07
+light_black      = '#3b758c' # base02
+light_red        = '#cd3f45' # base08
+light_yellow     = '#e6cd69' # base0A
+light_green      = '#9fca56' # base0B
+light_cyan       = '#55dbbe' # base0C
+light_blue       = '#55b5db' # base0D
+light_magenta    = '#a074c4' # base0E

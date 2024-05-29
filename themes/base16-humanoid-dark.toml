@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Humanoid dark by Thomas (tasmo) Friese
+
+[colors]
+selection-background = '#484e54' # base02
+selection-foreground = '#f8f8f2' # base05
+
+cursor         = '#f8f8f2' # base05
+tabs           = '#333b3d' # base01
+tabs-active    = '#484e54' # base02
+
+background     = '#232629' # base00
+foreground     = '#f8f8f2' # base05
+black          = '#333b3d' # base01
+white          = '#fcfcf6' # base06
+red            = '#f11235' # base08
+yellow         = '#ff9505' # base09
+green          = '#02d849' # base0B
+cyan           = '#0dd9d6' # base0C
+blue           = '#00a6fb' # base0D
+magenta        = '#f15ee3' # base0E
+
+dim-foreground   = '#c0c0bd' # base04
+dim-white        = '#c0c0bd' # base04
+dim-black        = '#333b3d' # base01
+dim-yellow       = '#ff9505' # base09
+dim-green        = '#02d849' # base0B
+dim-cyan         = '#0dd9d6' # base0C
+dim-blue         = '#00a6fb' # base0D
+dim-magenta      = '#f15ee3' # base0E
+dim-red          = '#b27701' # base0F
+
+light-foreground = '#fcfcfc' # base07
+light_white      = '#fcfcfc' # base07
+light_black      = '#484e54' # base02
+light_red        = '#f11235' # base08
+light_yellow     = '#ffb627' # base0A
+light_green      = '#02d849' # base0B
+light_cyan       = '#0dd9d6' # base0C
+light_blue       = '#00a6fb' # base0D
+light_magenta    = '#f15ee3' # base0E

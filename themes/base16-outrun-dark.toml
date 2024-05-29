@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Outrun Dark by Hugo Delahousse (http://github.com/hugodelahousse/)
+
+[colors]
+selection-background = '#30305a' # base02
+selection-foreground = '#d0d0fa' # base05
+
+cursor         = '#d0d0fa' # base05
+tabs           = '#20204a' # base01
+tabs-active    = '#30305a' # base02
+
+background     = '#00002a' # base00
+foreground     = '#d0d0fa' # base05
+black          = '#20204a' # base01
+white          = '#e0e0ff' # base06
+red            = '#ff4242' # base08
+yellow         = '#fc8d28' # base09
+green          = '#59f176' # base0B
+cyan           = '#0ef0f0' # base0C
+blue           = '#66b0ff' # base0D
+magenta        = '#f10596' # base0E
+
+dim-foreground   = '#b0b0da' # base04
+dim-white        = '#b0b0da' # base04
+dim-black        = '#20204a' # base01
+dim-yellow       = '#fc8d28' # base09
+dim-green        = '#59f176' # base0B
+dim-cyan         = '#0ef0f0' # base0C
+dim-blue         = '#66b0ff' # base0D
+dim-magenta      = '#f10596' # base0E
+dim-red          = '#f003ef' # base0F
+
+light-foreground = '#f5f5ff' # base07
+light_white      = '#f5f5ff' # base07
+light_black      = '#30305a' # base02
+light_red        = '#ff4242' # base08
+light_yellow     = '#f3e877' # base0A
+light_green      = '#59f176' # base0B
+light_cyan       = '#0ef0f0' # base0C
+light_blue       = '#66b0ff' # base0D
+light_magenta    = '#f10596' # base0E

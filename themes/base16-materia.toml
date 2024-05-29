@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Materia by Defman21
+
+[colors]
+selection-background = '#37474f' # base02
+selection-foreground = '#cdd3de' # base05
+
+cursor         = '#cdd3de' # base05
+tabs           = '#2c393f' # base01
+tabs-active    = '#37474f' # base02
+
+background     = '#263238' # base00
+foreground     = '#cdd3de' # base05
+black          = '#2c393f' # base01
+white          = '#d5dbe5' # base06
+red            = '#ec5f67' # base08
+yellow         = '#ea9560' # base09
+green          = '#8bd649' # base0B
+cyan           = '#80cbc4' # base0C
+blue           = '#89ddff' # base0D
+magenta        = '#82aaff' # base0E
+
+dim-foreground   = '#c9ccd3' # base04
+dim-white        = '#c9ccd3' # base04
+dim-black        = '#2c393f' # base01
+dim-yellow       = '#ea9560' # base09
+dim-green        = '#8bd649' # base0B
+dim-cyan         = '#80cbc4' # base0C
+dim-blue         = '#89ddff' # base0D
+dim-magenta      = '#82aaff' # base0E
+dim-red          = '#ec5f67' # base0F
+
+light-foreground = '#ffffff' # base07
+light_white      = '#ffffff' # base07
+light_black      = '#37474f' # base02
+light_red        = '#ec5f67' # base08
+light_yellow     = '#ffcc00' # base0A
+light_green      = '#8bd649' # base0B
+light_cyan       = '#80cbc4' # base0C
+light_blue       = '#89ddff' # base0D
+light_magenta    = '#82aaff' # base0E

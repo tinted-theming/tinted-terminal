@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: caroline by ed (https://codeberg.org/ed)
+
+[colors]
+selection-background = '#563837' # base02
+selection-foreground = '#a87569' # base05
+
+cursor         = '#a87569' # base05
+tabs           = '#3a2425' # base01
+tabs-active    = '#563837' # base02
+
+background     = '#1c1213' # base00
+foreground     = '#a87569' # base05
+black          = '#3a2425' # base01
+white          = '#c58d7b' # base06
+red            = '#c24f57' # base08
+yellow         = '#a63650' # base09
+green          = '#806c61' # base0B
+cyan           = '#6b6566' # base0C
+blue           = '#684c59' # base0D
+magenta        = '#a63650' # base0E
+
+dim-foreground   = '#8b5d57' # base04
+dim-white        = '#8b5d57' # base04
+dim-black        = '#3a2425' # base01
+dim-yellow       = '#a63650' # base09
+dim-green        = '#806c61' # base0B
+dim-cyan         = '#6b6566' # base0C
+dim-blue         = '#684c59' # base0D
+dim-magenta      = '#a63650' # base0E
+dim-red          = '#893f45' # base0F
+
+light-foreground = '#e3a68c' # base07
+light_white      = '#e3a68c' # base07
+light_black      = '#563837' # base02
+light_red        = '#c24f57' # base08
+light_yellow     = '#f28171' # base0A
+light_green      = '#806c61' # base0B
+light_cyan       = '#6b6566' # base0C
+light_blue       = '#684c59' # base0D
+light_magenta    = '#a63650' # base0E

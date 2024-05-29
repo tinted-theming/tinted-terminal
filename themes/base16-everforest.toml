@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Everforest by Sainnhe Park (https://github.com/sainnhe)
+
+[colors]
+selection-background = '#4a555b' # base02
+selection-foreground = '#d3c6aa' # base05
+
+cursor         = '#d3c6aa' # base05
+tabs           = '#374247' # base01
+tabs-active    = '#4a555b' # base02
+
+background     = '#2f383e' # base00
+foreground     = '#d3c6aa' # base05
+black          = '#374247' # base01
+white          = '#e4e1cd' # base06
+red            = '#7fbbb3' # base08
+yellow         = '#d699b6' # base09
+green          = '#83c092' # base0B
+cyan           = '#e69875' # base0C
+blue           = '#a7c080' # base0D
+magenta        = '#e67e80' # base0E
+
+dim-foreground   = '#9da9a0' # base04
+dim-white        = '#9da9a0' # base04
+dim-black        = '#374247' # base01
+dim-yellow       = '#d699b6' # base09
+dim-green        = '#83c092' # base0B
+dim-cyan         = '#e69875' # base0C
+dim-blue         = '#a7c080' # base0D
+dim-magenta      = '#e67e80' # base0E
+dim-red          = '#eaedc8' # base0F
+
+light-foreground = '#fdf6e3' # base07
+light_white      = '#fdf6e3' # base07
+light_black      = '#4a555b' # base02
+light_red        = '#7fbbb3' # base08
+light_yellow     = '#dbbc7f' # base0A
+light_green      = '#83c092' # base0B
+light_cyan       = '#e69875' # base0C
+light_blue       = '#a7c080' # base0D
+light_magenta    = '#e67e80' # base0E

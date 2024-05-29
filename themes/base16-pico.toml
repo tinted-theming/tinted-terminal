@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Pico by PICO-8 (http://www.lexaloffle.com/pico-8.php)
+
+[colors]
+selection-background = '#7e2553' # base02
+selection-foreground = '#5f574f' # base05
+
+cursor         = '#5f574f' # base05
+tabs           = '#1d2b53' # base01
+tabs-active    = '#7e2553' # base02
+
+background     = '#000000' # base00
+foreground     = '#5f574f' # base05
+black          = '#1d2b53' # base01
+white          = '#c2c3c7' # base06
+red            = '#ff004d' # base08
+yellow         = '#ffa300' # base09
+green          = '#00e756' # base0B
+cyan           = '#29adff' # base0C
+blue           = '#83769c' # base0D
+magenta        = '#ff77a8' # base0E
+
+dim-foreground   = '#ab5236' # base04
+dim-white        = '#ab5236' # base04
+dim-black        = '#1d2b53' # base01
+dim-yellow       = '#ffa300' # base09
+dim-green        = '#00e756' # base0B
+dim-cyan         = '#29adff' # base0C
+dim-blue         = '#83769c' # base0D
+dim-magenta      = '#ff77a8' # base0E
+dim-red          = '#ffccaa' # base0F
+
+light-foreground = '#fff1e8' # base07
+light_white      = '#fff1e8' # base07
+light_black      = '#7e2553' # base02
+light_red        = '#ff004d' # base08
+light_yellow     = '#fff024' # base0A
+light_green      = '#00e756' # base0B
+light_cyan       = '#29adff' # base0C
+light_blue       = '#83769c' # base0D
+light_magenta    = '#ff77a8' # base0E

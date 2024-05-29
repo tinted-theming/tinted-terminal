@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Atelier Savanna Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+[colors]
+selection-background = '#87928a' # base02
+selection-foreground = '#526057' # base05
+
+cursor         = '#526057' # base05
+tabs           = '#dfe7e2' # base01
+tabs-active    = '#87928a' # base02
+
+background     = '#ecf4ee' # base00
+foreground     = '#526057' # base05
+black          = '#dfe7e2' # base01
+white          = '#232a25' # base06
+red            = '#b16139' # base08
+yellow         = '#9f713c' # base09
+green          = '#489963' # base0B
+cyan           = '#1c9aa0' # base0C
+blue           = '#478c90' # base0D
+magenta        = '#55859b' # base0E
+
+dim-foreground   = '#5f6d64' # base04
+dim-white        = '#5f6d64' # base04
+dim-black        = '#dfe7e2' # base01
+dim-yellow       = '#9f713c' # base09
+dim-green        = '#489963' # base0B
+dim-cyan         = '#1c9aa0' # base0C
+dim-blue         = '#478c90' # base0D
+dim-magenta      = '#55859b' # base0E
+dim-red          = '#867469' # base0F
+
+light-foreground = '#171c19' # base07
+light_white      = '#171c19' # base07
+light_black      = '#87928a' # base02
+light_red        = '#b16139' # base08
+light_yellow     = '#a07e3b' # base0A
+light_green      = '#489963' # base0B
+light_cyan       = '#1c9aa0' # base0C
+light_blue       = '#478c90' # base0D
+light_magenta    = '#55859b' # base0E

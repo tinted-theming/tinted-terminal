@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Harmonic16 Light by Jannik Siebert (https://github.com/janniks)
+
+[colors]
+selection-background = '#cbd6e2' # base02
+selection-foreground = '#405c79' # base05
+
+cursor         = '#405c79' # base05
+tabs           = '#e5ebf1' # base01
+tabs-active    = '#cbd6e2' # base02
+
+background     = '#f7f9fb' # base00
+foreground     = '#405c79' # base05
+black          = '#e5ebf1' # base01
+white          = '#223b54' # base06
+red            = '#bf8b56' # base08
+yellow         = '#bfbf56' # base09
+green          = '#56bf8b' # base0B
+cyan           = '#568bbf' # base0C
+blue           = '#8b56bf' # base0D
+magenta        = '#bf568b' # base0E
+
+dim-foreground   = '#627e99' # base04
+dim-white        = '#627e99' # base04
+dim-black        = '#e5ebf1' # base01
+dim-yellow       = '#bfbf56' # base09
+dim-green        = '#56bf8b' # base0B
+dim-cyan         = '#568bbf' # base0C
+dim-blue         = '#8b56bf' # base0D
+dim-magenta      = '#bf568b' # base0E
+dim-red          = '#bf5656' # base0F
+
+light-foreground = '#0b1c2c' # base07
+light_white      = '#0b1c2c' # base07
+light_black      = '#cbd6e2' # base02
+light_red        = '#bf8b56' # base08
+light_yellow     = '#8bbf56' # base0A
+light_green      = '#56bf8b' # base0B
+light_cyan       = '#568bbf' # base0C
+light_blue       = '#8b56bf' # base0D
+light_magenta    = '#bf568b' # base0E

@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Monokai by Wimer Hazenberg (http://www.monokai.nl)
+
+[colors]
+selection-background = '#49483e' # base02
+selection-foreground = '#f8f8f2' # base05
+
+cursor         = '#f8f8f2' # base05
+tabs           = '#383830' # base01
+tabs-active    = '#49483e' # base02
+
+background     = '#272822' # base00
+foreground     = '#f8f8f2' # base05
+black          = '#383830' # base01
+white          = '#f5f4f1' # base06
+red            = '#f92672' # base08
+yellow         = '#fd971f' # base09
+green          = '#a6e22e' # base0B
+cyan           = '#a1efe4' # base0C
+blue           = '#66d9ef' # base0D
+magenta        = '#ae81ff' # base0E
+
+dim-foreground   = '#a59f85' # base04
+dim-white        = '#a59f85' # base04
+dim-black        = '#383830' # base01
+dim-yellow       = '#fd971f' # base09
+dim-green        = '#a6e22e' # base0B
+dim-cyan         = '#a1efe4' # base0C
+dim-blue         = '#66d9ef' # base0D
+dim-magenta      = '#ae81ff' # base0E
+dim-red          = '#cc6633' # base0F
+
+light-foreground = '#f9f8f5' # base07
+light_white      = '#f9f8f5' # base07
+light_black      = '#49483e' # base02
+light_red        = '#f92672' # base08
+light_yellow     = '#f4bf75' # base0A
+light_green      = '#a6e22e' # base0B
+light_cyan       = '#a1efe4' # base0C
+light_blue       = '#66d9ef' # base0D
+light_magenta    = '#ae81ff' # base0E

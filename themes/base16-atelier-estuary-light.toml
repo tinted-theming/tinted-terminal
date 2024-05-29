@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Atelier Estuary Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+[colors]
+selection-background = '#929181' # base02
+selection-foreground = '#5f5e4e' # base05
+
+cursor         = '#5f5e4e' # base05
+tabs           = '#e7e6df' # base01
+tabs-active    = '#929181' # base02
+
+background     = '#f4f3ec' # base00
+foreground     = '#5f5e4e' # base05
+black          = '#e7e6df' # base01
+white          = '#302f27' # base06
+red            = '#ba6236' # base08
+yellow         = '#ae7313' # base09
+green          = '#7d9726' # base0B
+cyan           = '#5b9d48' # base0C
+blue           = '#36a166' # base0D
+magenta        = '#5f9182' # base0E
+
+dim-foreground   = '#6c6b5a' # base04
+dim-white        = '#6c6b5a' # base04
+dim-black        = '#e7e6df' # base01
+dim-yellow       = '#ae7313' # base09
+dim-green        = '#7d9726' # base0B
+dim-cyan         = '#5b9d48' # base0C
+dim-blue         = '#36a166' # base0D
+dim-magenta      = '#5f9182' # base0E
+dim-red          = '#9d6c7c' # base0F
+
+light-foreground = '#22221b' # base07
+light_white      = '#22221b' # base07
+light_black      = '#929181' # base02
+light_red        = '#ba6236' # base08
+light_yellow     = '#a5980d' # base0A
+light_green      = '#7d9726' # base0B
+light_cyan       = '#5b9d48' # base0C
+light_blue       = '#36a166' # base0D
+light_magenta    = '#5f9182' # base0E

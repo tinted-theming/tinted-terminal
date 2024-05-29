@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Dracula by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+
+[colors]
+selection-background = '#4d4f68' # base02
+selection-foreground = '#e9e9f4' # base05
+
+cursor         = '#e9e9f4' # base05
+tabs           = '#3a3c4e' # base01
+tabs-active    = '#4d4f68' # base02
+
+background     = '#282936' # base00
+foreground     = '#e9e9f4' # base05
+black          = '#3a3c4e' # base01
+white          = '#f1f2f8' # base06
+red            = '#ea51b2' # base08
+yellow         = '#b45bcf' # base09
+green          = '#ebff87' # base0B
+cyan           = '#a1efe4' # base0C
+blue           = '#62d6e8' # base0D
+magenta        = '#b45bcf' # base0E
+
+dim-foreground   = '#62d6e8' # base04
+dim-white        = '#62d6e8' # base04
+dim-black        = '#3a3c4e' # base01
+dim-yellow       = '#b45bcf' # base09
+dim-green        = '#ebff87' # base0B
+dim-cyan         = '#a1efe4' # base0C
+dim-blue         = '#62d6e8' # base0D
+dim-magenta      = '#b45bcf' # base0E
+dim-red          = '#00f769' # base0F
+
+light-foreground = '#f7f7fb' # base07
+light_white      = '#f7f7fb' # base07
+light_black      = '#4d4f68' # base02
+light_red        = '#ea51b2' # base08
+light_yellow     = '#00f769' # base0A
+light_green      = '#ebff87' # base0B
+light_cyan       = '#a1efe4' # base0C
+light_blue       = '#62d6e8' # base0D
+light_magenta    = '#b45bcf' # base0E

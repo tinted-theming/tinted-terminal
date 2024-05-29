@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: tarot by ed (https://codeberg.org/ed)
+
+[colors]
+selection-background = '#4b2054' # base02
+selection-foreground = '#aa556f' # base05
+
+cursor         = '#aa556f' # base05
+tabs           = '#2a153c' # base01
+tabs-active    = '#4b2054' # base02
+
+background     = '#0e091d' # base00
+foreground     = '#aa556f' # base05
+black          = '#2a153c' # base01
+white          = '#c4686d' # base06
+red            = '#c53253' # base08
+yellow         = '#ea4d60' # base09
+green          = '#a68e5a' # base0B
+cyan           = '#8c9785' # base0C
+blue           = '#6e6080' # base0D
+magenta        = '#a45782' # base0E
+
+dim-foreground   = '#8c406f' # base04
+dim-white        = '#8c406f' # base04
+dim-black        = '#2a153c' # base01
+dim-yellow       = '#ea4d60' # base09
+dim-green        = '#a68e5a' # base0B
+dim-cyan         = '#8c9785' # base0C
+dim-blue         = '#6e6080' # base0D
+dim-magenta      = '#a45782' # base0E
+dim-red          = '#984d51' # base0F
+
+light-foreground = '#dc8f7c' # base07
+light_white      = '#dc8f7c' # base07
+light_black      = '#4b2054' # base02
+light_red        = '#c53253' # base08
+light_yellow     = '#ff6565' # base0A
+light_green      = '#a68e5a' # base0B
+light_cyan       = '#8c9785' # base0C
+light_blue       = '#6e6080' # base0D
+light_magenta    = '#a45782' # base0E
