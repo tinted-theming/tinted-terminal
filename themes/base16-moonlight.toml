@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Moonlight by Jeremy Swinarton (https://github.com/jswinarton)
+
+[colors]
+selection-background = '#596399' # base02
+selection-foreground = '#a3ace1' # base05
+
+cursor         = '#a3ace1' # base05
+tabs           = '#403c64' # base01
+tabs-active    = '#596399' # base02
+
+background     = '#212337' # base00
+foreground     = '#a3ace1' # base05
+black          = '#403c64' # base01
+white          = '#b4a4f4' # base06
+red            = '#ff5370' # base08
+yellow         = '#f67f81' # base09
+green          = '#2df4c0' # base0B
+cyan           = '#04d1f9' # base0C
+blue           = '#40ffff' # base0D
+magenta        = '#b994f1' # base0E
+
+dim-foreground   = '#a1abe0' # base04
+dim-white        = '#a1abe0' # base04
+dim-black        = '#403c64' # base01
+dim-yellow       = '#f67f81' # base09
+dim-green        = '#2df4c0' # base0B
+dim-cyan         = '#04d1f9' # base0C
+dim-blue         = '#40ffff' # base0D
+dim-magenta      = '#b994f1' # base0E
+dim-red          = '#ecb2f0' # base0F
+
+light-foreground = '#ef43fa' # base07
+light_white      = '#ef43fa' # base07
+light_black      = '#596399' # base02
+light_red        = '#ff5370' # base08
+light_yellow     = '#ffc777' # base0A
+light_green      = '#2df4c0' # base0B
+light_cyan       = '#04d1f9' # base0C
+light_blue       = '#40ffff' # base0D
+light_magenta    = '#b994f1' # base0E
