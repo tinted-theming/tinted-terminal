@@ -1,0 +1,37 @@
+# base16 Moonlight - alacritty color config
+# Jeremy Swinarton (https://github.com/jswinarton)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x212337'
+foreground = '0xa3ace1'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x212337'
+cursor = '0xa3ace1'
+
+# Normal colors
+[colors.normal]
+black = '0x212337'
+red = '0xff5370'
+green = '0x2df4c0'
+yellow = '0xffc777'
+blue = '0x40ffff'
+magenta = '0xb994f1'
+cyan = '0x04d1f9'
+white = '0xa3ace1'
+
+# Bright colors
+[colors.bright]
+black = '0x748cd6'
+red = '0xf67f81'
+green = '0x403c64'
+yellow = '0x596399'
+blue = '0xa1abe0'
+magenta = '0xb4a4f4'
+cyan = '0xecb2f0'
+white = '0xef43fa'

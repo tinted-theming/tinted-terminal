@@ -1,0 +1,37 @@
+# base16 Precious Dark Fifteen - alacritty color config
+# 4lex4 &lt;4lex49@zoho.com&gt;
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x23262b'
+foreground = '0xbab9b6'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x23262b'
+cursor = '0xbab9b6'
+
+# Normal colors
+[colors.normal]
+black = '0x23262b'
+red = '0xff8782'
+green = '0x95b659'
+yellow = '0xcfa546'
+blue = '0x66b0ef'
+magenta = '0xb799ff'
+cyan = '0x42bda7'
+white = '0xbab9b6'
+
+# Bright colors
+[colors.bright]
+black = '0x898989'
+red = '0xe99857'
+green = '0x303337'
+yellow = '0x3e4044'
+blue = '0xabaaa8'
+magenta = '0xbab9b6'
+cyan = '0xf382d8'
+white = '0xbab9b6'
