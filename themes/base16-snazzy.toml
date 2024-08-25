@@ -1,5 +1,5 @@
 # Rio Terminal base16 color theme (https://github.com/tinted-theming)
-# Color scheme: Snazzy by Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# Color scheme: Snazzy by Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
 
 [colors]
 selection-background = '#43454f' # base02

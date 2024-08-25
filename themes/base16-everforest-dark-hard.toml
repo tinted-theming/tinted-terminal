@@ -1,5 +1,5 @@
 # Rio Terminal base16 color theme (https://github.com/tinted-theming)
-# Color scheme: Everforest Dark Hard by Oskar Liew (https://github.com/OskarLiew)
+# Color scheme: Everforest Dark Hard by Sainnhe Park (https://github.com/sainnhe)
 
 [colors]
 selection-background = '#414b50' # base02
@@ -12,30 +12,30 @@ tabs-active    = '#414b50' # base02
 background     = '#272e33' # base00
 foreground     = '#d3c6aa' # base05
 black          = '#2e383c' # base01
-white          = '#e4e1cd' # base06
-red            = '#7fbbb3' # base08
-yellow         = '#d699b6' # base09
-green          = '#83c092' # base0B
-cyan           = '#e69875' # base0C
-blue           = '#a7c080' # base0D
-magenta        = '#e67e80' # base0E
+white          = '#edeada' # base06
+red            = '#e67e80' # base08
+yellow         = '#e69875' # base09
+green          = '#a7c080' # base0B
+cyan           = '#83c092' # base0C
+blue           = '#7fbbb3' # base0D
+magenta        = '#d699b6' # base0E
 
 dim-foreground   = '#9da9a0' # base04
 dim-white        = '#9da9a0' # base04
 dim-black        = '#2e383c' # base01
-dim-yellow       = '#d699b6' # base09
-dim-green        = '#83c092' # base0B
-dim-cyan         = '#e69875' # base0C
-dim-blue         = '#a7c080' # base0D
-dim-magenta      = '#e67e80' # base0E
-dim-red          = '#4c3743' # base0F
+dim-yellow       = '#e69875' # base09
+dim-green        = '#a7c080' # base0B
+dim-cyan         = '#83c092' # base0C
+dim-blue         = '#7fbbb3' # base0D
+dim-magenta      = '#d699b6' # base0E
+dim-red          = '#9da9a0' # base0F
 
-light-foreground = '#fdf6e3' # base07
-light_white      = '#fdf6e3' # base07
+light-foreground = '#fffbef' # base07
+light_white      = '#fffbef' # base07
 light_black      = '#414b50' # base02
-light_red        = '#7fbbb3' # base08
+light_red        = '#e67e80' # base08
 light_yellow     = '#dbbc7f' # base0A
-light_green      = '#83c092' # base0B
-light_cyan       = '#e69875' # base0C
-light_blue       = '#a7c080' # base0D
-light_magenta    = '#e67e80' # base0E
+light_green      = '#a7c080' # base0B
+light_cyan       = '#83c092' # base0C
+light_blue       = '#7fbbb3' # base0D
+light_magenta    = '#d699b6' # base0E
