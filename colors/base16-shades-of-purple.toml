@@ -1,5 +1,5 @@
 # base16 Shades of Purple - alacritty color config
-# Iolar Demartini Junior (http://github.com/demartini) based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode).
+# Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
 
 [colors]
 draw_bold_text_with_bright_colors = false

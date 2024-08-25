@@ -1,5 +1,5 @@
 # base16 Snazzy - alacritty color config
-# Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
 
 [colors]
 draw_bold_text_with_bright_colors = false
