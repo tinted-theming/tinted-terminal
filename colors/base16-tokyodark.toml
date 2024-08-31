@@ -1,5 +1,5 @@
 # base16 Tokyodark - alacritty color config
-# Tiagovla (https://github.com/tiagovla/)
+# Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
 
 [colors]
 draw_bold_text_with_bright_colors = false
@@ -7,31 +7,31 @@ draw_bold_text_with_bright_colors = false
 # Default colors
 [colors.primary]
 background = '0x11121d'
-foreground = '0xabb2bf'
+foreground = '0xa0a8cd'
 
 # Colors the cursor will use if `custom_cursor_colors` is true
 [colors.cursor]
 text = '0x11121d'
-cursor = '0xabb2bf'
+cursor = '0xa0a8cd'
 
 # Normal colors
 [colors.normal]
 black = '0x11121d'
-red = '0xa485dd'
-green = '0xd7a65f'
-yellow = '0x7199ee'
-blue = '0x95c561'
-magenta = '0xee6d85'
-cyan = '0xa485dd'
-white = '0xabb2bf'
+red = '0xee6d85'
+green = '0x95c561'
+yellow = '0xd7a65f'
+blue = '0x7199ee'
+magenta = '0xa485dd'
+cyan = '0x9fbbf3'
+white = '0xa0a8cd'
 
 # Bright colors
 [colors.bright]
-black = '0x393a45'
-red = '0xa485dd'
-green = '0x151621'
-yellow = '0x43444f'
-blue = '0x1b1c27'
-magenta = '0x555661'
+black = '0x353945'
+red = '0xf6955b'
+green = '0x212234'
+yellow = '0x212234'
+blue = '0x4a5057'
+magenta = '0xabb2bf'
 cyan = '0x773440'
-white = '0x2c2d38'
+white = '0xbcc2dc'
