@@ -1,0 +1,41 @@
+# Rio Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Deep Oceanic Next by spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+
+[colors]
+selection-background = '#006374' # base02
+selection-foreground = '#dce3e8' # base05
+
+cursor         = '#dce3e8' # base05
+tabs           = '#004f5e' # base01
+tabs-active    = '#006374' # base02
+
+background     = '#003b46' # base00
+foreground     = '#dce3e8' # base05
+black          = '#004f5e' # base01
+white          = '#e6ebf0' # base06
+red            = '#ff5a61' # base12
+yellow         = '#ffdd80' # base13
+green          = '#99d8a0' # base14
+cyan           = '#66cccc' # base15
+blue           = '#4da6ff' # base16
+magenta        = '#a366ff' # base17
+
+dim-foreground   = '#0093a3' # base04
+dim-white        = '#0093a3' # base04
+dim-black        = '#004f5e' # base01
+dim-yellow       = '#ff6a4b' # base09
+dim-green        = '#85b57a' # base0B
+dim-cyan         = '#4da6a6' # base0C
+dim-blue         = '#3a82e6' # base0D
+dim-magenta      = '#8c4de6' # base0E
+dim-red          = '#e673a3' # base0F
+
+light-foreground = '#f0f5f5' # base07
+light_white      = '#f0f5f5' # base07
+light_black      = '#006374' # base02
+light_red        = '#e6454b' # base08
+light_yellow     = '#ffcc66' # base0A
+light_green      = '#85b57a' # base0B
+light_cyan       = '#4da6a6' # base0C
+light_blue       = '#3a82e6' # base0D
+light_magenta    = '#8c4de6' # base0E
