@@ -27,7 +27,7 @@ white = '0xa1a19a'
 
 # Bright colors
 [colors.bright]
-black = '0x6c8b91'
+black = '0x517f8d'
 red = '0xf08e48'
 green = '0x00384d'
 yellow = '0x517f8d'
