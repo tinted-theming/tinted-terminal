@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Circus by Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+
+[colors]
+selection-background = '#303030' # base02
+selection-foreground = '#a7a7a7' # base05
+
+cursor         = '#a7a7a7' # base05
+tabs           = '#202020' # base01
+tabs-active    = '#303030' # base02
+
+background     = '#191919' # base00
+foreground     = '#a7a7a7' # base05
+black          = '#202020' # base01
+white          = '#808080' # base06
+red            = '#dc657d' # base08
+yellow         = '#4bb1a7' # base09
+green          = '#84b97c' # base0B
+cyan           = '#4bb1a7' # base0C
+blue           = '#639ee4' # base0D
+magenta        = '#b888e2' # base0E
+
+dim-foreground   = '#505050' # base04
+dim-white        = '#505050' # base04
+dim-black        = '#202020' # base01
+dim-yellow       = '#4bb1a7' # base09
+dim-green        = '#84b97c' # base0B
+dim-cyan         = '#4bb1a7' # base0C
+dim-blue         = '#639ee4' # base0D
+dim-magenta      = '#b888e2' # base0E
+dim-red          = '#b888e2' # base0F
+
+light-foreground = '#ffffff' # base07
+light_white      = '#ffffff' # base07
+light_black      = '#303030' # base02
+light_red        = '#dc657d' # base08
+light_yellow     = '#c3ba63' # base0A
+light_green      = '#84b97c' # base0B
+light_cyan       = '#4bb1a7' # base0C
+light_blue       = '#639ee4' # base0D
+light_magenta    = '#b888e2' # base0E

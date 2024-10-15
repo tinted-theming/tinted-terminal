@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Primer Dark Dimmed by Jimmy Lin
+
+[colors]
+selection-background = '#444c56' # base02
+selection-foreground = '#909dab' # base05
+
+cursor         = '#909dab' # base05
+tabs           = '#373e47' # base01
+tabs-active    = '#444c56' # base02
+
+background     = '#1c2128' # base00
+foreground     = '#909dab' # base05
+black          = '#373e47' # base01
+white          = '#adbac7' # base06
+red            = '#f47067' # base08
+yellow         = '#e0823d' # base09
+green          = '#57ab5a' # base0B
+cyan           = '#96d0ff' # base0C
+blue           = '#539bf5' # base0D
+magenta        = '#e275ad' # base0E
+
+dim-foreground   = '#768390' # base04
+dim-white        = '#768390' # base04
+dim-black        = '#373e47' # base01
+dim-yellow       = '#e0823d' # base09
+dim-green        = '#57ab5a' # base0B
+dim-cyan         = '#96d0ff' # base0C
+dim-blue         = '#539bf5' # base0D
+dim-magenta      = '#e275ad' # base0E
+dim-red          = '#ae5622' # base0F
+
+light-foreground = '#cdd9e5' # base07
+light_white      = '#cdd9e5' # base07
+light_black      = '#444c56' # base02
+light_red        = '#f47067' # base08
+light_yellow     = '#c69026' # base0A
+light_green      = '#57ab5a' # base0B
+light_cyan       = '#96d0ff' # base0C
+light_blue       = '#539bf5' # base0D
+light_magenta    = '#e275ad' # base0E

@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Rebecca by Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+
+[colors]
+selection-background = '#383a62' # base02
+selection-foreground = '#f1eff8' # base05
+
+cursor         = '#f1eff8' # base05
+tabs           = '#663399' # base01
+tabs-active    = '#383a62' # base02
+
+background     = '#292a44' # base00
+foreground     = '#f1eff8' # base05
+black          = '#663399' # base01
+white          = '#ccccff' # base06
+red            = '#a0a0c5' # base08
+yellow         = '#efe4a1' # base09
+green          = '#6dfedf' # base0B
+cyan           = '#8eaee0' # base0C
+blue           = '#2de0a7' # base0D
+magenta        = '#7aa5ff' # base0E
+
+dim-foreground   = '#a0a0c5' # base04
+dim-white        = '#a0a0c5' # base04
+dim-black        = '#663399' # base01
+dim-yellow       = '#efe4a1' # base09
+dim-green        = '#6dfedf' # base0B
+dim-cyan         = '#8eaee0' # base0C
+dim-blue         = '#2de0a7' # base0D
+dim-magenta      = '#7aa5ff' # base0E
+dim-red          = '#ff79c6' # base0F
+
+light-foreground = '#53495d' # base07
+light_white      = '#53495d' # base07
+light_black      = '#383a62' # base02
+light_red        = '#a0a0c5' # base08
+light_yellow     = '#ae81ff' # base0A
+light_green      = '#6dfedf' # base0B
+light_cyan       = '#8eaee0' # base0C
+light_blue       = '#2de0a7' # base0D
+light_magenta    = '#7aa5ff' # base0E

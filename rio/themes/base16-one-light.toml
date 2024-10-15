@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: One Light by Daniel Pfeifer (http://github.com/purpleKarrot)
+
+[colors]
+selection-background = '#e5e5e6' # base02
+selection-foreground = '#383a42' # base05
+
+cursor         = '#383a42' # base05
+tabs           = '#f0f0f1' # base01
+tabs-active    = '#e5e5e6' # base02
+
+background     = '#fafafa' # base00
+foreground     = '#383a42' # base05
+black          = '#f0f0f1' # base01
+white          = '#202227' # base06
+red            = '#ca1243' # base08
+yellow         = '#d75f00' # base09
+green          = '#50a14f' # base0B
+cyan           = '#0184bc' # base0C
+blue           = '#4078f2' # base0D
+magenta        = '#a626a4' # base0E
+
+dim-foreground   = '#696c77' # base04
+dim-white        = '#696c77' # base04
+dim-black        = '#f0f0f1' # base01
+dim-yellow       = '#d75f00' # base09
+dim-green        = '#50a14f' # base0B
+dim-cyan         = '#0184bc' # base0C
+dim-blue         = '#4078f2' # base0D
+dim-magenta      = '#a626a4' # base0E
+dim-red          = '#986801' # base0F
+
+light-foreground = '#090a0b' # base07
+light_white      = '#090a0b' # base07
+light_black      = '#e5e5e6' # base02
+light_red        = '#ca1243' # base08
+light_yellow     = '#c18401' # base0A
+light_green      = '#50a14f' # base0B
+light_cyan       = '#0184bc' # base0C
+light_blue       = '#4078f2' # base0D
+light_magenta    = '#a626a4' # base0E

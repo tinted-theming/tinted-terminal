@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: OneDark Dark by olimorris (https://github.com/olimorris)
+
+[colors]
+selection-background = '#2c313a' # base02
+selection-foreground = '#abb2bf' # base05
+
+cursor         = '#abb2bf' # base05
+tabs           = '#1c1f24' # base01
+tabs-active    = '#2c313a' # base02
+
+background     = '#000000' # base00
+foreground     = '#abb2bf' # base05
+black          = '#1c1f24' # base01
+white          = '#b6bdca' # base06
+red            = '#ef596f' # base08
+yellow         = '#d19a66' # base09
+green          = '#89ca78' # base0B
+cyan           = '#2bbac5' # base0C
+blue           = '#61afef' # base0D
+magenta        = '#d55fde' # base0E
+
+dim-foreground   = '#565c64' # base04
+dim-white        = '#565c64' # base04
+dim-black        = '#1c1f24' # base01
+dim-yellow       = '#d19a66' # base09
+dim-green        = '#89ca78' # base0B
+dim-cyan         = '#2bbac5' # base0C
+dim-blue         = '#61afef' # base0D
+dim-magenta      = '#d55fde' # base0E
+dim-red          = '#be5046' # base0F
+
+light-foreground = '#c8ccd4' # base07
+light_white      = '#c8ccd4' # base07
+light_black      = '#2c313a' # base02
+light_red        = '#ef596f' # base08
+light_yellow     = '#e5c07b' # base0A
+light_green      = '#89ca78' # base0B
+light_cyan       = '#2bbac5' # base0C
+light_blue       = '#61afef' # base0D
+light_magenta    = '#d55fde' # base0E

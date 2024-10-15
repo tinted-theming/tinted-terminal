@@ -1,0 +1,10 @@
+base16: 
+    extension: .toml
+    output: themes
+    supported-systems: [base16]
+
+base24: 
+    extension: .toml
+    output: themes
+    supported-systems: [base24]
+

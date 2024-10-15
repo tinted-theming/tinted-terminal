@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Da One Black by NNB (https://github.com/NNBnh)
+
+[colors]
+selection-background = '#585858' # base02
+selection-foreground = '#ffffff' # base05
+
+cursor         = '#ffffff' # base05
+tabs           = '#282828' # base01
+tabs-active    = '#585858' # base02
+
+background     = '#000000' # base00
+foreground     = '#ffffff' # base05
+black          = '#282828' # base01
+white          = '#ffffff' # base06
+red            = '#fa7883' # base08
+yellow         = '#ffc387' # base09
+green          = '#98c379' # base0B
+cyan           = '#8af5ff' # base0C
+blue           = '#6bb8ff' # base0D
+magenta        = '#e799ff' # base0E
+
+dim-foreground   = '#c8c8c8' # base04
+dim-white        = '#c8c8c8' # base04
+dim-black        = '#282828' # base01
+dim-yellow       = '#ffc387' # base09
+dim-green        = '#98c379' # base0B
+dim-cyan         = '#8af5ff' # base0C
+dim-blue         = '#6bb8ff' # base0D
+dim-magenta      = '#e799ff' # base0E
+dim-red          = '#b3684f' # base0F
+
+light-foreground = '#ffffff' # base07
+light_white      = '#ffffff' # base07
+light_black      = '#585858' # base02
+light_red        = '#fa7883' # base08
+light_yellow     = '#ff9470' # base0A
+light_green      = '#98c379' # base0B
+light_cyan       = '#8af5ff' # base0C
+light_blue       = '#6bb8ff' # base0D
+light_magenta    = '#e799ff' # base0E

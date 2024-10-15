@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Porple by Niek den Breeje (https://github.com/AuditeMarlow)
+
+[colors]
+selection-background = '#474160' # base02
+selection-foreground = '#d8d8d8' # base05
+
+cursor         = '#d8d8d8' # base05
+tabs           = '#333344' # base01
+tabs-active    = '#474160' # base02
+
+background     = '#292c36' # base00
+foreground     = '#d8d8d8' # base05
+black          = '#333344' # base01
+white          = '#e8e8e8' # base06
+red            = '#f84547' # base08
+yellow         = '#d28e5d' # base09
+green          = '#95c76f' # base0B
+cyan           = '#64878f' # base0C
+blue           = '#8485ce' # base0D
+magenta        = '#b74989' # base0E
+
+dim-foreground   = '#b8b8b8' # base04
+dim-white        = '#b8b8b8' # base04
+dim-black        = '#333344' # base01
+dim-yellow       = '#d28e5d' # base09
+dim-green        = '#95c76f' # base0B
+dim-cyan         = '#64878f' # base0C
+dim-blue         = '#8485ce' # base0D
+dim-magenta      = '#b74989' # base0E
+dim-red          = '#986841' # base0F
+
+light-foreground = '#f8f8f8' # base07
+light_white      = '#f8f8f8' # base07
+light_black      = '#474160' # base02
+light_red        = '#f84547' # base08
+light_yellow     = '#efa16b' # base0A
+light_green      = '#95c76f' # base0B
+light_cyan       = '#64878f' # base0C
+light_blue       = '#8485ce' # base0D
+light_magenta    = '#b74989' # base0E

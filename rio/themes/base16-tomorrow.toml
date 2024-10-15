@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Tomorrow by Chris Kempson (http://chriskempson.com)
+
+[colors]
+selection-background = '#d6d6d6' # base02
+selection-foreground = '#4d4d4c' # base05
+
+cursor         = '#4d4d4c' # base05
+tabs           = '#e0e0e0' # base01
+tabs-active    = '#d6d6d6' # base02
+
+background     = '#ffffff' # base00
+foreground     = '#4d4d4c' # base05
+black          = '#e0e0e0' # base01
+white          = '#282a2e' # base06
+red            = '#c82829' # base08
+yellow         = '#f5871f' # base09
+green          = '#718c00' # base0B
+cyan           = '#3e999f' # base0C
+blue           = '#4271ae' # base0D
+magenta        = '#8959a8' # base0E
+
+dim-foreground   = '#969896' # base04
+dim-white        = '#969896' # base04
+dim-black        = '#e0e0e0' # base01
+dim-yellow       = '#f5871f' # base09
+dim-green        = '#718c00' # base0B
+dim-cyan         = '#3e999f' # base0C
+dim-blue         = '#4271ae' # base0D
+dim-magenta      = '#8959a8' # base0E
+dim-red          = '#a3685a' # base0F
+
+light-foreground = '#1d1f21' # base07
+light_white      = '#1d1f21' # base07
+light_black      = '#d6d6d6' # base02
+light_red        = '#c82829' # base08
+light_yellow     = '#eab700' # base0A
+light_green      = '#718c00' # base0B
+light_cyan       = '#3e999f' # base0C
+light_blue       = '#4271ae' # base0D
+light_magenta    = '#8959a8' # base0E

@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Ashes by Jannik Siebert (https://github.com/janniks)
+
+[colors]
+selection-background = '#565e65' # base02
+selection-foreground = '#c7ccd1' # base05
+
+cursor         = '#c7ccd1' # base05
+tabs           = '#393f45' # base01
+tabs-active    = '#565e65' # base02
+
+background     = '#1c2023' # base00
+foreground     = '#c7ccd1' # base05
+black          = '#393f45' # base01
+white          = '#dfe2e5' # base06
+red            = '#c7ae95' # base08
+yellow         = '#c7c795' # base09
+green          = '#95c7ae' # base0B
+cyan           = '#95aec7' # base0C
+blue           = '#ae95c7' # base0D
+magenta        = '#c795ae' # base0E
+
+dim-foreground   = '#adb3ba' # base04
+dim-white        = '#adb3ba' # base04
+dim-black        = '#393f45' # base01
+dim-yellow       = '#c7c795' # base09
+dim-green        = '#95c7ae' # base0B
+dim-cyan         = '#95aec7' # base0C
+dim-blue         = '#ae95c7' # base0D
+dim-magenta      = '#c795ae' # base0E
+dim-red          = '#c79595' # base0F
+
+light-foreground = '#f3f4f5' # base07
+light_white      = '#f3f4f5' # base07
+light_black      = '#565e65' # base02
+light_red        = '#c7ae95' # base08
+light_yellow     = '#aec795' # base0A
+light_green      = '#95c7ae' # base0B
+light_cyan       = '#95aec7' # base0C
+light_blue       = '#ae95c7' # base0D
+light_magenta    = '#c795ae' # base0E

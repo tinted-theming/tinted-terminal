@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: ShadeSmear Dark by Kyle Giammarco (http://kyle.giammar.co)
+
+[colors]
+selection-background = '#4e4e4e' # base02
+selection-foreground = '#dbdbdb' # base05
+
+cursor         = '#dbdbdb' # base05
+tabs           = '#1c1c1c' # base01
+tabs-active    = '#4e4e4e' # base02
+
+background     = '#232323' # base00
+foreground     = '#dbdbdb' # base05
+black          = '#1c1c1c' # base01
+white          = '#e4e4e4' # base06
+red            = '#cc5450' # base08
+yellow         = '#a64270' # base09
+green          = '#71983b' # base0B
+cyan           = '#c57d42' # base0C
+blue           = '#376388' # base0D
+magenta        = '#d7ab54' # base0E
+
+dim-foreground   = '#e4e4e4' # base04
+dim-white        = '#e4e4e4' # base04
+dim-black        = '#1c1c1c' # base01
+dim-yellow       = '#a64270' # base09
+dim-green        = '#71983b' # base0B
+dim-cyan         = '#c57d42' # base0C
+dim-blue         = '#376388' # base0D
+dim-magenta      = '#d7ab54' # base0E
+dim-red          = '#6d6d6d' # base0F
+
+light-foreground = '#1c1c1c' # base07
+light_white      = '#1c1c1c' # base07
+light_black      = '#4e4e4e' # base02
+light_red        = '#cc5450' # base08
+light_yellow     = '#307878' # base0A
+light_green      = '#71983b' # base0B
+light_cyan       = '#c57d42' # base0C
+light_blue       = '#376388' # base0D
+light_magenta    = '#d7ab54' # base0E

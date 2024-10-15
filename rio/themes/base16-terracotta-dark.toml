@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Terracotta Dark by Alexander Rossell Hayes (https://github.com/rossellhayes)
+
+[colors]
+selection-background = '#473933' # base02
+selection-foreground = '#b8a59d' # base05
+
+cursor         = '#b8a59d' # base05
+tabs           = '#362b27' # base01
+tabs-active    = '#473933' # base02
+
+background     = '#241d1a' # base00
+foreground     = '#b8a59d' # base05
+black          = '#362b27' # base01
+white          = '#cabbb5' # base06
+red            = '#f6998f' # base08
+yellow         = '#ffa888' # base09
+green          = '#b6c68a' # base0B
+cyan           = '#c0bcdb' # base0C
+blue           = '#b0a4c3' # base0D
+magenta        = '#d8a2b0' # base0E
+
+dim-foreground   = '#a78e84' # base04
+dim-white        = '#a78e84' # base04
+dim-black        = '#362b27' # base01
+dim-yellow       = '#ffa888' # base09
+dim-green        = '#b6c68a' # base0B
+dim-cyan         = '#c0bcdb' # base0C
+dim-blue         = '#b0a4c3' # base0D
+dim-magenta      = '#d8a2b0' # base0E
+dim-red          = '#f1ae97' # base0F
+
+light-foreground = '#dcd2ce' # base07
+light_white      = '#dcd2ce' # base07
+light_black      = '#473933' # base02
+light_red        = '#f6998f' # base08
+light_yellow     = '#ffc37a' # base0A
+light_green      = '#b6c68a' # base0B
+light_cyan       = '#c0bcdb' # base0C
+light_blue       = '#b0a4c3' # base0D
+light_magenta    = '#d8a2b0' # base0E

@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Material Lighter by Nate Peterson
+
+[colors]
+selection-background = '#cceae7' # base02
+selection-foreground = '#80cbc4' # base05
+
+cursor         = '#80cbc4' # base05
+tabs           = '#e7eaec' # base01
+tabs-active    = '#cceae7' # base02
+
+background     = '#fafafa' # base00
+foreground     = '#80cbc4' # base05
+black          = '#e7eaec' # base01
+white          = '#80cbc4' # base06
+red            = '#ff5370' # base08
+yellow         = '#f76d47' # base09
+green          = '#91b859' # base0B
+cyan           = '#39adb5' # base0C
+blue           = '#6182b8' # base0D
+magenta        = '#7c4dff' # base0E
+
+dim-foreground   = '#8796b0' # base04
+dim-white        = '#8796b0' # base04
+dim-black        = '#e7eaec' # base01
+dim-yellow       = '#f76d47' # base09
+dim-green        = '#91b859' # base0B
+dim-cyan         = '#39adb5' # base0C
+dim-blue         = '#6182b8' # base0D
+dim-magenta      = '#7c4dff' # base0E
+dim-red          = '#e53935' # base0F
+
+light-foreground = '#ffffff' # base07
+light_white      = '#ffffff' # base07
+light_black      = '#cceae7' # base02
+light_red        = '#ff5370' # base08
+light_yellow     = '#ffb62c' # base0A
+light_green      = '#91b859' # base0B
+light_cyan       = '#39adb5' # base0C
+light_blue       = '#6182b8' # base0D
+light_magenta    = '#7c4dff' # base0E

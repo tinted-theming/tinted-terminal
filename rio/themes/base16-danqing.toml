@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: DanQing by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+
+[colors]
+selection-background = '#5a605d' # base02
+selection-foreground = '#e0f0ef' # base05
+
+cursor         = '#e0f0ef' # base05
+tabs           = '#434846' # base01
+tabs-active    = '#5a605d' # base02
+
+background     = '#2d302f' # base00
+foreground     = '#e0f0ef' # base05
+black          = '#434846' # base01
+white          = '#ecf6f2' # base06
+red            = '#f9906f' # base08
+yellow         = '#b38a61' # base09
+green          = '#8ab361' # base0B
+cyan           = '#30dff3' # base0C
+blue           = '#b0a4e3' # base0D
+magenta        = '#cca4e3' # base0E
+
+dim-foreground   = '#cad8d2' # base04
+dim-white        = '#cad8d2' # base04
+dim-black        = '#434846' # base01
+dim-yellow       = '#b38a61' # base09
+dim-green        = '#8ab361' # base0B
+dim-cyan         = '#30dff3' # base0C
+dim-blue         = '#b0a4e3' # base0D
+dim-magenta      = '#cca4e3' # base0E
+dim-red          = '#ca6924' # base0F
+
+light-foreground = '#fcfefd' # base07
+light_white      = '#fcfefd' # base07
+light_black      = '#5a605d' # base02
+light_red        = '#f9906f' # base08
+light_yellow     = '#f0c239' # base0A
+light_green      = '#8ab361' # base0B
+light_cyan       = '#30dff3' # base0C
+light_blue       = '#b0a4e3' # base0D
+light_magenta    = '#cca4e3' # base0E

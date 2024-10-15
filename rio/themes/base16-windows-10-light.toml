@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Windows 10 Light by Fergus Collins (https://github.com/C-Fergus)
+
+[colors]
+selection-background = '#d9d9d9' # base02
+selection-foreground = '#767676' # base05
+
+cursor         = '#767676' # base05
+tabs           = '#e5e5e5' # base01
+tabs-active    = '#d9d9d9' # base02
+
+background     = '#f2f2f2' # base00
+foreground     = '#767676' # base05
+black          = '#e5e5e5' # base01
+white          = '#414141' # base06
+red            = '#c50f1f' # base08
+yellow         = '#f9f1a5' # base09
+green          = '#13a10e' # base0B
+cyan           = '#3a96dd' # base0C
+blue           = '#0037da' # base0D
+magenta        = '#881798' # base0E
+
+dim-foreground   = '#ababab' # base04
+dim-white        = '#ababab' # base04
+dim-black        = '#e5e5e5' # base01
+dim-yellow       = '#f9f1a5' # base09
+dim-green        = '#13a10e' # base0B
+dim-cyan         = '#3a96dd' # base0C
+dim-blue         = '#0037da' # base0D
+dim-magenta      = '#881798' # base0E
+dim-red          = '#16c60c' # base0F
+
+light-foreground = '#0c0c0c' # base07
+light_white      = '#0c0c0c' # base07
+light_black      = '#d9d9d9' # base02
+light_red        = '#c50f1f' # base08
+light_yellow     = '#c19c00' # base0A
+light_green      = '#13a10e' # base0B
+light_cyan       = '#3a96dd' # base0C
+light_blue       = '#0037da' # base0D
+light_magenta    = '#881798' # base0E

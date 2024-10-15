@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Mocha by Chris Kempson (http://chriskempson.com)
+
+[colors]
+selection-background = '#645240' # base02
+selection-foreground = '#d0c8c6' # base05
+
+cursor         = '#d0c8c6' # base05
+tabs           = '#534636' # base01
+tabs-active    = '#645240' # base02
+
+background     = '#3b3228' # base00
+foreground     = '#d0c8c6' # base05
+black          = '#534636' # base01
+white          = '#e9e1dd' # base06
+red            = '#cb6077' # base08
+yellow         = '#d28b71' # base09
+green          = '#beb55b' # base0B
+cyan           = '#7bbda4' # base0C
+blue           = '#8ab3b5' # base0D
+magenta        = '#a89bb9' # base0E
+
+dim-foreground   = '#b8afad' # base04
+dim-white        = '#b8afad' # base04
+dim-black        = '#534636' # base01
+dim-yellow       = '#d28b71' # base09
+dim-green        = '#beb55b' # base0B
+dim-cyan         = '#7bbda4' # base0C
+dim-blue         = '#8ab3b5' # base0D
+dim-magenta      = '#a89bb9' # base0E
+dim-red          = '#bb9584' # base0F
+
+light-foreground = '#f5eeeb' # base07
+light_white      = '#f5eeeb' # base07
+light_black      = '#645240' # base02
+light_red        = '#cb6077' # base08
+light_yellow     = '#f4bc87' # base0A
+light_green      = '#beb55b' # base0B
+light_cyan       = '#7bbda4' # base0C
+light_blue       = '#8ab3b5' # base0D
+light_magenta    = '#a89bb9' # base0E

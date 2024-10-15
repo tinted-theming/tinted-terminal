@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Precious Light Warm by 4lex4 &lt;4lex49@zoho.com&gt;
+
+[colors]
+selection-background = '#d9d3c8' # base02
+selection-foreground = '#4e5359' # base05
+
+cursor         = '#4e5359' # base05
+tabs           = '#ece4d6' # base01
+tabs-active    = '#d9d3c8' # base02
+
+background     = '#fff5e5' # base00
+foreground     = '#4e5359' # base05
+black          = '#ece4d6' # base01
+white          = '#4e5359' # base06
+red            = '#b14745' # base08
+yellow         = '#a25600' # base09
+green          = '#557300' # base0B
+cyan           = '#0e7767' # base0C
+blue           = '#246da5' # base0D
+magenta        = '#7a50c6' # base0E
+
+dim-foreground   = '#5d6065' # base04
+dim-white        = '#5d6065' # base04
+dim-black        = '#ece4d6' # base01
+dim-yellow       = '#a25600' # base09
+dim-green        = '#557300' # base0B
+dim-cyan         = '#0e7767' # base0C
+dim-blue         = '#246da5' # base0D
+dim-magenta      = '#7a50c6' # base0E
+dim-red          = '#a83f92' # base0F
+
+light-foreground = '#4e5359' # base07
+light_white      = '#4e5359' # base07
+light_black      = '#d9d3c8' # base02
+light_red        = '#b14745' # base08
+light_yellow     = '#876500' # base0A
+light_green      = '#557300' # base0B
+light_cyan       = '#0e7767' # base0C
+light_blue       = '#246da5' # base0D
+light_magenta    = '#7a50c6' # base0E

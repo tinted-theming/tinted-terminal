@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: eris by ed (https://codeberg.org/ed)
+
+[colors]
+selection-background = '#23255a' # base02
+selection-foreground = '#606bac' # base05
+
+cursor         = '#606bac' # base05
+tabs           = '#13133a' # base01
+tabs-active    = '#23255a' # base02
+
+background     = '#0a0920' # base00
+foreground     = '#606bac' # base05
+black          = '#13133a' # base01
+white          = '#7986c5' # base06
+red            = '#f768a3' # base08
+yellow         = '#f768a3' # base09
+green          = '#faaea2' # base0B
+cyan           = '#258fc4' # base0C
+blue           = '#258fc4' # base0D
+magenta        = '#f768a3' # base0E
+
+dim-foreground   = '#4a5293' # base04
+dim-white        = '#4a5293' # base04
+dim-black        = '#13133a' # base01
+dim-yellow       = '#f768a3' # base09
+dim-green        = '#faaea2' # base0B
+dim-cyan         = '#258fc4' # base0C
+dim-blue         = '#258fc4' # base0D
+dim-magenta      = '#f768a3' # base0E
+dim-red          = '#f768a3' # base0F
+
+light-foreground = '#9aaae5' # base07
+light_white      = '#9aaae5' # base07
+light_black      = '#23255a' # base02
+light_red        = '#f768a3' # base08
+light_yellow     = '#faaea2' # base0A
+light_green      = '#faaea2' # base0B
+light_cyan       = '#258fc4' # base0C
+light_blue       = '#258fc4' # base0D
+light_magenta    = '#f768a3' # base0E

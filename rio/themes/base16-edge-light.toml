@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Edge Light by cjayross (https://github.com/cjayross)
+
+[colors]
+selection-background = '#d69822' # base02
+selection-foreground = '#5e646f' # base05
+
+cursor         = '#5e646f' # base05
+tabs           = '#7c9f4b' # base01
+tabs-active    = '#d69822' # base02
+
+background     = '#fafafa' # base00
+foreground     = '#5e646f' # base05
+black          = '#7c9f4b' # base01
+white          = '#b870ce' # base06
+red            = '#db7070' # base08
+yellow         = '#db7070' # base09
+green          = '#7c9f4b' # base0B
+cyan           = '#509c93' # base0C
+blue           = '#6587bf' # base0D
+magenta        = '#b870ce' # base0E
+
+dim-foreground   = '#6587bf' # base04
+dim-white        = '#6587bf' # base04
+dim-black        = '#7c9f4b' # base01
+dim-yellow       = '#db7070' # base09
+dim-green        = '#7c9f4b' # base0B
+dim-cyan         = '#509c93' # base0C
+dim-blue         = '#6587bf' # base0D
+dim-magenta      = '#b870ce' # base0E
+dim-red          = '#509c93' # base0F
+
+light-foreground = '#5e646f' # base07
+light_white      = '#5e646f' # base07
+light_black      = '#d69822' # base02
+light_red        = '#db7070' # base08
+light_yellow     = '#d69822' # base0A
+light_green      = '#7c9f4b' # base0B
+light_cyan       = '#509c93' # base0C
+light_blue       = '#6587bf' # base0D
+light_magenta    = '#b870ce' # base0E

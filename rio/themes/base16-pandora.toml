@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: pandora by Cassandra Fox
+
+[colors]
+selection-background = '#472234' # base02
+selection-foreground = '#f15c99' # base05
+
+cursor         = '#f15c99' # base05
+tabs           = '#2f1823' # base01
+tabs-active    = '#472234' # base02
+
+background     = '#131213' # base00
+foreground     = '#f15c99' # base05
+black          = '#2f1823' # base01
+white          = '#81506a' # base06
+red            = '#b00b69' # base08
+yellow         = '#ff9153' # base09
+green          = '#9ddf69' # base0B
+cyan           = '#714ca6' # base0C
+blue           = '#008080' # base0D
+magenta        = '#a24030' # base0E
+
+dim-foreground   = '#9b2a46' # base04
+dim-white        = '#9b2a46' # base04
+dim-black        = '#2f1823' # base01
+dim-yellow       = '#ff9153' # base09
+dim-green        = '#9ddf69' # base0B
+dim-cyan         = '#714ca6' # base0C
+dim-blue         = '#008080' # base0D
+dim-magenta      = '#a24030' # base0E
+dim-red          = '#a24030' # base0F
+
+light-foreground = '#632227' # base07
+light_white      = '#632227' # base07
+light_black      = '#472234' # base02
+light_red        = '#b00b69' # base08
+light_yellow     = '#ffcc00' # base0A
+light_green      = '#9ddf69' # base0B
+light_cyan       = '#714ca6' # base0C
+light_blue       = '#008080' # base0D
+light_magenta    = '#a24030' # base0E

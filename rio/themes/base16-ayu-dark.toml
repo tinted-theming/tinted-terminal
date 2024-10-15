@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Ayu Dark by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+
+[colors]
+selection-background = '#272d38' # base02
+selection-foreground = '#e6e1cf' # base05
+
+cursor         = '#e6e1cf' # base05
+tabs           = '#131721' # base01
+tabs-active    = '#272d38' # base02
+
+background     = '#0f1419' # base00
+foreground     = '#e6e1cf' # base05
+black          = '#131721' # base01
+white          = '#e6e1cf' # base06
+red            = '#f07178' # base08
+yellow         = '#ff8f40' # base09
+green          = '#b8cc52' # base0B
+cyan           = '#95e6cb' # base0C
+blue           = '#59c2ff' # base0D
+magenta        = '#d2a6ff' # base0E
+
+dim-foreground   = '#bfbdb6' # base04
+dim-white        = '#bfbdb6' # base04
+dim-black        = '#131721' # base01
+dim-yellow       = '#ff8f40' # base09
+dim-green        = '#b8cc52' # base0B
+dim-cyan         = '#95e6cb' # base0C
+dim-blue         = '#59c2ff' # base0D
+dim-magenta      = '#d2a6ff' # base0E
+dim-red          = '#e6b673' # base0F
+
+light-foreground = '#f3f4f5' # base07
+light_white      = '#f3f4f5' # base07
+light_black      = '#272d38' # base02
+light_red        = '#f07178' # base08
+light_yellow     = '#ffb454' # base0A
+light_green      = '#b8cc52' # base0B
+light_cyan       = '#95e6cb' # base0C
+light_blue       = '#59c2ff' # base0D
+light_magenta    = '#d2a6ff' # base0E

@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Vesper by FormalSnake (https://github.com/formalsnake)
+
+[colors]
+selection-background = '#222222' # base02
+selection-foreground = '#b7b7b7' # base05
+
+cursor         = '#b7b7b7' # base05
+tabs           = '#232323' # base01
+tabs-active    = '#222222' # base02
+
+background     = '#101010' # base00
+foreground     = '#b7b7b7' # base05
+black          = '#232323' # base01
+white          = '#c1c1c1' # base06
+red            = '#de6e6e' # base08
+yellow         = '#dab083' # base09
+green          = '#5f8787' # base0B
+cyan           = '#60a592' # base0C
+blue           = '#8eaaaa' # base0D
+magenta        = '#d69094' # base0E
+
+dim-foreground   = '#999999' # base04
+dim-white        = '#999999' # base04
+dim-black        = '#232323' # base01
+dim-yellow       = '#dab083' # base09
+dim-green        = '#5f8787' # base0B
+dim-cyan         = '#60a592' # base0C
+dim-blue         = '#8eaaaa' # base0D
+dim-magenta      = '#d69094' # base0E
+dim-red          = '#876c4f' # base0F
+
+light-foreground = '#d5d5d5' # base07
+light_white      = '#d5d5d5' # base07
+light_black      = '#222222' # base02
+light_red        = '#de6e6e' # base08
+light_yellow     = '#ffc799' # base0A
+light_green      = '#5f8787' # base0B
+light_cyan       = '#60a592' # base0C
+light_blue       = '#8eaaaa' # base0D
+light_magenta    = '#d69094' # base0E

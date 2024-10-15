@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Blue Forest by alonsodomin (https://github.com/alonsodomin)
+
+[colors]
+selection-background = '#273e5c' # base02
+selection-foreground = '#ffcc33' # base05
+
+cursor         = '#ffcc33' # base05
+tabs           = '#1e5c1e' # base01
+tabs-active    = '#273e5c' # base02
+
+background     = '#141f2e' # base00
+foreground     = '#ffcc33' # base05
+black          = '#1e5c1e' # base01
+white          = '#91ccff' # base06
+red            = '#fffab1' # base08
+yellow         = '#ff8080' # base09
+green          = '#80ff80' # base0B
+cyan           = '#80ff80' # base0C
+blue           = '#a2cff5' # base0D
+magenta        = '#0099ff' # base0E
+
+dim-foreground   = '#1e5c1e' # base04
+dim-white        = '#1e5c1e' # base04
+dim-black        = '#1e5c1e' # base01
+dim-yellow       = '#ff8080' # base09
+dim-green        = '#80ff80' # base0B
+dim-cyan         = '#80ff80' # base0C
+dim-blue         = '#a2cff5' # base0D
+dim-magenta      = '#0099ff' # base0E
+dim-red          = '#e7e7e7' # base0F
+
+light-foreground = '#375780' # base07
+light_white      = '#375780' # base07
+light_black      = '#273e5c' # base02
+light_red        = '#fffab1' # base08
+light_yellow     = '#91ccff' # base0A
+light_green      = '#80ff80' # base0B
+light_cyan       = '#80ff80' # base0C
+light_blue       = '#a2cff5' # base0D
+light_magenta    = '#0099ff' # base0E

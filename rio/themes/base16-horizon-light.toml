@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Horizon Light by Michaël Ball (http://github.com/michael-ball/)
+
+[colors]
+selection-background = '#f9cbbe' # base02
+selection-foreground = '#403c3d' # base05
+
+cursor         = '#403c3d' # base05
+tabs           = '#fadad1' # base01
+tabs-active    = '#f9cbbe' # base02
+
+background     = '#fdf0ed' # base00
+foreground     = '#403c3d' # base05
+black          = '#fadad1' # base01
+white          = '#302c2d' # base06
+red            = '#f7939b' # base08
+yellow         = '#f6661e' # base09
+green          = '#94e1b0' # base0B
+cyan           = '#dc3318' # base0C
+blue           = '#da103f' # base0D
+magenta        = '#1d8991' # base0E
+
+dim-foreground   = '#948c8a' # base04
+dim-white        = '#948c8a' # base04
+dim-black        = '#fadad1' # base01
+dim-yellow       = '#f6661e' # base09
+dim-green        = '#94e1b0' # base0B
+dim-cyan         = '#dc3318' # base0C
+dim-blue         = '#da103f' # base0D
+dim-magenta      = '#1d8991' # base0E
+dim-red          = '#e58c92' # base0F
+
+light-foreground = '#201c1d' # base07
+light_white      = '#201c1d' # base07
+light_black      = '#f9cbbe' # base02
+light_red        = '#f7939b' # base08
+light_yellow     = '#fbe0d9' # base0A
+light_green      = '#94e1b0' # base0B
+light_cyan       = '#dc3318' # base0C
+light_blue       = '#da103f' # base0D
+light_magenta    = '#1d8991' # base0E

@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Solarized Light by Ethan Schoonover (modified by aramisgithub)
+
+[colors]
+selection-background = '#93a1a1' # base02
+selection-foreground = '#586e75' # base05
+
+cursor         = '#586e75' # base05
+tabs           = '#eee8d5' # base01
+tabs-active    = '#93a1a1' # base02
+
+background     = '#fdf6e3' # base00
+foreground     = '#586e75' # base05
+black          = '#eee8d5' # base01
+white          = '#073642' # base06
+red            = '#dc322f' # base08
+yellow         = '#cb4b16' # base09
+green          = '#859900' # base0B
+cyan           = '#2aa198' # base0C
+blue           = '#268bd2' # base0D
+magenta        = '#6c71c4' # base0E
+
+dim-foreground   = '#657b83' # base04
+dim-white        = '#657b83' # base04
+dim-black        = '#eee8d5' # base01
+dim-yellow       = '#cb4b16' # base09
+dim-green        = '#859900' # base0B
+dim-cyan         = '#2aa198' # base0C
+dim-blue         = '#268bd2' # base0D
+dim-magenta      = '#6c71c4' # base0E
+dim-red          = '#d33682' # base0F
+
+light-foreground = '#002b36' # base07
+light_white      = '#002b36' # base07
+light_black      = '#93a1a1' # base02
+light_red        = '#dc322f' # base08
+light_yellow     = '#b58900' # base0A
+light_green      = '#859900' # base0B
+light_cyan       = '#2aa198' # base0C
+light_blue       = '#268bd2' # base0D
+light_magenta    = '#6c71c4' # base0E

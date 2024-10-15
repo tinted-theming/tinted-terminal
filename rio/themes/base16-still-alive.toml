@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Still Alive by Derrick McKee (derrick.mckee@gmail.com)
+
+[colors]
+selection-background = '#fff018' # base02
+selection-foreground = '#d80000' # base05
+
+cursor         = '#d80000' # base05
+tabs           = '#f0d848' # base01
+tabs-active    = '#fff018' # base02
+
+background     = '#f0f0f0' # base00
+foreground     = '#d80000' # base05
+black          = '#f0d848' # base01
+white          = '#489000' # base06
+red            = '#487830' # base08
+yellow         = '#183048' # base09
+green          = '#5c5c6a' # base0B
+cyan           = '#2c3c57' # base0C
+blue           = '#001878' # base0D
+magenta        = '#900000' # base0E
+
+dim-foreground   = '#f00000' # base04
+dim-white        = '#f00000' # base04
+dim-black        = '#f0d848' # base01
+dim-yellow       = '#183048' # base09
+dim-green        = '#5c5c6a' # base0B
+dim-cyan         = '#2c3c57' # base0C
+dim-blue         = '#001878' # base0D
+dim-magenta      = '#900000' # base0E
+dim-red          = '#140c0d' # base0F
+
+light-foreground = '#30a860' # base07
+light_white      = '#30a860' # base07
+light_black      = '#fff018' # base02
+light_red        = '#487830' # base08
+light_yellow     = '#426395' # base0A
+light_green      = '#5c5c6a' # base0B
+light_cyan       = '#2c3c57' # base0C
+light_blue       = '#001878' # base0D
+light_magenta    = '#900000' # base0E

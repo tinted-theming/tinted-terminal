@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Pasque by Gabriel Fontes (https://github.com/Misterio77)
+
+[colors]
+selection-background = '#3e2d5c' # base02
+selection-foreground = '#dedcdf' # base05
+
+cursor         = '#dedcdf' # base05
+tabs           = '#100323' # base01
+tabs-active    = '#3e2d5c' # base02
+
+background     = '#271c3a' # base00
+foreground     = '#dedcdf' # base05
+black          = '#100323' # base01
+white          = '#edeaef' # base06
+red            = '#a92258' # base08
+yellow         = '#918889' # base09
+green          = '#c6914b' # base0B
+cyan           = '#7263aa' # base0C
+blue           = '#8e7dc6' # base0D
+magenta        = '#953b9d' # base0E
+
+dim-foreground   = '#bebcbf' # base04
+dim-white        = '#bebcbf' # base04
+dim-black        = '#100323' # base01
+dim-yellow       = '#918889' # base09
+dim-green        = '#c6914b' # base0B
+dim-cyan         = '#7263aa' # base0C
+dim-blue         = '#8e7dc6' # base0D
+dim-magenta      = '#953b9d' # base0E
+dim-red          = '#59325c' # base0F
+
+light-foreground = '#bbaadd' # base07
+light_white      = '#bbaadd' # base07
+light_black      = '#3e2d5c' # base02
+light_red        = '#a92258' # base08
+light_yellow     = '#804ead' # base0A
+light_green      = '#c6914b' # base0B
+light_cyan       = '#7263aa' # base0C
+light_blue       = '#8e7dc6' # base0D
+light_magenta    = '#953b9d' # base0E

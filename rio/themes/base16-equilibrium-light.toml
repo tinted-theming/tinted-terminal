@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Equilibrium Light by Carlo Abelli
+
+[colors]
+selection-background = '#d8d4cb' # base02
+selection-foreground = '#43474e' # base05
+
+cursor         = '#43474e' # base05
+tabs           = '#e7e2d9' # base01
+tabs-active    = '#d8d4cb' # base02
+
+background     = '#f5f0e7' # base00
+foreground     = '#43474e' # base05
+black          = '#e7e2d9' # base01
+white          = '#2c3138' # base06
+red            = '#d02023' # base08
+yellow         = '#bf3e05' # base09
+green          = '#637200' # base0B
+cyan           = '#007a72' # base0C
+blue           = '#0073b5' # base0D
+magenta        = '#4e66b6' # base0E
+
+dim-foreground   = '#5a5f66' # base04
+dim-white        = '#5a5f66' # base04
+dim-black        = '#e7e2d9' # base01
+dim-yellow       = '#bf3e05' # base09
+dim-green        = '#637200' # base0B
+dim-cyan         = '#007a72' # base0C
+dim-blue         = '#0073b5' # base0D
+dim-magenta      = '#4e66b6' # base0E
+dim-red          = '#c42775' # base0F
+
+light-foreground = '#181c22' # base07
+light_white      = '#181c22' # base07
+light_black      = '#d8d4cb' # base02
+light_red        = '#d02023' # base08
+light_yellow     = '#9d6f00' # base0A
+light_green      = '#637200' # base0B
+light_cyan       = '#007a72' # base0C
+light_blue       = '#0073b5' # base0D
+light_magenta    = '#4e66b6' # base0E

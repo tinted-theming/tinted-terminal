@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Heetch Dark by Geoffrey Teale (tealeg@gmail.com)
+
+[colors]
+selection-background = '#5a496e' # base02
+selection-foreground = '#bdb6c5' # base05
+
+cursor         = '#bdb6c5' # base05
+tabs           = '#392551' # base01
+tabs-active    = '#5a496e' # base02
+
+background     = '#190134' # base00
+foreground     = '#bdb6c5' # base05
+black          = '#392551' # base01
+white          = '#dedae2' # base06
+red            = '#27d9d5' # base08
+yellow         = '#5ba2b6' # base09
+green          = '#c33678' # base0B
+cyan           = '#f80059' # base0C
+blue           = '#bd0152' # base0D
+magenta        = '#82034c' # base0E
+
+dim-foreground   = '#9c92a8' # base04
+dim-white        = '#9c92a8' # base04
+dim-black        = '#392551' # base01
+dim-yellow       = '#5ba2b6' # base09
+dim-green        = '#c33678' # base0B
+dim-cyan         = '#f80059' # base0C
+dim-blue         = '#bd0152' # base0D
+dim-magenta      = '#82034c' # base0E
+dim-red          = '#470546' # base0F
+
+light-foreground = '#feffff' # base07
+light_white      = '#feffff' # base07
+light_black      = '#5a496e' # base02
+light_red        = '#27d9d5' # base08
+light_yellow     = '#8f6c97' # base0A
+light_green      = '#c33678' # base0B
+light_cyan       = '#f80059' # base0C
+light_blue       = '#bd0152' # base0D
+light_magenta    = '#82034c' # base0E

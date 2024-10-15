@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Sandcastle by George Essig (https://github.com/gessig)
+
+[colors]
+selection-background = '#3e4451' # base02
+selection-foreground = '#a89984' # base05
+
+cursor         = '#a89984' # base05
+tabs           = '#2c323b' # base01
+tabs-active    = '#3e4451' # base02
+
+background     = '#282c34' # base00
+foreground     = '#a89984' # base05
+black          = '#2c323b' # base01
+white          = '#d5c4a1' # base06
+red            = '#83a598' # base08
+yellow         = '#a07e3b' # base09
+green          = '#528b8b' # base0B
+cyan           = '#83a598' # base0C
+blue           = '#83a598' # base0D
+magenta        = '#d75f5f' # base0E
+
+dim-foreground   = '#928374' # base04
+dim-white        = '#928374' # base04
+dim-black        = '#2c323b' # base01
+dim-yellow       = '#a07e3b' # base09
+dim-green        = '#528b8b' # base0B
+dim-cyan         = '#83a598' # base0C
+dim-blue         = '#83a598' # base0D
+dim-magenta      = '#d75f5f' # base0E
+dim-red          = '#a87322' # base0F
+
+light-foreground = '#fdf4c1' # base07
+light_white      = '#fdf4c1' # base07
+light_black      = '#3e4451' # base02
+light_red        = '#83a598' # base08
+light_yellow     = '#a07e3b' # base0A
+light_green      = '#528b8b' # base0B
+light_cyan       = '#83a598' # base0C
+light_blue       = '#83a598' # base0D
+light_magenta    = '#d75f5f' # base0E

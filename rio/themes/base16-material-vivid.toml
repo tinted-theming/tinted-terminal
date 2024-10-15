@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Material Vivid by joshyrobot
+
+[colors]
+selection-background = '#323639' # base02
+selection-foreground = '#80868b' # base05
+
+cursor         = '#80868b' # base05
+tabs           = '#27292c' # base01
+tabs-active    = '#323639' # base02
+
+background     = '#202124' # base00
+foreground     = '#80868b' # base05
+black          = '#27292c' # base01
+white          = '#9e9e9e' # base06
+red            = '#f44336' # base08
+yellow         = '#ff9800' # base09
+green          = '#00e676' # base0B
+cyan           = '#00bcd4' # base0C
+blue           = '#2196f3' # base0D
+magenta        = '#673ab7' # base0E
+
+dim-foreground   = '#676c71' # base04
+dim-white        = '#676c71' # base04
+dim-black        = '#27292c' # base01
+dim-yellow       = '#ff9800' # base09
+dim-green        = '#00e676' # base0B
+dim-cyan         = '#00bcd4' # base0C
+dim-blue         = '#2196f3' # base0D
+dim-magenta      = '#673ab7' # base0E
+dim-red          = '#8d6e63' # base0F
+
+light-foreground = '#ffffff' # base07
+light_white      = '#ffffff' # base07
+light_black      = '#323639' # base02
+light_red        = '#f44336' # base08
+light_yellow     = '#ffeb3b' # base0A
+light_green      = '#00e676' # base0B
+light_cyan       = '#00bcd4' # base0C
+light_blue       = '#2196f3' # base0D
+light_magenta    = '#673ab7' # base0E

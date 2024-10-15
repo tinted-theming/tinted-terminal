@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Solar Flare by Chuck Harmston (https://chuck.harmston.ch)
+
+[colors]
+selection-background = '#586875' # base02
+selection-foreground = '#a6afb8' # base05
+
+cursor         = '#a6afb8' # base05
+tabs           = '#222e38' # base01
+tabs-active    = '#586875' # base02
+
+background     = '#18262f' # base00
+foreground     = '#a6afb8' # base05
+black          = '#222e38' # base01
+white          = '#e8e9ed' # base06
+red            = '#ef5253' # base08
+yellow         = '#e66b2b' # base09
+green          = '#7cc844' # base0B
+cyan           = '#52cbb0' # base0C
+blue           = '#33b5e1' # base0D
+magenta        = '#a363d5' # base0E
+
+dim-foreground   = '#85939e' # base04
+dim-white        = '#85939e' # base04
+dim-black        = '#222e38' # base01
+dim-yellow       = '#e66b2b' # base09
+dim-green        = '#7cc844' # base0B
+dim-cyan         = '#52cbb0' # base0C
+dim-blue         = '#33b5e1' # base0D
+dim-magenta      = '#a363d5' # base0E
+dim-red          = '#d73c9a' # base0F
+
+light-foreground = '#f5f7fa' # base07
+light_white      = '#f5f7fa' # base07
+light_black      = '#586875' # base02
+light_red        = '#ef5253' # base08
+light_yellow     = '#e4b51c' # base0A
+light_green      = '#7cc844' # base0B
+light_cyan       = '#52cbb0' # base0C
+light_blue       = '#33b5e1' # base0D
+light_magenta    = '#a363d5' # base0E

@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: IR Black by Timothée Poisot (http://timotheepoisot.fr)
+
+[colors]
+selection-background = '#484844' # base02
+selection-foreground = '#b5b3aa' # base05
+
+cursor         = '#b5b3aa' # base05
+tabs           = '#242422' # base01
+tabs-active    = '#484844' # base02
+
+background     = '#000000' # base00
+foreground     = '#b5b3aa' # base05
+black          = '#242422' # base01
+white          = '#d9d7cc' # base06
+red            = '#ff6c60' # base08
+yellow         = '#e9c062' # base09
+green          = '#a8ff60' # base0B
+cyan           = '#c6c5fe' # base0C
+blue           = '#96cbfe' # base0D
+magenta        = '#ff73fd' # base0E
+
+dim-foreground   = '#918f88' # base04
+dim-white        = '#918f88' # base04
+dim-black        = '#242422' # base01
+dim-yellow       = '#e9c062' # base09
+dim-green        = '#a8ff60' # base0B
+dim-cyan         = '#c6c5fe' # base0C
+dim-blue         = '#96cbfe' # base0D
+dim-magenta      = '#ff73fd' # base0E
+dim-red          = '#b18a3d' # base0F
+
+light-foreground = '#fdfbee' # base07
+light_white      = '#fdfbee' # base07
+light_black      = '#484844' # base02
+light_red        = '#ff6c60' # base08
+light_yellow     = '#ffffb6' # base0A
+light_green      = '#a8ff60' # base0B
+light_cyan       = '#c6c5fe' # base0C
+light_blue       = '#96cbfe' # base0D
+light_magenta    = '#ff73fd' # base0E

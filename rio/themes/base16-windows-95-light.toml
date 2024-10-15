@@ -1,0 +1,41 @@
+# Rio Terminal base16 color theme (https://github.com/tinted-theming)
+# Color scheme: Windows 95 Light by Fergus Collins (https://github.com/C-Fergus)
+
+[colors]
+selection-background = '#c4c4c4' # base02
+selection-foreground = '#545454' # base05
+
+cursor         = '#545454' # base05
+tabs           = '#e0e0e0' # base01
+tabs-active    = '#c4c4c4' # base02
+
+background     = '#fcfcfc' # base00
+foreground     = '#545454' # base05
+black          = '#e0e0e0' # base01
+white          = '#2a2a2a' # base06
+red            = '#a80000' # base08
+yellow         = '#fcfc54' # base09
+green          = '#00a800' # base0B
+cyan           = '#00a8a8' # base0C
+blue           = '#0000a8' # base0D
+magenta        = '#a800a8' # base0E
+
+dim-foreground   = '#7e7e7e' # base04
+dim-white        = '#7e7e7e' # base04
+dim-black        = '#e0e0e0' # base01
+dim-yellow       = '#fcfc54' # base09
+dim-green        = '#00a800' # base0B
+dim-cyan         = '#00a8a8' # base0C
+dim-blue         = '#0000a8' # base0D
+dim-magenta      = '#a800a8' # base0E
+dim-red          = '#54fc54' # base0F
+
+light-foreground = '#000000' # base07
+light_white      = '#000000' # base07
+light_black      = '#c4c4c4' # base02
+light_red        = '#a80000' # base08
+light_yellow     = '#a85400' # base0A
+light_green      = '#00a800' # base0B
+light_cyan       = '#00a8a8' # base0C
+light_blue       = '#0000a8' # base0D
+light_magenta    = '#a800a8' # base0E
