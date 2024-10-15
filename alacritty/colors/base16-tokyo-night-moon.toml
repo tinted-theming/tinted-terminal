@@ -1,0 +1,37 @@
+# base16 Tokyo Night Moon - alacritty color config
+# Ólafur Bjarki Bogason
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x222436'
+foreground = '0x3b4261'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x222436'
+cursor = '0x3b4261'
+
+# Normal colors
+[colors.normal]
+black = '0x222436'
+red = '0xff757f'
+green = '0xc3e88d'
+yellow = '0xffc777'
+blue = '0x82aaff'
+magenta = '0xfca7ea'
+cyan = '0x86e1fc'
+white = '0x3b4261'
+
+# Bright colors
+[colors.bright]
+black = '0x2d3f76'
+red = '0xffc777'
+green = '0x1e2030'
+yellow = '0x2d3f76'
+blue = '0x828bb8'
+magenta = '0x828bb8'
+cyan = '0xc53b53'
+white = '0xc8d3f5'

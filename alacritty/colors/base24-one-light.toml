@@ -1,0 +1,38 @@
+# base24 One Light - alacritty color config
+# FredHappyface (https://github.com/fredHappyface)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0xe7e7e9'
+foreground = '0x383a42'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0xe7e7e9'
+cursor = '0x383a42'
+
+# Normal colors
+[colors.normal]
+black = '0xe7e7e9'
+red = '0xca1243'
+green = '0x50a14f'
+yellow = '0xfebb2a'
+blue = '0x4078f2'
+magenta = '0xa626a4'
+cyan = '0x0184bc'
+white = '0x383a42'
+#
+# Bright colors
+[colors.bright]
+black = '0xcacace'
+red = '0xec2258'
+green = '0x6db76c'
+yellow = '0xf4a701'
+blue = '0x709af5'
+magenta = '0xd02fcd'
+cyan = '0x01a7ef'
+white = '0x090a0b'
+
