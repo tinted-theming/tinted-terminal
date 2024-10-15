@@ -1,0 +1,10 @@
+# Scheme name: Material Lighter
+# Scheme author: Nate Peterson
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Material Lighter.16
+ColorForeground=#80cbc4
+ColorBackground=#fafafa
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#e7eaec;#ff5370;#91b859;#ffb62c;#6182b8;#e53935;#39adb5;#80cbc4;#fafafa;#f76d47;#cceae7;#ccd7da;#8796b0;#7c4dff;#80cbc4;#ffffff

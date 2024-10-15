@@ -1,0 +1,10 @@
+# Scheme name: Blueish
+# Scheme author: Ben Mayoras
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Blueish.16
+ColorForeground=#c8e1f8
+ColorBackground=#182430
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#243c54;#4ce587;#c3e88d;#82aaff;#82aaff;#bbd2e8;#5fd1ff;#ddeaf6;#182430;#f6a85c;#46290a;#616d78;#74afe7;#ff84dd;#c8e1f8;#8f98a0

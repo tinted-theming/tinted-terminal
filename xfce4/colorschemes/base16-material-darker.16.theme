@@ -1,0 +1,10 @@
+# Scheme name: Material Darker
+# Scheme author: Nate Peterson
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Material Darker.16
+ColorForeground=#eeffff
+ColorBackground=#212121
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#303030;#f07178;#c3e88d;#ffcb6b;#82aaff;#ff5370;#89ddff;#eeffff;#212121;#f78c6c;#353535;#4a4a4a;#b2ccd6;#c792ea;#eeffff;#ffffff

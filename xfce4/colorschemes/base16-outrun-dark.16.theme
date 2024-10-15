@@ -1,0 +1,10 @@
+# Scheme name: Outrun Dark
+# Scheme author: Hugo Delahousse (http://github.com/hugodelahousse/)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Outrun Dark.16
+ColorForeground=#d0d0fa
+ColorBackground=#00002a
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#20204a;#ff4242;#59f176;#f3e877;#66b0ff;#f003ef;#0ef0f0;#e0e0ff;#00002a;#fc8d28;#30305a;#50507a;#b0b0da;#f10596;#d0d0fa;#f5f5ff

@@ -1,0 +1,10 @@
+# Scheme name: Material
+# Scheme author: Nate Peterson
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Material.16
+ColorForeground=#eeffff
+ColorBackground=#263238
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#2e3c43;#f07178;#c3e88d;#ffcb6b;#82aaff;#ff5370;#89ddff;#eeffff;#263238;#f78c6c;#314549;#546e7a;#b2ccd6;#c792ea;#eeffff;#ffffff

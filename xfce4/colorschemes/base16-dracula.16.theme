@@ -1,0 +1,10 @@
+# Scheme name: Dracula
+# Scheme author: Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Dracula.16
+ColorForeground=#f8f8f2
+ColorBackground=#282a36
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#363447;#ff5555;#50fa7b;#f1fa8c;#80bfff;#bd93f9;#8be9fd;#f0f1f4;#282a36;#ffb86c;#44475a;#6272a4;#9ea8c7;#ff79c6;#f8f8f2;#ffffff

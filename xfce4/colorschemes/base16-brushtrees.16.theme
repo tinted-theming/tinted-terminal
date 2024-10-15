@@ -1,0 +1,10 @@
+# Scheme name: Brush Trees
+# Scheme author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Brush Trees.16
+ColorForeground=#6d828e
+ColorBackground=#e3efef
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#c9dbdc;#b38686;#87b386;#aab386;#868cb3;#b39f9f;#86b3b3;#5a6d7a;#e3efef;#d8bba2;#b0c5c8;#98afb5;#8299a1;#b386b2;#6d828e;#485867

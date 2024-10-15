@@ -1,0 +1,10 @@
+# Scheme name: Embers
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Embers.16
+ColorForeground=#a39a90
+ColorBackground=#16130f
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#2c2620;#826d57;#57826d;#6d8257;#6d5782;#825757;#576d82;#beb6ae;#16130f;#828257;#433b32;#5a5047;#8a8075;#82576d;#a39a90;#dbd6d1

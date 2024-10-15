@@ -1,0 +1,10 @@
+# Scheme name: Darktooth
+# Scheme author: Jason Milkins (https://github.com/jasonm23)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-Darktooth.16
+ColorForeground=#a89984
+ColorBackground=#1d2021
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#32302f;#fb543f;#95c085;#fac03b;#0d6678;#a87322;#8ba59b;#d5c4a1;#1d2021;#fe8625;#504945;#665c54;#928374;#8f4673;#a89984;#fdf4c1

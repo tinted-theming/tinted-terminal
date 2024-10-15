@@ -1,0 +1,10 @@
+# Scheme name: DanQing
+# Scheme author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming)
+[Scheme]
+Name=Base16-DanQing.16
+ColorForeground=#e0f0ef
+ColorBackground=#2d302f
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#434846;#f9906f;#8ab361;#f0c239;#b0a4e3;#ca6924;#30dff3;#ecf6f2;#2d302f;#b38a61;#5a605d;#9da8a3;#cad8d2;#cca4e3;#e0f0ef;#fcfefd
