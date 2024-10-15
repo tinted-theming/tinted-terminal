@@ -1,0 +1,9 @@
+base16:
+  extension: .xml
+  output: themes
+  supported-systems: [base16]
+
+base24:
+  extension: .xml
+  output: themes
+  supported-systems: [base24]
