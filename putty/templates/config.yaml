@@ -1,8 +1,0 @@
-base16:
-    extension: .reg
-    output: putty
-
-base24:
-    extension: .reg
-    output: putty
-    supported-systems: [base24]

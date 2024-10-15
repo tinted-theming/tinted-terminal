@@ -1,9 +1,0 @@
-base16:
-  extension: .ini
-  output: colors
-  supported-systems: [base16]
-
-base24:
-  extension: .ini
-  output: colors
-  supported-systems: [base24]
