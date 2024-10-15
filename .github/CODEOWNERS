@@ -1,1 +1,32 @@
 * @tinted-theming/terminal
+
+/templates/alacritty-* @tinted-theming/alacritty-terminal
+/themes/alacritty/* @tinted-theming/alacritty-terminal
+
+/templates/conemu-* @tinted-theming/conemu-terminal
+/themes/conemu/* @tinted-theming/conemu-terminal
+
+/templates/foot-* @tinted-theming/foot-terminal
+/themes/foot/* @tinted-theming/foot-terminal
+
+/templates/iterm2-* @tinted-theming/iterm2-terminal
+/themes/iterm2/* @tinted-theming/iterm2-terminal
+/themes-16/iterm2-scripts/* @tinted-theming/iterm2-terminal
+
+/templates/kermit-* @tinted-theming/kermit-terminal
+/themes-16/kermit/* @tinted-theming/kermit-terminal
+
+/templates/kitty-* @tinted-theming/kitty-terminal
+/themes/kitty/* @tinted-theming/kitty-terminal
+
+/templates/putty-* @tinted-theming/putty-terminal
+/themes/putty/* @tinted-theming/putty-terminal
+
+/templates/rio-* @tinted-theming/rio-terminal
+/themes-16/rio/* @tinted-theming/rio-terminal
+
+/templates/termite-* @tinted-theming/termite-terminal
+/themes/termite/* @tinted-theming/termite-terminal
+
+/templates/xfce4-* @tinted-theming/xfce4-terminal
+/themes/xfce4/* @tinted-theming/xfce4-terminal
