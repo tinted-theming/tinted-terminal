@@ -1,0 +1,95 @@
+Windows Registry Editor Version 5.00
+
+; Scheme name: Brogrammer
+; Scheme system: base24
+; Scheme author: FredHappyface (https://github.com/fredHappyface)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-brogrammer]
+
+; Default Foreground
+; base05 #c1c8d7
+"Colour0"="193,200,215"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #c1c8d7
+"Colour1"="193,200,215"
+
+; Default Background
+; base00 #131313
+"Colour2"="19,19,19"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #131313
+"Colour3"="19,19,19"
+
+; Cursor Text -- equals to default background
+; base00 #131313
+"Colour4"="19,19,19"
+
+; Cursor Colour -- equals to default foreground
+; base05 #c1c8d7
+"Colour5"="193,200,215"
+
+; ANSI Black
+; base00 #131313
+"Colour6"="19,19,19"
+
+; ANSI Black Bright
+; base02 #2a3141
+"Colour7"="42,52,46"
+
+; ANSI Red
+; base08 #f71118
+"Colour8"="247,17,24"
+
+; ANSI Red Bright
+; base12 #de342e
+"Colour9"="222,52,46"
+
+; ANSI Green
+; base0B #2cc55d
+"Colour10"="44,197,93"
+
+; ANSI Green Bright
+; base14 #1dd260
+"Colour11"="29,210,96"
+
+; ANSI Yellow
+; base0A #0f80d5
+"Colour12"="15,128,213"
+
+; ANSI Yellow Bright
+; base13 #f2bd09
+"Colour13"="242,189,9"
+
+; ANSI Blue
+; base0D #2a84d2
+"Colour14"="42,132,210"
+
+; ANSI Blue Bright
+; base16 #509bdc
+"Colour15"="80,155,220"
+
+; ANSI Magenta
+; base0E #4e59b7
+"Colour16"="78,89,183"
+
+; ANSI Magenta Bright
+; base17 #524fb9
+"Colour17"="82,79,185"
+
+; ANSI Cyan
+; base0C #0f80d5
+"Colour18"="15,128,213"
+
+; ANSI Cyan Bright
+; base15 #289af0
+"Colour19"="40,154,240"
+
+; ANSI White
+; base05 #c1c8d7
+"Colour20"="193,200,215"
+
+; ANSI White Bright
+; base07 ffffff
+"Colour21"="255,255,255"
