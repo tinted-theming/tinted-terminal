@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Monokai (legacy)
+# Scheme author: Wimer Hazenberg (http://www.monokai.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-monokai-legacy
+ColorForeground=#f8f8f2
+ColorBackground=#272822
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#383830;#f92672;#a6e22e;#f4bf75;#66d9ef;#ae81ff;#a1efe4;#f5f4f1;#49483e;#fd971f;#383830;#49483e;#a59f85;#f5f4f1;#cc6633;#f9f8f5

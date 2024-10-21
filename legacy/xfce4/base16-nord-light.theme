@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Nord Light (legacy)
+# Scheme author: threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-nord-light-legacy
+ColorForeground=#2e3440
+ColorBackground=#e5e9f0
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#c2d0e7;#99324b;#4f894c;#9a7500;#3b6ea8;#97365b;#398eac;#3b4252;#b8c5db;#ac4426;#c2d0e7;#b8c5db;#60728c;#3b4252;#5272af;#29838d

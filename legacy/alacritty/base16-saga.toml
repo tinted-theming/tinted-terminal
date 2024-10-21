@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: SAGA (legacy)
+# Scheme author: https://github.com/SAGAtheme/SAGA
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x05080a'
+foreground = '0xdce2f7'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x05080a'
+cursor = '0xdce2f7'
+
+# Normal colors
+[colors.normal]
+black = '0x0a1014'
+red = '0xffd4e9'
+green = '0xf7ddff'
+yellow = '0xfbebc8'
+blue = '0xc9fff7'
+magenta = '0xdcc3f9'
+cyan = '0xc5edc1'
+white = '0xf8eae7'
+
+# Bright colors
+[colors.bright]
+black = '0x0f181e'
+red = '0xfbcbae'
+green = '0x0a1014'
+yellow = '0x0f181e'
+blue = '0x192630'
+magenta = '0xf8eae7'
+cyan = '0xf6dddd'
+white = '0xccd3fe'

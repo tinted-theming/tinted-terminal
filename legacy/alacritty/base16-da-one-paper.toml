@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Da One Paper (legacy)
+# Scheme author: NNB (https://github.com/NNBnh)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0xfaf0dc'
+foreground = '0x181818'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0xfaf0dc'
+cursor = '0x181818'
+
+# Normal colors
+[colors.normal]
+black = '0xc8c8c8'
+red = '0xde5d6e'
+green = '0x76a85d'
+yellow = '0xb3684f'
+blue = '0x5890f8'
+magenta = '0xc173d1'
+cyan = '0x64b5a7'
+white = '0x000000'
+
+# Bright colors
+[colors.bright]
+black = '0x888888'
+red = '0xff9470'
+green = '0xc8c8c8'
+yellow = '0x888888'
+blue = '0x282828'
+magenta = '0x000000'
+cyan = '0xb3684f'
+white = '0x000000'

@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Equilibrium Gray Dark (legacy)
+# Scheme author: Carlo Abelli
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#262626' # base02
+selection-foreground = '#ababab' # base05
+
+cursor         = '#ababab' # base05
+tabs           = '#1b1b1b' # base01
+tabs-active    = '#262626' # base02
+
+background     = '#111111' # base00
+foreground     = '#ababab' # base05
+black          = '#1b1b1b' # base01
+red            = '#f04339' # base08
+yellow         = '#bb8801' # base0A
+green          = '#7f8b00' # base0B
+cyan           = '#00948b' # base0C
+blue           = '#008dd1' # base0D
+magenta        = '#6a7fd2' # base0E
+white          = '#c6c6c6' # base06
+
+dim-foreground   = '#ababab' # base05
+dim-black        = '#1b1b1b' # base01
+dim-red          = '#f04339' # base08
+dim-yellow       = '#bb8801' # base0A
+dim-green        = '#7f8b00' # base0B
+dim-cyan         = '#00948b' # base0C
+dim-blue         = '#008dd1' # base0D
+dim-magenta      = '#6a7fd2' # base0E
+dim-white        = '#919191' # base04
+
+light-foreground = '#ababab' # base05
+light-black      = '#262626' # base02
+light-red        = '#df5923' # base09
+light-yellow     = '#262626' # base02
+light-green      = '#1b1b1b' # base01
+light-cyan       = '#e3488e' # base0F
+light-blue       = '#919191' # base04
+light-magenta    = '#c6c6c6' # base06
+light-white      = '#e2e2e2' # base07

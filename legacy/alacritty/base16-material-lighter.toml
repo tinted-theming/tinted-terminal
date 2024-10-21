@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Material Lighter (legacy)
+# Scheme author: Nate Peterson
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0xfafafa'
+foreground = '0x80cbc4'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0xfafafa'
+cursor = '0x80cbc4'
+
+# Normal colors
+[colors.normal]
+black = '0xe7eaec'
+red = '0xff5370'
+green = '0x91b859'
+yellow = '0xffb62c'
+blue = '0x6182b8'
+magenta = '0x7c4dff'
+cyan = '0x39adb5'
+white = '0x80cbc4'
+
+# Bright colors
+[colors.bright]
+black = '0xcceae7'
+red = '0xf76d47'
+green = '0xe7eaec'
+yellow = '0xcceae7'
+blue = '0x8796b0'
+magenta = '0x80cbc4'
+cyan = '0xe53935'
+white = '0xffffff'

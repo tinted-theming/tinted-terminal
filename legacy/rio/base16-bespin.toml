@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Bespin (legacy)
+# Scheme author: Jan T. Sott
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#5e5d5c' # base02
+selection-foreground = '#8a8986' # base05
+
+cursor         = '#8a8986' # base05
+tabs           = '#36312e' # base01
+tabs-active    = '#5e5d5c' # base02
+
+background     = '#28211c' # base00
+foreground     = '#8a8986' # base05
+black          = '#36312e' # base01
+red            = '#cf6a4c' # base08
+yellow         = '#f9ee98' # base0A
+green          = '#54be0d' # base0B
+cyan           = '#afc4db' # base0C
+blue           = '#5ea6ea' # base0D
+magenta        = '#9b859d' # base0E
+white          = '#9d9b97' # base06
+
+dim-foreground   = '#8a8986' # base05
+dim-black        = '#36312e' # base01
+dim-red          = '#cf6a4c' # base08
+dim-yellow       = '#f9ee98' # base0A
+dim-green        = '#54be0d' # base0B
+dim-cyan         = '#afc4db' # base0C
+dim-blue         = '#5ea6ea' # base0D
+dim-magenta      = '#9b859d' # base0E
+dim-white        = '#797977' # base04
+
+light-foreground = '#8a8986' # base05
+light-black      = '#5e5d5c' # base02
+light-red        = '#cf7d34' # base09
+light-yellow     = '#5e5d5c' # base02
+light-green      = '#36312e' # base01
+light-cyan       = '#937121' # base0F
+light-blue       = '#797977' # base04
+light-magenta    = '#9d9b97' # base06
+light-white      = '#baae9e' # base07

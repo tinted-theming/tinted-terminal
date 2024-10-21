@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Katy (legacy)
+# Scheme author: George Essig (https://github.com/gessig)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#5c598b' # base02
+selection-foreground = '#959dcb' # base05
+
+cursor         = '#959dcb' # base05
+tabs           = '#444267' # base01
+tabs-active    = '#5c598b' # base02
+
+background     = '#292d3e' # base00
+foreground     = '#959dcb' # base05
+black          = '#444267' # base01
+red            = '#6e98e1' # base08
+yellow         = '#e0a557' # base0A
+green          = '#78c06e' # base0B
+cyan           = '#83b7e5' # base0C
+blue           = '#82aaff' # base0D
+magenta        = '#c792ea' # base0E
+white          = '#959dcb' # base06
+
+dim-foreground   = '#959dcb' # base05
+dim-black        = '#444267' # base01
+dim-red          = '#6e98e1' # base08
+dim-yellow       = '#e0a557' # base0A
+dim-green        = '#78c06e' # base0B
+dim-cyan         = '#83b7e5' # base0C
+dim-blue         = '#82aaff' # base0D
+dim-magenta      = '#c792ea' # base0E
+dim-white        = '#8796b0' # base04
+
+light-foreground = '#959dcb' # base05
+light-black      = '#5c598b' # base02
+light-red        = '#f78c6c' # base09
+light-yellow     = '#5c598b' # base02
+light-green      = '#444267' # base01
+light-cyan       = '#ff5370' # base0F
+light-blue       = '#8796b0' # base04
+light-magenta    = '#959dcb' # base06
+light-white      = '#ffffff' # base07

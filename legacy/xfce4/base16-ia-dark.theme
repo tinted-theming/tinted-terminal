@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: iA Dark (legacy)
+# Scheme author: iA Inc. (modified by aramisgithub)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-ia-dark-legacy
+ColorForeground=#cccccc
+ColorBackground=#1a1a1a
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#222222;#d88568;#83a471;#b99353;#8eccdd;#b98eb2;#7c9cae;#e8e8e8;#1d414d;#d86868;#222222;#1d414d;#b8b8b8;#e8e8e8;#8b6c37;#f8f8f8

@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: DanQing (legacy)
+# Scheme author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x2d302f'
+foreground = '0xe0f0ef'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x2d302f'
+cursor = '0xe0f0ef'
+
+# Normal colors
+[colors.normal]
+black = '0x434846'
+red = '0xf9906f'
+green = '0x8ab361'
+yellow = '0xf0c239'
+blue = '0xb0a4e3'
+magenta = '0xcca4e3'
+cyan = '0x30dff3'
+white = '0xecf6f2'
+
+# Bright colors
+[colors.bright]
+black = '0x5a605d'
+red = '0xb38a61'
+green = '0x434846'
+yellow = '0x5a605d'
+blue = '0xcad8d2'
+magenta = '0xecf6f2'
+cyan = '0xca6924'
+white = '0xfcfefd'

@@ -1,0 +1,35 @@
+#!/bin/sh
+# iTerm2 Terminal Script Theme
+# Scheme system: base16
+# Scheme name: Ayu Dark (legacy)
+# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+osascript <<EOF
+tell application "iTerm2"
+    tell current session of current window
+        set background color to {3855, 5140, 6425}
+        set foreground color to {59110, 57825, 53199}
+
+        -- Set ANSI Colors
+        set ANSI black color to {4883, 5911, 8481}
+        set ANSI red color to {61680, 29041, 30840}
+        set ANSI green color to {47288, 52428, 21074}
+        set ANSI yellow color to {65535, 46260, 21588}
+        set ANSI blue color to {22873, 49858, 65535}
+        set ANSI magenta color to {53970, 42662, 65535}
+        set ANSI cyan color to {38293, 59110, 52171}
+        set ANSI white color to {59110, 57825, 53199}
+
+        -- Set Bright ANSI Colors
+        set ANSI bright black color to {10023, 11565, 14392}
+        set ANSI bright red color to {65535, 36751, 16448}
+        set ANSI bright green color to {4883, 5911, 8481}
+        set ANSI bright yellow color to {10023, 11565, 14392}
+        set ANSI bright blue color to {49087, 48573, 46774}
+        set ANSI bright magenta color to {59110, 57825, 53199}
+        set ANSI bright cyan color to {59110, 46774, 29555}
+        set ANSI bright white color to {62451, 62708, 62965}
+    end tell
+end tell
+EOF

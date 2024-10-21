@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Bespin (legacy)
+# Scheme author: Jan T. Sott
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x28211c'
+foreground = '0x8a8986'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x28211c'
+cursor = '0x8a8986'
+
+# Normal colors
+[colors.normal]
+black = '0x36312e'
+red = '0xcf6a4c'
+green = '0x54be0d'
+yellow = '0xf9ee98'
+blue = '0x5ea6ea'
+magenta = '0x9b859d'
+cyan = '0xafc4db'
+white = '0x9d9b97'
+
+# Bright colors
+[colors.bright]
+black = '0x5e5d5c'
+red = '0xcf7d34'
+green = '0x36312e'
+yellow = '0x5e5d5c'
+blue = '0x797977'
+magenta = '0x9d9b97'
+cyan = '0x937121'
+white = '0xbaae9e'

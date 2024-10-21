@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Framer (legacy)
+# Scheme author: Framer (Maintained by Jesse Hoyos)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#464646' # base02
+selection-foreground = '#d0d0d0' # base05
+
+cursor         = '#d0d0d0' # base05
+tabs           = '#151515' # base01
+tabs-active    = '#464646' # base02
+
+background     = '#181818' # base00
+foreground     = '#d0d0d0' # base05
+black          = '#151515' # base01
+red            = '#fd886b' # base08
+yellow         = '#fecb6e' # base0A
+green          = '#32ccdc' # base0B
+cyan           = '#acddfd' # base0C
+blue           = '#20bcfc' # base0D
+magenta        = '#ba8cfc' # base0E
+white          = '#e8e8e8' # base06
+
+dim-foreground   = '#d0d0d0' # base05
+dim-black        = '#151515' # base01
+dim-red          = '#fd886b' # base08
+dim-yellow       = '#fecb6e' # base0A
+dim-green        = '#32ccdc' # base0B
+dim-cyan         = '#acddfd' # base0C
+dim-blue         = '#20bcfc' # base0D
+dim-magenta      = '#ba8cfc' # base0E
+dim-white        = '#b9b9b9' # base04
+
+light-foreground = '#d0d0d0' # base05
+light-black      = '#464646' # base02
+light-red        = '#fc4769' # base09
+light-yellow     = '#464646' # base02
+light-green      = '#151515' # base01
+light-cyan       = '#b15f4a' # base0F
+light-blue       = '#b9b9b9' # base04
+light-magenta    = '#e8e8e8' # base06
+light-white      = '#eeeeee' # base07

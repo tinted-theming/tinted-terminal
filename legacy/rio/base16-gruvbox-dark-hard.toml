@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Gruvbox dark, hard (legacy)
+# Scheme author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#504945' # base02
+selection-foreground = '#d5c4a1' # base05
+
+cursor         = '#d5c4a1' # base05
+tabs           = '#3c3836' # base01
+tabs-active    = '#504945' # base02
+
+background     = '#1d2021' # base00
+foreground     = '#d5c4a1' # base05
+black          = '#3c3836' # base01
+red            = '#fb4934' # base08
+yellow         = '#fabd2f' # base0A
+green          = '#b8bb26' # base0B
+cyan           = '#8ec07c' # base0C
+blue           = '#83a598' # base0D
+magenta        = '#d3869b' # base0E
+white          = '#ebdbb2' # base06
+
+dim-foreground   = '#d5c4a1' # base05
+dim-black        = '#3c3836' # base01
+dim-red          = '#fb4934' # base08
+dim-yellow       = '#fabd2f' # base0A
+dim-green        = '#b8bb26' # base0B
+dim-cyan         = '#8ec07c' # base0C
+dim-blue         = '#83a598' # base0D
+dim-magenta      = '#d3869b' # base0E
+dim-white        = '#bdae93' # base04
+
+light-foreground = '#d5c4a1' # base05
+light-black      = '#504945' # base02
+light-red        = '#fe8019' # base09
+light-yellow     = '#504945' # base02
+light-green      = '#3c3836' # base01
+light-cyan       = '#d65d0e' # base0F
+light-blue       = '#bdae93' # base04
+light-magenta    = '#ebdbb2' # base06
+light-white      = '#fbf1c7' # base07

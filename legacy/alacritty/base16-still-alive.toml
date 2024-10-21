@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Still Alive (legacy)
+# Scheme author: Derrick McKee (derrick.mckee@gmail.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0xf0f0f0'
+foreground = '0xd80000'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0xf0f0f0'
+cursor = '0xd80000'
+
+# Normal colors
+[colors.normal]
+black = '0xf0d848'
+red = '0x487830'
+green = '0x5c5c6a'
+yellow = '0x426395'
+blue = '0x001878'
+magenta = '0x900000'
+cyan = '0x2c3c57'
+white = '0x489000'
+
+# Bright colors
+[colors.bright]
+black = '0xfff018'
+red = '0x183048'
+green = '0xf0d848'
+yellow = '0xfff018'
+blue = '0xf00000'
+magenta = '0x489000'
+cyan = '0x140c0d'
+white = '0x30a860'

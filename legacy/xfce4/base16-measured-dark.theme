@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Measured Dark (legacy)
+# Scheme author: Measured (https://measured.co)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-measured-dark-legacy
+ColorForeground=#dcdcdc
+ColorBackground=#00211f
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#003a38;#ce7e8e;#56c16f;#bfac4e;#88b0da;#b39be0;#62c0be;#efefef;#005453;#dca37c;#003a38;#005453;#c3c3c3;#efefef;#d89aba;#f5f5f5

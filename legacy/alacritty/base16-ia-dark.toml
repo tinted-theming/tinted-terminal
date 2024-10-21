@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: iA Dark (legacy)
+# Scheme author: iA Inc. (modified by aramisgithub)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x1a1a1a'
+foreground = '0xcccccc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x1a1a1a'
+cursor = '0xcccccc'
+
+# Normal colors
+[colors.normal]
+black = '0x222222'
+red = '0xd88568'
+green = '0x83a471'
+yellow = '0xb99353'
+blue = '0x8eccdd'
+magenta = '0xb98eb2'
+cyan = '0x7c9cae'
+white = '0xe8e8e8'
+
+# Bright colors
+[colors.bright]
+black = '0x1d414d'
+red = '0xd86868'
+green = '0x222222'
+yellow = '0x1d414d'
+blue = '0xb8b8b8'
+magenta = '0xe8e8e8'
+cyan = '0x8b6c37'
+white = '0xf8f8f8'

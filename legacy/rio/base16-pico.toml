@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Pico (legacy)
+# Scheme author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#7e2553' # base02
+selection-foreground = '#5f574f' # base05
+
+cursor         = '#5f574f' # base05
+tabs           = '#1d2b53' # base01
+tabs-active    = '#7e2553' # base02
+
+background     = '#000000' # base00
+foreground     = '#5f574f' # base05
+black          = '#1d2b53' # base01
+red            = '#ff004d' # base08
+yellow         = '#fff024' # base0A
+green          = '#00e756' # base0B
+cyan           = '#29adff' # base0C
+blue           = '#83769c' # base0D
+magenta        = '#ff77a8' # base0E
+white          = '#c2c3c7' # base06
+
+dim-foreground   = '#5f574f' # base05
+dim-black        = '#1d2b53' # base01
+dim-red          = '#ff004d' # base08
+dim-yellow       = '#fff024' # base0A
+dim-green        = '#00e756' # base0B
+dim-cyan         = '#29adff' # base0C
+dim-blue         = '#83769c' # base0D
+dim-magenta      = '#ff77a8' # base0E
+dim-white        = '#ab5236' # base04
+
+light-foreground = '#5f574f' # base05
+light-black      = '#7e2553' # base02
+light-red        = '#ffa300' # base09
+light-yellow     = '#7e2553' # base02
+light-green      = '#1d2b53' # base01
+light-cyan       = '#ffccaa' # base0F
+light-blue       = '#ab5236' # base04
+light-magenta    = '#c2c3c7' # base06
+light-white      = '#fff1e8' # base07

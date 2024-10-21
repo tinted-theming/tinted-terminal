@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Atelier Dune (legacy)
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#6e6b5e' # base02
+selection-foreground = '#a6a28c' # base05
+
+cursor         = '#a6a28c' # base05
+tabs           = '#292824' # base01
+tabs-active    = '#6e6b5e' # base02
+
+background     = '#20201d' # base00
+foreground     = '#a6a28c' # base05
+black          = '#292824' # base01
+red            = '#d73737' # base08
+yellow         = '#ae9513' # base0A
+green          = '#60ac39' # base0B
+cyan           = '#1fad83' # base0C
+blue           = '#6684e1' # base0D
+magenta        = '#b854d4' # base0E
+white          = '#e8e4cf' # base06
+
+dim-foreground   = '#a6a28c' # base05
+dim-black        = '#292824' # base01
+dim-red          = '#d73737' # base08
+dim-yellow       = '#ae9513' # base0A
+dim-green        = '#60ac39' # base0B
+dim-cyan         = '#1fad83' # base0C
+dim-blue         = '#6684e1' # base0D
+dim-magenta      = '#b854d4' # base0E
+dim-white        = '#999580' # base04
+
+light-foreground = '#a6a28c' # base05
+light-black      = '#6e6b5e' # base02
+light-red        = '#b65611' # base09
+light-yellow     = '#6e6b5e' # base02
+light-green      = '#292824' # base01
+light-cyan       = '#d43552' # base0F
+light-blue       = '#999580' # base04
+light-magenta    = '#e8e4cf' # base06
+light-white      = '#fefbec' # base07

@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Atlas (legacy)
+# Scheme author: Alex Lende (https://ajlende.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x002635'
+foreground = '0xa1a19a'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x002635'
+cursor = '0xa1a19a'
+
+# Normal colors
+[colors.normal]
+black = '0x00384d'
+red = '0xff5a67'
+green = '0x7fc06e'
+yellow = '0xffcc1b'
+blue = '0x14747e'
+magenta = '0x9a70a4'
+cyan = '0x5dd7b9'
+white = '0xe6e6dc'
+
+# Bright colors
+[colors.bright]
+black = '0x517f8d'
+red = '0xf08e48'
+green = '0x00384d'
+yellow = '0x517f8d'
+blue = '0x869696'
+magenta = '0xe6e6dc'
+cyan = '0xc43060'
+white = '0xfafaf8'

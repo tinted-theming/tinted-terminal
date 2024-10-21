@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Eighties (legacy)
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-eighties-legacy
+ColorForeground=#d3d0c8
+ColorBackground=#2d2d2d
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#393939;#f2777a;#99cc99;#ffcc66;#6699cc;#cc99cc;#66cccc;#e8e6df;#515151;#f99157;#393939;#515151;#a09f93;#e8e6df;#d27b53;#f2f0ec

@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Chalk (legacy)
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-chalk-legacy
+ColorForeground=#d0d0d0
+ColorBackground=#151515
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#202020;#fb9fb1;#acc267;#ddb26f;#6fc2ef;#e1a3ee;#12cfc0;#e0e0e0;#303030;#eda987;#202020;#303030;#b0b0b0;#e0e0e0;#deaf8f;#f5f5f5

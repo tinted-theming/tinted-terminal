@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: selenized-light (legacy)
+# Scheme author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-selenized-light-legacy
+ColorForeground=#53676d
+ColorBackground=#fbf3db
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#ece3cc;#cc1729;#428b00;#a78300;#006dce;#825dc0;#00978a;#3a4d53;#d5cdb6;#bc5819;#ece3cc;#d5cdb6;#909995;#3a4d53;#c44392;#3a4d53

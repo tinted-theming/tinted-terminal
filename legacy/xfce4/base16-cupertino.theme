@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Cupertino (legacy)
+# Scheme author: Defman21
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-cupertino-legacy
+ColorForeground=#404040
+ColorBackground=#ffffff
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#c0c0c0;#c41a15;#007400;#826b28;#0000ff;#a90d91;#318495;#404040;#c0c0c0;#eb8500;#c0c0c0;#c0c0c0;#808080;#404040;#826b28;#5e5e5e

@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Isotope (legacy)
+# Scheme author: Jan T. Sott
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#606060' # base02
+selection-foreground = '#d0d0d0' # base05
+
+cursor         = '#d0d0d0' # base05
+tabs           = '#404040' # base01
+tabs-active    = '#606060' # base02
+
+background     = '#000000' # base00
+foreground     = '#d0d0d0' # base05
+black          = '#404040' # base01
+red            = '#ff0000' # base08
+yellow         = '#ff0099' # base0A
+green          = '#33ff00' # base0B
+cyan           = '#00ffff' # base0C
+blue           = '#0066ff' # base0D
+magenta        = '#cc00ff' # base0E
+white          = '#e0e0e0' # base06
+
+dim-foreground   = '#d0d0d0' # base05
+dim-black        = '#404040' # base01
+dim-red          = '#ff0000' # base08
+dim-yellow       = '#ff0099' # base0A
+dim-green        = '#33ff00' # base0B
+dim-cyan         = '#00ffff' # base0C
+dim-blue         = '#0066ff' # base0D
+dim-magenta      = '#cc00ff' # base0E
+dim-white        = '#c0c0c0' # base04
+
+light-foreground = '#d0d0d0' # base05
+light-black      = '#606060' # base02
+light-red        = '#ff9900' # base09
+light-yellow     = '#606060' # base02
+light-green      = '#404040' # base01
+light-cyan       = '#3300ff' # base0F
+light-blue       = '#c0c0c0' # base04
+light-magenta    = '#e0e0e0' # base06
+light-white      = '#ffffff' # base07

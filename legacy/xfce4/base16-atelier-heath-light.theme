@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Atelier Heath Light (legacy)
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-atelier-heath-light-legacy
+ColorForeground=#695d69
+ColorBackground=#f7f3f7
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#d8cad8;#ca402b;#918b3b;#bb8a35;#516aec;#7b59c0;#159393;#292329;#ab9bab;#a65926;#d8cad8;#ab9bab;#776977;#292329;#cc33cc;#1b181b

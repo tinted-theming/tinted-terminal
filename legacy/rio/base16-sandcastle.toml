@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Sandcastle (legacy)
+# Scheme author: George Essig (https://github.com/gessig)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#3e4451' # base02
+selection-foreground = '#a89984' # base05
+
+cursor         = '#a89984' # base05
+tabs           = '#2c323b' # base01
+tabs-active    = '#3e4451' # base02
+
+background     = '#282c34' # base00
+foreground     = '#a89984' # base05
+black          = '#2c323b' # base01
+red            = '#83a598' # base08
+yellow         = '#a07e3b' # base0A
+green          = '#528b8b' # base0B
+cyan           = '#83a598' # base0C
+blue           = '#83a598' # base0D
+magenta        = '#d75f5f' # base0E
+white          = '#d5c4a1' # base06
+
+dim-foreground   = '#a89984' # base05
+dim-black        = '#2c323b' # base01
+dim-red          = '#83a598' # base08
+dim-yellow       = '#a07e3b' # base0A
+dim-green        = '#528b8b' # base0B
+dim-cyan         = '#83a598' # base0C
+dim-blue         = '#83a598' # base0D
+dim-magenta      = '#d75f5f' # base0E
+dim-white        = '#928374' # base04
+
+light-foreground = '#a89984' # base05
+light-black      = '#3e4451' # base02
+light-red        = '#a07e3b' # base09
+light-yellow     = '#3e4451' # base02
+light-green      = '#2c323b' # base01
+light-cyan       = '#a87322' # base0F
+light-blue       = '#928374' # base04
+light-magenta    = '#d5c4a1' # base06
+light-white      = '#fdf4c1' # base07

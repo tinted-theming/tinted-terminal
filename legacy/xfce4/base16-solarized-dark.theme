@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Solarized Dark (legacy)
+# Scheme author: Ethan Schoonover (modified by aramisgithub)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-solarized-dark-legacy
+ColorForeground=#93a1a1
+ColorBackground=#002b36
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#073642;#dc322f;#859900;#b58900;#268bd2;#6c71c4;#2aa198;#eee8d5;#586e75;#cb4b16;#073642;#586e75;#839496;#eee8d5;#d33682;#fdf6e3

@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Everforest (legacy)
+# Scheme author: Sainnhe Park (https://github.com/sainnhe)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#475258' # base02
+selection-foreground = '#d3c6aa' # base05
+
+cursor         = '#d3c6aa' # base05
+tabs           = '#343f44' # base01
+tabs-active    = '#475258' # base02
+
+background     = '#2d353b' # base00
+foreground     = '#d3c6aa' # base05
+black          = '#343f44' # base01
+red            = '#e67e80' # base08
+yellow         = '#dbbc7f' # base0A
+green          = '#a7c080' # base0B
+cyan           = '#83c092' # base0C
+blue           = '#7fbbb3' # base0D
+magenta        = '#d699b6' # base0E
+white          = '#e6e2cc' # base06
+
+dim-foreground   = '#d3c6aa' # base05
+dim-black        = '#343f44' # base01
+dim-red          = '#e67e80' # base08
+dim-yellow       = '#dbbc7f' # base0A
+dim-green        = '#a7c080' # base0B
+dim-cyan         = '#83c092' # base0C
+dim-blue         = '#7fbbb3' # base0D
+dim-magenta      = '#d699b6' # base0E
+dim-white        = '#9da9a0' # base04
+
+light-foreground = '#d3c6aa' # base05
+light-black      = '#475258' # base02
+light-red        = '#e69875' # base09
+light-yellow     = '#475258' # base02
+light-green      = '#343f44' # base01
+light-cyan       = '#9da9a0' # base0F
+light-blue       = '#9da9a0' # base04
+light-magenta    = '#e6e2cc' # base06
+light-white      = '#fdf6e3' # base07

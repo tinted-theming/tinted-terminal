@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Measured Dark (legacy)
+# Scheme author: Measured (https://measured.co)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x00211f'
+foreground = '0xdcdcdc'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x00211f'
+cursor = '0xdcdcdc'
+
+# Normal colors
+[colors.normal]
+black = '0x003a38'
+red = '0xce7e8e'
+green = '0x56c16f'
+yellow = '0xbfac4e'
+blue = '0x88b0da'
+magenta = '0xb39be0'
+cyan = '0x62c0be'
+white = '0xefefef'
+
+# Bright colors
+[colors.bright]
+black = '0x005453'
+red = '0xdca37c'
+green = '0x003a38'
+yellow = '0x005453'
+blue = '0xc3c3c3'
+magenta = '0xefefef'
+cyan = '0xd89aba'
+white = '0xf5f5f5'

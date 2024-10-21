@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Precious Light White (legacy)
+# Scheme author: 4lex4 &lt;4lex49@zoho.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#dbdbdb' # base02
+selection-foreground = '#555555' # base05
+
+cursor         = '#555555' # base05
+tabs           = '#ededed' # base01
+tabs-active    = '#dbdbdb' # base02
+
+background     = '#ffffff' # base00
+foreground     = '#555555' # base05
+black          = '#ededed' # base01
+red            = '#af4947' # base08
+yellow         = '#876500' # base0A
+green          = '#557301' # base0B
+cyan           = '#087767' # base0C
+blue           = '#186daa' # base0D
+magenta        = '#7b4ecb' # base0E
+white          = '#555555' # base06
+
+dim-foreground   = '#555555' # base05
+dim-black        = '#ededed' # base01
+dim-red          = '#af4947' # base08
+dim-yellow       = '#876500' # base0A
+dim-green        = '#557301' # base0B
+dim-cyan         = '#087767' # base0C
+dim-blue         = '#186daa' # base0D
+dim-magenta      = '#7b4ecb' # base0E
+dim-white        = '#636363' # base04
+
+light-foreground = '#555555' # base05
+light-black      = '#dbdbdb' # base02
+light-red        = '#a0570d' # base09
+light-yellow     = '#dbdbdb' # base02
+light-green      = '#ededed' # base01
+light-cyan       = '#a93e93' # base0F
+light-blue       = '#636363' # base04
+light-magenta    = '#555555' # base06
+light-white      = '#555555' # base07

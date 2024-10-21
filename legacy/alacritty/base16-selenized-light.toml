@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: selenized-light (legacy)
+# Scheme author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0xfbf3db'
+foreground = '0x53676d'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0xfbf3db'
+cursor = '0x53676d'
+
+# Normal colors
+[colors.normal]
+black = '0xece3cc'
+red = '0xcc1729'
+green = '0x428b00'
+yellow = '0xa78300'
+blue = '0x006dce'
+magenta = '0x825dc0'
+cyan = '0x00978a'
+white = '0x3a4d53'
+
+# Bright colors
+[colors.bright]
+black = '0xd5cdb6'
+red = '0xbc5819'
+green = '0xece3cc'
+yellow = '0xd5cdb6'
+blue = '0x909995'
+magenta = '0x3a4d53'
+cyan = '0xc44392'
+white = '0x3a4d53'

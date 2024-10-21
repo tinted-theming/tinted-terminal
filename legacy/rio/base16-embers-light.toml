@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Embers Light (legacy)
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#909aa3' # base02
+selection-foreground = '#323b43' # base05
+
+cursor         = '#323b43' # base05
+tabs           = '#aeb6be' # base01
+tabs-active    = '#909aa3' # base02
+
+background     = '#d1d6db' # base00
+foreground     = '#323b43' # base05
+black          = '#aeb6be' # base01
+red            = '#576d82' # base08
+yellow         = '#57826d' # base0A
+green          = '#6d8257' # base0B
+cyan           = '#826d57' # base0C
+blue           = '#82576d' # base0D
+magenta        = '#6d5782' # base0E
+white          = '#20262c' # base06
+
+dim-foreground   = '#323b43' # base05
+dim-black        = '#aeb6be' # base01
+dim-red          = '#576d82' # base08
+dim-yellow       = '#57826d' # base0A
+dim-green        = '#6d8257' # base0B
+dim-cyan         = '#826d57' # base0C
+dim-blue         = '#82576d' # base0D
+dim-magenta      = '#6d5782' # base0E
+dim-white        = '#47505a' # base04
+
+light-foreground = '#323b43' # base05
+light-black      = '#909aa3' # base02
+light-red        = '#578282' # base09
+light-yellow     = '#909aa3' # base02
+light-green      = '#aeb6be' # base01
+light-cyan       = '#575782' # base0F
+light-blue       = '#47505a' # base04
+light-magenta    = '#20262c' # base06
+light-white      = '#0f1316' # base07

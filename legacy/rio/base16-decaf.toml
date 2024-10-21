@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Decaf (legacy)
+# Scheme author: Alex Mirrington (https://github.com/alexmirrington)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#515151' # base02
+selection-foreground = '#cccccc' # base05
+
+cursor         = '#cccccc' # base05
+tabs           = '#393939' # base01
+tabs-active    = '#515151' # base02
+
+background     = '#2d2d2d' # base00
+foreground     = '#cccccc' # base05
+black          = '#393939' # base01
+red            = '#ff7f7b' # base08
+yellow         = '#ffd67c' # base0A
+green          = '#beda78' # base0B
+cyan           = '#bed6ff' # base0C
+blue           = '#90bee1' # base0D
+magenta        = '#efb3f7' # base0E
+white          = '#e0e0e0' # base06
+
+dim-foreground   = '#cccccc' # base05
+dim-black        = '#393939' # base01
+dim-red          = '#ff7f7b' # base08
+dim-yellow       = '#ffd67c' # base0A
+dim-green        = '#beda78' # base0B
+dim-cyan         = '#bed6ff' # base0C
+dim-blue         = '#90bee1' # base0D
+dim-magenta      = '#efb3f7' # base0E
+dim-white        = '#b4b7b4' # base04
+
+light-foreground = '#cccccc' # base05
+light-black      = '#515151' # base02
+light-red        = '#ffbf70' # base09
+light-yellow     = '#515151' # base02
+light-green      = '#393939' # base01
+light-cyan       = '#ff93b3' # base0F
+light-blue       = '#b4b7b4' # base04
+light-magenta    = '#e0e0e0' # base06
+light-white      = '#ffffff' # base07

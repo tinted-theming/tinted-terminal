@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Porple (legacy)
+# Scheme author: Niek den Breeje (https://github.com/AuditeMarlow)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-porple-legacy
+ColorForeground=#d8d8d8
+ColorBackground=#292c36
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#333344;#f84547;#95c76f;#efa16b;#8485ce;#b74989;#64878f;#e8e8e8;#474160;#d28e5d;#333344;#474160;#b8b8b8;#e8e8e8;#986841;#f8f8f8

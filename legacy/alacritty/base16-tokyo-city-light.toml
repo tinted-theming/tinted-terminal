@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Tokyo City Light (legacy)
+# Scheme author: Michaël Ball
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0xfbfbfd'
+foreground = '0x343b59'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0xfbfbfd'
+cursor = '0x343b59'
+
+# Normal colors
+[colors.normal]
+black = '0xf6f6f8'
+red = '0x8c4351'
+green = '0x485e30'
+yellow = '0x4c505e'
+blue = '0x34548a'
+magenta = '0x5a4a78'
+cyan = '0x4c505e'
+white = '0x1d252c'
+
+# Bright colors
+[colors.bright]
+black = '0xedeff6'
+red = '0x965027'
+green = '0xf6f6f8'
+yellow = '0xedeff6'
+blue = '0x4c505e'
+magenta = '0x1d252c'
+cyan = '0x5a4a78'
+white = '0x171d23'

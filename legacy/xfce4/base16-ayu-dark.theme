@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Ayu Dark (legacy)
+# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-ayu-dark-legacy
+ColorForeground=#e6e1cf
+ColorBackground=#0f1419
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#131721;#f07178;#b8cc52;#ffb454;#59c2ff;#d2a6ff;#95e6cb;#e6e1cf;#272d38;#ff8f40;#131721;#272d38;#bfbdb6;#e6e1cf;#e6b673;#f3f4f5

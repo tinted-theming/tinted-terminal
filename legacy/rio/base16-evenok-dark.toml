@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Evenok Dark (legacy)
+# Scheme author: Mekeor Melire
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#303030' # base02
+selection-foreground = '#d0d0d0' # base05
+
+cursor         = '#d0d0d0' # base05
+tabs           = '#202020' # base01
+tabs-active    = '#303030' # base02
+
+background     = '#000000' # base00
+foreground     = '#d0d0d0' # base05
+black          = '#202020' # base01
+red            = '#f5708a' # base08
+yellow         = '#b8a300' # base0A
+green          = '#54bc5c' # base0B
+cyan           = '#00bab3' # base0C
+blue           = '#00aff2' # base0D
+magenta        = '#9095ff' # base0E
+white          = '#e0e0e0' # base06
+
+dim-foreground   = '#d0d0d0' # base05
+dim-black        = '#202020' # base01
+dim-red          = '#f5708a' # base08
+dim-yellow       = '#b8a300' # base0A
+dim-green        = '#54bc5c' # base0B
+dim-cyan         = '#00bab3' # base0C
+dim-blue         = '#00aff2' # base0D
+dim-magenta      = '#9095ff' # base0E
+dim-white        = '#b0b0b0' # base04
+
+light-foreground = '#d0d0d0' # base05
+light-black      = '#303030' # base02
+light-red        = '#ee8122' # base09
+light-yellow     = '#303030' # base02
+light-green      = '#202020' # base01
+light-cyan       = '#d47ada' # base0F
+light-blue       = '#b0b0b0' # base04
+light-magenta    = '#e0e0e0' # base06
+light-white      = '#ffffff' # base07

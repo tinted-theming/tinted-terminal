@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Tomorrow (legacy)
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0xffffff'
+foreground = '0x4d4d4c'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0xffffff'
+cursor = '0x4d4d4c'
+
+# Normal colors
+[colors.normal]
+black = '0xe0e0e0'
+red = '0xc82829'
+green = '0x718c00'
+yellow = '0xeab700'
+blue = '0x4271ae'
+magenta = '0x8959a8'
+cyan = '0x3e999f'
+white = '0x282a2e'
+
+# Bright colors
+[colors.bright]
+black = '0xd6d6d6'
+red = '0xf5871f'
+green = '0xe0e0e0'
+yellow = '0xd6d6d6'
+blue = '0x969896'
+magenta = '0x282a2e'
+cyan = '0xa3685a'
+white = '0x1d1f21'

@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Green Screen (legacy)
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-greenscreen-legacy
+ColorForeground=#00bb00
+ColorBackground=#001100
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#003300;#007700;#00bb00;#007700;#009900;#00bb00;#005500;#00dd00;#005500;#009900;#003300;#005500;#009900;#00dd00;#005500;#00ff00

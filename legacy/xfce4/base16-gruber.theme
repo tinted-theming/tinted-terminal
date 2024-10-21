@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Gruber (legacy)
+# Scheme author: Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-gruber-legacy
+ColorForeground=#f4f4ff
+ColorBackground=#181818
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#453d41;#f43841;#73c936;#ffdd33;#96a6c8;#9e95c7;#95a99f;#f5f5f5;#484848;#c73c3f;#453d41;#484848;#e4e4ef;#f5f5f5;#cc8c3c;#e4e4ef

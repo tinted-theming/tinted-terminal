@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: 3024 (legacy)
+# Scheme author: Jan T. Sott (http://github.com/idleberg)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-3024-legacy
+ColorForeground=#a5a2a2
+ColorBackground=#090300
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#3a3432;#db2d20;#01a252;#fded02;#01a0e4;#a16a94;#b5e4f4;#d6d5d4;#4a4543;#e8bbd0;#3a3432;#4a4543;#807d7c;#d6d5d4;#cdab53;#f7f7f7

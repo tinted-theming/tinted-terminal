@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Terracotta (legacy)
+# Scheme author: Alexander Rossell Hayes (https://github.com/rossellhayes)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0xefeae8'
+foreground = '0x473731'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0xefeae8'
+cursor = '0x473731'
+
+# Normal colors
+[colors.normal]
+black = '0xdfd6d1'
+red = '0xa75045'
+green = '0x7a894a'
+yellow = '0xce943e'
+blue = '0x625574'
+magenta = '0x8d5968'
+cyan = '0x847f9e'
+white = '0x352a25'
+
+# Bright colors
+[colors.bright]
+black = '0xd0c1bb'
+red = '0xbd6942'
+green = '0xdfd6d1'
+yellow = '0xd0c1bb'
+blue = '0x59453d'
+magenta = '0x352a25'
+cyan = '0xb07158'
+white = '0x241c19'

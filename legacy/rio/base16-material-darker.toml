@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Material Darker (legacy)
+# Scheme author: Nate Peterson
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#353535' # base02
+selection-foreground = '#eeffff' # base05
+
+cursor         = '#eeffff' # base05
+tabs           = '#303030' # base01
+tabs-active    = '#353535' # base02
+
+background     = '#212121' # base00
+foreground     = '#eeffff' # base05
+black          = '#303030' # base01
+red            = '#f07178' # base08
+yellow         = '#ffcb6b' # base0A
+green          = '#c3e88d' # base0B
+cyan           = '#89ddff' # base0C
+blue           = '#82aaff' # base0D
+magenta        = '#c792ea' # base0E
+white          = '#eeffff' # base06
+
+dim-foreground   = '#eeffff' # base05
+dim-black        = '#303030' # base01
+dim-red          = '#f07178' # base08
+dim-yellow       = '#ffcb6b' # base0A
+dim-green        = '#c3e88d' # base0B
+dim-cyan         = '#89ddff' # base0C
+dim-blue         = '#82aaff' # base0D
+dim-magenta      = '#c792ea' # base0E
+dim-white        = '#b2ccd6' # base04
+
+light-foreground = '#eeffff' # base05
+light-black      = '#353535' # base02
+light-red        = '#f78c6c' # base09
+light-yellow     = '#353535' # base02
+light-green      = '#303030' # base01
+light-cyan       = '#ff5370' # base0F
+light-blue       = '#b2ccd6' # base04
+light-magenta    = '#eeffff' # base06
+light-white      = '#ffffff' # base07

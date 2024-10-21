@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Kimber (legacy)
+# Scheme author: Mishka Nguyen (https://github.com/akhsiM)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#555d55' # base02
+selection-foreground = '#dedee7' # base05
+
+cursor         = '#dedee7' # base05
+tabs           = '#313131' # base01
+tabs-active    = '#555d55' # base02
+
+background     = '#222222' # base00
+foreground     = '#dedee7' # base05
+black          = '#313131' # base01
+red            = '#c88c8c' # base08
+yellow         = '#d8b56d' # base0A
+green          = '#99c899' # base0B
+cyan           = '#78b4b4' # base0C
+blue           = '#537c9c' # base0D
+magenta        = '#86cacd' # base0E
+white          = '#c3c3b4' # base06
+
+dim-foreground   = '#dedee7' # base05
+dim-black        = '#313131' # base01
+dim-red          = '#c88c8c' # base08
+dim-yellow       = '#d8b56d' # base0A
+dim-green        = '#99c899' # base0B
+dim-cyan         = '#78b4b4' # base0C
+dim-blue         = '#537c9c' # base0D
+dim-magenta      = '#86cacd' # base0E
+dim-white        = '#5a5a5a' # base04
+
+light-foreground = '#dedee7' # base05
+light-black      = '#555d55' # base02
+light-red        = '#476c88' # base09
+light-yellow     = '#555d55' # base02
+light-green      = '#313131' # base01
+light-cyan       = '#704f4f' # base0F
+light-blue       = '#5a5a5a' # base04
+light-magenta    = '#c3c3b4' # base06
+light-white      = '#ffffe6' # base07

@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Mexico Light (legacy)
+# Scheme author: Sheldon Johnson
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0xf8f8f8'
+foreground = '0x383838'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0xf8f8f8'
+cursor = '0x383838'
+
+# Normal colors
+[colors.normal]
+black = '0xe8e8e8'
+red = '0xab4642'
+green = '0x538947'
+yellow = '0xf79a0e'
+blue = '0x7cafc2'
+magenta = '0x96609e'
+cyan = '0x4b8093'
+white = '0x282828'
+
+# Bright colors
+[colors.bright]
+black = '0xd8d8d8'
+red = '0xdc9656'
+green = '0xe8e8e8'
+yellow = '0xd8d8d8'
+blue = '0x585858'
+magenta = '0x282828'
+cyan = '0xa16946'
+white = '0x181818'

@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: PhD (legacy)
+# Scheme author: Hennig Hasemann (http://leetless.de/vim.html)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#4d5666' # base02
+selection-foreground = '#b8bbc2' # base05
+
+cursor         = '#b8bbc2' # base05
+tabs           = '#2a3448' # base01
+tabs-active    = '#4d5666' # base02
+
+background     = '#061229' # base00
+foreground     = '#b8bbc2' # base05
+black          = '#2a3448' # base01
+red            = '#d07346' # base08
+yellow         = '#fbd461' # base0A
+green          = '#99bf52' # base0B
+cyan           = '#72b9bf' # base0C
+blue           = '#5299bf' # base0D
+magenta        = '#9989cc' # base0E
+white          = '#dbdde0' # base06
+
+dim-foreground   = '#b8bbc2' # base05
+dim-black        = '#2a3448' # base01
+dim-red          = '#d07346' # base08
+dim-yellow       = '#fbd461' # base0A
+dim-green        = '#99bf52' # base0B
+dim-cyan         = '#72b9bf' # base0C
+dim-blue         = '#5299bf' # base0D
+dim-magenta      = '#9989cc' # base0E
+dim-white        = '#9a99a3' # base04
+
+light-foreground = '#b8bbc2' # base05
+light-black      = '#4d5666' # base02
+light-red        = '#f0a000' # base09
+light-yellow     = '#4d5666' # base02
+light-green      = '#2a3448' # base01
+light-cyan       = '#b08060' # base0F
+light-blue       = '#9a99a3' # base04
+light-magenta    = '#dbdde0' # base06
+light-white      = '#ffffff' # base07

@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Atelier Seaside (legacy)
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x131513'
+foreground = '0x8ca68c'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x131513'
+cursor = '0x8ca68c'
+
+# Normal colors
+[colors.normal]
+black = '0x242924'
+red = '0xe6193c'
+green = '0x29a329'
+yellow = '0x98981b'
+blue = '0x3d62f5'
+magenta = '0xad2bee'
+cyan = '0x1999b3'
+white = '0xcfe8cf'
+
+# Bright colors
+[colors.bright]
+black = '0x5e6e5e'
+red = '0x87711d'
+green = '0x242924'
+yellow = '0x5e6e5e'
+blue = '0x809980'
+magenta = '0xcfe8cf'
+cyan = '0xe619c3'
+white = '0xf4fbf4'

@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Atelier Plateau (legacy)
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x1b1818'
+foreground = '0x8a8585'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x1b1818'
+cursor = '0x8a8585'
+
+# Normal colors
+[colors.normal]
+black = '0x292424'
+red = '0xca4949'
+green = '0x4b8b8b'
+yellow = '0xa06e3b'
+blue = '0x7272ca'
+magenta = '0x8464c4'
+cyan = '0x5485b6'
+white = '0xe7dfdf'
+
+# Bright colors
+[colors.bright]
+black = '0x585050'
+red = '0xb45a3c'
+green = '0x292424'
+yellow = '0x585050'
+blue = '0x7e7777'
+magenta = '0xe7dfdf'
+cyan = '0xbd5187'
+white = '0xf4ecec'

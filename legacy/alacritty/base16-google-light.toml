@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Google Light (legacy)
+# Scheme author: Seth Wright (http://sethawright.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0xffffff'
+foreground = '0x373b41'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0xffffff'
+cursor = '0x373b41'
+
+# Normal colors
+[colors.normal]
+black = '0xe0e0e0'
+red = '0xcc342b'
+green = '0x198844'
+yellow = '0xfba922'
+blue = '0x3971ed'
+magenta = '0xa36ac7'
+cyan = '0x3971ed'
+white = '0x282a2e'
+
+# Bright colors
+[colors.bright]
+black = '0xc5c8c6'
+red = '0xf96a38'
+green = '0xe0e0e0'
+yellow = '0xc5c8c6'
+blue = '0x969896'
+magenta = '0x282a2e'
+cyan = '0x3971ed'
+white = '0x1d1f21'

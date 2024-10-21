@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Da One Gray (legacy)
+# Scheme author: NNB (https://github.com/NNBnh)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#585858' # base02
+selection-foreground = '#ffffff' # base05
+
+cursor         = '#ffffff' # base05
+tabs           = '#282828' # base01
+tabs-active    = '#585858' # base02
+
+background     = '#181818' # base00
+foreground     = '#ffffff' # base05
+black          = '#282828' # base01
+red            = '#fa7883' # base08
+yellow         = '#ff9470' # base0A
+green          = '#98c379' # base0B
+cyan           = '#8af5ff' # base0C
+blue           = '#6bb8ff' # base0D
+magenta        = '#e799ff' # base0E
+white          = '#ffffff' # base06
+
+dim-foreground   = '#ffffff' # base05
+dim-black        = '#282828' # base01
+dim-red          = '#fa7883' # base08
+dim-yellow       = '#ff9470' # base0A
+dim-green        = '#98c379' # base0B
+dim-cyan         = '#8af5ff' # base0C
+dim-blue         = '#6bb8ff' # base0D
+dim-magenta      = '#e799ff' # base0E
+dim-white        = '#c8c8c8' # base04
+
+light-foreground = '#ffffff' # base05
+light-black      = '#585858' # base02
+light-red        = '#ffc387' # base09
+light-yellow     = '#585858' # base02
+light-green      = '#282828' # base01
+light-cyan       = '#b3684f' # base0F
+light-blue       = '#c8c8c8' # base04
+light-magenta    = '#ffffff' # base06
+light-white      = '#ffffff' # base07

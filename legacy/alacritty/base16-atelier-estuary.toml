@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Atelier Estuary (legacy)
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x22221b'
+foreground = '0x929181'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x22221b'
+cursor = '0x929181'
+
+# Normal colors
+[colors.normal]
+black = '0x302f27'
+red = '0xba6236'
+green = '0x7d9726'
+yellow = '0xa5980d'
+blue = '0x36a166'
+magenta = '0x5f9182'
+cyan = '0x5b9d48'
+white = '0xe7e6df'
+
+# Bright colors
+[colors.bright]
+black = '0x5f5e4e'
+red = '0xae7313'
+green = '0x302f27'
+yellow = '0x5f5e4e'
+blue = '0x878573'
+magenta = '0xe7e6df'
+cyan = '0x9d6c7c'
+white = '0xf4f3ec'

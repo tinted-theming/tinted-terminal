@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Dracula (legacy)
+# Scheme author: Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x282a36'
+foreground = '0xf8f8f2'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x282a36'
+cursor = '0xf8f8f2'
+
+# Normal colors
+[colors.normal]
+black = '0x363447'
+red = '0xff5555'
+green = '0x50fa7b'
+yellow = '0xf1fa8c'
+blue = '0x80bfff'
+magenta = '0xff79c6'
+cyan = '0x8be9fd'
+white = '0xf0f1f4'
+
+# Bright colors
+[colors.bright]
+black = '0x44475a'
+red = '0xffb86c'
+green = '0x363447'
+yellow = '0x44475a'
+blue = '0x9ea8c7'
+magenta = '0xf0f1f4'
+cyan = '0xbd93f9'
+white = '0xffffff'

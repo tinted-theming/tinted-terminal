@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Precious Dark Eleven (legacy)
+# Scheme author: 4lex4 &lt;4lex49@zoho.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-precious-dark-eleven-legacy
+ColorForeground=#b8b7b6
+ColorBackground=#1c1e20
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#292b2d;#ff8782;#95b658;#d0a543;#68b0ee;#b799fe;#42bda7;#b8b7b6;#37393a;#ea9755;#292b2d;#37393a;#a8a8a7;#b8b7b6;#f382d8;#b8b7b6

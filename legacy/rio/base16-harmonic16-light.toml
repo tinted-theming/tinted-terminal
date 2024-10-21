@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Harmonic16 Light (legacy)
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#cbd6e2' # base02
+selection-foreground = '#405c79' # base05
+
+cursor         = '#405c79' # base05
+tabs           = '#e5ebf1' # base01
+tabs-active    = '#cbd6e2' # base02
+
+background     = '#f7f9fb' # base00
+foreground     = '#405c79' # base05
+black          = '#e5ebf1' # base01
+red            = '#bf8b56' # base08
+yellow         = '#8bbf56' # base0A
+green          = '#56bf8b' # base0B
+cyan           = '#568bbf' # base0C
+blue           = '#8b56bf' # base0D
+magenta        = '#bf568b' # base0E
+white          = '#223b54' # base06
+
+dim-foreground   = '#405c79' # base05
+dim-black        = '#e5ebf1' # base01
+dim-red          = '#bf8b56' # base08
+dim-yellow       = '#8bbf56' # base0A
+dim-green        = '#56bf8b' # base0B
+dim-cyan         = '#568bbf' # base0C
+dim-blue         = '#8b56bf' # base0D
+dim-magenta      = '#bf568b' # base0E
+dim-white        = '#627e99' # base04
+
+light-foreground = '#405c79' # base05
+light-black      = '#cbd6e2' # base02
+light-red        = '#bfbf56' # base09
+light-yellow     = '#cbd6e2' # base02
+light-green      = '#e5ebf1' # base01
+light-cyan       = '#bf5656' # base0F
+light-blue       = '#627e99' # base04
+light-magenta    = '#223b54' # base06
+light-white      = '#0b1c2c' # base07

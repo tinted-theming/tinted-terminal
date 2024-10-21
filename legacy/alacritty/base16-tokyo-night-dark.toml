@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Tokyo Night Dark (legacy)
+# Scheme author: Michaël Ball
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x1a1b26'
+foreground = '0xa9b1d6'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x1a1b26'
+cursor = '0xa9b1d6'
+
+# Normal colors
+[colors.normal]
+black = '0x16161e'
+red = '0xc0caf5'
+green = '0x9ece6a'
+yellow = '0x0db9d7'
+blue = '0x2ac3de'
+magenta = '0xbb9af7'
+cyan = '0xb4f9f8'
+white = '0xcbccd1'
+
+# Bright colors
+[colors.bright]
+black = '0x2f3549'
+red = '0xa9b1d6'
+green = '0x16161e'
+yellow = '0x2f3549'
+blue = '0x787c99'
+magenta = '0xcbccd1'
+cyan = '0xf7768e'
+white = '0xd5d6db'

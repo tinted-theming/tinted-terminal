@@ -1,0 +1,44 @@
+# Rio Terminal Theme
+# Scheme system: base16
+# Scheme name: Gigavolt (legacy)
+# Scheme author: Aidan Swope (http://github.com/Whillikers)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+selection-background = '#5a576e' # base02
+selection-foreground = '#e9e7e1' # base05
+
+cursor         = '#e9e7e1' # base05
+tabs           = '#2d303d' # base01
+tabs-active    = '#5a576e' # base02
+
+background     = '#202126' # base00
+foreground     = '#e9e7e1' # base05
+black          = '#2d303d' # base01
+red            = '#ff661a' # base08
+yellow         = '#ffdc2d' # base0A
+green          = '#f2e6a9' # base0B
+cyan           = '#fb6acb' # base0C
+blue           = '#40bfff' # base0D
+magenta        = '#ae94f9' # base0E
+white          = '#eff0f9' # base06
+
+dim-foreground   = '#e9e7e1' # base05
+dim-black        = '#2d303d' # base01
+dim-red          = '#ff661a' # base08
+dim-yellow       = '#ffdc2d' # base0A
+dim-green        = '#f2e6a9' # base0B
+dim-cyan         = '#fb6acb' # base0C
+dim-blue         = '#40bfff' # base0D
+dim-magenta      = '#ae94f9' # base0E
+dim-white        = '#cad3ff' # base04
+
+light-foreground = '#e9e7e1' # base05
+light-black      = '#5a576e' # base02
+light-red        = '#19f988' # base09
+light-yellow     = '#5a576e' # base02
+light-green      = '#2d303d' # base01
+light-cyan       = '#6187ff' # base0F
+light-blue       = '#cad3ff' # base04
+light-magenta    = '#eff0f9' # base06
+light-white      = '#f2fbff' # base07

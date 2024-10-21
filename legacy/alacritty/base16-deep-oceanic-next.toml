@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Deep Oceanic Next (legacy)
+# Scheme author: spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x003b46'
+foreground = '0xdce3e8'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x003b46'
+cursor = '0xdce3e8'
+
+# Normal colors
+[colors.normal]
+black = '0x004f5e'
+red = '0xe6454b'
+green = '0x85b57a'
+yellow = '0xffcc66'
+blue = '0x3a82e6'
+magenta = '0x8c4de6'
+cyan = '0x4da6a6'
+white = '0xe6ebf0'
+
+# Bright colors
+[colors.bright]
+black = '0x006374'
+red = '0xff6a4b'
+green = '0x004f5e'
+yellow = '0x006374'
+blue = '0x0093a3'
+magenta = '0xe6ebf0'
+cyan = '0xe673a3'
+white = '0xf0f5f5'

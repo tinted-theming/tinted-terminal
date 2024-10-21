@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: caroline (legacy)
+# Scheme author: ed (https://codeberg.org/ed)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-caroline-legacy
+ColorForeground=#a87569
+ColorBackground=#1c1213
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#3a2425;#c24f57;#806c61;#f28171;#684c59;#a63650;#6b6566;#c58d7b;#563837;#a63650;#3a2425;#563837;#8b5d57;#c58d7b;#893f45;#e3a68c

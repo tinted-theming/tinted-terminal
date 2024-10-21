@@ -1,0 +1,39 @@
+# Scheme system: base16
+# Scheme name: Brewer (legacy)
+# Scheme author: Timothée Poisot (http://github.com/tpoisot)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+# Default colors
+[colors.primary]
+background = '0x0c0d0e'
+foreground = '0xb7b8b9'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x0c0d0e'
+cursor = '0xb7b8b9'
+
+# Normal colors
+[colors.normal]
+black = '0x2e2f30'
+red = '0xe31a1c'
+green = '0x31a354'
+yellow = '0xdca060'
+blue = '0x3182bd'
+magenta = '0x756bb1'
+cyan = '0x80b1d3'
+white = '0xdadbdc'
+
+# Bright colors
+[colors.bright]
+black = '0x515253'
+red = '0xe6550d'
+green = '0x2e2f30'
+yellow = '0x515253'
+blue = '0x959697'
+magenta = '0xdadbdc'
+cyan = '0xb15928'
+white = '0xfcfdfe'

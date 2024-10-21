@@ -1,0 +1,12 @@
+# xfce4 Terminal Theme
+# Scheme system: base16
+# Scheme name: Classic Light (legacy)
+# Scheme author: Jason Heeris (http://heeris.id.au)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-terminal)
+[Scheme]
+Name=base16-classic-light-legacy
+ColorForeground=#303030
+ColorBackground=#f5f5f5
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#e0e0e0;#ac4142;#90a959;#f4bf75;#6a9fb5;#aa759f;#75b5aa;#202020;#d0d0d0;#d28445;#e0e0e0;#d0d0d0;#505050;#202020;#8f5536;#151515
