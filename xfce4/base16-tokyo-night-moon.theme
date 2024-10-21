@@ -7,4 +7,4 @@ ColorForeground=#3b4261
 ColorBackground=#222436
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#222436;#ff757f;#c3e88d;#ffc777;#82aaff;#fca7ea;#86e1fc;#3b4261;#2d3f76;#ff757f;#c3e88d;#ffc777;#82aaff;#fca7ea;#86e1fc;#c8d3f5
+ColorPalette=#1e2030;#ff757f;#c3e88d;#ffc777;#82aaff;#fca7ea;#86e1fc;#828bb8;#2d3f76;#ff757f;#c3e88d;#ffc777;#82aaff;#fca7ea;#86e1fc;#c8d3f5

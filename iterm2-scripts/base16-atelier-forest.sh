@@ -7,7 +7,7 @@ tell application "iTerm2"
         set foreground color to {43176, 41377, 40863}
 
         -- Set ANSI Colors
-        set ANSI black color to {6939, 6425, 6168}
+        set ANSI black color to {11308, 9252, 8481}
         set ANSI red color to {62194, 11308, 16448}
         set ANSI green color to {31611, 38807, 9766}
         set ANSI yellow color to {50115, 33924, 6168}

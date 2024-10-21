@@ -32,13 +32,13 @@ Windows Registry Editor Version 5.00
 
 ; ANSI Black
 ; 30m
-; base00 #3b3228
-"Colour6"="59,50,40"
+; base01 #534636
+"Colour6"="83,70,54"
 
 ; ANSI Black Bright
 ; 1;30m
-; base03 #7e705a
-"Colour7"="126,112,90"
+; base02 #645240
+"Colour7"="100,82,64"
 
 ; ANSI Red
 ; 31m
@@ -47,8 +47,8 @@ Windows Registry Editor Version 5.00
 
 ; ANSI Red Bright
 ; 1;31m
-; base09 #d28b71
-"Colour9"="210,139,113"
+; base08 #cb6077
+"Colour9"="203,96,119"
 
 ; ANSI Green
 ; 32m
@@ -97,13 +97,13 @@ Windows Registry Editor Version 5.00
 
 ; ANSI Cyan Bright
 ; 1;36m
-; base0F #bb9584
-"Colour19"="187,149,132"
+; base0C #7bbda4
+"Colour19"="123,189,164"
 
 ; ANSI White
 ; 37m
-; base05 #d0c8c6
-"Colour20"="208,200,198"
+; base06 #e9e1dd
+"Colour20"="233,225,221"
 
 ; ANSI White Bright
 ; 1;37m

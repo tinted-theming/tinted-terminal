@@ -7,4 +7,4 @@ ColorForeground=#c1c1c1
 ColorBackground=#000000
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#000000;#5f8787;#f3ecd4;#eecc6c;#888888;#999999;#aaaaaa;#c1c1c1;#222222;#5f8787;#f3ecd4;#eecc6c;#888888;#999999;#aaaaaa;#c1c1c1
+ColorPalette=#121212;#5f8787;#f3ecd4;#eecc6c;#888888;#999999;#aaaaaa;#999999;#222222;#5f8787;#f3ecd4;#eecc6c;#888888;#999999;#aaaaaa;#c1c1c1

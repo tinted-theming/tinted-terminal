@@ -13,7 +13,7 @@
     <value name="BackColorIdx" type="hex" data="10"/>
     <value name="PopTextColorIdx" type="hex" data="10"/>
     <value name="PopBackColorIdx" type="hex" data="10"/>
-    <value name="ColorTable00" type="dword" data="00dbf3fb"/> <!-- base00 - Black -->
+    <value name="ColorTable00" type="dword" data="00cce3ec"/> <!-- base01 - Black -->
     <value name="ColorTable01" type="dword" data="002917cc"/> <!-- base08 - Red -->
     <value name="ColorTable02" type="dword" data="00008b42"/> <!-- base0B - Green -->
     <value name="ColorTable03" type="dword" data="000083a7"/> <!-- base0A - Yellow -->

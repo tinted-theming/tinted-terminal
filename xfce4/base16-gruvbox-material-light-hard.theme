@@ -7,4 +7,4 @@ ColorForeground=#654735
 ColorBackground=#f9f5d7
 ColorCursor=x
 ColorBoldIsBright=FALSE
-ColorPalette=#f9f5d7;#c14a4a;#6c782e;#b47109;#45707a;#945e80;#4c7a5d;#654735;#e0cfa9;#c14a4a;#6c782e;#b47109;#45707a;#945e80;#4c7a5d;#282828
+ColorPalette=#fbf1c7;#c14a4a;#6c782e;#b47109;#45707a;#945e80;#4c7a5d;#3c3836;#e0cfa9;#c14a4a;#6c782e;#b47109;#45707a;#945e80;#4c7a5d;#282828
