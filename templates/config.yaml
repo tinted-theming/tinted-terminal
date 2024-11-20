@@ -1,151 +1,107 @@
 # Alacritty
 # ----------------------------------------------------------------------
 alacritty-base16:
-  filename: alacritty/{{ scheme-system }}-{{ scheme-slug }}.toml
+  filename: themes/alacritty/{{ scheme-system }}-{{ scheme-slug }}.toml
   supported-systems: [base16]
 
 alacritty-base24:
-  filename: alacritty/{{ scheme-system }}-{{ scheme-slug }}.toml
+  filename: themes/alacritty/{{ scheme-system }}-{{ scheme-slug }}.toml
   supported-systems: [base24]
-
-alacritty-legacy:
-  filename: legacy/alacritty/{{ scheme-system }}-{{ scheme-slug }}.toml
-  supported-systems: [base16]
 
 # ConEmu
 # ----------------------------------------------------------------------
 conemu-base16:
-  filename: conemu/{{ scheme-system }}-{{ scheme-slug }}.xml
+  filename: themes/conemu/{{ scheme-system }}-{{ scheme-slug }}.xml
   supported-systems: [base16]
 
 conemu-base24:
-  filename: conemu/{{ scheme-system }}-{{ scheme-slug }}.xml
+  filename: themes/conemu/{{ scheme-system }}-{{ scheme-slug }}.xml
   supported-systems: [base24]
-
-conemu-legacy:
-  filename: legacy/conemu/{{ scheme-system }}-{{ scheme-slug }}.xml
-  supported-systems: [base16]
 
 # Foot
 # ----------------------------------------------------------------------
 foot-base16:
-  filename: foot/{{ scheme-system }}-{{ scheme-slug }}.ini
+  filename: themes/foot/{{ scheme-system }}-{{ scheme-slug }}.ini
   supported-systems: [base16]
 
 foot-base24:
-  filename: foot/{{ scheme-system }}-{{ scheme-slug }}.ini
+  filename: themes/foot/{{ scheme-system }}-{{ scheme-slug }}.ini
   supported-systems: [base24]
-
-foot-legacy:
-  filename: legacy/foot/{{ scheme-system }}-{{ scheme-slug }}.ini
-  supported-systems: [base16]
 
 # iTerm2
 # ----------------------------------------------------------------------
 iterm2-base16:
-  filename: iterm2/{{ scheme-system }}-{{ scheme-slug }}.itermcolors
+  filename: themes/iterm2/{{ scheme-system }}-{{ scheme-slug }}.itermcolors
   supported-systems: [base16]
 
 iterm2-base24:
-  filename: iterm2/{{ scheme-system }}-{{ scheme-slug }}.itermcolors
+  filename: themes/iterm2/{{ scheme-system }}-{{ scheme-slug }}.itermcolors
   supported-systems: [base24]
 
-iterm2-legacy:
-  filename: legacy/iterm2/{{ scheme-system }}-{{ scheme-slug }}.itermcolors
+iterm2-scripts-base16-16:
+  filename: themes-16/iterm2-scripts/{{ scheme-system }}-{{ scheme-slug }}.sh
   supported-systems: [base16]
 
-iterm2-scripts-base16:
-  filename: iterm2-scripts/{{ scheme-system }}-{{ scheme-slug }}.sh
-  supported-systems: [base16]
-
-iterm2-scripts-base24:
-  filename: iterm2-scripts/{{ scheme-system }}-{{ scheme-slug }}.sh
+iterm2-scripts-base24-16:
+  filename: themes-16/iterm2-scripts/{{ scheme-system }}-{{ scheme-slug }}.sh
   supported-systems: [base24]
-
-iterm2-scripts-legacy:
-  filename: legacy/iterm2-scripts/{{ scheme-system }}-{{ scheme-slug }}.sh
-  supported-systems: [base16]
 
 # Kermit
 # ----------------------------------------------------------------------
-kermit-base16:
-  filename: kermit/{{ scheme-system }}-{{ scheme-slug }}.config
+kermit-base16-16:
+  filename: themes-16/kermit/{{ scheme-system }}-{{ scheme-slug }}.config
   supported-systems: [base16]
 
-kermit-base24:
-  filename: kermit/{{ scheme-system }}-{{ scheme-slug }}.config
+kermit-base24-16:
+  filename: themes-16/kermit/{{ scheme-system }}-{{ scheme-slug }}.config
   supported-systems: [base24]
-
-kermit-legacy:
-  filename: legacy/kermit/{{ scheme-system }}-{{ scheme-slug }}.config
-  supported-systems: [base16]
 
 # Kitty
 # ----------------------------------------------------------------------
 kitty-base16:
-  filename: kitty/{{ scheme-system }}-{{ scheme-slug }}.conf
+  filename: themes/kitty/{{ scheme-system }}-{{ scheme-slug }}.conf
   supported-systems: [base16]
 
 kitty-base24:
-  filename: kitty/{{ scheme-system }}-{{ scheme-slug }}.conf
+  filename: themes/kitty/{{ scheme-system }}-{{ scheme-slug }}.conf
   supported-systems: [base24]
-
-kitty-legacy:
-  filename: legacy/kitty/{{ scheme-system }}-{{ scheme-slug }}.conf
-  supported-systems: [base16]
 
 # Putty
 # ----------------------------------------------------------------------
 putty-base16:
-  filename: putty/{{ scheme-system }}-{{ scheme-slug }}.reg
+  filename: themes/putty/{{ scheme-system }}-{{ scheme-slug }}.reg
   supported-systems: [base16]
 
 putty-base24:
-  filename: putty/{{ scheme-system }}-{{ scheme-slug }}.reg
+  filename: themes/putty/{{ scheme-system }}-{{ scheme-slug }}.reg
   supported-systems: [base24]
-
-putty-legacy:
-  filename: legacy/putty/{{ scheme-system }}-{{ scheme-slug }}.reg
-  supported-systems: [base16]
 
 # Rio
 # ----------------------------------------------------------------------
-rio-base16: 
-  filename: rio/{{ scheme-system }}-{{ scheme-slug }}.toml
+rio-base16-16: 
+  filename: themes-16/rio/{{ scheme-system }}-{{ scheme-slug }}.toml
   supported-systems: [base16]
 
-rio-base24: 
-  filename: rio/{{ scheme-system }}-{{ scheme-slug }}.toml
+rio-base24-16: 
+  filename: themes-16/rio/{{ scheme-system }}-{{ scheme-slug }}.toml
   supported-systems: [base24]
-
-rio-legacy: 
-  filename: legacy/rio/{{ scheme-system }}-{{ scheme-slug }}.toml
-  supported-systems: [base16]
 
 # Termite
 # ----------------------------------------------------------------------
 termite-base16:
-  filename: termite/{{ scheme-system }}-{{ scheme-slug }}.config
+  filename: themes/termite/{{ scheme-system }}-{{ scheme-slug }}.config
   supported-systems: [base16]
 
 termite-base24:
-  filename: termite/{{ scheme-system }}-{{ scheme-slug }}.config
+  filename: themes/termite/{{ scheme-system }}-{{ scheme-slug }}.config
   supported-systems: [base24]
-
-termite-legacy:
-  filename: legacy/termite/{{ scheme-system }}-{{ scheme-slug }}.config
-  supported-systems: [base16]
 
 # xfce4
 # ----------------------------------------------------------------------
 xfce4-base16:
-  filename: xfce4/{{ scheme-system }}-{{ scheme-slug }}.theme
+  filename: themes/xfce4/{{ scheme-system }}-{{ scheme-slug }}.theme
   supported-systems: [base16]
 
 xfce4-base24:
-  filename: xfce4/{{ scheme-system }}-{{ scheme-slug }}.theme
+  filename: themes/xfce4/{{ scheme-system }}-{{ scheme-slug }}.theme
   supported-systems: [base24]
-
-xfce4-legacy:
-  filename: legacy/xfce4/{{ scheme-system }}-{{ scheme-slug }}.theme
-  supported-systems: [base16]
