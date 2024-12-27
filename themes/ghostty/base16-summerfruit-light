@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Summerfruit Light theme for Ghostty
+# Scheme Author: Christopher Corley (http://christop.club/)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#ffffff
+palette = 1=#ff0086
+palette = 2=#00c918
+palette = 3=#aba800
+palette = 4=#3777e6
+palette = 5=#ad00a1
+palette = 6=#1faaaa
+palette = 7=#101010
+palette = 8=#b0b0b0
+palette = 9=#ff0086
+palette = 10=#00c918
+palette = 11=#aba800
+palette = 12=#3777e6
+palette = 13=#ad00a1
+palette = 14=#1faaaa
+palette = 15=#202020
+
+# Foreground & background colors
+background = ffffff
+foreground = 101010
+cursor-color = 101010
+selection-background = d0d0d0
+selection-foreground = 101010
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 101010
+macos-icon-screen-color = ffffff

@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Measured Dark theme for Ghostty
+# Scheme Author: Measured (https://measured.co)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#00211f
+palette = 1=#ce7e8e
+palette = 2=#56c16f
+palette = 3=#bfac4e
+palette = 4=#88b0da
+palette = 5=#b39be0
+palette = 6=#62c0be
+palette = 7=#dcdcdc
+palette = 8=#ababab
+palette = 9=#ce7e8e
+palette = 10=#56c16f
+palette = 11=#bfac4e
+palette = 12=#88b0da
+palette = 13=#b39be0
+palette = 14=#62c0be
+palette = 15=#f5f5f5
+
+# Foreground & background colors
+background = 00211f
+foreground = dcdcdc
+cursor-color = dcdcdc
+selection-background = 005453
+selection-foreground = dcdcdc
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = dcdcdc
+macos-icon-screen-color = 00211f

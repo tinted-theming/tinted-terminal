@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Windows 10 Light theme for Ghostty
+# Scheme Author: Fergus Collins (https://github.com/C-Fergus)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#f2f2f2
+palette = 1=#c50f1f
+palette = 2=#13a10e
+palette = 3=#c19c00
+palette = 4=#0037da
+palette = 5=#881798
+palette = 6=#3a96dd
+palette = 7=#767676
+palette = 8=#cccccc
+palette = 9=#c50f1f
+palette = 10=#13a10e
+palette = 11=#c19c00
+palette = 12=#0037da
+palette = 13=#881798
+palette = 14=#3a96dd
+palette = 15=#0c0c0c
+
+# Foreground & background colors
+background = f2f2f2
+foreground = 767676
+cursor-color = 767676
+selection-background = d9d9d9
+selection-foreground = 767676
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 767676
+macos-icon-screen-color = f2f2f2

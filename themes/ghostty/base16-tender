@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# tender theme for Ghostty
+# Scheme Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#282828
+palette = 1=#f43753
+palette = 2=#c9d05c
+palette = 3=#ffc24b
+palette = 4=#b3deef
+palette = 5=#d3b987
+palette = 6=#73cef4
+palette = 7=#eeeeee
+palette = 8=#4c4c4c
+palette = 9=#f43753
+palette = 10=#c9d05c
+palette = 11=#ffc24b
+palette = 12=#b3deef
+palette = 13=#d3b987
+palette = 14=#73cef4
+palette = 15=#feffff
+
+# Foreground & background colors
+background = 282828
+foreground = eeeeee
+cursor-color = eeeeee
+selection-background = 484848
+selection-foreground = eeeeee
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = eeeeee
+macos-icon-screen-color = 282828

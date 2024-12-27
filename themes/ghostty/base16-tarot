@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# tarot theme for Ghostty
+# Scheme Author: ed (https://codeberg.org/ed)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#0e091d
+palette = 1=#c53253
+palette = 2=#a68e5a
+palette = 3=#ff6565
+palette = 4=#6e6080
+palette = 5=#a45782
+palette = 6=#8c9785
+palette = 7=#aa556f
+palette = 8=#74316b
+palette = 9=#c53253
+palette = 10=#a68e5a
+palette = 11=#ff6565
+palette = 12=#6e6080
+palette = 13=#a45782
+palette = 14=#8c9785
+palette = 15=#dc8f7c
+
+# Foreground & background colors
+background = 0e091d
+foreground = aa556f
+cursor-color = aa556f
+selection-background = 4b2054
+selection-foreground = aa556f
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = aa556f
+macos-icon-screen-color = 0e091d

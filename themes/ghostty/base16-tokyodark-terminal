@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Tokyodark Terminal theme for Ghostty
+# Scheme Author: Tiagovla (https://github.com/tiagovla/)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#11121d
+palette = 1=#ee6d85
+palette = 2=#95c561
+palette = 3=#d7a65f
+palette = 4=#7199ee
+palette = 5=#a485dd
+palette = 6=#38a89d
+palette = 7=#a0a8cd
+palette = 8=#282c34
+palette = 9=#ee6d85
+palette = 10=#95c561
+palette = 11=#d7a65f
+palette = 12=#7199ee
+palette = 13=#a485dd
+palette = 14=#38a89d
+palette = 15=#a0a8cd
+
+# Foreground & background colors
+background = 11121d
+foreground = a0a8cd
+cursor-color = a0a8cd
+selection-background = 212234
+selection-foreground = a0a8cd
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = a0a8cd
+macos-icon-screen-color = 11121d

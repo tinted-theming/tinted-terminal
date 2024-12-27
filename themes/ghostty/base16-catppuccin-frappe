@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Catppuccin Frappe theme for Ghostty
+# Scheme Author: https://github.com/catppuccin/catppuccin
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#303446
+palette = 1=#e78284
+palette = 2=#a6d189
+palette = 3=#e5c890
+palette = 4=#8caaee
+palette = 5=#ca9ee6
+palette = 6=#81c8be
+palette = 7=#c6d0f5
+palette = 8=#51576d
+palette = 9=#e78284
+palette = 10=#a6d189
+palette = 11=#e5c890
+palette = 12=#8caaee
+palette = 13=#ca9ee6
+palette = 14=#81c8be
+palette = 15=#babbf1
+
+# Foreground & background colors
+background = 303446
+foreground = c6d0f5
+cursor-color = c6d0f5
+selection-background = 414559
+selection-foreground = c6d0f5
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = c6d0f5
+macos-icon-screen-color = 303446

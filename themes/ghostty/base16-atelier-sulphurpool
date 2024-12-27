@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Atelier Sulphurpool theme for Ghostty
+# Scheme Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#202746
+palette = 1=#c94922
+palette = 2=#ac9739
+palette = 3=#c08b30
+palette = 4=#3d8fd1
+palette = 5=#6679cc
+palette = 6=#22a2c9
+palette = 7=#979db4
+palette = 8=#6b7394
+palette = 9=#c94922
+palette = 10=#ac9739
+palette = 11=#c08b30
+palette = 12=#3d8fd1
+palette = 13=#6679cc
+palette = 14=#22a2c9
+palette = 15=#f5f7ff
+
+# Foreground & background colors
+background = 202746
+foreground = 979db4
+cursor-color = 979db4
+selection-background = 5e6687
+selection-foreground = 979db4
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 979db4
+macos-icon-screen-color = 202746

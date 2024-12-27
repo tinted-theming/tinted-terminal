@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# eris theme for Ghostty
+# Scheme Author: ed (https://codeberg.org/ed)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#0a0920
+palette = 1=#f768a3
+palette = 2=#faaea2
+palette = 3=#faaea2
+palette = 4=#258fc4
+palette = 5=#f768a3
+palette = 6=#258fc4
+palette = 7=#606bac
+palette = 8=#333773
+palette = 9=#f768a3
+palette = 10=#faaea2
+palette = 11=#faaea2
+palette = 12=#258fc4
+palette = 13=#f768a3
+palette = 14=#258fc4
+palette = 15=#9aaae5
+
+# Foreground & background colors
+background = 0a0920
+foreground = 606bac
+cursor-color = 606bac
+selection-background = 23255a
+selection-foreground = 606bac
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 606bac
+macos-icon-screen-color = 0a0920

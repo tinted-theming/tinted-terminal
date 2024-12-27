@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Shapeshifter theme for Ghostty
+# Scheme Author: Tyler Benziger (http://tybenz.com)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#f9f9f9
+palette = 1=#e92f2f
+palette = 2=#0ed839
+palette = 3=#dddd13
+palette = 4=#3b48e3
+palette = 5=#f996e2
+palette = 6=#23edda
+palette = 7=#102015
+palette = 8=#555555
+palette = 9=#e92f2f
+palette = 10=#0ed839
+palette = 11=#dddd13
+palette = 12=#3b48e3
+palette = 13=#f996e2
+palette = 14=#23edda
+palette = 15=#000000
+
+# Foreground & background colors
+background = f9f9f9
+foreground = 102015
+cursor-color = 102015
+selection-background = ababab
+selection-foreground = 102015
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 102015
+macos-icon-screen-color = f9f9f9

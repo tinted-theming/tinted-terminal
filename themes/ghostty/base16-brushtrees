@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Brush Trees theme for Ghostty
+# Scheme Author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#e3efef
+palette = 1=#b38686
+palette = 2=#87b386
+palette = 3=#aab386
+palette = 4=#868cb3
+palette = 5=#b386b2
+palette = 6=#86b3b3
+palette = 7=#6d828e
+palette = 8=#98afb5
+palette = 9=#b38686
+palette = 10=#87b386
+palette = 11=#aab386
+palette = 12=#868cb3
+palette = 13=#b386b2
+palette = 14=#86b3b3
+palette = 15=#485867
+
+# Foreground & background colors
+background = e3efef
+foreground = 6d828e
+cursor-color = 6d828e
+selection-background = b0c5c8
+selection-foreground = 6d828e
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 6d828e
+macos-icon-screen-color = e3efef

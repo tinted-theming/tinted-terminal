@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Gruber theme for Ghostty
+# Scheme Author: Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#181818
+palette = 1=#f43841
+palette = 2=#73c936
+palette = 3=#ffdd33
+palette = 4=#96a6c8
+palette = 5=#9e95c7
+palette = 6=#95a99f
+palette = 7=#f4f4ff
+palette = 8=#52494e
+palette = 9=#f43841
+palette = 10=#73c936
+palette = 11=#ffdd33
+palette = 12=#96a6c8
+palette = 13=#9e95c7
+palette = 14=#95a99f
+palette = 15=#e4e4ef
+
+# Foreground & background colors
+background = 181818
+foreground = f4f4ff
+cursor-color = f4f4ff
+selection-background = 484848
+selection-foreground = f4f4ff
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = f4f4ff
+macos-icon-screen-color = 181818

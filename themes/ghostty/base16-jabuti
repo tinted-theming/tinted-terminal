@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Jabuti theme for Ghostty
+# Scheme Author: https://github.com/notusknot
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#292a37
+palette = 1=#ec6a88
+palette = 2=#3fdaa4
+palette = 3=#e1c697
+palette = 4=#3fc6de
+palette = 5=#be95ff
+palette = 6=#ff7eb6
+palette = 7=#c0cbe3
+palette = 8=#45475d
+palette = 9=#ec6a88
+palette = 10=#3fdaa4
+palette = 11=#e1c697
+palette = 12=#3fc6de
+palette = 13=#be95ff
+palette = 14=#ff7eb6
+palette = 15=#ffffff
+
+# Foreground & background colors
+background = 292a37
+foreground = c0cbe3
+cursor-color = c0cbe3
+selection-background = 3c3e51
+selection-foreground = c0cbe3
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = c0cbe3
+macos-icon-screen-color = 292a37

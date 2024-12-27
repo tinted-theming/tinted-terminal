@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Da One Gray theme for Ghostty
+# Scheme Author: NNB (https://github.com/NNBnh)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#181818
+palette = 1=#fa7883
+palette = 2=#98c379
+palette = 3=#ff9470
+palette = 4=#6bb8ff
+palette = 5=#e799ff
+palette = 6=#8af5ff
+palette = 7=#ffffff
+palette = 8=#888888
+palette = 9=#fa7883
+palette = 10=#98c379
+palette = 11=#ff9470
+palette = 12=#6bb8ff
+palette = 13=#e799ff
+palette = 14=#8af5ff
+palette = 15=#ffffff
+
+# Foreground & background colors
+background = 181818
+foreground = ffffff
+cursor-color = ffffff
+selection-background = 585858
+selection-foreground = ffffff
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = ffffff
+macos-icon-screen-color = 181818

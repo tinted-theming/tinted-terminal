@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Sparky theme for Ghostty
+# Scheme Author: Leila Sother (https://github.com/mixcoac)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#072b31
+palette = 1=#ff585d
+palette = 2=#78d64b
+palette = 3=#fbdd40
+palette = 4=#4698cb
+palette = 5=#d59ed7
+palette = 6=#2dccd3
+palette = 7=#f4f5f0
+palette = 8=#003b49
+palette = 9=#ff585d
+palette = 10=#78d64b
+palette = 11=#fbdd40
+palette = 12=#4698cb
+palette = 13=#d59ed7
+palette = 14=#2dccd3
+palette = 15=#ffffff
+
+# Foreground & background colors
+background = 072b31
+foreground = f4f5f0
+cursor-color = f4f5f0
+selection-background = 003c46
+selection-foreground = f4f5f0
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = f4f5f0
+macos-icon-screen-color = 072b31

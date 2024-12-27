@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Sakura theme for Ghostty
+# Scheme Author: Misterio77 (http://github.com/Misterio77)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#feedf3
+palette = 1=#df2d52
+palette = 2=#2e916d
+palette = 3=#c29461
+palette = 4=#006e93
+palette = 5=#5e2180
+palette = 6=#1d8991
+palette = 7=#564448
+palette = 8=#755f64
+palette = 9=#df2d52
+palette = 10=#2e916d
+palette = 11=#c29461
+palette = 12=#006e93
+palette = 13=#5e2180
+palette = 14=#1d8991
+palette = 15=#33292b
+
+# Foreground & background colors
+background = feedf3
+foreground = 564448
+cursor-color = 564448
+selection-background = e0ccd1
+selection-foreground = 564448
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 564448
+macos-icon-screen-color = feedf3

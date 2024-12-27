@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Nord theme for Ghostty
+# Scheme Author: arcticicestudio
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#2e3440
+palette = 1=#bf616a
+palette = 2=#a3be8c
+palette = 3=#ebcb8b
+palette = 4=#81a1c1
+palette = 5=#b48ead
+palette = 6=#88c0d0
+palette = 7=#e5e9f0
+palette = 8=#4c566a
+palette = 9=#bf616a
+palette = 10=#a3be8c
+palette = 11=#ebcb8b
+palette = 12=#81a1c1
+palette = 13=#b48ead
+palette = 14=#88c0d0
+palette = 15=#8fbcbb
+
+# Foreground & background colors
+background = 2e3440
+foreground = e5e9f0
+cursor-color = e5e9f0
+selection-background = 434c5e
+selection-foreground = e5e9f0
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = e5e9f0
+macos-icon-screen-color = 2e3440

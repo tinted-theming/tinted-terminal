@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Kanagawa theme for Ghostty
+# Scheme Author: Tommaso Laurenzi (https://github.com/rebelot)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#1f1f28
+palette = 1=#c34043
+palette = 2=#76946a
+palette = 3=#c0a36e
+palette = 4=#7e9cd8
+palette = 5=#957fb8
+palette = 6=#6a9589
+palette = 7=#dcd7ba
+palette = 8=#54546d
+palette = 9=#c34043
+palette = 10=#76946a
+palette = 11=#c0a36e
+palette = 12=#7e9cd8
+palette = 13=#957fb8
+palette = 14=#6a9589
+palette = 15=#717c7c
+
+# Foreground & background colors
+background = 1f1f28
+foreground = dcd7ba
+cursor-color = dcd7ba
+selection-background = 223249
+selection-foreground = dcd7ba
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = dcd7ba
+macos-icon-screen-color = 1f1f28

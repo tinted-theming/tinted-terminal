@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Green Screen theme for Ghostty
+# Scheme Author: Chris Kempson (http://chriskempson.com)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#001100
+palette = 1=#007700
+palette = 2=#00bb00
+palette = 3=#007700
+palette = 4=#009900
+palette = 5=#00bb00
+palette = 6=#005500
+palette = 7=#00bb00
+palette = 8=#007700
+palette = 9=#007700
+palette = 10=#00bb00
+palette = 11=#007700
+palette = 12=#009900
+palette = 13=#00bb00
+palette = 14=#005500
+palette = 15=#00ff00
+
+# Foreground & background colors
+background = 001100
+foreground = 00bb00
+cursor-color = 00bb00
+selection-background = 005500
+selection-foreground = 00bb00
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 00bb00
+macos-icon-screen-color = 001100

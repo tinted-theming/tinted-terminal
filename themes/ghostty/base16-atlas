@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Atlas theme for Ghostty
+# Scheme Author: Alex Lende (https://ajlende.com)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#002635
+palette = 1=#ff5a67
+palette = 2=#7fc06e
+palette = 3=#ffcc1b
+palette = 4=#14747e
+palette = 5=#9a70a4
+palette = 6=#5dd7b9
+palette = 7=#a1a19a
+palette = 8=#6c8b91
+palette = 9=#ff5a67
+palette = 10=#7fc06e
+palette = 11=#ffcc1b
+palette = 12=#14747e
+palette = 13=#9a70a4
+palette = 14=#5dd7b9
+palette = 15=#fafaf8
+
+# Foreground & background colors
+background = 002635
+foreground = a1a19a
+cursor-color = a1a19a
+selection-background = 517f8d
+selection-foreground = a1a19a
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = a1a19a
+macos-icon-screen-color = 002635

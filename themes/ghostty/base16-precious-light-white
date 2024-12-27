@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Precious Light White theme for Ghostty
+# Scheme Author: 4lex4 &lt;4lex49@zoho.com&gt;
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#ffffff
+palette = 1=#af4947
+palette = 2=#557301
+palette = 3=#876500
+palette = 4=#186daa
+palette = 5=#7b4ecb
+palette = 6=#087767
+palette = 7=#555555
+palette = 8=#848484
+palette = 9=#af4947
+palette = 10=#557301
+palette = 11=#876500
+palette = 12=#186daa
+palette = 13=#7b4ecb
+palette = 14=#087767
+palette = 15=#555555
+
+# Foreground & background colors
+background = ffffff
+foreground = 555555
+cursor-color = 555555
+selection-background = dbdbdb
+selection-foreground = 555555
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 555555
+macos-icon-screen-color = ffffff

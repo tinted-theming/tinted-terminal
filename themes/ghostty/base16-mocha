@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Mocha theme for Ghostty
+# Scheme Author: Chris Kempson (http://chriskempson.com)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#3b3228
+palette = 1=#cb6077
+palette = 2=#beb55b
+palette = 3=#f4bc87
+palette = 4=#8ab3b5
+palette = 5=#a89bb9
+palette = 6=#7bbda4
+palette = 7=#d0c8c6
+palette = 8=#7e705a
+palette = 9=#cb6077
+palette = 10=#beb55b
+palette = 11=#f4bc87
+palette = 12=#8ab3b5
+palette = 13=#a89bb9
+palette = 14=#7bbda4
+palette = 15=#f5eeeb
+
+# Foreground & background colors
+background = 3b3228
+foreground = d0c8c6
+cursor-color = d0c8c6
+selection-background = 645240
+selection-foreground = d0c8c6
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = d0c8c6
+macos-icon-screen-color = 3b3228

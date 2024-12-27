@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Horizon Terminal Light theme for Ghostty
+# Scheme Author: Michaël Ball (http://github.com/michael-ball/)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#fdf0ed
+palette = 1=#e95678
+palette = 2=#29d398
+palette = 3=#fadad1
+palette = 4=#26bbd9
+palette = 5=#ee64ac
+palette = 6=#59e1e3
+palette = 7=#403c3d
+palette = 8=#bdb3b1
+palette = 9=#e95678
+palette = 10=#29d398
+palette = 11=#fadad1
+palette = 12=#26bbd9
+palette = 13=#ee64ac
+palette = 14=#59e1e3
+palette = 15=#201c1d
+
+# Foreground & background colors
+background = fdf0ed
+foreground = 403c3d
+cursor-color = 403c3d
+selection-background = f9cbbe
+selection-foreground = 403c3d
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 403c3d
+macos-icon-screen-color = fdf0ed

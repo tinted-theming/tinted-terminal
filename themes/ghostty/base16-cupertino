@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Cupertino theme for Ghostty
+# Scheme Author: Defman21
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#ffffff
+palette = 1=#c41a15
+palette = 2=#007400
+palette = 3=#826b28
+palette = 4=#0000ff
+palette = 5=#a90d91
+palette = 6=#318495
+palette = 7=#404040
+palette = 8=#808080
+palette = 9=#c41a15
+palette = 10=#007400
+palette = 11=#826b28
+palette = 12=#0000ff
+palette = 13=#a90d91
+palette = 14=#318495
+palette = 15=#5e5e5e
+
+# Foreground & background colors
+background = ffffff
+foreground = 404040
+cursor-color = 404040
+selection-background = c0c0c0
+selection-foreground = 404040
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 404040
+macos-icon-screen-color = ffffff

@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Primer Dark Dimmed theme for Ghostty
+# Scheme Author: Jimmy Lin
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#1c2128
+palette = 1=#f47067
+palette = 2=#57ab5a
+palette = 3=#c69026
+palette = 4=#539bf5
+palette = 5=#e275ad
+palette = 6=#96d0ff
+palette = 7=#909dab
+palette = 8=#545d68
+palette = 9=#f47067
+palette = 10=#57ab5a
+palette = 11=#c69026
+palette = 12=#539bf5
+palette = 13=#e275ad
+palette = 14=#96d0ff
+palette = 15=#cdd9e5
+
+# Foreground & background colors
+background = 1c2128
+foreground = 909dab
+cursor-color = 909dab
+selection-background = 444c56
+selection-foreground = 909dab
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 909dab
+macos-icon-screen-color = 1c2128

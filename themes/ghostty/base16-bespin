@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Bespin theme for Ghostty
+# Scheme Author: Jan T. Sott
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#28211c
+palette = 1=#cf6a4c
+palette = 2=#54be0d
+palette = 3=#f9ee98
+palette = 4=#5ea6ea
+palette = 5=#9b859d
+palette = 6=#afc4db
+palette = 7=#8a8986
+palette = 8=#666666
+palette = 9=#cf6a4c
+palette = 10=#54be0d
+palette = 11=#f9ee98
+palette = 12=#5ea6ea
+palette = 13=#9b859d
+palette = 14=#afc4db
+palette = 15=#baae9e
+
+# Foreground & background colors
+background = 28211c
+foreground = 8a8986
+cursor-color = 8a8986
+selection-background = 5e5d5c
+selection-foreground = 8a8986
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 8a8986
+macos-icon-screen-color = 28211c

@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Zenbones theme for Ghostty
+# Scheme Author: mcchrish
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#191919
+palette = 1=#3d3839
+palette = 2=#d68c67
+palette = 3=#8bae68
+palette = 4=#cf86c1
+palette = 5=#65b8c1
+palette = 6=#61abda
+palette = 7=#b279a7
+palette = 8=#b77e64
+palette = 9=#3d3839
+palette = 10=#d68c67
+palette = 11=#8bae68
+palette = 12=#cf86c1
+palette = 13=#65b8c1
+palette = 14=#61abda
+palette = 15=#bbbbbb
+
+# Foreground & background colors
+background = 191919
+foreground = b279a7
+cursor-color = b279a7
+selection-background = 819b69
+selection-foreground = b279a7
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = b279a7
+macos-icon-screen-color = 191919

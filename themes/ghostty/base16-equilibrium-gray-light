@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Equilibrium Gray Light theme for Ghostty
+# Scheme Author: Carlo Abelli
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#f1f1f1
+palette = 1=#d02023
+palette = 2=#637200
+palette = 3=#9d6f00
+palette = 4=#0073b5
+palette = 5=#4e66b6
+palette = 6=#007a72
+palette = 7=#474747
+palette = 8=#777777
+palette = 9=#d02023
+palette = 10=#637200
+palette = 11=#9d6f00
+palette = 12=#0073b5
+palette = 13=#4e66b6
+palette = 14=#007a72
+palette = 15=#1b1b1b
+
+# Foreground & background colors
+background = f1f1f1
+foreground = 474747
+cursor-color = 474747
+selection-background = d4d4d4
+selection-foreground = 474747
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 474747
+macos-icon-screen-color = f1f1f1

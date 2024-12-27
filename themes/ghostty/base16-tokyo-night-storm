@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Tokyo Night Storm theme for Ghostty
+# Scheme Author: Michaël Ball
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#24283b
+palette = 1=#c0caf5
+palette = 2=#9ece6a
+palette = 3=#0db9d7
+palette = 4=#2ac3de
+palette = 5=#bb9af7
+palette = 6=#b4f9f8
+palette = 7=#a9b1d6
+palette = 8=#444b6a
+palette = 9=#c0caf5
+palette = 10=#9ece6a
+palette = 11=#0db9d7
+palette = 12=#2ac3de
+palette = 13=#bb9af7
+palette = 14=#b4f9f8
+palette = 15=#d5d6db
+
+# Foreground & background colors
+background = 24283b
+foreground = a9b1d6
+cursor-color = a9b1d6
+selection-background = 343a52
+selection-foreground = a9b1d6
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = a9b1d6
+macos-icon-screen-color = 24283b

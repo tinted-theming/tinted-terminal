@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Oxocarbon Dark theme for Ghostty
+# Scheme Author: shaunsingh/IBM
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#161616
+palette = 1=#3ddbd9
+palette = 2=#33b1ff
+palette = 3=#ee5396
+palette = 4=#42be65
+palette = 5=#be95ff
+palette = 6=#ff7eb6
+palette = 7=#f2f4f8
+palette = 8=#525252
+palette = 9=#3ddbd9
+palette = 10=#33b1ff
+palette = 11=#ee5396
+palette = 12=#42be65
+palette = 13=#be95ff
+palette = 14=#ff7eb6
+palette = 15=#08bdba
+
+# Foreground & background colors
+background = 161616
+foreground = f2f4f8
+cursor-color = f2f4f8
+selection-background = 393939
+selection-foreground = f2f4f8
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = f2f4f8
+macos-icon-screen-color = 161616

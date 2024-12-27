@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# UwUnicorn theme for Ghostty
+# Scheme Author: Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#241b26
+palette = 1=#877bb6
+palette = 2=#c965bf
+palette = 3=#a84a73
+palette = 4=#6a9eb5
+palette = 5=#78a38f
+palette = 6=#9c5fce
+palette = 7=#eed5d9
+palette = 8=#6c3cb2
+palette = 9=#877bb6
+palette = 10=#c965bf
+palette = 11=#a84a73
+palette = 12=#6a9eb5
+palette = 13=#78a38f
+palette = 14=#9c5fce
+palette = 15=#e4ccd0
+
+# Foreground & background colors
+background = 241b26
+foreground = eed5d9
+cursor-color = eed5d9
+selection-background = 46354a
+selection-foreground = eed5d9
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = eed5d9
+macos-icon-screen-color = 241b26

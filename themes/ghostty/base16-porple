@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Porple theme for Ghostty
+# Scheme Author: Niek den Breeje (https://github.com/AuditeMarlow)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#292c36
+palette = 1=#f84547
+palette = 2=#95c76f
+palette = 3=#efa16b
+palette = 4=#8485ce
+palette = 5=#b74989
+palette = 6=#64878f
+palette = 7=#d8d8d8
+palette = 8=#65568a
+palette = 9=#f84547
+palette = 10=#95c76f
+palette = 11=#efa16b
+palette = 12=#8485ce
+palette = 13=#b74989
+palette = 14=#64878f
+palette = 15=#f8f8f8
+
+# Foreground & background colors
+background = 292c36
+foreground = d8d8d8
+cursor-color = d8d8d8
+selection-background = 474160
+selection-foreground = d8d8d8
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = d8d8d8
+macos-icon-screen-color = 292c36

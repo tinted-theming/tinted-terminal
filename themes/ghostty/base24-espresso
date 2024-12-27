@@ -1,0 +1,41 @@
+# vim: ft=ghostty
+# Espresso theme for Ghostty
+# Scheme Author: FredHappyface (https://github.com/fredHappyface)
+# Scheme System: base24
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#262626
+palette = 1=#d25151
+palette = 2=#a5c261
+palette = 3=#8ab7d9
+palette = 4=#6c99bb
+palette = 5=#d197d9
+palette = 6=#bed6ff
+palette = 7=#eeeeec
+palette = 8=#535353
+palette = 9=#f00c0c
+palette = 10=#c2e075
+palette = 11=#e1e38b
+palette = 12=#8ab7d9
+palette = 13=#efb5f7
+palette = 14=#dcf3ff
+palette = 15=#ffffff
+palette = 16=#ffc66d
+palette = 17=#692828
+palette = 18=#343434
+palette = 19=#535353
+palette = 20=#a0a09f
+palette = 21=#eeeeec
+
+# Foreground & background colors
+background = 262626
+foreground = c7c7c5
+cursor-color = c7c7c5
+selection-background = 535353
+selection-foreground = c7c7c5
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = c7c7c5
+macos-icon-screen-color = 262626

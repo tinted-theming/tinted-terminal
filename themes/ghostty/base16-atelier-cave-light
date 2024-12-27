@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Atelier Cave Light theme for Ghostty
+# Scheme Author: Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#efecf4
+palette = 1=#be4678
+palette = 2=#2a9292
+palette = 3=#a06e3b
+palette = 4=#576ddb
+palette = 5=#955ae7
+palette = 6=#398bc6
+palette = 7=#585260
+palette = 8=#7e7887
+palette = 9=#be4678
+palette = 10=#2a9292
+palette = 11=#a06e3b
+palette = 12=#576ddb
+palette = 13=#955ae7
+palette = 14=#398bc6
+palette = 15=#19171c
+
+# Foreground & background colors
+background = efecf4
+foreground = 585260
+cursor-color = 585260
+selection-background = 8b8792
+selection-foreground = 585260
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 585260
+macos-icon-screen-color = efecf4

@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Edge Light theme for Ghostty
+# Scheme Author: cjayross (https://github.com/cjayross)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#fafafa
+palette = 1=#db7070
+palette = 2=#7c9f4b
+palette = 3=#d69822
+palette = 4=#6587bf
+palette = 5=#b870ce
+palette = 6=#509c93
+palette = 7=#5e646f
+palette = 8=#5e646f
+palette = 9=#db7070
+palette = 10=#7c9f4b
+palette = 11=#d69822
+palette = 12=#6587bf
+palette = 13=#b870ce
+palette = 14=#509c93
+palette = 15=#5e646f
+
+# Foreground & background colors
+background = fafafa
+foreground = 5e646f
+cursor-color = 5e646f
+selection-background = d69822
+selection-foreground = 5e646f
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 5e646f
+macos-icon-screen-color = fafafa

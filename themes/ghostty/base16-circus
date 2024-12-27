@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Circus theme for Ghostty
+# Scheme Author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#191919
+palette = 1=#dc657d
+palette = 2=#84b97c
+palette = 3=#c3ba63
+palette = 4=#639ee4
+palette = 5=#b888e2
+palette = 6=#4bb1a7
+palette = 7=#a7a7a7
+palette = 8=#5f5a60
+palette = 9=#dc657d
+palette = 10=#84b97c
+palette = 11=#c3ba63
+palette = 12=#639ee4
+palette = 13=#b888e2
+palette = 14=#4bb1a7
+palette = 15=#ffffff
+
+# Foreground & background colors
+background = 191919
+foreground = a7a7a7
+cursor-color = a7a7a7
+selection-background = 303030
+selection-foreground = a7a7a7
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = a7a7a7
+macos-icon-screen-color = 191919

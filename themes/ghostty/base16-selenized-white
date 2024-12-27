@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# selenized-white theme for Ghostty
+# Scheme Author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#ffffff
+palette = 1=#bf0000
+palette = 2=#008400
+palette = 3=#af8500
+palette = 4=#0054cf
+palette = 5=#6b40c3
+palette = 6=#009a8a
+palette = 7=#474747
+palette = 8=#878787
+palette = 9=#bf0000
+palette = 10=#008400
+palette = 11=#af8500
+palette = 12=#0054cf
+palette = 13=#6b40c3
+palette = 14=#009a8a
+palette = 15=#282828
+
+# Foreground & background colors
+background = ffffff
+foreground = 474747
+cursor-color = 474747
+selection-background = cdcdcd
+selection-foreground = 474747
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 474747
+macos-icon-screen-color = ffffff

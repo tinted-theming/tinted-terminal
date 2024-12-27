@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# IR Black theme for Ghostty
+# Scheme Author: Timothée Poisot (http://timotheepoisot.fr)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#000000
+palette = 1=#ff6c60
+palette = 2=#a8ff60
+palette = 3=#ffffb6
+palette = 4=#96cbfe
+palette = 5=#ff73fd
+palette = 6=#c6c5fe
+palette = 7=#b5b3aa
+palette = 8=#6c6c66
+palette = 9=#ff6c60
+palette = 10=#a8ff60
+palette = 11=#ffffb6
+palette = 12=#96cbfe
+palette = 13=#ff73fd
+palette = 14=#c6c5fe
+palette = 15=#fdfbee
+
+# Foreground & background colors
+background = 000000
+foreground = b5b3aa
+cursor-color = b5b3aa
+selection-background = 484844
+selection-foreground = b5b3aa
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = b5b3aa
+macos-icon-screen-color = 000000

@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Windows NT theme for Ghostty
+# Scheme Author: Fergus Collins (https://github.com/C-Fergus)
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#000000
+palette = 1=#ff0000
+palette = 2=#00ff00
+palette = 3=#ffff00
+palette = 4=#0000ff
+palette = 5=#ff00ff
+palette = 6=#00ffff
+palette = 7=#c0c0c0
+palette = 8=#808080
+palette = 9=#ff0000
+palette = 10=#00ff00
+palette = 11=#ffff00
+palette = 12=#0000ff
+palette = 13=#ff00ff
+palette = 14=#00ffff
+palette = 15=#ffffff
+
+# Foreground & background colors
+background = 000000
+foreground = c0c0c0
+cursor-color = c0c0c0
+selection-background = 555555
+selection-foreground = c0c0c0
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = c0c0c0
+macos-icon-screen-color = 000000

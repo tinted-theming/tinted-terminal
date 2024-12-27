@@ -1,0 +1,35 @@
+# vim: ft=ghostty
+# Humanoid light theme for Ghostty
+# Scheme Author: Thomas (tasmo) Friese
+# Scheme System: base16
+# Template Author: Bez Hermoso
+
+# Color palette
+palette = 0=#f8f8f2
+palette = 1=#b0151a
+palette = 2=#388e3c
+palette = 3=#ffb627
+palette = 4=#0082c9
+palette = 5=#700f98
+palette = 6=#008e8e
+palette = 7=#232629
+palette = 8=#c0c0bd
+palette = 9=#b0151a
+palette = 10=#388e3c
+palette = 11=#ffb627
+palette = 12=#0082c9
+palette = 13=#700f98
+palette = 14=#008e8e
+palette = 15=#070708
+
+# Foreground & background colors
+background = f8f8f2
+foreground = 232629
+cursor-color = 232629
+selection-background = deded8
+selection-foreground = 232629
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 232629
+macos-icon-screen-color = f8f8f2
