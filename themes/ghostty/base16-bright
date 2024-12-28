@@ -2,7 +2,7 @@
 # Bright theme for Ghostty
 # Scheme Author: Chris Kempson (http://chriskempson.com)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#000000
@@ -13,7 +13,7 @@ palette = 4=#6fb3d2
 palette = 5=#d381c3
 palette = 6=#76c7b7
 palette = 7=#e0e0e0
-palette = 8=#b0b0b0
+palette = 8=#505050
 palette = 9=#fb0120
 palette = 10=#a1c659
 palette = 11=#fda331
@@ -21,6 +21,12 @@ palette = 12=#6fb3d2
 palette = 13=#d381c3
 palette = 14=#76c7b7
 palette = 15=#ffffff
+palette = 16=#fc6d24
+palette = 17=#be643c
+palette = 18=#303030
+palette = 19=#505050
+palette = 20=#d0d0d0
+palette = 21=#f5f5f5
 
 # Foreground & background colors
 background = 000000

@@ -2,7 +2,7 @@
 # Porple theme for Ghostty
 # Scheme Author: Niek den Breeje (https://github.com/AuditeMarlow)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#292c36
@@ -13,7 +13,7 @@ palette = 4=#8485ce
 palette = 5=#b74989
 palette = 6=#64878f
 palette = 7=#d8d8d8
-palette = 8=#65568a
+palette = 8=#474160
 palette = 9=#f84547
 palette = 10=#95c76f
 palette = 11=#efa16b
@@ -21,6 +21,12 @@ palette = 12=#8485ce
 palette = 13=#b74989
 palette = 14=#64878f
 palette = 15=#f8f8f8
+palette = 16=#d28e5d
+palette = 17=#986841
+palette = 18=#333344
+palette = 19=#474160
+palette = 20=#b8b8b8
+palette = 21=#e8e8e8
 
 # Foreground & background colors
 background = 292c36

@@ -2,7 +2,7 @@
 # Unikitty Light theme for Ghostty
 # Scheme Author: Josh W Lewis (@joshwlewis)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#ffffff
@@ -13,7 +13,7 @@ palette = 4=#775dff
 palette = 5=#aa17e6
 palette = 6=#149bda
 palette = 7=#6c696e
-palette = 8=#a7a5a8
+palette = 8=#c4c3c5
 palette = 9=#d8137f
 palette = 10=#17ad98
 palette = 11=#dc8a0e
@@ -21,6 +21,12 @@ palette = 12=#775dff
 palette = 13=#aa17e6
 palette = 14=#149bda
 palette = 15=#322d34
+palette = 16=#d65407
+palette = 17=#e013d0
+palette = 18=#e1e1e2
+palette = 19=#c4c3c5
+palette = 20=#89878b
+palette = 21=#4f4b51
 
 # Foreground & background colors
 background = ffffff

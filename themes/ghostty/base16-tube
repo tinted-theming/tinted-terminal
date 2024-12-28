@@ -2,7 +2,7 @@
 # London Tube theme for Ghostty
 # Scheme Author: Jan T. Sott
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#231f20
@@ -13,7 +13,7 @@ palette = 4=#009ddc
 palette = 5=#98005d
 palette = 6=#85cebc
 palette = 7=#d9d8d8
-palette = 8=#737171
+palette = 8=#5a5758
 palette = 9=#ee2e24
 palette = 10=#00853e
 palette = 11=#ffd204
@@ -21,6 +21,12 @@ palette = 12=#009ddc
 palette = 13=#98005d
 palette = 14=#85cebc
 palette = 15=#ffffff
+palette = 16=#f386a1
+palette = 17=#b06110
+palette = 18=#1c3f95
+palette = 19=#5a5758
+palette = 20=#959ca1
+palette = 21=#e7e7e8
 
 # Foreground & background colors
 background = 231f20

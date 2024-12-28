@@ -2,7 +2,7 @@
 # Default Light theme for Ghostty
 # Scheme Author: Chris Kempson (http://chriskempson.com)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#f8f8f8
@@ -13,7 +13,7 @@ palette = 4=#7cafc2
 palette = 5=#ba8baf
 palette = 6=#86c1b9
 palette = 7=#383838
-palette = 8=#b8b8b8
+palette = 8=#d8d8d8
 palette = 9=#ab4642
 palette = 10=#a1b56c
 palette = 11=#f7ca88
@@ -21,6 +21,12 @@ palette = 12=#7cafc2
 palette = 13=#ba8baf
 palette = 14=#86c1b9
 palette = 15=#181818
+palette = 16=#dc9656
+palette = 17=#a16946
+palette = 18=#e8e8e8
+palette = 19=#d8d8d8
+palette = 20=#585858
+palette = 21=#282828
 
 # Foreground & background colors
 background = f8f8f8

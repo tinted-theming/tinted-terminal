@@ -2,7 +2,7 @@
 # Qualia theme for Ghostty
 # Scheme Author: isaacwhanson
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#101010
@@ -21,6 +21,12 @@ palette = 12=#50cacd
 palette = 13=#e0af85
 palette = 14=#c8c874
 palette = 15=#454545
+palette = 16=#a3b8ef
+palette = 17=#808080
+palette = 18=#454545
+palette = 19=#454545
+palette = 20=#808080
+palette = 21=#c0c0c0
 
 # Foreground & background colors
 background = 101010

@@ -2,7 +2,7 @@
 # tarot theme for Ghostty
 # Scheme Author: ed (https://codeberg.org/ed)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#0e091d
@@ -13,7 +13,7 @@ palette = 4=#6e6080
 palette = 5=#a45782
 palette = 6=#8c9785
 palette = 7=#aa556f
-palette = 8=#74316b
+palette = 8=#4b2054
 palette = 9=#c53253
 palette = 10=#a68e5a
 palette = 11=#ff6565
@@ -21,6 +21,12 @@ palette = 12=#6e6080
 palette = 13=#a45782
 palette = 14=#8c9785
 palette = 15=#dc8f7c
+palette = 16=#ea4d60
+palette = 17=#984d51
+palette = 18=#2a153c
+palette = 19=#4b2054
+palette = 20=#8c406f
+palette = 21=#c4686d
 
 # Foreground & background colors
 background = 0e091d

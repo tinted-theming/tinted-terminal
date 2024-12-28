@@ -2,7 +2,7 @@
 # Atelier Heath Light theme for Ghostty
 # Scheme Author: Bram de Haan (http://atelierbramdehaan.nl)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#f7f3f7
@@ -13,7 +13,7 @@ palette = 4=#516aec
 palette = 5=#7b59c0
 palette = 6=#159393
 palette = 7=#695d69
-palette = 8=#9e8f9e
+palette = 8=#ab9bab
 palette = 9=#ca402b
 palette = 10=#918b3b
 palette = 11=#bb8a35
@@ -21,6 +21,12 @@ palette = 12=#516aec
 palette = 13=#7b59c0
 palette = 14=#159393
 palette = 15=#1b181b
+palette = 16=#a65926
+palette = 17=#cc33cc
+palette = 18=#d8cad8
+palette = 19=#ab9bab
+palette = 20=#776977
+palette = 21=#292329
 
 # Foreground & background colors
 background = f7f3f7

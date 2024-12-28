@@ -2,7 +2,7 @@
 # Atlas theme for Ghostty
 # Scheme Author: Alex Lende (https://ajlende.com)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#002635
@@ -13,7 +13,7 @@ palette = 4=#14747e
 palette = 5=#9a70a4
 palette = 6=#5dd7b9
 palette = 7=#a1a19a
-palette = 8=#6c8b91
+palette = 8=#517f8d
 palette = 9=#ff5a67
 palette = 10=#7fc06e
 palette = 11=#ffcc1b
@@ -21,6 +21,12 @@ palette = 12=#14747e
 palette = 13=#9a70a4
 palette = 14=#5dd7b9
 palette = 15=#fafaf8
+palette = 16=#f08e48
+palette = 17=#c43060
+palette = 18=#00384d
+palette = 19=#517f8d
+palette = 20=#869696
+palette = 21=#e6e6dc
 
 # Foreground & background colors
 background = 002635

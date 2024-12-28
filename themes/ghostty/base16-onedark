@@ -2,7 +2,7 @@
 # OneDark theme for Ghostty
 # Scheme Author: Lalit Magant (http://github.com/tilal6991)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#282c34
@@ -13,7 +13,7 @@ palette = 4=#61afef
 palette = 5=#c678dd
 palette = 6=#56b6c2
 palette = 7=#abb2bf
-palette = 8=#545862
+palette = 8=#3e4451
 palette = 9=#e06c75
 palette = 10=#98c379
 palette = 11=#e5c07b
@@ -21,6 +21,12 @@ palette = 12=#61afef
 palette = 13=#c678dd
 palette = 14=#56b6c2
 palette = 15=#c8ccd4
+palette = 16=#d19a66
+palette = 17=#be5046
+palette = 18=#353b45
+palette = 19=#3e4451
+palette = 20=#565c64
+palette = 21=#b6bdca
 
 # Foreground & background colors
 background = 282c34

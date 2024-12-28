@@ -2,7 +2,7 @@
 # Embers theme for Ghostty
 # Scheme Author: Jannik Siebert (https://github.com/janniks)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#16130f
@@ -13,7 +13,7 @@ palette = 4=#6d5782
 palette = 5=#82576d
 palette = 6=#576d82
 palette = 7=#a39a90
-palette = 8=#5a5047
+palette = 8=#433b32
 palette = 9=#826d57
 palette = 10=#57826d
 palette = 11=#6d8257
@@ -21,6 +21,12 @@ palette = 12=#6d5782
 palette = 13=#82576d
 palette = 14=#576d82
 palette = 15=#dbd6d1
+palette = 16=#828257
+palette = 17=#825757
+palette = 18=#2c2620
+palette = 19=#433b32
+palette = 20=#8a8075
+palette = 21=#beb6ae
 
 # Foreground & background colors
 background = 16130f

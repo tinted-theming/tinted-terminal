@@ -2,7 +2,7 @@
 # Rosé Pine Moon theme for Ghostty
 # Scheme Author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#232136
@@ -13,7 +13,7 @@ palette = 4=#c4a7e7
 palette = 5=#f6c177
 palette = 6=#9ccfd8
 palette = 7=#e0def4
-palette = 8=#6e6a86
+palette = 8=#393552
 palette = 9=#eb6f92
 palette = 10=#3e8fb0
 palette = 11=#ea9a97
@@ -21,6 +21,12 @@ palette = 12=#c4a7e7
 palette = 13=#f6c177
 palette = 14=#9ccfd8
 palette = 15=#56526e
+palette = 16=#f6c177
+palette = 17=#56526e
+palette = 18=#2a273f
+palette = 19=#393552
+palette = 20=#908caa
+palette = 21=#e0def4
 
 # Foreground & background colors
 background = 232136

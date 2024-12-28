@@ -2,7 +2,7 @@
 # iA Light theme for Ghostty
 # Scheme Author: iA Inc. (modified by aramisgithub)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#f6f6f6
@@ -13,7 +13,7 @@ palette = 4=#48bac2
 palette = 5=#a94598
 palette = 6=#2d6bb1
 palette = 7=#181818
-palette = 8=#898989
+palette = 8=#bde5f2
 palette = 9=#9c5a02
 palette = 10=#38781c
 palette = 11=#c48218
@@ -21,6 +21,12 @@ palette = 12=#48bac2
 palette = 13=#a94598
 palette = 14=#2d6bb1
 palette = 15=#f8f8f8
+palette = 16=#c43e18
+palette = 17=#8b6c37
+palette = 18=#dedede
+palette = 19=#bde5f2
+palette = 20=#767676
+palette = 21=#e8e8e8
 
 # Foreground & background colors
 background = f6f6f6

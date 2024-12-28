@@ -2,7 +2,7 @@
 # tender theme for Ghostty
 # Scheme Author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#282828
@@ -13,7 +13,7 @@ palette = 4=#b3deef
 palette = 5=#d3b987
 palette = 6=#73cef4
 palette = 7=#eeeeee
-palette = 8=#4c4c4c
+palette = 8=#484848
 palette = 9=#f43753
 palette = 10=#c9d05c
 palette = 11=#ffc24b
@@ -21,6 +21,12 @@ palette = 12=#b3deef
 palette = 13=#d3b987
 palette = 14=#73cef4
 palette = 15=#feffff
+palette = 16=#dc9656
+palette = 17=#a16946
+palette = 18=#383838
+palette = 19=#484848
+palette = 20=#b8b8b8
+palette = 21=#e8e8e8
 
 # Foreground & background colors
 background = 282828

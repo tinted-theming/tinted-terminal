@@ -2,7 +2,7 @@
 # Jabuti theme for Ghostty
 # Scheme Author: https://github.com/notusknot
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#292a37
@@ -13,7 +13,7 @@ palette = 4=#3fc6de
 palette = 5=#be95ff
 palette = 6=#ff7eb6
 palette = 7=#c0cbe3
-palette = 8=#45475d
+palette = 8=#3c3e51
 palette = 9=#ec6a88
 palette = 10=#3fdaa4
 palette = 11=#e1c697
@@ -21,6 +21,12 @@ palette = 12=#3fc6de
 palette = 13=#be95ff
 palette = 14=#ff7eb6
 palette = 15=#ffffff
+palette = 16=#efb993
+palette = 17=#8b8da9
+palette = 18=#343545
+palette = 19=#3c3e51
+palette = 20=#50526b
+palette = 21=#d9e0ee
 
 # Foreground & background colors
 background = 292a37

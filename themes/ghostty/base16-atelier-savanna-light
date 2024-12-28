@@ -2,7 +2,7 @@
 # Atelier Savanna Light theme for Ghostty
 # Scheme Author: Bram de Haan (http://atelierbramdehaan.nl)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#ecf4ee
@@ -13,7 +13,7 @@ palette = 4=#478c90
 palette = 5=#55859b
 palette = 6=#1c9aa0
 palette = 7=#526057
-palette = 8=#78877d
+palette = 8=#87928a
 palette = 9=#b16139
 palette = 10=#489963
 palette = 11=#a07e3b
@@ -21,6 +21,12 @@ palette = 12=#478c90
 palette = 13=#55859b
 palette = 14=#1c9aa0
 palette = 15=#171c19
+palette = 16=#9f713c
+palette = 17=#867469
+palette = 18=#dfe7e2
+palette = 19=#87928a
+palette = 20=#5f6d64
+palette = 21=#232a25
 
 # Foreground & background colors
 background = ecf4ee

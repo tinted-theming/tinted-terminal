@@ -2,7 +2,7 @@
 # Mocha theme for Ghostty
 # Scheme Author: Chris Kempson (http://chriskempson.com)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#3b3228
@@ -13,7 +13,7 @@ palette = 4=#8ab3b5
 palette = 5=#a89bb9
 palette = 6=#7bbda4
 palette = 7=#d0c8c6
-palette = 8=#7e705a
+palette = 8=#645240
 palette = 9=#cb6077
 palette = 10=#beb55b
 palette = 11=#f4bc87
@@ -21,6 +21,12 @@ palette = 12=#8ab3b5
 palette = 13=#a89bb9
 palette = 14=#7bbda4
 palette = 15=#f5eeeb
+palette = 16=#d28b71
+palette = 17=#bb9584
+palette = 18=#534636
+palette = 19=#645240
+palette = 20=#b8afad
+palette = 21=#e9e1dd
 
 # Foreground & background colors
 background = 3b3228

@@ -2,7 +2,7 @@
 # Ayu Dark theme for Ghostty
 # Scheme Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#0f1419
@@ -13,7 +13,7 @@ palette = 4=#59c2ff
 palette = 5=#d2a6ff
 palette = 6=#95e6cb
 palette = 7=#e6e1cf
-palette = 8=#3e4b59
+palette = 8=#272d38
 palette = 9=#f07178
 palette = 10=#b8cc52
 palette = 11=#ffb454
@@ -21,6 +21,12 @@ palette = 12=#59c2ff
 palette = 13=#d2a6ff
 palette = 14=#95e6cb
 palette = 15=#f3f4f5
+palette = 16=#ff8f40
+palette = 17=#e6b673
+palette = 18=#131721
+palette = 19=#272d38
+palette = 20=#bfbdb6
+palette = 21=#e6e1cf
 
 # Foreground & background colors
 background = 0f1419

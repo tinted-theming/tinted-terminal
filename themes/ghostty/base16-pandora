@@ -2,7 +2,7 @@
 # pandora theme for Ghostty
 # Scheme Author: Cassandra Fox
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#131213
@@ -13,7 +13,7 @@ palette = 4=#008080
 palette = 5=#a24030
 palette = 6=#714ca6
 palette = 7=#f15c99
-palette = 8=#ffbee3
+palette = 8=#472234
 palette = 9=#b00b69
 palette = 10=#9ddf69
 palette = 11=#ffcc00
@@ -21,6 +21,12 @@ palette = 12=#008080
 palette = 13=#a24030
 palette = 14=#714ca6
 palette = 15=#632227
+palette = 16=#ff9153
+palette = 17=#a24030
+palette = 18=#2f1823
+palette = 19=#472234
+palette = 20=#9b2a46
+palette = 21=#81506a
 
 # Foreground & background colors
 background = 131213

@@ -2,7 +2,7 @@
 # Atelier Seaside Light theme for Ghostty
 # Scheme Author: Bram de Haan (http://atelierbramdehaan.nl)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#f4fbf4
@@ -13,7 +13,7 @@ palette = 4=#3d62f5
 palette = 5=#ad2bee
 palette = 6=#1999b3
 palette = 7=#5e6e5e
-palette = 8=#809980
+palette = 8=#8ca68c
 palette = 9=#e6193c
 palette = 10=#29a329
 palette = 11=#98981b
@@ -21,6 +21,12 @@ palette = 12=#3d62f5
 palette = 13=#ad2bee
 palette = 14=#1999b3
 palette = 15=#131513
+palette = 16=#87711d
+palette = 17=#e619c3
+palette = 18=#cfe8cf
+palette = 19=#8ca68c
+palette = 20=#687d68
+palette = 21=#242924
 
 # Foreground & background colors
 background = f4fbf4

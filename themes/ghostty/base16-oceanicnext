@@ -2,7 +2,7 @@
 # OceanicNext theme for Ghostty
 # Scheme Author: https://github.com/voronianski/oceanic-next-color-scheme
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#1b2b34
@@ -13,7 +13,7 @@ palette = 4=#6699cc
 palette = 5=#c594c5
 palette = 6=#5fb3b3
 palette = 7=#c0c5ce
-palette = 8=#65737e
+palette = 8=#4f5b66
 palette = 9=#ec5f67
 palette = 10=#99c794
 palette = 11=#fac863
@@ -21,6 +21,12 @@ palette = 12=#6699cc
 palette = 13=#c594c5
 palette = 14=#5fb3b3
 palette = 15=#d8dee9
+palette = 16=#f99157
+palette = 17=#ab7967
+palette = 18=#343d46
+palette = 19=#4f5b66
+palette = 20=#a7adba
+palette = 21=#cdd3de
 
 # Foreground & background colors
 background = 1b2b34

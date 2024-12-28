@@ -2,7 +2,7 @@
 # Colors theme for Ghostty
 # Scheme Author: mrmrs (http://clrs.cc)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#111111
@@ -13,7 +13,7 @@ palette = 4=#0074d9
 palette = 5=#b10dc9
 palette = 6=#7fdbff
 palette = 7=#bbbbbb
-palette = 8=#777777
+palette = 8=#555555
 palette = 9=#ff4136
 palette = 10=#2ecc40
 palette = 11=#ffdc00
@@ -21,6 +21,12 @@ palette = 12=#0074d9
 palette = 13=#b10dc9
 palette = 14=#7fdbff
 palette = 15=#ffffff
+palette = 16=#ff851b
+palette = 17=#85144b
+palette = 18=#333333
+palette = 19=#555555
+palette = 20=#999999
+palette = 21=#dddddd
 
 # Foreground & background colors
 background = 111111

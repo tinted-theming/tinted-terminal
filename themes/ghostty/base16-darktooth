@@ -2,7 +2,7 @@
 # Darktooth theme for Ghostty
 # Scheme Author: Jason Milkins (https://github.com/jasonm23)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#1d2021
@@ -13,7 +13,7 @@ palette = 4=#0d6678
 palette = 5=#8f4673
 palette = 6=#8ba59b
 palette = 7=#a89984
-palette = 8=#665c54
+palette = 8=#504945
 palette = 9=#fb543f
 palette = 10=#95c085
 palette = 11=#fac03b
@@ -21,6 +21,12 @@ palette = 12=#0d6678
 palette = 13=#8f4673
 palette = 14=#8ba59b
 palette = 15=#fdf4c1
+palette = 16=#fe8625
+palette = 17=#a87322
+palette = 18=#32302f
+palette = 19=#504945
+palette = 20=#928374
+palette = 21=#d5c4a1
 
 # Foreground & background colors
 background = 1d2021

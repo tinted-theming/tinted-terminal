@@ -2,7 +2,7 @@
 # Framer theme for Ghostty
 # Scheme Author: Framer (Maintained by Jesse Hoyos)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#181818
@@ -13,7 +13,7 @@ palette = 4=#20bcfc
 palette = 5=#ba8cfc
 palette = 6=#acddfd
 palette = 7=#d0d0d0
-palette = 8=#747474
+palette = 8=#464646
 palette = 9=#fd886b
 palette = 10=#32ccdc
 palette = 11=#fecb6e
@@ -21,6 +21,12 @@ palette = 12=#20bcfc
 palette = 13=#ba8cfc
 palette = 14=#acddfd
 palette = 15=#eeeeee
+palette = 16=#fc4769
+palette = 17=#b15f4a
+palette = 18=#151515
+palette = 19=#464646
+palette = 20=#b9b9b9
+palette = 21=#e8e8e8
 
 # Foreground & background colors
 background = 181818

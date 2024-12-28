@@ -2,7 +2,7 @@
 # Paraiso theme for Ghostty
 # Scheme Author: Jan T. Sott
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#2f1e2e
@@ -13,7 +13,7 @@ palette = 4=#06b6ef
 palette = 5=#815ba4
 palette = 6=#5bc4bf
 palette = 7=#a39e9b
-palette = 8=#776e71
+palette = 8=#4f424c
 palette = 9=#ef6155
 palette = 10=#48b685
 palette = 11=#fec418
@@ -21,6 +21,12 @@ palette = 12=#06b6ef
 palette = 13=#815ba4
 palette = 14=#5bc4bf
 palette = 15=#e7e9db
+palette = 16=#f99b15
+palette = 17=#e96ba8
+palette = 18=#41323f
+palette = 19=#4f424c
+palette = 20=#8d8687
+palette = 21=#b9b6b0
 
 # Foreground & background colors
 background = 2f1e2e

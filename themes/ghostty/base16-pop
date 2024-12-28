@@ -2,7 +2,7 @@
 # Pop theme for Ghostty
 # Scheme Author: Chris Kempson (http://chriskempson.com)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#000000
@@ -13,7 +13,7 @@ palette = 4=#0e5a94
 palette = 5=#b31e8d
 palette = 6=#00aabb
 palette = 7=#d0d0d0
-palette = 8=#505050
+palette = 8=#303030
 palette = 9=#eb008a
 palette = 10=#37b349
 palette = 11=#f8ca12
@@ -21,6 +21,12 @@ palette = 12=#0e5a94
 palette = 13=#b31e8d
 palette = 14=#00aabb
 palette = 15=#ffffff
+palette = 16=#f29333
+palette = 17=#7a2d00
+palette = 18=#202020
+palette = 19=#303030
+palette = 20=#b0b0b0
+palette = 21=#e0e0e0
 
 # Foreground & background colors
 background = 000000

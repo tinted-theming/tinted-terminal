@@ -2,7 +2,7 @@
 # Ayu Mirage theme for Ghostty
 # Scheme Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#171b24
@@ -13,7 +13,7 @@ palette = 4=#5ccfe6
 palette = 5=#d4bfff
 palette = 6=#95e6cb
 palette = 7=#cccac2
-palette = 8=#707a8c
+palette = 8=#242936
 palette = 9=#f28779
 palette = 10=#d5ff80
 palette = 11=#ffd173
@@ -21,6 +21,12 @@ palette = 12=#5ccfe6
 palette = 13=#d4bfff
 palette = 14=#95e6cb
 palette = 15=#f3f4f5
+palette = 16=#ffad66
+palette = 17=#f29e74
+palette = 18=#1f2430
+palette = 19=#242936
+palette = 20=#8a9199
+palette = 21=#d9d7ce
 
 # Foreground & background colors
 background = 171b24

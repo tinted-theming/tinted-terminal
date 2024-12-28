@@ -2,7 +2,7 @@
 # dirtysea theme for Ghostty
 # Scheme Author: Kahlil (Kal) Hodgson
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#e0e0e0
@@ -13,7 +13,7 @@ palette = 4=#007300
 palette = 5=#000090
 palette = 6=#755b00
 palette = 7=#000000
-palette = 8=#707070
+palette = 8=#d0d0d0
 palette = 9=#840000
 palette = 10=#730073
 palette = 11=#755b00
@@ -21,6 +21,12 @@ palette = 12=#007300
 palette = 13=#000090
 palette = 14=#755b00
 palette = 15=#c4d9c4
+palette = 16=#006565
+palette = 17=#755b00
+palette = 18=#d0dad0
+palette = 19=#d0d0d0
+palette = 20=#202020
+palette = 21=#f8f8f8
 
 # Foreground & background colors
 background = e0e0e0

@@ -2,7 +2,7 @@
 # Materia theme for Ghostty
 # Scheme Author: Defman21
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#263238
@@ -13,7 +13,7 @@ palette = 4=#89ddff
 palette = 5=#82aaff
 palette = 6=#80cbc4
 palette = 7=#cdd3de
-palette = 8=#707880
+palette = 8=#37474f
 palette = 9=#ec5f67
 palette = 10=#8bd649
 palette = 11=#ffcc00
@@ -21,6 +21,12 @@ palette = 12=#89ddff
 palette = 13=#82aaff
 palette = 14=#80cbc4
 palette = 15=#ffffff
+palette = 16=#ea9560
+palette = 17=#ec5f67
+palette = 18=#2c393f
+palette = 19=#37474f
+palette = 20=#c9ccd3
+palette = 21=#d5dbe5
 
 # Foreground & background colors
 background = 263238

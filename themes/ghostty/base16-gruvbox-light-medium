@@ -2,7 +2,7 @@
 # Gruvbox light, medium theme for Ghostty
 # Scheme Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#fbf1c7
@@ -13,7 +13,7 @@ palette = 4=#076678
 palette = 5=#8f3f71
 palette = 6=#427b58
 palette = 7=#504945
-palette = 8=#bdae93
+palette = 8=#d5c4a1
 palette = 9=#9d0006
 palette = 10=#79740e
 palette = 11=#b57614
@@ -21,6 +21,12 @@ palette = 12=#076678
 palette = 13=#8f3f71
 palette = 14=#427b58
 palette = 15=#282828
+palette = 16=#af3a03
+palette = 17=#d65d0e
+palette = 18=#ebdbb2
+palette = 19=#d5c4a1
+palette = 20=#665c54
+palette = 21=#3c3836
 
 # Foreground & background colors
 background = fbf1c7

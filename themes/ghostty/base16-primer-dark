@@ -2,7 +2,7 @@
 # Primer Dark theme for Ghostty
 # Scheme Author: Jimmy Lin
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#010409
@@ -13,7 +13,7 @@ palette = 4=#58a6ff
 palette = 5=#f778ba
 palette = 6=#a5d6ff
 palette = 7=#b1bac4
-palette = 8=#484f58
+palette = 8=#30363d
 palette = 9=#ff7b72
 palette = 10=#3fb950
 palette = 11=#d29922
@@ -21,6 +21,12 @@ palette = 12=#58a6ff
 palette = 13=#f778ba
 palette = 14=#a5d6ff
 palette = 15=#f0f6fc
+palette = 16=#f0883e
+palette = 17=#bd561d
+palette = 18=#21262d
+palette = 19=#30363d
+palette = 20=#8b949e
+palette = 21=#c9d1d9
 
 # Foreground & background colors
 background = 010409

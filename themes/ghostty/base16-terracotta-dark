@@ -2,7 +2,7 @@
 # Terracotta Dark theme for Ghostty
 # Scheme Author: Alexander Rossell Hayes (https://github.com/rossellhayes)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#241d1a
@@ -13,7 +13,7 @@ palette = 4=#b0a4c3
 palette = 5=#d8a2b0
 palette = 6=#c0bcdb
 palette = 7=#b8a59d
-palette = 8=#594740
+palette = 8=#473933
 palette = 9=#f6998f
 palette = 10=#b6c68a
 palette = 11=#ffc37a
@@ -21,6 +21,12 @@ palette = 12=#b0a4c3
 palette = 13=#d8a2b0
 palette = 14=#c0bcdb
 palette = 15=#dcd2ce
+palette = 16=#ffa888
+palette = 17=#f1ae97
+palette = 18=#362b27
+palette = 19=#473933
+palette = 20=#a78e84
+palette = 21=#cabbb5
 
 # Foreground & background colors
 background = 241d1a

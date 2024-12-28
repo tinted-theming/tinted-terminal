@@ -2,7 +2,7 @@
 # Tomorrow Night Eighties theme for Ghostty
 # Scheme Author: Chris Kempson (http://chriskempson.com)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#2d2d2d
@@ -13,7 +13,7 @@ palette = 4=#6699cc
 palette = 5=#cc99cc
 palette = 6=#66cccc
 palette = 7=#cccccc
-palette = 8=#999999
+palette = 8=#515151
 palette = 9=#f2777a
 palette = 10=#99cc99
 palette = 11=#ffcc66
@@ -21,6 +21,12 @@ palette = 12=#6699cc
 palette = 13=#cc99cc
 palette = 14=#66cccc
 palette = 15=#ffffff
+palette = 16=#f99157
+palette = 17=#a3685a
+palette = 18=#393939
+palette = 19=#515151
+palette = 20=#b4b7b4
+palette = 21=#e0e0e0
 
 # Foreground & background colors
 background = 2d2d2d

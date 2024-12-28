@@ -2,7 +2,7 @@
 # Rosé Pine theme for Ghostty
 # Scheme Author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#191724
@@ -13,7 +13,7 @@ palette = 4=#c4a7e7
 palette = 5=#f6c177
 palette = 6=#9ccfd8
 palette = 7=#e0def4
-palette = 8=#6e6a86
+palette = 8=#26233a
 palette = 9=#eb6f92
 palette = 10=#31748f
 palette = 11=#ebbcba
@@ -21,6 +21,12 @@ palette = 12=#c4a7e7
 palette = 13=#f6c177
 palette = 14=#9ccfd8
 palette = 15=#524f67
+palette = 16=#f6c177
+palette = 17=#524f67
+palette = 18=#1f1d2e
+palette = 19=#26233a
+palette = 20=#908caa
+palette = 21=#e0def4
 
 # Foreground & background colors
 background = 191724

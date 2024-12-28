@@ -2,7 +2,7 @@
 # Spacemacs theme for Ghostty
 # Scheme Author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#1f2022
@@ -13,7 +13,7 @@ palette = 4=#4f97d7
 palette = 5=#a31db1
 palette = 6=#2d9574
 palette = 7=#a3a3a3
-palette = 8=#585858
+palette = 8=#444155
 palette = 9=#f2241f
 palette = 10=#67b11d
 palette = 11=#b1951d
@@ -21,6 +21,12 @@ palette = 12=#4f97d7
 palette = 13=#a31db1
 palette = 14=#2d9574
 palette = 15=#f8f8f8
+palette = 16=#ffa500
+palette = 17=#b03060
+palette = 18=#282828
+palette = 19=#444155
+palette = 20=#b8b8b8
+palette = 21=#e8e8e8
 
 # Foreground & background colors
 background = 1f2022

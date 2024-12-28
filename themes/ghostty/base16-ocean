@@ -2,7 +2,7 @@
 # Ocean theme for Ghostty
 # Scheme Author: Chris Kempson (http://chriskempson.com)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#2b303b
@@ -13,7 +13,7 @@ palette = 4=#8fa1b3
 palette = 5=#b48ead
 palette = 6=#96b5b4
 palette = 7=#c0c5ce
-palette = 8=#65737e
+palette = 8=#4f5b66
 palette = 9=#bf616a
 palette = 10=#a3be8c
 palette = 11=#ebcb8b
@@ -21,6 +21,12 @@ palette = 12=#8fa1b3
 palette = 13=#b48ead
 palette = 14=#96b5b4
 palette = 15=#eff1f5
+palette = 16=#d08770
+palette = 17=#ab7967
+palette = 18=#343d46
+palette = 19=#4f5b66
+palette = 20=#a7adba
+palette = 21=#dfe1e8
 
 # Foreground & background colors
 background = 2b303b

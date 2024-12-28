@@ -2,7 +2,7 @@
 # Aztec theme for Ghostty
 # Scheme Author: TheNeverMan (github.com/TheNeverMan)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#101600
@@ -13,7 +13,7 @@ palette = 4=#5b4a9f
 palette = 5=#883e9f
 palette = 6=#3d94a5
 palette = 7=#ffda51
-palette = 8=#2e2e05
+palette = 8=#242604
 palette = 9=#ee2e00
 palette = 10=#63d932
 palette = 11=#eebb00
@@ -21,6 +21,12 @@ palette = 12=#5b4a9f
 palette = 13=#883e9f
 palette = 14=#3d94a5
 palette = 15=#ffeba0
+palette = 16=#ee8800
+palette = 17=#a928b9
+palette = 18=#1a1e01
+palette = 19=#242604
+palette = 20=#ffd129
+palette = 21=#ffe178
 
 # Foreground & background colors
 background = 101600

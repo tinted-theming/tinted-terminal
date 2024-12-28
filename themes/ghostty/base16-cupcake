@@ -2,7 +2,7 @@
 # Cupcake theme for Ghostty
 # Scheme Author: Chris Kempson (http://chriskempson.com)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#fbf1f2
@@ -13,7 +13,7 @@ palette = 4=#7297b9
 palette = 5=#bb99b4
 palette = 6=#69a9a7
 palette = 7=#8b8198
-palette = 8=#bfb9c6
+palette = 8=#d8d5dd
 palette = 9=#d57e85
 palette = 10=#a3b367
 palette = 11=#dcb16c
@@ -21,6 +21,12 @@ palette = 12=#7297b9
 palette = 13=#bb99b4
 palette = 14=#69a9a7
 palette = 15=#585062
+palette = 16=#ebb790
+palette = 17=#baa58c
+palette = 18=#f2f1f4
+palette = 19=#d8d5dd
+palette = 20=#a59daf
+palette = 21=#72677e
 
 # Foreground & background colors
 background = fbf1f2

@@ -2,7 +2,7 @@
 # Catppuccin Frappe theme for Ghostty
 # Scheme Author: https://github.com/catppuccin/catppuccin
 # Scheme System: base24
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#303446

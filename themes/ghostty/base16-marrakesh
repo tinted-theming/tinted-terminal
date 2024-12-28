@@ -2,7 +2,7 @@
 # Marrakesh theme for Ghostty
 # Scheme Author: Alexandre Gavioli (http://github.com/Alexx2/)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#201602
@@ -13,7 +13,7 @@ palette = 4=#477ca1
 palette = 5=#8868b3
 palette = 6=#75a738
 palette = 7=#948e48
-palette = 8=#6c6823
+palette = 8=#5f5b17
 palette = 9=#c35359
 palette = 10=#18974e
 palette = 11=#a88339
@@ -21,6 +21,12 @@ palette = 12=#477ca1
 palette = 13=#8868b3
 palette = 14=#75a738
 palette = 15=#faf0a5
+palette = 16=#b36144
+palette = 17=#b3588e
+palette = 18=#302e00
+palette = 19=#5f5b17
+palette = 20=#86813b
+palette = 21=#ccc37a
 
 # Foreground & background colors
 background = 201602

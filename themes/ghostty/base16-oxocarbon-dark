@@ -2,7 +2,7 @@
 # Oxocarbon Dark theme for Ghostty
 # Scheme Author: shaunsingh/IBM
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#161616
@@ -13,7 +13,7 @@ palette = 4=#42be65
 palette = 5=#be95ff
 palette = 6=#ff7eb6
 palette = 7=#f2f4f8
-palette = 8=#525252
+palette = 8=#393939
 palette = 9=#3ddbd9
 palette = 10=#33b1ff
 palette = 11=#ee5396
@@ -21,6 +21,12 @@ palette = 12=#42be65
 palette = 13=#be95ff
 palette = 14=#ff7eb6
 palette = 15=#08bdba
+palette = 16=#78a9ff
+palette = 17=#82cfff
+palette = 18=#262626
+palette = 19=#393939
+palette = 20=#dde1e6
+palette = 21=#ffffff
 
 # Foreground & background colors
 background = 161616

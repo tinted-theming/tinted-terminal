@@ -2,7 +2,7 @@
 # Nord Light theme for Ghostty
 # Scheme Author: threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#e5e9f0
@@ -13,7 +13,7 @@ palette = 4=#3b6ea8
 palette = 5=#97365b
 palette = 6=#398eac
 palette = 7=#2e3440
-palette = 8=#aebacf
+palette = 8=#b8c5db
 palette = 9=#99324b
 palette = 10=#4f894c
 palette = 11=#9a7500
@@ -21,6 +21,12 @@ palette = 12=#3b6ea8
 palette = 13=#97365b
 palette = 14=#398eac
 palette = 15=#29838d
+palette = 16=#ac4426
+palette = 17=#5272af
+palette = 18=#c2d0e7
+palette = 19=#b8c5db
+palette = 20=#60728c
+palette = 21=#3b4252
 
 # Foreground & background colors
 background = e5e9f0

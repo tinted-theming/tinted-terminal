@@ -2,7 +2,7 @@
 # Atelier Estuary theme for Ghostty
 # Scheme Author: Bram de Haan (http://atelierbramdehaan.nl)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#22221b
@@ -13,7 +13,7 @@ palette = 4=#36a166
 palette = 5=#5f9182
 palette = 6=#5b9d48
 palette = 7=#929181
-palette = 8=#6c6b5a
+palette = 8=#5f5e4e
 palette = 9=#ba6236
 palette = 10=#7d9726
 palette = 11=#a5980d
@@ -21,6 +21,12 @@ palette = 12=#36a166
 palette = 13=#5f9182
 palette = 14=#5b9d48
 palette = 15=#f4f3ec
+palette = 16=#ae7313
+palette = 17=#9d6c7c
+palette = 18=#302f27
+palette = 19=#5f5e4e
+palette = 20=#878573
+palette = 21=#e7e6df
 
 # Foreground & background colors
 background = 22221b

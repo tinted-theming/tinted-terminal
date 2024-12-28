@@ -2,7 +2,7 @@
 # standardized-dark theme for Ghostty
 # Scheme Author: ali (https://github.com/ali-githb/base16-standardized-scheme)
 # Scheme System: base16
-# Template Author: Bez Hermoso
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
 palette = 0=#222222
@@ -13,7 +13,7 @@ palette = 4=#00a3f2
 palette = 5=#b46ee0
 palette = 6=#21c992
 palette = 7=#c0c0c0
-palette = 8=#898989
+palette = 8=#555555
 palette = 9=#e15d67
 palette = 10=#5db129
 palette = 11=#e1b31a
@@ -21,6 +21,12 @@ palette = 12=#00a3f2
 palette = 13=#b46ee0
 palette = 14=#21c992
 palette = 15=#ffffff
+palette = 16=#fc804e
+palette = 17=#b87d28
+palette = 18=#303030
+palette = 19=#555555
+palette = 20=#898989
+palette = 21=#e0e0e0
 
 # Foreground & background colors
 background = 222222
