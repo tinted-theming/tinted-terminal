@@ -1,0 +1,41 @@
+# vim: ft=ghostty
+# Github theme for Ghostty
+# Scheme Author: Defman21
+# Scheme System: base16
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# Color palette
+palette = 0=#ffffff
+palette = 1=#ed6a43
+palette = 2=#183691
+palette = 3=#795da3
+palette = 4=#795da3
+palette = 5=#a71d5d
+palette = 6=#183691
+palette = 7=#333333
+palette = 8=#c8c8fa
+palette = 9=#ed6a43
+palette = 10=#183691
+palette = 11=#795da3
+palette = 12=#795da3
+palette = 13=#a71d5d
+palette = 14=#183691
+palette = 15=#ffffff
+palette = 16=#0086b3
+palette = 17=#333333
+palette = 18=#f5f5f5
+palette = 19=#c8c8fa
+palette = 20=#e8e8e8
+palette = 21=#ffffff
+
+# Foreground & background colors
+background = ffffff
+foreground = 333333
+cursor-color = 333333
+selection-background = c8c8fa
+selection-foreground = 333333
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = 333333
+macos-icon-screen-color = ffffff

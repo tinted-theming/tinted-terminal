@@ -1,0 +1,41 @@
+# vim: ft=ghostty
+# Deep Oceanic Next theme for Ghostty
+# Scheme Author: spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+# Scheme System: base24
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# Color palette
+palette = 0=#003b46
+palette = 1=#e6454b
+palette = 2=#85b57a
+palette = 3=#ffcc66
+palette = 4=#3a82e6
+palette = 5=#8c4de6
+palette = 6=#4da6a6
+palette = 7=#e6ebf0
+palette = 8=#006374
+palette = 9=#ff5a61
+palette = 10=#99d8a0
+palette = 11=#ffdd80
+palette = 12=#4da6ff
+palette = 13=#a366ff
+palette = 14=#66cccc
+palette = 15=#f0f5f5
+palette = 16=#ff6a4b
+palette = 17=#e673a3
+palette = 18=#004f5e
+palette = 19=#006374
+palette = 20=#0093a3
+palette = 21=#e6ebf0
+
+# Foreground & background colors
+background = 003b46
+foreground = dce3e8
+cursor-color = dce3e8
+selection-background = 006374
+selection-foreground = dce3e8
+
+# Match the macOS icon w/ the foreground & background colors
+# Set `macos-icon = custom-style` in your main configuration file to enable
+macos-icon-ghost-color = dce3e8
+macos-icon-screen-color = 003b46

@@ -28,6 +28,16 @@ foot-base24:
   filename: themes/foot/{{ scheme-system }}-{{ scheme-slug }}.ini
   supported-systems: [base24]
 
+  # Ghostty
+# ----------------------------------------------------------------------
+ghostty-base16:
+  filename: themes/ghostty/{{ scheme-system }}-{{ scheme-slug }}
+  supported-systems: [base16]
+
+ghostty-base24:
+  filename: themes/ghostty/{{ scheme-system }}-{{ scheme-slug }}
+  supported-systems: [base24]
+
 # iTerm2
 # ----------------------------------------------------------------------
 iterm2-base16:

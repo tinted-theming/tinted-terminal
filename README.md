@@ -9,6 +9,7 @@ instructions:
 - [Alacritty](#alacritty)
 - [ConEmu](#conemu)
 - [Foot](#foot)
+- [Ghostty](#ghostty)
 - [iTerm2](#iterm2)
 - [Kermit](#kermit)
 - [Kitty](#kitty)
@@ -288,6 +289,50 @@ at the beginning of the file.
 ```ini
 include=~/.config/tinted-theming/tinted-foot/colors/base16-ayu-dark.ini
 ```
+
+## Ghostty
+
+<img src="./assets/ghostty-icon.png" alt="Ghostty terminal logo" width="50"/>
+
+Tinted theming template for [Ghostty]
+
+### Manual
+
+Ghostty can auto-discover theme files located in the following directories:
+
+1. `$XDG_CONFIG_HOME/ghostty/themes`
+2. `$PREFIX/share/ghostty/themes`
+
+You can simply download the theme you like into one of these directories and refer to it by filename in your main
+Ghostty config, like so:
+
+```ini
+theme = base16-ayu-dark
+```
+
+### Tinty
+
+1. Add the following to `~/.config/ghostty/config`:
+
+    ```ini
+    # Tinty-generated theme file:
+    config-file = ~/.local/share/tinted-theming/tinty/tinted-terminal-themes-ghostty-file
+    ```
+
+2. Add the following to `~/.config/tinted-theming/tinty/config.toml`:
+
+   ```toml
+   [[items]]
+   path = "https://github.com/tinted-theming/tinted-terminal"
+   name = "tinted-terminal"
+   themes-dir = "themes/ghostty"
+   supported-systems = ["base16", "base24"]
+   ```
+
+3. `tinty apply base16-ayu-dark` to change the theme to `base16-ayu-dark`.
+
+> [!IMPORTANT]
+> You will need to trigger `reload_config` in Ghostty for the palette to apply. The default keybinding for this is `Cmd + Shift + ,` for macOS, or `Ctrl + Shift + ,` for Linux/Windows
 
 ## iTerm2
 
@@ -610,6 +655,7 @@ terminal template decisions.
 [themes/alacritty/]: ./themes/alacritty/
 [themes/conemu/]: ./themes/conemu/
 [themes/foot/]: ./themes/foot/
+[themes/ghostty/]: ./themes/ghostty/
 [themes/iterm2/]: ./themes/iterm2/
 [themes-16/iterm2-scripts/]: ./themes-16/iterm2-scripts/
 [themes-16/kermit/]: ./themes-16/kermit/
@@ -622,6 +668,7 @@ terminal template decisions.
 [Alacritty terminal emulator]: https://github.com/alacritty/alacritty
 [ConEmu terminal emulator]: https://conemu.github.io/
 [Foot terminal emulator]: https://codeberg.org/dnkl/foot
+[Ghostty]: https://ghostty.org
 [Kermit terminal emulator]: https://github.com/orhun/kermit
 [Kitty terminal emulator]: https://github.com/kovidgoyal/kitty
 [PuTTY terminal emulator]: https://www.putty.org/
