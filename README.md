@@ -312,11 +312,17 @@ theme = base16-ayu-dark
 
 ### Tinty
 
+1. Make sure this directory exists:
+
+   ```sh
+   mkdir -p ~/.config/ghostty/themes
+   ```
+
 1. Add the following to `~/.config/ghostty/config`:
 
     ```ini
-    # Tinty-generated theme file:
-    config-file = ~/.local/share/tinted-theming/tinty/tinted-terminal-themes-ghostty-file
+    # Set `theme` to "tinted-theming":
+    theme = "tinted-theming"
     ```
 
 2. Add the following to `~/.config/tinted-theming/tinty/config.toml`:
@@ -326,6 +332,8 @@ theme = base16-ayu-dark
    path = "https://github.com/tinted-theming/tinted-terminal"
    name = "tinted-terminal"
    themes-dir = "themes/ghostty"
+   # With `theme` set to "tinted-theming", this will be where Ghostty looks for the theme file:
+   hook = "command cp -f %f ~/.config/ghostty/themes/tinted-theming"
    supported-systems = ["base16", "base24"]
    ```
 
