@@ -29,13 +29,15 @@ palette = 20=#908caa
 palette = 21=#e0def4
 
 # Foreground & background colors
-background = 191724
-foreground = e0def4
-cursor-color = e0def4
-selection-background = 26233a
-selection-foreground = e0def4
+background = #191724
+foreground = #e0def4
+cursor-color = #e0def4
+selection-background = #26233a
+selection-foreground = #e0def4
 
-# Match the macOS icon w/ the foreground & background colors
-# Set `macos-icon = custom-style` in your main configuration file to enable
-macos-icon-ghost-color = e0def4
-macos-icon-screen-color = 191724
+# Set `macos-icon = custom-style` in your main configuration file to enable theming of the app icon.
+#
+# Set the ghost color to the lightest foreground:
+macos-icon-ghost-color = #524f67
+# Replace the official icon's blue background with the designated bright blue color:
+macos-icon-screen-color = #c4a7e7
