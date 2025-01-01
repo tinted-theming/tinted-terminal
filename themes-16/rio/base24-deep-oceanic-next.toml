@@ -1,41 +1,41 @@
 # Rio Terminal base24 color theme (https://github.com/tinted-theming)
-# Color scheme: Deep Oceanic Next by spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+# Color scheme: Deep Oceanic Next by spearkkk (https://github.com/spearkkk)
 
 [colors]
-selection-background = '#006374' # base02
-selection-foreground = '#dce3e8' # base05
+selection-background = '#003640' # base02
+selection-foreground = '#d4e1e8' # base05
 
-cursor         = '#dce3e8' # base05
-tabs           = '#004f5e' # base01
-tabs-active    = '#006374' # base02
+cursor         = '#d4e1e8' # base05
+tabs           = '#002931' # base01
+tabs-active    = '#003640' # base02
 
-background     = '#003b46' # base00
-foreground     = '#dce3e8' # base05
-black          = '#004f5e' # base01
-red            = '#e6454b' # base08
-yellow         = '#ffcc66' # base0A
-green          = '#85b57a' # base0B
-cyan           = '#4da6a6' # base0C
-blue           = '#3a82e6' # base0D
-magenta        = '#8c4de6' # base0E
-white          = '#e6ebf0' # base06
+background     = '#001c1f' # base00
+foreground     = '#d4e1e8' # base05
+black          = '#002931' # base01
+red            = '#d3464d' # base08
+yellow         = '#f3b863' # base0A
+green          = '#63b784' # base0B
+cyan           = '#4fb7ae' # base0C
+blue           = '#568ccf' # base0D
+magenta        = '#8b66d6' # base0E
+white          = '#e0e9ef' # base06
 
-dim-foreground   = '#dce3e8' # base05
-dim-black        = '#004f5e' # base01
-dim-red          = '#e6454b' # base08
-dim-yellow       = '#ffcc66' # base0A
-dim-green        = '#85b57a' # base0B
-dim-cyan         = '#4da6a6' # base0C
-dim-blue         = '#3a82e6' # base0D
-dim-magenta      = '#8c4de6' # base0E
+dim-foreground   = '#d4e1e8' # base05
+dim-black        = '#002931' # base01
+dim-red          = '#d3464d' # base08
+dim-yellow       = '#f3b863' # base0A
+dim-green        = '#63b784' # base0B
+dim-cyan         = '#4fb7ae' # base0C
+dim-blue         = '#568ccf' # base0D
+dim-magenta      = '#8b66d6' # base0E
 dim-white        = '#0093a3' # base04
 
-light-foreground = '#dce3e8' # base05
-light-black      = '#006374' # base02
-light-red        = '#ff5a61' # base12
-light-yellow     = '#ffdd80' # base13
-light-green      = '#99d8a0' # base14
-light-cyan       = '#66cccc' # base15
-light-blue       = '#4da6ff' # base16
-light-magenta    = '#a366ff' # base17
-light-white      = '#f0f5f5' # base07
+light-foreground = '#d4e1e8' # base05
+light-black      = '#003640' # base02
+light-red        = '#ff6670' # base12
+light-yellow     = '#ffe08a' # base13
+light-green      = '#72e1a6' # base14
+light-cyan       = '#4de3e3' # base15
+light-blue       = '#5caeff' # base16
+light-magenta    = '#b788ff' # base17
+light-white      = '#f2f7f9' # base07
