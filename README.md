@@ -508,7 +508,7 @@ a single scheme system.
 
 ## Rio
 
-<img src="./assets/terminal-icon.svg" alt="Terminal icon" width="50"/>
+<img src="./assets/rio-icon.svg" alt="Terminal icon" width="50"/>
 
 Tinted Theming template for [Rio terminal emulator].
 
