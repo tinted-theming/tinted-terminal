@@ -9,6 +9,9 @@
 /templates/foot-* @tinted-theming/foot-terminal
 /themes/foot/* @tinted-theming/foot-terminal
 
+/templates/ghostty-* @tinted-theming/ghostty-terminal
+/themes/ghostty/* @tinted-theming/ghostty-terminal
+
 /templates/iterm2-* @tinted-theming/iterm2-terminal
 /themes/iterm2/* @tinted-theming/iterm2-terminal
 /themes-16/iterm2-scripts/* @tinted-theming/iterm2-terminal
