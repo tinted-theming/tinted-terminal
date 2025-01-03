@@ -1,0 +1,138 @@
+#!/usr/bin/env sh
+
+# ===================
+# ghostty-icon-tinter
+# ===================
+
+function _extract_palette_value {
+    # Note: return the last recurrence, in case there are multiple.
+    _theme_file | sed -nE 's/palette = '$1'=(#.*)/\1/p' \
+       | tail -n 1
+}
+
+function _help {
+    2>&1 cat <<EOF
+Generates a Ghostty theme file with macos-icon-ghost-color and macos-icon-screen-color directives
+based on an existing theme. This script is mainly designed to be used with tinted-theming/tinty.
+
+OPTIONS:
+
+    -g palette_index
+    	Use palette[palette_index] as macos-icon-ghost-color
+
+    -s palette_index|palette_indices
+
+        Use palette[palette_index] as macos-icon-screen-color. 
+        If you wish the screen color to be a gradient, specify a comma-separated list of 
+        indices e.g. -s 12,6,2
+EOF
+}
+
+function _theme_file {
+cat <<EOF
+# vim: ft=ghostty
+# {{ scheme-name }} theme for Ghostty
+# Scheme Author: {{ scheme-author }}
+# Scheme System: {{ scheme-system }}
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# Color palette
+palette = 0=#{{ base00-hex }}
+palette = 1=#{{ base08-hex }}
+palette = 2=#{{ base0B-hex }}
+palette = 3=#{{ base0A-hex }}
+palette = 4=#{{ base0D-hex }}
+palette = 5=#{{ base0E-hex }}
+palette = 6=#{{ base0C-hex }}
+palette = 7=#{{ base05-hex }}
+palette = 8=#{{ base02-hex }}
+palette = 9=#{{ base08-hex }}
+palette = 10=#{{ base0B-hex }}
+palette = 11=#{{ base0A-hex }}
+palette = 12=#{{ base0D-hex }}
+palette = 13=#{{ base0E-hex }}
+palette = 14=#{{ base0C-hex }}
+palette = 15=#{{ base07-hex }}
+palette = 16=#{{ base09-hex }}
+palette = 17=#{{ base0F-hex }}
+palette = 18=#{{ base01-hex }}
+palette = 19=#{{ base02-hex }}
+palette = 20=#{{ base04-hex }}
+palette = 21=#{{ base06-hex }}
+
+# Foreground & background colors
+background = #{{ base00-hex }}
+foreground = #{{ base05-hex }}
+cursor-color = #{{ base05-hex }}
+selection-background = #{{ base02-hex }}
+selection-foreground = #{{ base05-hex }}
+
+# Set macos-icon = custom-style in your main configuration file to enable theming of the app icon.
+EOF
+}
+
+OPTIND=1
+
+OPTS=$(getopt g:s:h $*) || exit 2
+
+eval set -- "$OPTS"
+
+ghost_color_arg=15 # Default ghost color to Bright White
+screen_colors_arg=12 # Default screen color to Bright Blue
+
+while [[ -n "$1" ]]; do
+    case "$1" in
+        -g)
+            ghost_color_arg=$2
+            shift 2
+            ;;
+        -s)
+            screen_colors_arg=$2
+            shift 2
+            ;;
+        --)
+            shift
+            break
+            ;;
+        -h)
+            shift
+            _help
+            exit 0
+            ;;
+        -h)
+            _help
+            exit 1
+            ;;
+    esac
+done
+
+screen_color_values=
+ghost_color_value=$(_extract_palette_value $ghost_color_arg)
+
+_theme_file
+
+if [ -n "$ghost_color_value" ]; then
+    echo "# Extracted palette color $ghost_color_arg:"
+    echo "macos-icon-ghost-color = $ghost_color_value"
+fi
+
+# Parse comma-separated string in POSIX-compliant way
+# TODO: There has to be a better way to do this.
+screen_color_values=$(
+    o=
+    echo $screen_colors_arg | tr ',' "\n" | while read c; do
+        color_value=$(_extract_palette_value $c)
+        if [ -n "$color_value" ]; then
+            if [[ -n "$o" ]]; then
+                color_value=",${color_value}"
+            fi
+            o="${o}${color_value}"
+            echo $o
+        fi
+    done | tail -n 1
+)
+
+if [ -n "$screen_color_values" ]; then
+    echo "# Extracted palette colors ${screen_colors_arg}:"
+    echo "macos-icon-screen-color = ${screen_color_values}"
+fi
