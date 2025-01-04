@@ -82,7 +82,7 @@ cursor-color = $ghostty_palette_color_7
 selection-background = $ghostty_palette_color_8
 selection-foreground = $ghostty_palette_color_7
 
-# Set macos-icon = custom-style in your main configuration file to enable theming of the app icon.
+# Set \`macos-icon\` = custom-style in your main configuration file to enable theming of the app icon.
 EOF
 }
 
@@ -170,7 +170,7 @@ eval set -- "$OPTS"
 ghost_color_arg=15 # Default ghost color to Bright White
 screen_colors_arg=12 # Default screen color to Bright Blue
 
-while [[ -n "$1" ]]; do
+while [ -n "$1" ]; do
     case "$1" in
         -g)
             ghost_color_arg="$2"
