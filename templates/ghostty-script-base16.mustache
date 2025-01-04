@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 # vim: ft=sh
 
-_help {
+_help() {
     2>&1 cat <<EOF
 Generates a Ghostty theme file with macos-icon-ghost-color and macos-icon-screen-color directives
 based on an existing theme. This script is mainly designed to be used with tinted-theming/tinty.
@@ -43,7 +43,7 @@ ghostty_palette_color_19="#{{ base02-hex }}"
 ghostty_palette_color_20="#{{ base04-hex }}"
 ghostty_palette_color_21="#{{ base06-hex }}"
 
-_theme_file {
+_theme_file() {
 cat <<EOF
 # vim: ft=ghostty
 # {{ scheme-name }} theme for Ghostty
@@ -86,7 +86,7 @@ selection-foreground = $ghostty_palette_color_7
 EOF
 }
 
-_palette_value {
+_palette_value() {
     # Indirect expansion is not POSIX-compliant. Writing this as a switch-case avoids using eval and injection risks that
     # comes with it.
     case "$1" in
