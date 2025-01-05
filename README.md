@@ -343,7 +343,7 @@ theme = base16-ayu-dark
 > You will need to trigger `reload_config` in Ghostty for the palette to apply. The default keybinding for this is `Cmd + Shift + ,` for macOS, or `Ctrl + Shift + ,` for Linux/Windows
 
 
-### Customize style for Ghostty's app icon (macOS only)
+### Customize Ghostty's app icon (macOS only)
 
 By default, the theme files assigns `Bright White` and `Bright Blue` for the icon's ghost tint and screen tint,
 respectively. If you'd like to use different colors, this repository provides scripts to generate a theme file with the 
@@ -380,6 +380,12 @@ sh %f \
    >! ~/.config/ghostty/themes/tinted-theming
 '''
 supported-systems = ["base16", "base24"]
+```
+
+Don’t forget to have this line on your main Ghostty configuration:
+
+```ini
+macos-icon = custom-style
 ```
 
 ## iTerm2
