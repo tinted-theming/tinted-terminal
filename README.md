@@ -342,6 +342,52 @@ theme = base16-ayu-dark
 > [!IMPORTANT]
 > You will need to trigger `reload_config` in Ghostty for the palette to apply. The default keybinding for this is `Cmd + Shift + ,` for macOS, or `Ctrl + Shift + ,` for Linux/Windows
 
+
+### Customize Ghostty's app icon (macOS only)
+
+By default, the theme files assigns `Bright White` and `Bright Blue` for the icon's ghost tint and screen tint,
+respectively. If you'd like to use different colors, this repository provides scripts to generate a theme file with the 
+icon & screen tints you prefer. They are located in `./themes/ghostty-scripts` and can be used as follows:
+
+#### Manual
+
+```sh
+# Example:
+sh /path/to/tinted-terminal/themes/ghostty-scripts/base16-ayu-dark.sh \
+   -g 5 \
+   -s 16,12,10 \
+   >! ~/.config/ghostty/themes/base16-ayu-dark
+```
+
+The above example would generate a `base16-ayu-dark` theme with `macos-icon-ghost-color` set to `palette[5]` color, and
+`macos-icon-screen-color` set to a gradient of `palette[16]`, `palette[12]`, and `palette[10]`.
+
+#### Tinty
+
+Follow the same [Tinty instructions](#tinty-2), but put this in `~/.config/tinted-theming/tinty/config.toml` instead for
+Step 2:
+
+```toml
+[[items]]
+path = "https://github.com/tinted-theming/tinted-terminal"
+name = "tinted-terminal"
+themes-dir = "themes/ghostty-scripts"
+# With `theme` set to "tinted-theming", this will be where Ghostty looks for the theme file:
+hook = '''
+sh %f \
+   -g 5 \
+   -s 16,12,10 \
+   >! ~/.config/ghostty/themes/tinted-theming
+'''
+supported-systems = ["base16", "base24"]
+```
+
+Don’t forget to have this line on your main Ghostty configuration:
+
+```ini
+macos-icon = custom-style
+```
+
 ## iTerm2
 
 <img src="./assets/iterm2-icon.png" alt="iTerm2 terminal logo" width="50"/>
