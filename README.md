@@ -696,7 +696,7 @@ This repo was created by merging in the now archived repositories:
 Thanks to [@mk12] for consulting on some of the history of base16
 terminal template decisions.
 
-[Tinted Theming Gallery]: https://tinted-theming.github.io/base16-gallery/
+[Tinted Theming Gallery]: https://tinted-theming.github.io/tinted-gallery/
 [Base16]: https://github.com/tinted-theming/home/blob/main/styling.md
 [Base24]: https://github.com/tinted-theming/base24/blob/main/styling.md
 [Tinted Theming]: https://github.com/tinted-theming/home
