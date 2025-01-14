@@ -454,7 +454,7 @@ This alernative `hook` value has some advantages:
 > You may want to add the following line in your rc file:
 
 ```sh
-if [ "$TERM_PROGRAM" == "iTerm2" ]; then
+if [ "$TERM_PROGRAM" = "iTerm.app" ]; then
     osascript "~/Library/Application Support/iTerm2/Scripts/AutoLaunch.scpt"
 fi
 ```
