@@ -1,30 +1,26 @@
 #!/bin/sh
 
-osascript <<EOF
-tell application "iTerm2"
-    tell current session of current window
-        set background color to {64507, 62451, 56283}
-        set foreground color to {21331, 26471, 28013}
+green_color=$(tput setaf 2)
+red_color=$(tput setaf 1)
+reset_color=$(tput sgr0)
 
-        -- Set ANSI Colors
-        set ANSI black color to {60652, 58339, 52428}
-        set ANSI red color to {52428, 5911, 10537}
-        set ANSI green color to {16962, 35723, 0}
-        set ANSI yellow color to {42919, 33667, 0}
-        set ANSI blue color to {0, 28013, 52942}
-        set ANSI magenta color to {33410, 23901, 49344}
-        set ANSI cyan color to {0, 38807, 35466}
-        set ANSI white color to {14906, 19789, 21331}
+1>&2 cat <<EOF
 
-        -- Set Bright ANSI Colors
-        set ANSI bright black color to {54741, 52685, 46774}
-        set ANSI bright red color to {52428, 5911, 10537}
-        set ANSI bright green color to {16962, 35723, 0}
-        set ANSI bright yellow color to {42919, 33667, 0}
-        set ANSI bright blue color to {0, 28013, 52942}
-        set ANSI bright magenta color to {33410, 23901, 49344}
-        set ANSI bright cyan color to {0, 38807, 35466}
-        set ANSI bright white color to {14906, 19789, 21331}
-    end tell
-end tell
+╔═══════════════════════════════════════════════════╗
+║ IMPORTANT NOTICE:                                 ║
+║                                                   ║
+║ You are using an out-of-date template for iTerm2! ║
+╚═══════════════════════════════════════════════════╝
+
+To migrate, update the ${red_color}themes-dir${reset_color} & ${red_color}hook${reset_color} in the tinted-terminal entry in
+$HOME/.config/tinted-theming/tinty/config.toml:
+
+${red_color}themes-dir${reset_color} = ${green_color}"themes-16/iterm2-applescripts"${reset_color}
+${red_color}hook${reset_color} = ${green_color}'''
+command cp -f %f ~/Library/Application\\ Support/iTerm2/Scripts/AutoLaunch.scpt \\
+    && osascript %f
+'''${reset_color}
+
+For more info: https://github.com/tinted-theming/tinted-terminal#iterm2
+
 EOF
