@@ -64,6 +64,14 @@ iterm2-scripts-base24-16:
   filename: themes-16/iterm2-scripts/{{ scheme-system }}-{{ scheme-slug }}.sh
   supported-systems: [base24]
 
+iterm2-applescript-base16-16:
+  filename: themes-16/iterm2-applescripts/{{ scheme-system }}-{{ scheme-slug }}.scpt
+  supported-systems: [base16]
+
+iterm2-applescript-base24-16:
+  filename: themes-16/iterm2-applescripts/{{ scheme-system }}-{{ scheme-slug }}.scpt
+  supported-systems: [base24]
+
 # Kermit
 # ----------------------------------------------------------------------
 kermit-base16-16:
