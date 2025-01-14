@@ -394,20 +394,15 @@ macos-icon = custom-style
 
 Tinted Theming template for [iTerm2 terminal emulator].
 
-There are three types of theme files for iTerm2:
+There are two types of theme files for iTerm2:
 
 1. Standard themes which can be imported from iTerm2 itself,
    instructions below under "Manual".
-2. Script themes can be executed from a script to change the iTerm2
-   theme.
-3. Applescript themes that can run on iTerm2 startup to change the iTerm2
-   theme.
+2. Applescripts that can be executed to change the iTerm2 theme.
 
 **Theme directory**: [themes/iterm2/]
 
-**Script Theme directory**: [themes-16/iterm2-scripts/]
-
-**Applescript Theme directory**: [themes-16/iterm2-applescripts/]
+**Applescripts directory**: [themes-16/iterm2-applescripts/]
 
 ### Tinty
 
@@ -417,43 +412,29 @@ There are three types of theme files for iTerm2:
    [[items]]
    path = "https://github.com/tinted-theming/tinted-terminal"
    name = "tinted-terminal"
-   themes-dir = "themes-16/iterm2-scripts"
-   hook = "sh %f"
+   themes-dir = "themes-16/iterm2-applescripts"
+   hook = '''
+   command cp -f %f ~/Library/Application\ Support/iTerm2/Scripts/AutoLaunch.scpt \
+     && osascript %f
+   '''
    supported-systems = ["base16", "base24"]
    ```
 
 2. `tinty apply base16-ayu-dark` to change the theme to
    `base16-ayu-dark`
 
-#### Alternative Hook
-
-```toml
-[[items]]
-path = "https://github.com/tinted-theming/tinted-terminal"
-name = "tinted-terminal"
-themes-dir = "themes-16/iterm2-scripts"
-hook = '''
-command cp -f %f ~/Library/Application\ Support/iTerm2/Scripts/AutoLaunch.scpt;
-osascript %f
-'''
-supported-systems = ["base16", "base24"]
-```
-
-This alernative `hook` value has some advantages:
-
-- Ensures that the theme is applied whenever iTerm2 starts up. If you don't like putting `tinty apply ...` as part
-  of your shell's rc file, this is a good option.
-- If you daily-drive a different terminal emulator but wish that iTerm2 picks up your prefered theme when you open it,
-  this makes that possible.
-- Adds a item under the `Scripts` menu in the menu-bar that can be invoked to re-apply the theme. You can map a
-  keyboard shortcut to reload the theme anytime.
-
 > [!NOTE]
+>
+> This also adds an item under the `Scripts` menu-bar item that can be invoked to re-apply the theme.
+> You should be able to map a keyboard shortcut to trigger this as you like.
+
+> [!IMPORTANT]
 >
 > The AutoLaunch script is only ran at iTerm2 startup. It will not run when opening new windows or tabs.
 > You may want to add the following line in your rc file:
 
 ```sh
+# Only run if the shell is running in iTerm2.
 if [ "$TERM_PROGRAM" = "iTerm.app" ]; then
     osascript "~/Library/Application Support/iTerm2/Scripts/AutoLaunch.scpt"
 fi
