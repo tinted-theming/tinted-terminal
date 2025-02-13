@@ -471,18 +471,7 @@ curl https://raw.githubusercontent.com/tinted-theming/tinted-kermit-terminal/mai
 
 Tinted Theming template for [Kitty terminal emulator].
 
-**Theme directory**: [themes/kitty/]
-
-| Operating System | Config Path                              |
-| ---------------- | ---------------------------------------- |
-| Linux            | `~/.config/kitty/kitty.conf`             |
-| MacOS            | `~/Library/Preferences/kitty/kitty.conf` |
-
-The following examples will use the Linux path, however if you're on
-MacOS, switch it out with the path above.
-
-Kitty will need to be restarted for changes to
-`~/.config/kitty/kitty.conf` to take effect. It is possible to remotely
+Kitty will need to be restarted for changes to take effect. It is possible to remotely
 trigger a conf-reload, but this requires kitty be started with the
 feature `allow_remote_control=yes`.
 
@@ -499,30 +488,35 @@ kitty -o allow_remote_control=yes
    path = "https://github.com/tinted-theming/tinted-terminal"
    name = "tinted-terminal"
    themes-dir = "themes/kitty"
-   hook = "cp -f %f ~/.config/kitty/kitty.conf && kitten @ load-config ~/.config/kitty/kitty.conf"
+   hook = "kitten @ load-config"
    supported-systems = ["base16", "base24"]
    ```
 
 2. Add the following to `$HOME/.config/kitty/kitty.conf`:
 
    ```conf
-   include colors.conf
+   include ~/.local/share/tinted-theming/tinty/tinted-terminal-themes-kitty-file.conf
    ```
 
 3. `tinty apply base16-ayu-dark` to change the theme to
    `base16-ayu-dark`
 
 Note: If you don't have the Kitty feature `allow_remote_control`
-enabled, the above Tinty `config.toml` hook value should be: `hook = "cp
--f %f ~/.config/kitty/kitty.conf"` and Kitty should be manually
-restarted after using `tinty apply` to set a new theme for it to take
-affect.
+enabled, Kitty should be manually restarted after using `tinty apply` to 
+set a new theme for it to take effect.
 
 ### Manual
 
 Simply copy the contents of your desired color scheme into your kitty
 configuration (`kitty.conf`). If you already have a color scheme defined,
 remove it or comment it out before importing the new scheme.
+
+Alternatively, you can include the theme conf file directly in
+`$HOME/.config/kitty/kitty.conf`:
+
+```conf
+include /path/to/tinted-terminal/themes/kitty/base16-ayu-dark.conf
+```
 
 ## PuTTY
 
