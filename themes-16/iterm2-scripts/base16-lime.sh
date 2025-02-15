@@ -1,30 +1,26 @@
 #!/bin/sh
 
-osascript <<EOF
-tell application "iTerm2"
-    tell current session of current window
-        set background color to {6682, 6682, 12079}
-        set foreground color to {33153, 33153, 30069}
+green_color=$(tput setaf 2)
+red_color=$(tput setaf 1)
+reset_color=$(tput sgr0)
 
-        -- Set ANSI Colors
-        set ANSI black color to {8224, 8224, 12336}
-        set ANSI red color to {65535, 26214, 10794}
-        set ANSI green color to {35980, 55769, 31868}
-        set ANSI yellow color to {65535, 53713, 24158}
-        set ANSI blue color to {11051, 37522, 28527}
-        set ANSI magenta color to {6939, 33410, 24415}
-        set ANSI cyan color to {19532, 44461, 33667}
-        set ANSI white color to {65535, 62194, 53713}
+1>&2 cat <<EOF
 
-        -- Set Bright ANSI Colors
-        set ANSI bright black color to {10794, 10794, 16191}
-        set ANSI bright red color to {65535, 26214, 10794}
-        set ANSI bright green color to {35980, 55769, 31868}
-        set ANSI bright yellow color to {65535, 53713, 24158}
-        set ANSI bright blue color to {11051, 37522, 28527}
-        set ANSI bright magenta color to {6939, 33410, 24415}
-        set ANSI bright cyan color to {19532, 44461, 33667}
-        set ANSI bright white color to {65535, 63736, 57825}
-    end tell
-end tell
+╔═══════════════════════════════════════════════════╗
+║ IMPORTANT NOTICE:                                 ║
+║                                                   ║
+║ You are using an out-of-date template for iTerm2! ║
+╚═══════════════════════════════════════════════════╝
+
+To migrate, update the ${red_color}themes-dir${reset_color} & ${red_color}hook${reset_color} in the tinted-terminal entry in
+$HOME/.config/tinted-theming/tinty/config.toml:
+
+${red_color}themes-dir${reset_color} = ${green_color}"themes-16/iterm2-applescripts"${reset_color}
+${red_color}hook${reset_color} = ${green_color}'''
+command cp -f %f ~/Library/Application\\ Support/iTerm2/Scripts/AutoLaunch.scpt \\
+    && osascript %f
+'''${reset_color}
+
+For more info: https://github.com/tinted-theming/tinted-terminal#iterm2
+
 EOF
