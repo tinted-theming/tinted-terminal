@@ -1,0 +1,95 @@
+Windows Registry Editor Version 5.00
+
+; Scheme name: Earthsong
+; Scheme system: base24
+; Scheme author: FredHappyface (https://github.com/fredHappyface)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-earthsong]
+
+; Default Foreground
+; base05 #c5ab93
+"Colour0"="197,171,147"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #c5ab93
+"Colour1"="197,171,147"
+
+; Default Background
+; base00 #282420
+"Colour2"="40,36,32"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #282420
+"Colour3"="40,36,32"
+
+; Cursor Text -- equals to default background
+; base00 #282420
+"Colour4"="40,36,32"
+
+; Cursor Colour -- equals to default foreground
+; base05 #c5ab93
+"Colour5"="197,171,147"
+
+; ANSI Black
+; base01 #111417
+"Colour6"="17,20,23"
+
+; ANSI Black Bright
+; base02 #665e54
+"Colour7"="102,94,84"
+
+; ANSI Red
+; base08 #c84134
+"Colour8"="200,65,52"
+
+; ANSI Red Bright
+; base12 #ff6459
+"Colour9"="255,100,89"
+
+; ANSI Green
+; base0B #84c44b
+"Colour10"="132,196,75"
+
+; ANSI Green Bright
+; base14 #97e035
+"Colour11"="151,224,53"
+
+; ANSI Yellow
+; base0A #5ed9ff
+"Colour12"="94,217,255"
+
+; ANSI Yellow Bright
+; base13 #dfd561
+"Colour13"="223,213,97"
+
+; ANSI Blue
+; base0D #1397b9
+"Colour14"="19,151,185"
+
+; ANSI Blue Bright
+; base16 #5ed9ff
+"Colour15"="94,217,255"
+
+; ANSI Magenta
+; base0E #d0623c
+"Colour16"="208,98,60"
+
+; ANSI Magenta Bright
+; base17 #ff9168
+"Colour17"="255,145,104"
+
+; ANSI Cyan
+; base0C #4f9452
+"Colour18"="79,148,82"
+
+; ANSI Cyan Bright
+; base15 #83ef88
+"Colour19"="131,239,136"
+
+; ANSI White
+; base06 #e5c5a9
+"Colour20"="229,197,169"
+
+; ANSI White Bright
+; base07 f6f6ec
+"Colour21"="246,246,236"

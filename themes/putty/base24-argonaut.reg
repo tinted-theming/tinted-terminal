@@ -1,0 +1,95 @@
+Windows Registry Editor Version 5.00
+
+; Scheme name: Argonaut
+; Scheme system: base24
+; Scheme author: FredHappyface (https://github.com/fredHappyface)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-argonaut]
+
+; Default Foreground
+; base05 #d0d0d0
+"Colour0"="208,208,208"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #d0d0d0
+"Colour1"="208,208,208"
+
+; Default Background
+; base00 #0d0f18
+"Colour2"="13,15,24"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #0d0f18
+"Colour3"="13,15,24"
+
+; Cursor Text -- equals to default background
+; base00 #0d0f18
+"Colour4"="13,15,24"
+
+; Cursor Colour -- equals to default foreground
+; base05 #d0d0d0
+"Colour5"="208,208,208"
+
+; ANSI Black
+; base01 #222222
+"Colour6"="34,34,34"
+
+; ANSI Black Bright
+; base02 #444444
+"Colour7"="68,68,68"
+
+; ANSI Red
+; base08 #ff000f
+"Colour8"="255,0,15"
+
+; ANSI Red Bright
+; base12 #ff273f
+"Colour9"="255,39,63"
+
+; ANSI Green
+; base0B #8ce00a
+"Colour10"="140,224,10"
+
+; ANSI Green Bright
+; base14 #abe05a
+"Colour11"="171,224,90"
+
+; ANSI Yellow
+; base0A #0092ff
+"Colour12"="0,146,255"
+
+; ANSI Yellow Bright
+; base13 #ffd141
+"Colour13"="255,209,65"
+
+; ANSI Blue
+; base0D #008df8
+"Colour14"="0,141,248"
+
+; ANSI Blue Bright
+; base16 #0092ff
+"Colour15"="0,146,255"
+
+; ANSI Magenta
+; base0E #6c43a5
+"Colour16"="108,67,165"
+
+; ANSI Magenta Bright
+; base17 #9a5feb
+"Colour17"="154,95,235"
+
+; ANSI Cyan
+; base0C #00d7eb
+"Colour18"="0,215,235"
+
+; ANSI Cyan Bright
+; base15 #67ffef
+"Colour19"="103,255,239"
+
+; ANSI White
+; base06 #ffffff
+"Colour20"="255,255,255"
+
+; ANSI White Bright
+; base07 ffffff
+"Colour21"="255,255,255"

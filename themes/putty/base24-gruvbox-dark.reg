@@ -1,0 +1,95 @@
+Windows Registry Editor Version 5.00
+
+; Scheme name: Gruvbox Dark
+; Scheme system: base24
+; Scheme author: FredHappyface (https://github.com/fredHappyface)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-gruvbox-dark]
+
+; Default Foreground
+; base05 #91816c
+"Colour0"="145,129,108"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #91816c
+"Colour1"="145,129,108"
+
+; Default Background
+; base00 #1d1d1d
+"Colour2"="29,29,29"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #1d1d1d
+"Colour3"="29,29,29"
+
+; Cursor Text -- equals to default background
+; base00 #1d1d1d
+"Colour4"="29,29,29"
+
+; Cursor Colour -- equals to default foreground
+; base05 #91816c
+"Colour5"="145,129,108"
+
+; ANSI Black
+; base01 #1d1d1d
+"Colour6"="29,29,29"
+
+; ANSI Black Bright
+; base02 #7f7060
+"Colour7"="127,112,96"
+
+; ANSI Red
+; base08 #be0e17
+"Colour8"="190,14,23"
+
+; ANSI Red Bright
+; base12 #f63028
+"Colour9"="246,48,40"
+
+; ANSI Green
+; base0B #868715
+"Colour10"="134,135,21"
+
+; ANSI Green Bright
+; base14 #a9b01d
+"Colour11"="169,176,29"
+
+; ANSI Yellow
+; base0A #709585
+"Colour12"="112,149,133"
+
+; ANSI Yellow Bright
+; base13 #f7b024
+"Colour13"="247,176,36"
+
+; ANSI Blue
+; base0D #377274
+"Colour14"="55,114,116"
+
+; ANSI Blue Bright
+; base16 #709585
+"Colour15"="112,149,133"
+
+; ANSI Magenta
+; base0E #9f4b73
+"Colour16"="159,75,115"
+
+; ANSI Magenta Bright
+; base17 #c76f89
+"Colour17"="199,111,137"
+
+; ANSI Cyan
+; base0C #568d57
+"Colour18"="86,141,87"
+
+; ANSI Cyan Bright
+; base15 #7db568
+"Colour19"="125,181,104"
+
+; ANSI White
+; base06 #978771
+"Colour20"="151,135,113"
+
+; ANSI White Bright
+; base07 e5d3a2
+"Colour21"="229,211,162"

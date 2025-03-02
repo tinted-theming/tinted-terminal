@@ -1,0 +1,41 @@
+# Rio Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Gruvbox Dark by FredHappyface (https://github.com/fredHappyface)
+
+[colors]
+selection-background = '#7f7060' # base02
+selection-foreground = '#91816c' # base05
+
+cursor         = '#91816c' # base05
+tabs           = '#1d1d1d' # base01
+tabs-active    = '#7f7060' # base02
+
+background     = '#1d1d1d' # base00
+foreground     = '#91816c' # base05
+black          = '#1d1d1d' # base01
+red            = '#be0e17' # base08
+yellow         = '#709585' # base0A
+green          = '#868715' # base0B
+cyan           = '#568d57' # base0C
+blue           = '#377274' # base0D
+magenta        = '#9f4b73' # base0E
+white          = '#978771' # base06
+
+dim-foreground   = '#91816c' # base05
+dim-black        = '#1d1d1d' # base01
+dim-red          = '#be0e17' # base08
+dim-yellow       = '#709585' # base0A
+dim-green        = '#868715' # base0B
+dim-cyan         = '#568d57' # base0C
+dim-blue         = '#377274' # base0D
+dim-magenta      = '#9f4b73' # base0E
+dim-white        = '#8b7b68' # base04
+
+light-foreground = '#91816c' # base05
+light-black      = '#7f7060' # base02
+light-red        = '#f63028' # base12
+light-yellow     = '#f7b024' # base13
+light-green      = '#a9b01d' # base14
+light-cyan       = '#7db568' # base15
+light-blue       = '#709585' # base16
+light-magenta    = '#c76f89' # base17
+light-white      = '#e5d3a2' # base07

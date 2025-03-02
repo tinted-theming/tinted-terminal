@@ -1,0 +1,95 @@
+Windows Registry Editor Version 5.00
+
+; Scheme name: Scarlet Protocol
+; Scheme system: base24
+; Scheme author: FredHappyface (https://github.com/fredHappyface)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-scarlet-protocol]
+
+; Default Foreground
+; base05 #afafaf
+"Colour0"="175,175,175"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #afafaf
+"Colour1"="175,175,175"
+
+; Default Background
+; base00 #1b153c
+"Colour2"="27,21,60"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #1b153c
+"Colour3"="27,21,60"
+
+; Cursor Text -- equals to default background
+; base00 #1b153c
+"Colour4"="27,21,60"
+
+; Cursor Colour -- equals to default foreground
+; base05 #afafaf
+"Colour5"="175,175,175"
+
+; ANSI Black
+; base01 #101116
+"Colour6"="16,17,22"
+
+; ANSI Black Bright
+; base02 #676767
+"Colour7"="103,103,103"
+
+; ANSI Red
+; base08 #ff0051
+"Colour8"="255,0,81"
+
+; ANSI Red Bright
+; base12 #ff6d67
+"Colour9"="255,109,103"
+
+; ANSI Green
+; base0B #00dc84
+"Colour10"="0,220,132"
+
+; ANSI Green Bright
+; base14 #5ff967
+"Colour11"="95,249,103"
+
+; ANSI Yellow
+; base0A #6871ff
+"Colour12"="104,113,255"
+
+; ANSI Yellow Bright
+; base13 #fefb67
+"Colour13"="254,251,103"
+
+; ANSI Blue
+; base0D #0271b6
+"Colour14"="2,113,182"
+
+; ANSI Blue Bright
+; base16 #6871ff
+"Colour15"="104,113,255"
+
+; ANSI Magenta
+; base0E #c930c7
+"Colour16"="201,48,199"
+
+; ANSI Magenta Bright
+; base17 #bc35eb
+"Colour17"="188,53,235"
+
+; ANSI Cyan
+; base0C #00c5c7
+"Colour18"="0,197,199"
+
+; ANSI Cyan Bright
+; base15 #5ffdff
+"Colour19"="95,253,255"
+
+; ANSI White
+; base06 #c7c7c7
+"Colour20"="199,199,199"
+
+; ANSI White Bright
+; base07 feffff
+"Colour21"="254,255,255"

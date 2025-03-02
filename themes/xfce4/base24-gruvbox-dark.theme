@@ -1,0 +1,10 @@
+# Scheme name: Gruvbox Dark
+# Scheme author: FredHappyface (https://github.com/fredHappyface)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
+[Scheme]
+Name=base24-gruvbox-dark
+ColorForeground=#91816c
+ColorBackground=#1d1d1d
+ColorCursor=x
+ColorBoldIsBright=FALSE
+ColorPalette=#1d1d1d;#be0e17;#868715;#709585;#377274;#9f4b73;#568d57;#978771;#7f7060;#f63028;#a9b01d;#f7b024;#709585;#c76f89;#7db568;#e5d3a2

@@ -1,0 +1,95 @@
+Windows Registry Editor Version 5.00
+
+; Scheme name: Mona Lisa
+; Scheme system: base24
+; Scheme author: FredHappyface (https://github.com/fredHappyface)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-mona-lisa]
+
+; Default Foreground
+; base05 #dab14e
+"Colour0"="218,177,78"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #dab14e
+"Colour1"="218,177,78"
+
+; Default Background
+; base00 #110b0d
+"Colour2"="17,11,13"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #110b0d
+"Colour3"="17,11,13"
+
+; Cursor Text -- equals to default background
+; base00 #110b0d
+"Colour4"="17,11,13"
+
+; Cursor Colour -- equals to default foreground
+; base05 #dab14e
+"Colour5"="218,177,78"
+
+; ANSI Black
+; base01 #341a0d
+"Colour6"="52,26,13"
+
+; ANSI Black Bright
+; base02 #874227
+"Colour7"="135,66,39"
+
+; ANSI Red
+; base08 #9b281b
+"Colour8"="155,40,27"
+
+; ANSI Red Bright
+; base12 #ff4230
+"Colour9"="255,66,48"
+
+; ANSI Green
+; base0B #626132
+"Colour10"="98,97,50"
+
+; ANSI Green Bright
+; base14 #b3b163
+"Colour11"="179,177,99"
+
+; ANSI Yellow
+; base0A #9eb2b3
+"Colour12"="158,178,179"
+
+; ANSI Yellow Bright
+; base13 #ff9565
+"Colour13"="255,149,101"
+
+; ANSI Blue
+; base0D #515b5c
+"Colour14"="81,91,92"
+
+; ANSI Blue Bright
+; base16 #9eb2b3
+"Colour15"="158,178,179"
+
+; ANSI Magenta
+; base0E #9b1d29
+"Colour16"="155,29,41"
+
+; ANSI Magenta Bright
+; base17 #ff5b6a
+"Colour17"="255,91,106"
+
+; ANSI Cyan
+; base0C #588056
+"Colour18"="88,128,86"
+
+; ANSI Cyan Bright
+; base15 #89cc8e
+"Colour19"="137,204,142"
+
+; ANSI White
+; base06 #f6d75c
+"Colour20"="246,215,92"
+
+; ANSI White Bright
+; base07 ffe597
+"Colour21"="255,229,151"

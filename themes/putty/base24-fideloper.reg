@@ -1,0 +1,95 @@
+Windows Registry Editor Version 5.00
+
+; Scheme name: Fideloper
+; Scheme system: base24
+; Scheme author: FredHappyface (https://github.com/fredHappyface)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-fideloper]
+
+; Default Foreground
+; base05 #b1b1a3
+"Colour0"="177,177,163"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #b1b1a3
+"Colour1"="177,177,163"
+
+; Default Background
+; base00 #282f32
+"Colour2"="40,47,50"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #282f32
+"Colour3"="40,47,50"
+
+; Cursor Text -- equals to default background
+; base00 #282f32
+"Colour4"="40,47,50"
+
+; Cursor Colour -- equals to default foreground
+; base05 #b1b1a3
+"Colour5"="177,177,163"
+
+; ANSI Black
+; base01 #282f32
+"Colour6"="40,47,50"
+
+; ANSI Black Bright
+; base02 #092027
+"Colour7"="9,32,39"
+
+; ANSI Red
+; base08 #ca1d2c
+"Colour8"="202,29,44"
+
+; ANSI Red Bright
+; base12 #d35f5a
+"Colour9"="211,95,90"
+
+; ANSI Green
+; base0B #edb7ab
+"Colour10"="237,183,171"
+
+; ANSI Green Bright
+; base14 #d35f5a
+"Colour11"="211,95,90"
+
+; ANSI Yellow
+; base0A #7c84c4
+"Colour12"="124,132,196"
+
+; ANSI Yellow Bright
+; base13 #a86571
+"Colour13"="168,101,113"
+
+; ANSI Blue
+; base0D #2e78c1
+"Colour14"="46,120,193"
+
+; ANSI Blue Bright
+; base16 #7c84c4
+"Colour15"="124,132,196"
+
+; ANSI Magenta
+; base0E #c0226e
+"Colour16"="192,34,110"
+
+; ANSI Magenta Bright
+; base17 #5b5db2
+"Colour17"="91,93,178"
+
+; ANSI Cyan
+; base0C #309185
+"Colour18"="48,145,133"
+
+; ANSI Cyan Bright
+; base15 #81908f
+"Colour19"="129,144,143"
+
+; ANSI White
+; base06 #e9e2cd
+"Colour20"="233,226,205"
+
+; ANSI White Bright
+; base07 fcf4de
+"Colour21"="252,244,222"

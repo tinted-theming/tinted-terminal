@@ -1,0 +1,95 @@
+Windows Registry Editor Version 5.00
+
+; Scheme name: Fun Forrest
+; Scheme system: base24
+; Scheme author: FredHappyface (https://github.com/fredHappyface)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-fun-forrest]
+
+; Default Foreground
+; base05 #c5ab60
+"Colour0"="197,171,96"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #c5ab60
+"Colour1"="197,171,96"
+
+; Default Background
+; base00 #241200
+"Colour2"="36,18,0"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #241200
+"Colour3"="36,18,0"
+
+; Cursor Text -- equals to default background
+; base00 #241200
+"Colour4"="36,18,0"
+
+; Cursor Colour -- equals to default foreground
+; base05 #c5ab60
+"Colour5"="197,171,96"
+
+; ANSI Black
+; base01 #000000
+"Colour6"="0,0,0"
+
+; ANSI Black Bright
+; base02 #7e6954
+"Colour7"="126,105,84"
+
+; ANSI Red
+; base08 #d5252b
+"Colour8"="213,37,43"
+
+; ANSI Red Bright
+; base12 #e4591b
+"Colour9"="228,89,27"
+
+; ANSI Green
+; base0B #909b00
+"Colour10"="144,155,0"
+
+; ANSI Green Bright
+; base14 #bfc659
+"Colour11"="191,198,89"
+
+; ANSI Yellow
+; base0A #7cc9ce
+"Colour12"="124,201,206"
+
+; ANSI Yellow Bright
+; base13 #ffca1b
+"Colour13"="255,202,27"
+
+; ANSI Blue
+; base0D #4698a2
+"Colour14"="70,152,162"
+
+; ANSI Blue Bright
+; base16 #7cc9ce
+"Colour15"="124,201,206"
+
+; ANSI Magenta
+; base0E #8c4231
+"Colour16"="140,66,49"
+
+; ANSI Magenta Bright
+; base17 #d16349
+"Colour17"="209,99,73"
+
+; ANSI Cyan
+; base0C #d98112
+"Colour18"="217,129,18"
+
+; ANSI Cyan Bright
+; base15 #e6a96b
+"Colour19"="230,169,107"
+
+; ANSI White
+; base06 #ddc165
+"Colour20"="221,193,101"
+
+; ANSI White Bright
+; base07 ffe9a3
+"Colour21"="255,233,163"

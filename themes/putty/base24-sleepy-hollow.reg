@@ -1,0 +1,95 @@
+Windows Registry Editor Version 5.00
+
+; Scheme name: Sleepy Hollow
+; Scheme system: base24
+; Scheme author: FredHappyface (https://github.com/fredHappyface)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-sleepy-hollow]
+
+; Default Foreground
+; base05 #968684
+"Colour0"="150,134,132"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #968684
+"Colour1"="150,134,132"
+
+; Default Background
+; base00 #121213
+"Colour2"="18,18,19"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #121213
+"Colour3"="18,18,19"
+
+; Cursor Text -- equals to default background
+; base00 #121213
+"Colour4"="18,18,19"
+
+; Cursor Colour -- equals to default foreground
+; base05 #968684
+"Colour5"="150,134,132"
+
+; ANSI Black
+; base01 #572000
+"Colour6"="87,32,0"
+
+; ANSI Black Bright
+; base02 #4e4b60
+"Colour7"="78,75,96"
+
+; ANSI Red
+; base08 #b93934
+"Colour8"="185,57,52"
+
+; ANSI Red Bright
+; base12 #d9443e
+"Colour9"="217,68,62"
+
+; ANSI Green
+; base0B #90773e
+"Colour10"="144,119,62"
+
+; ANSI Green Bright
+; base14 #d6b04e
+"Colour11"="214,176,78"
+
+; ANSI Yellow
+; base0A #8085ef
+"Colour12"="128,133,239"
+
+; ANSI Yellow Bright
+; base13 #f66713
+"Colour13"="246,103,19"
+
+; ANSI Blue
+; base0D #5e62b4
+"Colour14"="94,98,180"
+
+; ANSI Blue Bright
+; base16 #8085ef
+"Colour15"="128,133,239"
+
+; ANSI Magenta
+; base0E #a07c7b
+"Colour16"="160,124,123"
+
+; ANSI Magenta Bright
+; base17 #e1c2ba
+"Colour17"="225,194,186"
+
+; ANSI Cyan
+; base0C #8eaea9
+"Colour18"="142,174,169"
+
+; ANSI Cyan Bright
+; base15 #a4dbe7
+"Colour19"="164,219,231"
+
+; ANSI White
+; base06 #af9a91
+"Colour20"="175,154,145"
+
+; ANSI White Bright
+; base07 d1c7a9
+"Colour21"="209,199,169"
