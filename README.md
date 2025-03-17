@@ -82,8 +82,8 @@ about it adding a Tinted Terminal theme to [Tinty].
    `~/.local/share/tinted-theming/tinty/tinted-terminal-alacritty-file.toml`
    where `tinted-terminal-alacritty-file.toml` is made up of
    `<NAME>-<THEMES_DIR>-file.<FILE_EXTENSION>`:
-      - `<NAME>` - The `name` property in `...tiny/config.toml`
-      - `<THEMES_DIR>` - The `themes-dir` property in `...tiny/config.toml`
+      - `<NAME>` - The `name` property in `...tinty/config.toml`
+      - `<THEMES_DIR>` - The `themes-dir` property in `...tinty/config.toml`
       - `<FILE_EXTENSION>` - The file extension of the theme file set by
         the template
 
