@@ -53,6 +53,10 @@ README.md @tinted-theming/terminal
 /templates/termite-* @tinted-theming/termite-terminal
 /themes/termite/* @tinted-theming/termite-terminal
 
+# Windows Terminal
+/templates/windows-terminal-* @tinted-theming/windows-terminal
+/themes/windows-terminal/* @tinted-theming/windows-terminal
+
 # XFCE4
 /templates/xfce4-* @tinted-theming/xfce4-terminal
 /themes/xfce4/* @tinted-theming/xfce4-terminal
