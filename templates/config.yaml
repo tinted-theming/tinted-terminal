@@ -41,7 +41,7 @@ ghostty-base24:
 ghostty-script-base16:
   filename: themes/ghostty-scripts/{{ scheme-system }}-{{ scheme-slug }}.sh
   supported-systems: [base16]
-  
+
 ghostty-script-base24:
   filename: themes/ghostty-scripts/{{ scheme-system }}-{{ scheme-slug }}.sh
   supported-systems: [base24]
@@ -100,11 +100,11 @@ putty-base24:
 
 # Rio
 # ----------------------------------------------------------------------
-rio-base16-16: 
+rio-base16-16:
   filename: themes-16/rio/{{ scheme-system }}-{{ scheme-slug }}.toml
   supported-systems: [base16]
 
-rio-base24-16: 
+rio-base24-16:
   filename: themes-16/rio/{{ scheme-system }}-{{ scheme-slug }}.toml
   supported-systems: [base24]
 
@@ -116,6 +116,16 @@ termite-base16:
 
 termite-base24:
   filename: themes/termite/{{ scheme-system }}-{{ scheme-slug }}.config
+  supported-systems: [base24]
+
+# Windows Terminal
+# ----------------------------------------------------------------------
+windows-terminal-base16:
+  filename: themes/windows-terminal/{{ scheme-system }}-{{ scheme-slug }}.theme
+  supported-systems: [base16]
+
+windows-terminal-base24:
+  filename: themes/windows-terminal/{{ scheme-system }}-{{ scheme-slug }}.theme
   supported-systems: [base24]
 
 # xfce4
