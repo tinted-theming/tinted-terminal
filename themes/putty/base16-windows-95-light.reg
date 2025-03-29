@@ -2,7 +2,7 @@ Windows Registry Editor Version 5.00
 
 ; Scheme name: Windows 95 Light
 ; Scheme system: base16
-; Scheme author: Fergus Collins (https://github.com/C-Fergus)
+; Scheme author: Fergus Collins (https://github.com/ferguscollins)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base16-windows-95-light]
 

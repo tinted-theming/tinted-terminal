@@ -1,6 +1,6 @@
 (*
     base16 Windows 10 Light
-    Scheme author: Fergus Collins (https://github.com/C-Fergus)
+    Scheme author: Fergus Collins (https://github.com/ferguscollins)
     Template author: Tinted Theming (https://github.com/tinted-theming)
 *)
 tell application "iTerm2"

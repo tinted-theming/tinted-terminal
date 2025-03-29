@@ -47,7 +47,7 @@ _theme_file() {
 cat <<EOF
 # vim: ft=ghostty
 # Windows High Contrast theme for Ghostty
-# Scheme Author: Fergus Collins (https://github.com/C-Fergus)
+# Scheme Author: Fergus Collins (https://github.com/ferguscollins)
 # Scheme System: base16
 # Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
