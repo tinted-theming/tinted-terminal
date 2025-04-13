@@ -1,31 +1,31 @@
 (*
     base24 Gruvbox Dark
-    Scheme author: FredHappyface (https://github.com/fredHappyface)
+    Scheme author: Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
     Template author: Tinted Theming (https://github.com/tinted-theming)
 *)
 tell application "iTerm2"
     tell current session of current window
-        set background color to {7453, 7453, 7453}
-        set foreground color to {37265, 33153, 27756}
+        set background color to {10280, 10280, 10280}
+        set foreground color to {60395, 56283, 45746}
 
         -- Set ANSI Colors
-        set ANSI black color to {7453, 7453, 7453}
-        set ANSI red color to {48830, 3598, 5911}
-        set ANSI green color to {34438, 34695, 5397}
-        set ANSI yellow color to {28784, 38293, 34181}
-        set ANSI blue color to {14135, 29298, 29812}
-        set ANSI magenta color to {40863, 19275, 29555}
-        set ANSI cyan color to {22102, 36237, 22359}
-        set ANSI white color to {38807, 34695, 29041}
+        set ANSI black color to {15420, 14392, 13878}
+        set ANSI red color to {52428, 9252, 7453}
+        set ANSI green color to {39064, 38807, 6682}
+        set ANSI yellow color to {55255, 39321, 8481}
+        set ANSI blue color to {17733, 34181, 34952}
+        set ANSI magenta color to {45489, 25186, 34438}
+        set ANSI cyan color to {26728, 40349, 27242}
+        set ANSI white color to {64507, 61937, 51143}
 
         -- Set Bright ANSI Colors
-        set ANSI bright black color to {32639, 28784, 24672}
-        set ANSI bright red color to {63222, 12336, 10280}
-        set ANSI bright green color to {43433, 45232, 7453}
-        set ANSI bright yellow color to {63479, 45232, 9252}
-        set ANSI bright blue color to {28784, 38293, 34181}
-        set ANSI bright magenta color to {51143, 28527, 35209}
-        set ANSI bright cyan color to {32125, 46517, 26728}
-        set ANSI bright white color to {58853, 54227, 41634}
+        set ANSI bright black color to {20560, 18761, 17733}
+        set ANSI bright red color to {64507, 18761, 13364}
+        set ANSI bright green color to {47288, 48059, 9766}
+        set ANSI bright yellow color to {64250, 48573, 12079}
+        set ANSI bright blue color to {33667, 42405, 39064}
+        set ANSI bright magenta color to {54227, 34438, 39835}
+        set ANSI bright cyan color to {36494, 49344, 31868}
+        set ANSI bright white color to {63993, 62965, 55255}
     end tell
 end tell

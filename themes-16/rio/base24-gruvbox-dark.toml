@@ -1,41 +1,41 @@
 # Rio Terminal base24 color theme (https://github.com/tinted-theming)
-# Color scheme: Gruvbox Dark by FredHappyface (https://github.com/fredHappyface)
+# Color scheme: Gruvbox Dark by Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
 
 [colors]
-selection-background = '#7f7060' # base02
-selection-foreground = '#91816c' # base05
+selection-background = '#504945' # base02
+selection-foreground = '#ebdbb2' # base05
 
-cursor         = '#91816c' # base05
-tabs           = '#1d1d1d' # base01
-tabs-active    = '#7f7060' # base02
+cursor         = '#ebdbb2' # base05
+tabs           = '#3c3836' # base01
+tabs-active    = '#504945' # base02
 
-background     = '#1d1d1d' # base00
-foreground     = '#91816c' # base05
-black          = '#1d1d1d' # base01
-red            = '#be0e17' # base08
-yellow         = '#709585' # base0A
-green          = '#868715' # base0B
-cyan           = '#568d57' # base0C
-blue           = '#377274' # base0D
-magenta        = '#9f4b73' # base0E
-white          = '#978771' # base06
+background     = '#282828' # base00
+foreground     = '#ebdbb2' # base05
+black          = '#3c3836' # base01
+red            = '#cc241d' # base08
+yellow         = '#d79921' # base0A
+green          = '#98971a' # base0B
+cyan           = '#689d6a' # base0C
+blue           = '#458588' # base0D
+magenta        = '#b16286' # base0E
+white          = '#fbf1c7' # base06
 
-dim-foreground   = '#91816c' # base05
-dim-black        = '#1d1d1d' # base01
-dim-red          = '#be0e17' # base08
-dim-yellow       = '#709585' # base0A
-dim-green        = '#868715' # base0B
-dim-cyan         = '#568d57' # base0C
-dim-blue         = '#377274' # base0D
-dim-magenta      = '#9f4b73' # base0E
-dim-white        = '#8b7b68' # base04
+dim-foreground   = '#ebdbb2' # base05
+dim-black        = '#3c3836' # base01
+dim-red          = '#cc241d' # base08
+dim-yellow       = '#d79921' # base0A
+dim-green        = '#98971a' # base0B
+dim-cyan         = '#689d6a' # base0C
+dim-blue         = '#458588' # base0D
+dim-magenta      = '#b16286' # base0E
+dim-white        = '#928374' # base04
 
-light-foreground = '#91816c' # base05
-light-black      = '#7f7060' # base02
-light-red        = '#f63028' # base12
-light-yellow     = '#f7b024' # base13
-light-green      = '#a9b01d' # base14
-light-cyan       = '#7db568' # base15
-light-blue       = '#709585' # base16
-light-magenta    = '#c76f89' # base17
-light-white      = '#e5d3a2' # base07
+light-foreground = '#ebdbb2' # base05
+light-black      = '#504945' # base02
+light-red        = '#fb4934' # base12
+light-yellow     = '#fabd2f' # base13
+light-green      = '#b8bb26' # base14
+light-cyan       = '#8ec07c' # base15
+light-blue       = '#83a598' # base16
+light-magenta    = '#d3869b' # base17
+light-white      = '#f9f5d7' # base07

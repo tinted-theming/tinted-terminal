@@ -21,33 +21,33 @@ EOF
 
 
 ghostty_palette_color_0="#282828"
-ghostty_palette_color_1="#fb4934"
-ghostty_palette_color_2="#b8bb26"
-ghostty_palette_color_3="#fabd2f"
-ghostty_palette_color_4="#83a598"
-ghostty_palette_color_5="#d3869b"
-ghostty_palette_color_6="#8ec07c"
-ghostty_palette_color_7="#d5c4a1"
+ghostty_palette_color_1="#cc241d"
+ghostty_palette_color_2="#98971a"
+ghostty_palette_color_3="#d79921"
+ghostty_palette_color_4="#458588"
+ghostty_palette_color_5="#b16286"
+ghostty_palette_color_6="#689d6a"
+ghostty_palette_color_7="#ebdbb2"
 ghostty_palette_color_8="#504945"
-ghostty_palette_color_9="#fb4934"
-ghostty_palette_color_10="#b8bb26"
-ghostty_palette_color_11="#fabd2f"
-ghostty_palette_color_12="#83a598"
-ghostty_palette_color_13="#d3869b"
-ghostty_palette_color_14="#8ec07c"
-ghostty_palette_color_15="#fbf1c7"
-ghostty_palette_color_16="#fe8019"
-ghostty_palette_color_17="#d65d0e"
+ghostty_palette_color_9="#cc241d"
+ghostty_palette_color_10="#98971a"
+ghostty_palette_color_11="#d79921"
+ghostty_palette_color_12="#458588"
+ghostty_palette_color_13="#b16286"
+ghostty_palette_color_14="#689d6a"
+ghostty_palette_color_15="#f9f5d7"
+ghostty_palette_color_16="#d65d0e"
+ghostty_palette_color_17="#9d0006"
 ghostty_palette_color_18="#3c3836"
 ghostty_palette_color_19="#504945"
-ghostty_palette_color_20="#bdae93"
-ghostty_palette_color_21="#ebdbb2"
+ghostty_palette_color_20="#928374"
+ghostty_palette_color_21="#fbf1c7"
 
 _theme_file() {
 cat <<EOF
 # vim: ft=ghostty
 # Gruvbox dark, medium theme for Ghostty
-# Scheme Author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# Scheme Author: Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
 # Scheme System: base16
 # Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 

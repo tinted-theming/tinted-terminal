@@ -20,34 +20,34 @@ EOF
 }
 
 
-ghostty_palette_color_0="#1d1d1d"
-ghostty_palette_color_1="#be0e17"
-ghostty_palette_color_2="#868715"
-ghostty_palette_color_3="#709585"
-ghostty_palette_color_4="#377274"
-ghostty_palette_color_5="#9f4b73"
-ghostty_palette_color_6="#568d57"
-ghostty_palette_color_7="#978771"
-ghostty_palette_color_8="#7f7060"
-ghostty_palette_color_9="#f63028"
-ghostty_palette_color_10="#a9b01d"
-ghostty_palette_color_11="#f7b024"
-ghostty_palette_color_12="#709585"
-ghostty_palette_color_13="#c76f89"
-ghostty_palette_color_14="#7db568"
-ghostty_palette_color_15="#e5d3a2"
-ghostty_palette_color_16="#cc871a"
-ghostty_palette_color_17="#5f070b"
-ghostty_palette_color_18="#1d1d1d"
-ghostty_palette_color_19="#7f7060"
-ghostty_palette_color_20="#8b7b68"
-ghostty_palette_color_21="#978771"
+ghostty_palette_color_0="#282828"
+ghostty_palette_color_1="#cc241d"
+ghostty_palette_color_2="#98971a"
+ghostty_palette_color_3="#d79921"
+ghostty_palette_color_4="#458588"
+ghostty_palette_color_5="#b16286"
+ghostty_palette_color_6="#689d6a"
+ghostty_palette_color_7="#fbf1c7"
+ghostty_palette_color_8="#504945"
+ghostty_palette_color_9="#fb4934"
+ghostty_palette_color_10="#b8bb26"
+ghostty_palette_color_11="#fabd2f"
+ghostty_palette_color_12="#83a598"
+ghostty_palette_color_13="#d3869b"
+ghostty_palette_color_14="#8ec07c"
+ghostty_palette_color_15="#f9f5d7"
+ghostty_palette_color_16="#d65d0e"
+ghostty_palette_color_17="#9d0006"
+ghostty_palette_color_18="#3c3836"
+ghostty_palette_color_19="#504945"
+ghostty_palette_color_20="#928374"
+ghostty_palette_color_21="#fbf1c7"
 
 _theme_file() {
 cat <<EOF
 # vim: ft=ghostty
 # Gruvbox Dark theme for Ghostty
-# Scheme Author: FredHappyface (https://github.com/fredHappyface)
+# Scheme Author: Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
 # Scheme System: base24
 # Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
