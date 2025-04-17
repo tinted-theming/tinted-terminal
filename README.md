@@ -645,7 +645,7 @@ Tinted Theming template for [xfce4 terminal emulator].
    themes-dir = "themes/xfce4"
    hook = """
    mkdir -p $XDG_CONFIG_HOME/xfce4/terminal/colorschemes
-   cat %f $XDG_CONFIG_HOME/xfce4/terminal/colorschemes/%n.theme
+   cat %f > $XDG_CONFIG_HOME/xfce4/terminal/colorschemes/%n.theme
    """
    supported-systems = ["base16", "base24"]
    ```
