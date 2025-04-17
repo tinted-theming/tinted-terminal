@@ -636,38 +636,24 @@ Tinted Theming template for [xfce4 terminal emulator].
 
 ### Tinty
 
-1. Clone the tinted-terminal themes and symlink to Rio themes directory:
-
-   ```sh
-   git clone https://github.com/tinted-theming/tinted-terminal /path/to/tinted-terminal
-   mkdir -p ~/.local/share/xfce4/terminal
-   ln -s /path/to/tinted-terminal/xfce4 ~/.local/share/xfce4/terminal/colorschemes
-   ```
-
-2. Add the following to `~/.config/tinted-theming/tinty/config.toml`:
+1. Add the following to `~/.config/tinted-theming/tinty/config.toml`:
 
    ```toml
    [[items]]
-   path = "~/projects/tinted-theming/tinted-xfce4-terminal"
+   path = "https://github.com/tinted-theming/tinted-terminal"
    name = "tinted-xfce4-terminal"
    themes-dir = "themes/xfce4"
    hook = """
-   # Adapted from https://askubuntu.com/questions/676428/change-color-scheme-for-xfce4-terminal-manually#answer-676452
-   if [[ -e $HOME/.local/share/xfce4/terminal/colorschemes/%n.theme ]]
-   then
-     cd $HOME/.config/xfce4/terminal
-     # strip settings from any themes
-     grep -Fxvf <(cat $HOME/.local/share/xfce4/terminal/colorschemes/*.theme) terminalrc > .terminalrc.tmp
-     grep -v -e Name -e Scheme "$HOME/.local/share/xfce4/terminal/colorschemes/%n.theme" >> .terminalrc.tmp
-     cp terminalrc terminalrc.bak
-     mv .terminalrc.tmp terminalrc
-   fi
+   mkdir -p $XDG_CONFIG_HOME/xfce4/terminal/colorschemes
+   cat %f > $XDG_CONFIG_HOME/xfce4/terminal/colorschemes/%n.theme
    """
    supported-systems = ["base16", "base24"]
    ```
 
-3. `tinty apply base16-ayu-dark` to change the theme to
+2. `tinty sync && tinty apply base16-ayu-dark` to change the theme to
    `base16-ayu-dark`
+
+3. The theme will be available under `Preferences > Colors > Presets`.
 
 For more information on Tinty setup or usage, have a look at the [Tinty]
 GitHub page.
@@ -676,8 +662,7 @@ GitHub page.
 
 Put the prebuilt `*.theme` files from `colorschemes/` into
 `~/.local/share/xfce4/terminal/colorschemes/` (create this directory if
-it does not exist), and the themes will be available under `Edit >
-Preferences... > Colors > Presets`
+it does not exist), and the themes will be available under `Preferences > Colors > Presets`.
 
 ```sh
 mkdir -p ~/.local/share/xfce4/terminal
