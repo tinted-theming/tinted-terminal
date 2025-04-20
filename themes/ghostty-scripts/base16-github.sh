@@ -20,34 +20,34 @@ EOF
 }
 
 
-ghostty_palette_color_0="#ffffff"
-ghostty_palette_color_1="#ed6a43"
-ghostty_palette_color_2="#183691"
-ghostty_palette_color_3="#795da3"
-ghostty_palette_color_4="#795da3"
-ghostty_palette_color_5="#a71d5d"
-ghostty_palette_color_6="#183691"
-ghostty_palette_color_7="#333333"
-ghostty_palette_color_8="#c8c8fa"
-ghostty_palette_color_9="#ed6a43"
-ghostty_palette_color_10="#183691"
-ghostty_palette_color_11="#795da3"
-ghostty_palette_color_12="#795da3"
-ghostty_palette_color_13="#a71d5d"
-ghostty_palette_color_14="#183691"
-ghostty_palette_color_15="#ffffff"
-ghostty_palette_color_16="#0086b3"
-ghostty_palette_color_17="#333333"
-ghostty_palette_color_18="#f5f5f5"
-ghostty_palette_color_19="#c8c8fa"
-ghostty_palette_color_20="#e8e8e8"
-ghostty_palette_color_21="#ffffff"
+ghostty_palette_color_0="#eaeef2"
+ghostty_palette_color_1="#fa4549"
+ghostty_palette_color_2="#2da44e"
+ghostty_palette_color_3="#bf8700"
+ghostty_palette_color_4="#218bff"
+ghostty_palette_color_5="#a475f9"
+ghostty_palette_color_6="#339d9b"
+ghostty_palette_color_7="#424a53"
+ghostty_palette_color_8="#afb8c1"
+ghostty_palette_color_9="#fa4549"
+ghostty_palette_color_10="#2da44e"
+ghostty_palette_color_11="#bf8700"
+ghostty_palette_color_12="#218bff"
+ghostty_palette_color_13="#a475f9"
+ghostty_palette_color_14="#339d9b"
+ghostty_palette_color_15="#1f2328"
+ghostty_palette_color_16="#e16f24"
+ghostty_palette_color_17="#4d2d00"
+ghostty_palette_color_18="#d0d7de"
+ghostty_palette_color_19="#afb8c1"
+ghostty_palette_color_20="#6e7781"
+ghostty_palette_color_21="#32383f"
 
 _theme_file() {
 cat <<EOF
 # vim: ft=ghostty
 # Github theme for Ghostty
-# Scheme Author: Defman21
+# Scheme Author: Tinted Theming (https://github.com/tinted-theming)
 # Scheme System: base16
 # Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
