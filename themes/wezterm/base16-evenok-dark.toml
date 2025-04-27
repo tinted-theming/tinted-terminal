@@ -1,0 +1,33 @@
+# Base16 Evenok Dark - wezterm color config
+# Scheme by Mekeor Melire
+[colors]
+background = "#000000"
+foreground = "#d0d0d0"
+
+cursor_bg = "#202020"
+cursor_border = "#d0d0d0"
+cursor_fg = "#e0e0e0"
+
+selection_bg = "#d0d0d0"
+selection_fg = "#000000"
+
+ansi = [
+  "#000000",
+  "#f5708a",
+  "#54bc5c",
+  "#b8a300",
+  "#00aff2",
+  "#9095ff",
+  "#00bab3",
+  "#e0e0e0"
+  ]
+brights = [
+  "#505050",
+  "#f5708a",
+  "#54bc5c",
+  "#b8a300",
+  "#00aff2",
+  "#9095ff",
+  "#00bab3",
+  "#ffffff"
+  ]

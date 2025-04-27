@@ -1,0 +1,33 @@
+# Base16 Valua - wezterm color config
+# Scheme by Nonetrix (https://github.com/nonetrix)
+[colors]
+background = "#131f1f"
+foreground = "#98c1a3"
+
+cursor_bg = "#213132"
+cursor_border = "#98c1a3"
+cursor_fg = "#a5cbb9"
+
+selection_bg = "#98c1a3"
+selection_fg = "#131f1f"
+
+ansi = [
+  "#131f1f",
+  "#d7586e",
+  "#59d678",
+  "#dfe754",
+  "#4ed2d2",
+  "#a874e0",
+  "#76dbd2",
+  "#a5cbb9"
+  ]
+brights = [
+  "#3e5c53",
+  "#d7586e",
+  "#59d678",
+  "#dfe754",
+  "#4ed2d2",
+  "#a874e0",
+  "#76dbd2",
+  "#aacbcb"
+  ]

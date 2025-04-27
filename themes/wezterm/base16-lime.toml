@@ -1,0 +1,33 @@
+# Base16 lime - wezterm color config
+# Scheme by limelier
+[colors]
+background = "#1a1a2f"
+foreground = "#818175"
+
+cursor_bg = "#202030"
+cursor_border = "#818175"
+cursor_fg = "#fff2d1"
+
+selection_bg = "#818175"
+selection_fg = "#1a1a2f"
+
+ansi = [
+  "#1a1a2f",
+  "#ff662a",
+  "#8cd97c",
+  "#ffd15e",
+  "#2b926f",
+  "#1b825f",
+  "#4cad83",
+  "#fff2d1"
+  ]
+brights = [
+  "#313140",
+  "#ff662a",
+  "#8cd97c",
+  "#ffd15e",
+  "#2b926f",
+  "#1b825f",
+  "#4cad83",
+  "#fff8e1"
+  ]

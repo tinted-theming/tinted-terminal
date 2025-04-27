@@ -1,0 +1,33 @@
+# Base16 Blueish - wezterm color config
+# Scheme by Ben Mayoras
+[colors]
+background = "#182430"
+foreground = "#c8e1f8"
+
+cursor_bg = "#243c54"
+cursor_border = "#c8e1f8"
+cursor_fg = "#ddeaf6"
+
+selection_bg = "#c8e1f8"
+selection_fg = "#182430"
+
+ansi = [
+  "#182430",
+  "#4ce587",
+  "#c3e88d",
+  "#82aaff",
+  "#82aaff",
+  "#ff84dd",
+  "#5fd1ff",
+  "#ddeaf6"
+  ]
+brights = [
+  "#616d78",
+  "#4ce587",
+  "#c3e88d",
+  "#82aaff",
+  "#82aaff",
+  "#ff84dd",
+  "#5fd1ff",
+  "#8f98a0"
+  ]

@@ -1,0 +1,33 @@
+# Base16 Black Metal - wezterm color config
+# Scheme by metalelf0 (https://github.com/metalelf0)
+[colors]
+background = "#000000"
+foreground = "#c1c1c1"
+
+cursor_bg = "#121212"
+cursor_border = "#c1c1c1"
+cursor_fg = "#999999"
+
+selection_bg = "#c1c1c1"
+selection_fg = "#000000"
+
+ansi = [
+  "#000000",
+  "#5f8787",
+  "#dd9999",
+  "#a06666",
+  "#888888",
+  "#999999",
+  "#aaaaaa",
+  "#999999"
+  ]
+brights = [
+  "#333333",
+  "#5f8787",
+  "#dd9999",
+  "#a06666",
+  "#888888",
+  "#999999",
+  "#aaaaaa",
+  "#c1c1c1"
+  ]

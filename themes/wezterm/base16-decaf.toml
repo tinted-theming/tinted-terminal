@@ -1,0 +1,33 @@
+# Base16 Decaf - wezterm color config
+# Scheme by Alex Mirrington (https://github.com/alexmirrington)
+[colors]
+background = "#2d2d2d"
+foreground = "#cccccc"
+
+cursor_bg = "#393939"
+cursor_border = "#cccccc"
+cursor_fg = "#e0e0e0"
+
+selection_bg = "#cccccc"
+selection_fg = "#2d2d2d"
+
+ansi = [
+  "#2d2d2d",
+  "#ff7f7b",
+  "#beda78",
+  "#ffd67c",
+  "#90bee1",
+  "#efb3f7",
+  "#bed6ff",
+  "#e0e0e0"
+  ]
+brights = [
+  "#777777",
+  "#ff7f7b",
+  "#beda78",
+  "#ffd67c",
+  "#90bee1",
+  "#efb3f7",
+  "#bed6ff",
+  "#ffffff"
+  ]

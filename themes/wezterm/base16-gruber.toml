@@ -1,0 +1,33 @@
+# Base16 Gruber - wezterm color config
+# Scheme by Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+[colors]
+background = "#181818"
+foreground = "#f4f4ff"
+
+cursor_bg = "#453d41"
+cursor_border = "#f4f4ff"
+cursor_fg = "#f5f5f5"
+
+selection_bg = "#f4f4ff"
+selection_fg = "#181818"
+
+ansi = [
+  "#181818",
+  "#f43841",
+  "#73c936",
+  "#ffdd33",
+  "#96a6c8",
+  "#9e95c7",
+  "#95a99f",
+  "#f5f5f5"
+  ]
+brights = [
+  "#52494e",
+  "#f43841",
+  "#73c936",
+  "#ffdd33",
+  "#96a6c8",
+  "#9e95c7",
+  "#95a99f",
+  "#e4e4ef"
+  ]

@@ -1,0 +1,33 @@
+# Base16 Gruvbox Material Light, Medium - wezterm color config
+# Scheme by Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+[colors]
+background = "#fbf1c7"
+foreground = "#654735"
+
+cursor_bg = "#f2e5bc"
+cursor_border = "#654735"
+cursor_fg = "#3c3836"
+
+selection_bg = "#654735"
+selection_fg = "#fbf1c7"
+
+ansi = [
+  "#fbf1c7",
+  "#c14a4a",
+  "#6c782e",
+  "#b47109",
+  "#45707a",
+  "#945e80",
+  "#4c7a5d",
+  "#3c3836"
+  ]
+brights = [
+  "#bdae93",
+  "#c14a4a",
+  "#6c782e",
+  "#b47109",
+  "#45707a",
+  "#945e80",
+  "#4c7a5d",
+  "#282828"
+  ]

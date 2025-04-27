@@ -1,0 +1,33 @@
+# Base16 Sparky - wezterm color config
+# Scheme by Leila Sother (https://github.com/mixcoac)
+[colors]
+background = "#072b31"
+foreground = "#f4f5f0"
+
+cursor_bg = "#00313c"
+cursor_border = "#f4f5f0"
+cursor_fg = "#f5f5f1"
+
+selection_bg = "#f4f5f0"
+selection_fg = "#072b31"
+
+ansi = [
+  "#072b31",
+  "#ff585d",
+  "#78d64b",
+  "#fbdd40",
+  "#4698cb",
+  "#d59ed7",
+  "#2dccd3",
+  "#f5f5f1"
+  ]
+brights = [
+  "#003b49",
+  "#ff585d",
+  "#78d64b",
+  "#fbdd40",
+  "#4698cb",
+  "#d59ed7",
+  "#2dccd3",
+  "#ffffff"
+  ]

@@ -1,0 +1,33 @@
+# Base16 Shapeshifter - wezterm color config
+# Scheme by Tyler Benziger (http://tybenz.com)
+[colors]
+background = "#f9f9f9"
+foreground = "#102015"
+
+cursor_bg = "#e0e0e0"
+cursor_border = "#102015"
+cursor_fg = "#040404"
+
+selection_bg = "#102015"
+selection_fg = "#f9f9f9"
+
+ansi = [
+  "#f9f9f9",
+  "#e92f2f",
+  "#0ed839",
+  "#dddd13",
+  "#3b48e3",
+  "#f996e2",
+  "#23edda",
+  "#040404"
+  ]
+brights = [
+  "#555555",
+  "#e92f2f",
+  "#0ed839",
+  "#dddd13",
+  "#3b48e3",
+  "#f996e2",
+  "#23edda",
+  "#000000"
+  ]

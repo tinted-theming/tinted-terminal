@@ -1,0 +1,33 @@
+# Base16 Moonlight - wezterm color config
+# Scheme by Jeremy Swinarton (https://github.com/jswinarton)
+[colors]
+background = "#212337"
+foreground = "#a3ace1"
+
+cursor_bg = "#403c64"
+cursor_border = "#a3ace1"
+cursor_fg = "#b4a4f4"
+
+selection_bg = "#a3ace1"
+selection_fg = "#212337"
+
+ansi = [
+  "#212337",
+  "#ff5370",
+  "#2df4c0",
+  "#ffc777",
+  "#40ffff",
+  "#b994f1",
+  "#04d1f9",
+  "#b4a4f4"
+  ]
+brights = [
+  "#748cd6",
+  "#ff5370",
+  "#2df4c0",
+  "#ffc777",
+  "#40ffff",
+  "#b994f1",
+  "#04d1f9",
+  "#ef43fa"
+  ]

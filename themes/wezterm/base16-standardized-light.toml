@@ -1,0 +1,33 @@
+# Base16 standardized-light - wezterm color config
+# Scheme by ali (https://github.com/ali-githb/base16-standardized-scheme)
+[colors]
+background = "#ffffff"
+foreground = "#444444"
+
+cursor_bg = "#eeeeee"
+cursor_border = "#444444"
+cursor_fg = "#333333"
+
+selection_bg = "#444444"
+selection_fg = "#ffffff"
+
+ansi = [
+  "#ffffff",
+  "#d03e3e",
+  "#31861f",
+  "#ad8200",
+  "#3173c5",
+  "#9e57c2",
+  "#00998f",
+  "#333333"
+  ]
+brights = [
+  "#767676",
+  "#d03e3e",
+  "#31861f",
+  "#ad8200",
+  "#3173c5",
+  "#9e57c2",
+  "#00998f",
+  "#222222"
+  ]

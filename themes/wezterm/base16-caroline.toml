@@ -1,0 +1,33 @@
+# Base16 caroline - wezterm color config
+# Scheme by ed (https://codeberg.org/ed)
+[colors]
+background = "#1c1213"
+foreground = "#a87569"
+
+cursor_bg = "#3a2425"
+cursor_border = "#a87569"
+cursor_fg = "#c58d7b"
+
+selection_bg = "#a87569"
+selection_fg = "#1c1213"
+
+ansi = [
+  "#1c1213",
+  "#c24f57",
+  "#806c61",
+  "#f28171",
+  "#684c59",
+  "#a63650",
+  "#6b6566",
+  "#c58d7b"
+  ]
+brights = [
+  "#6d4745",
+  "#c24f57",
+  "#806c61",
+  "#f28171",
+  "#684c59",
+  "#a63650",
+  "#6b6566",
+  "#e3a68c"
+  ]

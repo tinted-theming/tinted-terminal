@@ -1,0 +1,33 @@
+# Base16 Kimber - wezterm color config
+# Scheme by Mishka Nguyen (https://github.com/akhsiM)
+[colors]
+background = "#222222"
+foreground = "#dedee7"
+
+cursor_bg = "#313131"
+cursor_border = "#dedee7"
+cursor_fg = "#c3c3b4"
+
+selection_bg = "#dedee7"
+selection_fg = "#222222"
+
+ansi = [
+  "#222222",
+  "#c88c8c",
+  "#99c899",
+  "#d8b56d",
+  "#537c9c",
+  "#86cacd",
+  "#78b4b4",
+  "#c3c3b4"
+  ]
+brights = [
+  "#644646",
+  "#c88c8c",
+  "#99c899",
+  "#d8b56d",
+  "#537c9c",
+  "#86cacd",
+  "#78b4b4",
+  "#ffffe6"
+  ]

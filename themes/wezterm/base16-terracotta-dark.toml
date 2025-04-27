@@ -1,0 +1,33 @@
+# Base16 Terracotta Dark - wezterm color config
+# Scheme by Alexander Rossell Hayes (https://github.com/rossellhayes)
+[colors]
+background = "#241d1a"
+foreground = "#b8a59d"
+
+cursor_bg = "#362b27"
+cursor_border = "#b8a59d"
+cursor_fg = "#cabbb5"
+
+selection_bg = "#b8a59d"
+selection_fg = "#241d1a"
+
+ansi = [
+  "#241d1a",
+  "#f6998f",
+  "#b6c68a",
+  "#ffc37a",
+  "#b0a4c3",
+  "#d8a2b0",
+  "#c0bcdb",
+  "#cabbb5"
+  ]
+brights = [
+  "#594740",
+  "#f6998f",
+  "#b6c68a",
+  "#ffc37a",
+  "#b0a4c3",
+  "#d8a2b0",
+  "#c0bcdb",
+  "#dcd2ce"
+  ]

@@ -1,0 +1,33 @@
+# Base16 emil - wezterm color config
+# Scheme by limelier
+[colors]
+background = "#efefef"
+foreground = "#313145"
+
+cursor_bg = "#bebed2"
+cursor_border = "#313145"
+cursor_fg = "#22223a"
+
+selection_bg = "#313145"
+selection_fg = "#efefef"
+
+ansi = [
+  "#efefef",
+  "#f43979",
+  "#0073a8",
+  "#ff669b",
+  "#471397",
+  "#6916b6",
+  "#2155d6",
+  "#22223a"
+  ]
+brights = [
+  "#7c7c98",
+  "#f43979",
+  "#0073a8",
+  "#ff669b",
+  "#471397",
+  "#6916b6",
+  "#2155d6",
+  "#1a1a2f"
+  ]

@@ -1,0 +1,33 @@
+# Base16 Atelier Cave - wezterm color config
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+[colors]
+background = "#19171c"
+foreground = "#8b8792"
+
+cursor_bg = "#26232a"
+cursor_border = "#8b8792"
+cursor_fg = "#e2dfe7"
+
+selection_bg = "#8b8792"
+selection_fg = "#19171c"
+
+ansi = [
+  "#19171c",
+  "#be4678",
+  "#2a9292",
+  "#a06e3b",
+  "#576ddb",
+  "#955ae7",
+  "#398bc6",
+  "#e2dfe7"
+  ]
+brights = [
+  "#655f6d",
+  "#be4678",
+  "#2a9292",
+  "#a06e3b",
+  "#576ddb",
+  "#955ae7",
+  "#398bc6",
+  "#efecf4"
+  ]

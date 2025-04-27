@@ -1,0 +1,33 @@
+# Base16 Helios - wezterm color config
+# Scheme by Alex Meyer (https://github.com/reyemxela)
+[colors]
+background = "#1d2021"
+foreground = "#d5d5d5"
+
+cursor_bg = "#383c3e"
+cursor_border = "#d5d5d5"
+cursor_fg = "#dddddd"
+
+selection_bg = "#d5d5d5"
+selection_fg = "#1d2021"
+
+ansi = [
+  "#1d2021",
+  "#d72638",
+  "#88b92d",
+  "#f19d1a",
+  "#1e8bac",
+  "#be4264",
+  "#1ba595",
+  "#dddddd"
+  ]
+brights = [
+  "#6f7579",
+  "#d72638",
+  "#88b92d",
+  "#f19d1a",
+  "#1e8bac",
+  "#be4264",
+  "#1ba595",
+  "#e5e5e5"
+  ]

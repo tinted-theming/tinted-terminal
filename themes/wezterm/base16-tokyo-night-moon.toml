@@ -1,0 +1,33 @@
+# Base16 Tokyo Night Moon - wezterm color config
+# Scheme by Ólafur Bjarki Bogason
+[colors]
+background = "#222436"
+foreground = "#3b4261"
+
+cursor_bg = "#1e2030"
+cursor_border = "#3b4261"
+cursor_fg = "#828bb8"
+
+selection_bg = "#3b4261"
+selection_fg = "#222436"
+
+ansi = [
+  "#222436",
+  "#ff757f",
+  "#c3e88d",
+  "#ffc777",
+  "#82aaff",
+  "#fca7ea",
+  "#86e1fc",
+  "#828bb8"
+  ]
+brights = [
+  "#636da6",
+  "#ff757f",
+  "#c3e88d",
+  "#ffc777",
+  "#82aaff",
+  "#fca7ea",
+  "#86e1fc",
+  "#c8d3f5"
+  ]

@@ -1,0 +1,33 @@
+# Base16 Solar Flare Light - wezterm color config
+# Scheme by Chuck Harmston (https://chuck.harmston.ch)
+[colors]
+background = "#f5f7fa"
+foreground = "#586875"
+
+cursor_bg = "#e8e9ed"
+cursor_border = "#586875"
+cursor_fg = "#222e38"
+
+selection_bg = "#586875"
+selection_fg = "#f5f7fa"
+
+ansi = [
+  "#f5f7fa",
+  "#ef5253",
+  "#7cc844",
+  "#e4b51c",
+  "#33b5e1",
+  "#a363d5",
+  "#52cbb0",
+  "#222e38"
+  ]
+brights = [
+  "#85939e",
+  "#ef5253",
+  "#7cc844",
+  "#e4b51c",
+  "#33b5e1",
+  "#a363d5",
+  "#52cbb0",
+  "#18262f"
+  ]

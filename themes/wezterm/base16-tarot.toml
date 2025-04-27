@@ -1,0 +1,33 @@
+# Base16 tarot - wezterm color config
+# Scheme by ed (https://codeberg.org/ed)
+[colors]
+background = "#0e091d"
+foreground = "#aa556f"
+
+cursor_bg = "#2a153c"
+cursor_border = "#aa556f"
+cursor_fg = "#c4686d"
+
+selection_bg = "#aa556f"
+selection_fg = "#0e091d"
+
+ansi = [
+  "#0e091d",
+  "#c53253",
+  "#a68e5a",
+  "#ff6565",
+  "#6e6080",
+  "#a45782",
+  "#8c9785",
+  "#c4686d"
+  ]
+brights = [
+  "#74316b",
+  "#c53253",
+  "#a68e5a",
+  "#ff6565",
+  "#6e6080",
+  "#a45782",
+  "#8c9785",
+  "#dc8f7c"
+  ]

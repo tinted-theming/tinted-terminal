@@ -1,0 +1,33 @@
+# Base16 Vesper - wezterm color config
+# Scheme by FormalSnake (https://github.com/formalsnake)
+[colors]
+background = "#101010"
+foreground = "#b7b7b7"
+
+cursor_bg = "#232323"
+cursor_border = "#b7b7b7"
+cursor_fg = "#c1c1c1"
+
+selection_bg = "#b7b7b7"
+selection_fg = "#101010"
+
+ansi = [
+  "#101010",
+  "#de6e6e",
+  "#5f8787",
+  "#ffc799",
+  "#8eaaaa",
+  "#d69094",
+  "#60a592",
+  "#c1c1c1"
+  ]
+brights = [
+  "#333333",
+  "#de6e6e",
+  "#5f8787",
+  "#ffc799",
+  "#8eaaaa",
+  "#d69094",
+  "#60a592",
+  "#d5d5d5"
+  ]

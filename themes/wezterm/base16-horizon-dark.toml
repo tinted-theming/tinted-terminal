@@ -1,0 +1,33 @@
+# Base16 Horizon Dark - wezterm color config
+# Scheme by Michaël Ball (http://github.com/michael-ball/)
+[colors]
+background = "#1c1e26"
+foreground = "#cbced0"
+
+cursor_bg = "#232530"
+cursor_border = "#cbced0"
+cursor_fg = "#dcdfe4"
+
+selection_bg = "#cbced0"
+selection_fg = "#1c1e26"
+
+ansi = [
+  "#1c1e26",
+  "#e93c58",
+  "#efaf8e",
+  "#efb993",
+  "#df5273",
+  "#b072d1",
+  "#24a8b4",
+  "#dcdfe4"
+  ]
+brights = [
+  "#6f6f70",
+  "#e93c58",
+  "#efaf8e",
+  "#efb993",
+  "#df5273",
+  "#b072d1",
+  "#24a8b4",
+  "#e3e6ee"
+  ]

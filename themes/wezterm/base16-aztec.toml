@@ -1,0 +1,33 @@
+# Base16 Aztec - wezterm color config
+# Scheme by TheNeverMan (github.com/TheNeverMan)
+[colors]
+background = "#101600"
+foreground = "#ffda51"
+
+cursor_bg = "#1a1e01"
+cursor_border = "#ffda51"
+cursor_fg = "#ffe178"
+
+selection_bg = "#ffda51"
+selection_fg = "#101600"
+
+ansi = [
+  "#101600",
+  "#ee2e00",
+  "#63d932",
+  "#eebb00",
+  "#5b4a9f",
+  "#883e9f",
+  "#3d94a5",
+  "#ffe178"
+  ]
+brights = [
+  "#2e2e05",
+  "#ee2e00",
+  "#63d932",
+  "#eebb00",
+  "#5b4a9f",
+  "#883e9f",
+  "#3d94a5",
+  "#ffeba0"
+  ]

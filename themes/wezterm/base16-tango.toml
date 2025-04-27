@@ -1,0 +1,33 @@
+# Base16 Tango - wezterm color config
+# Scheme by @Schnouki, based on the Tango Desktop Project
+[colors]
+background = "#2e3436"
+foreground = "#d3d7cf"
+
+cursor_bg = "#8ae234"
+cursor_border = "#d3d7cf"
+cursor_fg = "#ad7fa8"
+
+selection_bg = "#d3d7cf"
+selection_fg = "#2e3436"
+
+ansi = [
+  "#2e3436",
+  "#cc0000",
+  "#4e9a06",
+  "#c4a000",
+  "#3465a4",
+  "#75507b",
+  "#06989a",
+  "#ad7fa8"
+  ]
+brights = [
+  "#555753",
+  "#cc0000",
+  "#4e9a06",
+  "#c4a000",
+  "#3465a4",
+  "#75507b",
+  "#06989a",
+  "#eeeeec"
+  ]

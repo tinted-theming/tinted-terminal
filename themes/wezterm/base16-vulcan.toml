@@ -1,0 +1,33 @@
+# Base16 vulcan - wezterm color config
+# Scheme by Andrey Varfolomeev
+[colors]
+background = "#041523"
+foreground = "#5b778c"
+
+cursor_bg = "#122339"
+cursor_border = "#5b778c"
+cursor_fg = "#333238"
+
+selection_bg = "#5b778c"
+selection_fg = "#041523"
+
+ansi = [
+  "#041523",
+  "#818591",
+  "#977d7c",
+  "#adb4b9",
+  "#977d7c",
+  "#9198a3",
+  "#977d7c",
+  "#333238"
+  ]
+brights = [
+  "#7a5759",
+  "#818591",
+  "#977d7c",
+  "#adb4b9",
+  "#977d7c",
+  "#9198a3",
+  "#977d7c",
+  "#214d68"
+  ]

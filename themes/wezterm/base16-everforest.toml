@@ -1,0 +1,33 @@
+# Base16 Everforest - wezterm color config
+# Scheme by Sainnhe Park (https://github.com/sainnhe)
+[colors]
+background = "#2d353b"
+foreground = "#d3c6aa"
+
+cursor_bg = "#343f44"
+cursor_border = "#d3c6aa"
+cursor_fg = "#e6e2cc"
+
+selection_bg = "#d3c6aa"
+selection_fg = "#2d353b"
+
+ansi = [
+  "#2d353b",
+  "#e67e80",
+  "#a7c080",
+  "#dbbc7f",
+  "#7fbbb3",
+  "#d699b6",
+  "#83c092",
+  "#e6e2cc"
+  ]
+brights = [
+  "#859289",
+  "#e67e80",
+  "#a7c080",
+  "#dbbc7f",
+  "#7fbbb3",
+  "#d699b6",
+  "#83c092",
+  "#fdf6e3"
+  ]

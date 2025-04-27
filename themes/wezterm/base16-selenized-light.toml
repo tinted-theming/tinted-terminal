@@ -1,0 +1,33 @@
+# Base16 selenized-light - wezterm color config
+# Scheme by Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+[colors]
+background = "#fbf3db"
+foreground = "#53676d"
+
+cursor_bg = "#ece3cc"
+cursor_border = "#53676d"
+cursor_fg = "#3a4d53"
+
+selection_bg = "#53676d"
+selection_fg = "#fbf3db"
+
+ansi = [
+  "#fbf3db",
+  "#cc1729",
+  "#428b00",
+  "#a78300",
+  "#006dce",
+  "#825dc0",
+  "#00978a",
+  "#3a4d53"
+  ]
+brights = [
+  "#909995",
+  "#cc1729",
+  "#428b00",
+  "#a78300",
+  "#006dce",
+  "#825dc0",
+  "#00978a",
+  "#3a4d53"
+  ]

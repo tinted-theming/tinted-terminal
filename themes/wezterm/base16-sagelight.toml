@@ -1,0 +1,33 @@
+# Base16 Sagelight - wezterm color config
+# Scheme by Carter Veldhuizen
+[colors]
+background = "#f8f8f8"
+foreground = "#383838"
+
+cursor_bg = "#e8e8e8"
+cursor_border = "#383838"
+cursor_fg = "#282828"
+
+selection_bg = "#383838"
+selection_fg = "#f8f8f8"
+
+ansi = [
+  "#f8f8f8",
+  "#fa8480",
+  "#a0d2c8",
+  "#ffdc61",
+  "#a0a7d2",
+  "#c8a0d2",
+  "#a2d6f5",
+  "#282828"
+  ]
+brights = [
+  "#b8b8b8",
+  "#fa8480",
+  "#a0d2c8",
+  "#ffdc61",
+  "#a0a7d2",
+  "#c8a0d2",
+  "#a2d6f5",
+  "#181818"
+  ]

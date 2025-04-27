@@ -1,0 +1,33 @@
+# Base16 UwUnicorn - wezterm color config
+# Scheme by Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+[colors]
+background = "#241b26"
+foreground = "#eed5d9"
+
+cursor_bg = "#2f2a3f"
+cursor_border = "#eed5d9"
+cursor_fg = "#d9c2c6"
+
+selection_bg = "#eed5d9"
+selection_fg = "#241b26"
+
+ansi = [
+  "#241b26",
+  "#877bb6",
+  "#c965bf",
+  "#a84a73",
+  "#6a9eb5",
+  "#78a38f",
+  "#9c5fce",
+  "#d9c2c6"
+  ]
+brights = [
+  "#6c3cb2",
+  "#877bb6",
+  "#c965bf",
+  "#a84a73",
+  "#6a9eb5",
+  "#78a38f",
+  "#9c5fce",
+  "#e4ccd0"
+  ]

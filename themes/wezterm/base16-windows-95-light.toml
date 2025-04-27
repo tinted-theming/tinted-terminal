@@ -1,0 +1,33 @@
+# Base16 Windows 95 Light - wezterm color config
+# Scheme by Fergus Collins (https://github.com/ferguscollins)
+[colors]
+background = "#fcfcfc"
+foreground = "#545454"
+
+cursor_bg = "#e0e0e0"
+cursor_border = "#545454"
+cursor_fg = "#2a2a2a"
+
+selection_bg = "#545454"
+selection_fg = "#fcfcfc"
+
+ansi = [
+  "#fcfcfc",
+  "#a80000",
+  "#00a800",
+  "#a85400",
+  "#0000a8",
+  "#a800a8",
+  "#00a8a8",
+  "#2a2a2a"
+  ]
+brights = [
+  "#a8a8a8",
+  "#a80000",
+  "#00a800",
+  "#a85400",
+  "#0000a8",
+  "#a800a8",
+  "#00a8a8",
+  "#000000"
+  ]

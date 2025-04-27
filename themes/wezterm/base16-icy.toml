@@ -1,0 +1,33 @@
+# Base16 Icy Dark - wezterm color config
+# Scheme by icyphox (https://icyphox.ga)
+[colors]
+background = "#021012"
+foreground = "#095b67"
+
+cursor_bg = "#031619"
+cursor_border = "#095b67"
+cursor_fg = "#0c7c8c"
+
+selection_bg = "#095b67"
+selection_fg = "#021012"
+
+ansi = [
+  "#021012",
+  "#16c1d9",
+  "#4dd0e1",
+  "#80deea",
+  "#00bcd4",
+  "#00acc1",
+  "#26c6da",
+  "#0c7c8c"
+  ]
+brights = [
+  "#052e34",
+  "#16c1d9",
+  "#4dd0e1",
+  "#80deea",
+  "#00bcd4",
+  "#00acc1",
+  "#26c6da",
+  "#109cb0"
+  ]

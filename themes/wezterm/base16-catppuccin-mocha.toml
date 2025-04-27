@@ -1,0 +1,33 @@
+# Base16 Catppuccin Mocha - wezterm color config
+# Scheme by https://github.com/catppuccin/catppuccin
+[colors]
+background = "#1e1e2e"
+foreground = "#cdd6f4"
+
+cursor_bg = "#181825"
+cursor_border = "#cdd6f4"
+cursor_fg = "#f5e0dc"
+
+selection_bg = "#cdd6f4"
+selection_fg = "#1e1e2e"
+
+ansi = [
+  "#1e1e2e",
+  "#f38ba8",
+  "#a6e3a1",
+  "#f9e2af",
+  "#89b4fa",
+  "#cba6f7",
+  "#94e2d5",
+  "#f5e0dc"
+  ]
+brights = [
+  "#45475a",
+  "#f38ba8",
+  "#a6e3a1",
+  "#f9e2af",
+  "#89b4fa",
+  "#cba6f7",
+  "#94e2d5",
+  "#b4befe"
+  ]

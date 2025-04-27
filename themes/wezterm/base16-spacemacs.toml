@@ -1,0 +1,33 @@
+# Base16 Spacemacs - wezterm color config
+# Scheme by Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+[colors]
+background = "#1f2022"
+foreground = "#a3a3a3"
+
+cursor_bg = "#282828"
+cursor_border = "#a3a3a3"
+cursor_fg = "#e8e8e8"
+
+selection_bg = "#a3a3a3"
+selection_fg = "#1f2022"
+
+ansi = [
+  "#1f2022",
+  "#f2241f",
+  "#67b11d",
+  "#b1951d",
+  "#4f97d7",
+  "#a31db1",
+  "#2d9574",
+  "#e8e8e8"
+  ]
+brights = [
+  "#585858",
+  "#f2241f",
+  "#67b11d",
+  "#b1951d",
+  "#4f97d7",
+  "#a31db1",
+  "#2d9574",
+  "#f8f8f8"
+  ]

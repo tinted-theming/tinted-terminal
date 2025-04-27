@@ -1,0 +1,33 @@
+# Base16 Fruit Soda - wezterm color config
+# Scheme by jozip
+[colors]
+background = "#f1ecf1"
+foreground = "#515151"
+
+cursor_bg = "#e0dee0"
+cursor_border = "#515151"
+cursor_fg = "#474545"
+
+selection_bg = "#515151"
+selection_fg = "#f1ecf1"
+
+ansi = [
+  "#f1ecf1",
+  "#fe3e31",
+  "#47f74c",
+  "#f7e203",
+  "#2931df",
+  "#611fce",
+  "#0f9cfd",
+  "#474545"
+  ]
+brights = [
+  "#b5b4b6",
+  "#fe3e31",
+  "#47f74c",
+  "#f7e203",
+  "#2931df",
+  "#611fce",
+  "#0f9cfd",
+  "#2d2c2c"
+  ]

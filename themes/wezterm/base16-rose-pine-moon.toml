@@ -1,0 +1,33 @@
+# Base16 Rosé Pine Moon - wezterm color config
+# Scheme by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
+[colors]
+background = "#232136"
+foreground = "#e0def4"
+
+cursor_bg = "#2a273f"
+cursor_border = "#e0def4"
+cursor_fg = "#e0def4"
+
+selection_bg = "#e0def4"
+selection_fg = "#232136"
+
+ansi = [
+  "#232136",
+  "#eb6f92",
+  "#3e8fb0",
+  "#ea9a97",
+  "#c4a7e7",
+  "#f6c177",
+  "#9ccfd8",
+  "#e0def4"
+  ]
+brights = [
+  "#6e6a86",
+  "#eb6f92",
+  "#3e8fb0",
+  "#ea9a97",
+  "#c4a7e7",
+  "#f6c177",
+  "#9ccfd8",
+  "#56526e"
+  ]

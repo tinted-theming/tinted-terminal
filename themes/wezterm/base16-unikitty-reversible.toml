@@ -1,0 +1,33 @@
+# Base16 Unikitty Reversible - wezterm color config
+# Scheme by Josh W Lewis (@joshwlewis)
+[colors]
+background = "#2e2a31"
+foreground = "#c3c2c4"
+
+cursor_bg = "#4b484e"
+cursor_border = "#c3c2c4"
+cursor_fg = "#e1e0e1"
+
+selection_bg = "#c3c2c4"
+selection_fg = "#2e2a31"
+
+ansi = [
+  "#2e2a31",
+  "#d8137f",
+  "#17ad98",
+  "#dc8a0e",
+  "#7864fa",
+  "#b33ce8",
+  "#149bda",
+  "#e1e0e1"
+  ]
+brights = [
+  "#878589",
+  "#d8137f",
+  "#17ad98",
+  "#dc8a0e",
+  "#7864fa",
+  "#b33ce8",
+  "#149bda",
+  "#ffffff"
+  ]

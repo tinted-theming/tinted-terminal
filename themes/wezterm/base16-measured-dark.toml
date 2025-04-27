@@ -1,0 +1,33 @@
+# Base16 Measured Dark - wezterm color config
+# Scheme by Measured (https://measured.co)
+[colors]
+background = "#00211f"
+foreground = "#dcdcdc"
+
+cursor_bg = "#003a38"
+cursor_border = "#dcdcdc"
+cursor_fg = "#efefef"
+
+selection_bg = "#dcdcdc"
+selection_fg = "#00211f"
+
+ansi = [
+  "#00211f",
+  "#ce7e8e",
+  "#56c16f",
+  "#bfac4e",
+  "#88b0da",
+  "#b39be0",
+  "#62c0be",
+  "#efefef"
+  ]
+brights = [
+  "#ababab",
+  "#ce7e8e",
+  "#56c16f",
+  "#bfac4e",
+  "#88b0da",
+  "#b39be0",
+  "#62c0be",
+  "#f5f5f5"
+  ]

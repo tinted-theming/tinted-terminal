@@ -1,0 +1,33 @@
+# Base16 Hopscotch - wezterm color config
+# Scheme by Jan T. Sott
+[colors]
+background = "#322931"
+foreground = "#b9b5b8"
+
+cursor_bg = "#433b42"
+cursor_border = "#b9b5b8"
+cursor_fg = "#d5d3d5"
+
+selection_bg = "#b9b5b8"
+selection_fg = "#322931"
+
+ansi = [
+  "#322931",
+  "#dd464c",
+  "#8fc13e",
+  "#fdcc59",
+  "#1290bf",
+  "#c85e7c",
+  "#149b93",
+  "#d5d3d5"
+  ]
+brights = [
+  "#797379",
+  "#dd464c",
+  "#8fc13e",
+  "#fdcc59",
+  "#1290bf",
+  "#c85e7c",
+  "#149b93",
+  "#ffffff"
+  ]

@@ -1,0 +1,33 @@
+# Base16 Gotham - wezterm color config
+# Scheme by Andrea Leopardi (arranged by Brett Jones)
+[colors]
+background = "#0c1014"
+foreground = "#599cab"
+
+cursor_bg = "#11151c"
+cursor_border = "#599cab"
+cursor_fg = "#99d1ce"
+
+selection_bg = "#599cab"
+selection_fg = "#0c1014"
+
+ansi = [
+  "#0c1014",
+  "#c23127",
+  "#33859e",
+  "#edb443",
+  "#195466",
+  "#888ca6",
+  "#2aa889",
+  "#99d1ce"
+  ]
+brights = [
+  "#0a3749",
+  "#c23127",
+  "#33859e",
+  "#edb443",
+  "#195466",
+  "#888ca6",
+  "#2aa889",
+  "#d3ebe9"
+  ]

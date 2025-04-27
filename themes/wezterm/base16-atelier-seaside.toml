@@ -1,0 +1,33 @@
+# Base16 Atelier Seaside - wezterm color config
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+[colors]
+background = "#131513"
+foreground = "#8ca68c"
+
+cursor_bg = "#242924"
+cursor_border = "#8ca68c"
+cursor_fg = "#cfe8cf"
+
+selection_bg = "#8ca68c"
+selection_fg = "#131513"
+
+ansi = [
+  "#131513",
+  "#e6193c",
+  "#29a329",
+  "#98981b",
+  "#3d62f5",
+  "#ad2bee",
+  "#1999b3",
+  "#cfe8cf"
+  ]
+brights = [
+  "#687d68",
+  "#e6193c",
+  "#29a329",
+  "#98981b",
+  "#3d62f5",
+  "#ad2bee",
+  "#1999b3",
+  "#f4fbf4"
+  ]

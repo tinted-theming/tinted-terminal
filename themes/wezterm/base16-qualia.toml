@@ -1,0 +1,33 @@
+# Base16 Qualia - wezterm color config
+# Scheme by isaacwhanson
+[colors]
+background = "#101010"
+foreground = "#c0c0c0"
+
+cursor_bg = "#454545"
+cursor_border = "#c0c0c0"
+cursor_fg = "#c0c0c0"
+
+selection_bg = "#c0c0c0"
+selection_fg = "#101010"
+
+ansi = [
+  "#101010",
+  "#efa6a2",
+  "#80c990",
+  "#e6a3dc",
+  "#50cacd",
+  "#e0af85",
+  "#c8c874",
+  "#c0c0c0"
+  ]
+brights = [
+  "#454545",
+  "#efa6a2",
+  "#80c990",
+  "#e6a3dc",
+  "#50cacd",
+  "#e0af85",
+  "#c8c874",
+  "#454545"
+  ]

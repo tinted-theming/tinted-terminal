@@ -1,0 +1,33 @@
+# Base16 One Light - wezterm color config
+# Scheme by Daniel Pfeifer (http://github.com/purpleKarrot)
+[colors]
+background = "#fafafa"
+foreground = "#383a42"
+
+cursor_bg = "#f0f0f1"
+cursor_border = "#383a42"
+cursor_fg = "#202227"
+
+selection_bg = "#383a42"
+selection_fg = "#fafafa"
+
+ansi = [
+  "#fafafa",
+  "#ca1243",
+  "#50a14f",
+  "#c18401",
+  "#4078f2",
+  "#a626a4",
+  "#0184bc",
+  "#202227"
+  ]
+brights = [
+  "#a0a1a7",
+  "#ca1243",
+  "#50a14f",
+  "#c18401",
+  "#4078f2",
+  "#a626a4",
+  "#0184bc",
+  "#090a0b"
+  ]

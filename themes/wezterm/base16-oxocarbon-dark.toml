@@ -1,0 +1,33 @@
+# Base16 Oxocarbon Dark - wezterm color config
+# Scheme by shaunsingh/IBM
+[colors]
+background = "#161616"
+foreground = "#f2f4f8"
+
+cursor_bg = "#262626"
+cursor_border = "#f2f4f8"
+cursor_fg = "#ffffff"
+
+selection_bg = "#f2f4f8"
+selection_fg = "#161616"
+
+ansi = [
+  "#161616",
+  "#3ddbd9",
+  "#33b1ff",
+  "#ee5396",
+  "#42be65",
+  "#be95ff",
+  "#ff7eb6",
+  "#ffffff"
+  ]
+brights = [
+  "#525252",
+  "#3ddbd9",
+  "#33b1ff",
+  "#ee5396",
+  "#42be65",
+  "#be95ff",
+  "#ff7eb6",
+  "#08bdba"
+  ]

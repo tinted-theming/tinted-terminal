@@ -1,0 +1,33 @@
+# Base16 Colors - wezterm color config
+# Scheme by mrmrs (http://clrs.cc)
+[colors]
+background = "#111111"
+foreground = "#bbbbbb"
+
+cursor_bg = "#333333"
+cursor_border = "#bbbbbb"
+cursor_fg = "#dddddd"
+
+selection_bg = "#bbbbbb"
+selection_fg = "#111111"
+
+ansi = [
+  "#111111",
+  "#ff4136",
+  "#2ecc40",
+  "#ffdc00",
+  "#0074d9",
+  "#b10dc9",
+  "#7fdbff",
+  "#dddddd"
+  ]
+brights = [
+  "#777777",
+  "#ff4136",
+  "#2ecc40",
+  "#ffdc00",
+  "#0074d9",
+  "#b10dc9",
+  "#7fdbff",
+  "#ffffff"
+  ]

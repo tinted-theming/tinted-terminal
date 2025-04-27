@@ -1,0 +1,33 @@
+# Base16 Seti UI - wezterm color config
+# Scheme by 
+[colors]
+background = "#151718"
+foreground = "#d6d6d6"
+
+cursor_bg = "#282a2b"
+cursor_border = "#d6d6d6"
+cursor_fg = "#eeeeee"
+
+selection_bg = "#d6d6d6"
+selection_fg = "#151718"
+
+ansi = [
+  "#151718",
+  "#cd3f45",
+  "#9fca56",
+  "#e6cd69",
+  "#55b5db",
+  "#a074c4",
+  "#55dbbe",
+  "#eeeeee"
+  ]
+brights = [
+  "#41535b",
+  "#cd3f45",
+  "#9fca56",
+  "#e6cd69",
+  "#55b5db",
+  "#a074c4",
+  "#55dbbe",
+  "#ffffff"
+  ]

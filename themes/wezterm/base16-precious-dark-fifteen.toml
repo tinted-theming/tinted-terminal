@@ -1,0 +1,33 @@
+# Base16 Precious Dark Fifteen - wezterm color config
+# Scheme by 4lex4 &lt;4lex49@zoho.com&gt;
+[colors]
+background = "#23262b"
+foreground = "#bab9b6"
+
+cursor_bg = "#303337"
+cursor_border = "#bab9b6"
+cursor_fg = "#bab9b6"
+
+selection_bg = "#bab9b6"
+selection_fg = "#23262b"
+
+ansi = [
+  "#23262b",
+  "#ff8782",
+  "#95b659",
+  "#cfa546",
+  "#66b0ef",
+  "#b799ff",
+  "#42bda7",
+  "#bab9b6"
+  ]
+brights = [
+  "#898989",
+  "#ff8782",
+  "#95b659",
+  "#cfa546",
+  "#66b0ef",
+  "#b799ff",
+  "#42bda7",
+  "#bab9b6"
+  ]

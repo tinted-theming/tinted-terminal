@@ -1,0 +1,33 @@
+# Base16 Brewer - wezterm color config
+# Scheme by Timothée Poisot (http://github.com/tpoisot)
+[colors]
+background = "#0c0d0e"
+foreground = "#b7b8b9"
+
+cursor_bg = "#2e2f30"
+cursor_border = "#b7b8b9"
+cursor_fg = "#dadbdc"
+
+selection_bg = "#b7b8b9"
+selection_fg = "#0c0d0e"
+
+ansi = [
+  "#0c0d0e",
+  "#e31a1c",
+  "#31a354",
+  "#dca060",
+  "#3182bd",
+  "#756bb1",
+  "#80b1d3",
+  "#dadbdc"
+  ]
+brights = [
+  "#737475",
+  "#e31a1c",
+  "#31a354",
+  "#dca060",
+  "#3182bd",
+  "#756bb1",
+  "#80b1d3",
+  "#fcfdfe"
+  ]

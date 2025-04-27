@@ -1,0 +1,33 @@
+# Base16 Windows High Contrast Light - wezterm color config
+# Scheme by Fergus Collins (https://github.com/ferguscollins)
+[colors]
+background = "#fcfcfc"
+foreground = "#545454"
+
+cursor_bg = "#e8e8e8"
+cursor_border = "#545454"
+cursor_fg = "#2a2a2a"
+
+selection_bg = "#545454"
+selection_fg = "#fcfcfc"
+
+ansi = [
+  "#fcfcfc",
+  "#800000",
+  "#008000",
+  "#808000",
+  "#000080",
+  "#800080",
+  "#008080",
+  "#2a2a2a"
+  ]
+brights = [
+  "#c0c0c0",
+  "#800000",
+  "#008000",
+  "#808000",
+  "#000080",
+  "#800080",
+  "#008080",
+  "#000000"
+  ]

@@ -1,0 +1,33 @@
+# Base16 Heetch Light - wezterm color config
+# Scheme by Geoffrey Teale (tealeg@gmail.com)
+[colors]
+background = "#feffff"
+foreground = "#5a496e"
+
+cursor_bg = "#392551"
+cursor_border = "#5a496e"
+cursor_fg = "#470546"
+
+selection_bg = "#5a496e"
+selection_fg = "#feffff"
+
+ansi = [
+  "#feffff",
+  "#27d9d5",
+  "#f80059",
+  "#5ba2b6",
+  "#47f9f5",
+  "#bd0152",
+  "#c33678",
+  "#470546"
+  ]
+brights = [
+  "#9c92a8",
+  "#27d9d5",
+  "#f80059",
+  "#5ba2b6",
+  "#47f9f5",
+  "#bd0152",
+  "#c33678",
+  "#190134"
+  ]

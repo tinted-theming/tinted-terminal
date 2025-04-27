@@ -1,0 +1,33 @@
+# Base16 Precious Light Warm - wezterm color config
+# Scheme by 4lex4 &lt;4lex49@zoho.com&gt;
+[colors]
+background = "#fff5e5"
+foreground = "#4e5359"
+
+cursor_bg = "#ece4d6"
+cursor_border = "#4e5359"
+cursor_fg = "#4e5359"
+
+selection_bg = "#4e5359"
+selection_fg = "#fff5e5"
+
+ansi = [
+  "#fff5e5",
+  "#b14745",
+  "#557300",
+  "#876500",
+  "#246da5",
+  "#7a50c6",
+  "#0e7767",
+  "#4e5359"
+  ]
+brights = [
+  "#7f8080",
+  "#b14745",
+  "#557300",
+  "#876500",
+  "#246da5",
+  "#7a50c6",
+  "#0e7767",
+  "#4e5359"
+  ]

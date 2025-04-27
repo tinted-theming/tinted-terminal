@@ -1,0 +1,33 @@
+# Base16 Embers - wezterm color config
+# Scheme by Jannik Siebert (https://github.com/janniks)
+[colors]
+background = "#16130f"
+foreground = "#a39a90"
+
+cursor_bg = "#2c2620"
+cursor_border = "#a39a90"
+cursor_fg = "#beb6ae"
+
+selection_bg = "#a39a90"
+selection_fg = "#16130f"
+
+ansi = [
+  "#16130f",
+  "#826d57",
+  "#57826d",
+  "#6d8257",
+  "#6d5782",
+  "#82576d",
+  "#576d82",
+  "#beb6ae"
+  ]
+brights = [
+  "#5a5047",
+  "#826d57",
+  "#57826d",
+  "#6d8257",
+  "#6d5782",
+  "#82576d",
+  "#576d82",
+  "#dbd6d1"
+  ]

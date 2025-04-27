@@ -1,0 +1,33 @@
+# Base16 Da One Black - wezterm color config
+# Scheme by NNB (https://github.com/NNBnh)
+[colors]
+background = "#000000"
+foreground = "#ffffff"
+
+cursor_bg = "#282828"
+cursor_border = "#ffffff"
+cursor_fg = "#ffffff"
+
+selection_bg = "#ffffff"
+selection_fg = "#000000"
+
+ansi = [
+  "#000000",
+  "#fa7883",
+  "#98c379",
+  "#ff9470",
+  "#6bb8ff",
+  "#e799ff",
+  "#8af5ff",
+  "#ffffff"
+  ]
+brights = [
+  "#888888",
+  "#fa7883",
+  "#98c379",
+  "#ff9470",
+  "#6bb8ff",
+  "#e799ff",
+  "#8af5ff",
+  "#ffffff"
+  ]

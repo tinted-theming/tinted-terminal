@@ -1,0 +1,33 @@
+# Base16 Atelier Savanna Light - wezterm color config
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+[colors]
+background = "#ecf4ee"
+foreground = "#526057"
+
+cursor_bg = "#dfe7e2"
+cursor_border = "#526057"
+cursor_fg = "#232a25"
+
+selection_bg = "#526057"
+selection_fg = "#ecf4ee"
+
+ansi = [
+  "#ecf4ee",
+  "#b16139",
+  "#489963",
+  "#a07e3b",
+  "#478c90",
+  "#55859b",
+  "#1c9aa0",
+  "#232a25"
+  ]
+brights = [
+  "#78877d",
+  "#b16139",
+  "#489963",
+  "#a07e3b",
+  "#478c90",
+  "#55859b",
+  "#1c9aa0",
+  "#171c19"
+  ]

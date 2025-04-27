@@ -1,0 +1,33 @@
+# Base16 vice - wezterm color config
+# Scheme by Thomas Leon Highbaugh thighbaugh@zoho.com
+[colors]
+background = "#17191e"
+foreground = "#8b9cbe"
+
+cursor_bg = "#22262d"
+cursor_border = "#8b9cbe"
+cursor_fg = "#b2bfd9"
+
+selection_bg = "#8b9cbe"
+selection_fg = "#17191e"
+
+ansi = [
+  "#17191e",
+  "#ff29a8",
+  "#0badff",
+  "#f0ffaa",
+  "#00eaff",
+  "#00f6d9",
+  "#8265ff",
+  "#b2bfd9"
+  ]
+brights = [
+  "#383a47",
+  "#ff29a8",
+  "#0badff",
+  "#f0ffaa",
+  "#00eaff",
+  "#00f6d9",
+  "#8265ff",
+  "#f4f4f7"
+  ]

@@ -1,0 +1,33 @@
+# Base16 Tokyo Night Terminal Light - wezterm color config
+# Scheme by Michaël Ball
+[colors]
+background = "#d5d6db"
+foreground = "#4c505e"
+
+cursor_bg = "#cbccd1"
+cursor_border = "#4c505e"
+cursor_fg = "#1a1b26"
+
+selection_bg = "#4c505e"
+selection_fg = "#d5d6db"
+
+ansi = [
+  "#d5d6db",
+  "#8c4351",
+  "#33635c",
+  "#8f5e15",
+  "#34548a",
+  "#5a4a78",
+  "#0f4b6e",
+  "#1a1b26"
+  ]
+brights = [
+  "#9699a3",
+  "#8c4351",
+  "#33635c",
+  "#8f5e15",
+  "#34548a",
+  "#5a4a78",
+  "#0f4b6e",
+  "#1a1b26"
+  ]

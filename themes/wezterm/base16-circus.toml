@@ -1,0 +1,33 @@
+# Base16 Circus - wezterm color config
+# Scheme by Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+[colors]
+background = "#191919"
+foreground = "#a7a7a7"
+
+cursor_bg = "#202020"
+cursor_border = "#a7a7a7"
+cursor_fg = "#808080"
+
+selection_bg = "#a7a7a7"
+selection_fg = "#191919"
+
+ansi = [
+  "#191919",
+  "#dc657d",
+  "#84b97c",
+  "#c3ba63",
+  "#639ee4",
+  "#b888e2",
+  "#4bb1a7",
+  "#808080"
+  ]
+brights = [
+  "#5f5a60",
+  "#dc657d",
+  "#84b97c",
+  "#c3ba63",
+  "#639ee4",
+  "#b888e2",
+  "#4bb1a7",
+  "#ffffff"
+  ]

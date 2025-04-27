@@ -1,0 +1,33 @@
+# Base16 ShadeSmear Dark - wezterm color config
+# Scheme by Kyle Giammarco (http://kyle.giammar.co)
+[colors]
+background = "#232323"
+foreground = "#dbdbdb"
+
+cursor_bg = "#1c1c1c"
+cursor_border = "#dbdbdb"
+cursor_fg = "#e4e4e4"
+
+selection_bg = "#dbdbdb"
+selection_fg = "#232323"
+
+ansi = [
+  "#232323",
+  "#cc5450",
+  "#71983b",
+  "#307878",
+  "#376388",
+  "#d7ab54",
+  "#c57d42",
+  "#e4e4e4"
+  ]
+brights = [
+  "#c0c0c0",
+  "#cc5450",
+  "#71983b",
+  "#307878",
+  "#376388",
+  "#d7ab54",
+  "#c57d42",
+  "#1c1c1c"
+  ]

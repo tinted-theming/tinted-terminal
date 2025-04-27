@@ -1,0 +1,33 @@
+# Base16 Macintosh - wezterm color config
+# Scheme by Rebecca Bettencourt (http://www.kreativekorp.com)
+[colors]
+background = "#000000"
+foreground = "#c0c0c0"
+
+cursor_bg = "#404040"
+cursor_border = "#c0c0c0"
+cursor_fg = "#c0c0c0"
+
+selection_bg = "#c0c0c0"
+selection_fg = "#000000"
+
+ansi = [
+  "#000000",
+  "#dd0907",
+  "#1fb714",
+  "#fbf305",
+  "#0000d3",
+  "#4700a5",
+  "#02abea",
+  "#c0c0c0"
+  ]
+brights = [
+  "#808080",
+  "#dd0907",
+  "#1fb714",
+  "#fbf305",
+  "#0000d3",
+  "#4700a5",
+  "#02abea",
+  "#ffffff"
+  ]

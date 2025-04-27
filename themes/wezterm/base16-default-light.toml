@@ -1,0 +1,33 @@
+# Base16 Default Light - wezterm color config
+# Scheme by Chris Kempson (http://chriskempson.com)
+[colors]
+background = "#f8f8f8"
+foreground = "#383838"
+
+cursor_bg = "#e8e8e8"
+cursor_border = "#383838"
+cursor_fg = "#282828"
+
+selection_bg = "#383838"
+selection_fg = "#f8f8f8"
+
+ansi = [
+  "#f8f8f8",
+  "#ab4642",
+  "#a1b56c",
+  "#f7ca88",
+  "#7cafc2",
+  "#ba8baf",
+  "#86c1b9",
+  "#282828"
+  ]
+brights = [
+  "#b8b8b8",
+  "#ab4642",
+  "#a1b56c",
+  "#f7ca88",
+  "#7cafc2",
+  "#ba8baf",
+  "#86c1b9",
+  "#181818"
+  ]

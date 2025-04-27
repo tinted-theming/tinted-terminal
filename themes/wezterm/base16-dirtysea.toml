@@ -1,0 +1,33 @@
+# Base16 dirtysea - wezterm color config
+# Scheme by Kahlil (Kal) Hodgson
+[colors]
+background = "#e0e0e0"
+foreground = "#000000"
+
+cursor_bg = "#d0dad0"
+cursor_border = "#000000"
+cursor_fg = "#f8f8f8"
+
+selection_bg = "#000000"
+selection_fg = "#e0e0e0"
+
+ansi = [
+  "#e0e0e0",
+  "#840000",
+  "#730073",
+  "#755b00",
+  "#007300",
+  "#000090",
+  "#755b00",
+  "#f8f8f8"
+  ]
+brights = [
+  "#707070",
+  "#840000",
+  "#730073",
+  "#755b00",
+  "#007300",
+  "#000090",
+  "#755b00",
+  "#c4d9c4"
+  ]

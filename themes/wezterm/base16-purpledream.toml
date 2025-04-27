@@ -1,0 +1,33 @@
+# Base16 Purpledream - wezterm color config
+# Scheme by malet
+[colors]
+background = "#100510"
+foreground = "#ddd0dd"
+
+cursor_bg = "#302030"
+cursor_border = "#ddd0dd"
+cursor_fg = "#eee0ee"
+
+selection_bg = "#ddd0dd"
+selection_fg = "#100510"
+
+ansi = [
+  "#100510",
+  "#ff1d0d",
+  "#14cc64",
+  "#f000a0",
+  "#00a0f0",
+  "#b000d0",
+  "#0075b0",
+  "#eee0ee"
+  ]
+brights = [
+  "#605060",
+  "#ff1d0d",
+  "#14cc64",
+  "#f000a0",
+  "#00a0f0",
+  "#b000d0",
+  "#0075b0",
+  "#fff0ff"
+  ]

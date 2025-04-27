@@ -1,0 +1,33 @@
+# Base16 Silk Light - wezterm color config
+# Scheme by Gabriel Fontes (https://github.com/Misterio77)
+[colors]
+background = "#e9f1ef"
+foreground = "#385156"
+
+cursor_bg = "#ccd4d3"
+cursor_border = "#385156"
+cursor_fg = "#0e3c46"
+
+selection_bg = "#385156"
+selection_fg = "#e9f1ef"
+
+ansi = [
+  "#e9f1ef",
+  "#cf432e",
+  "#6ca38c",
+  "#cfad25",
+  "#39aac9",
+  "#6e6582",
+  "#329ca2",
+  "#0e3c46"
+  ]
+brights = [
+  "#5c787b",
+  "#cf432e",
+  "#6ca38c",
+  "#cfad25",
+  "#39aac9",
+  "#6e6582",
+  "#329ca2",
+  "#d2faff"
+  ]

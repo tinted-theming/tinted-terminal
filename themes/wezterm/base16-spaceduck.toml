@@ -1,0 +1,33 @@
+# Base16 Spaceduck - wezterm color config
+# Scheme by Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+[colors]
+background = "#16172d"
+foreground = "#ecf0c1"
+
+cursor_bg = "#1b1c36"
+cursor_border = "#ecf0c1"
+cursor_fg = "#c1c3cc"
+
+selection_bg = "#ecf0c1"
+selection_fg = "#16172d"
+
+ansi = [
+  "#16172d",
+  "#e33400",
+  "#5ccc96",
+  "#f2ce00",
+  "#7a5ccc",
+  "#b3a1e6",
+  "#00a3cc",
+  "#c1c3cc"
+  ]
+brights = [
+  "#686f9a",
+  "#e33400",
+  "#5ccc96",
+  "#f2ce00",
+  "#7a5ccc",
+  "#b3a1e6",
+  "#00a3cc",
+  "#ffffff"
+  ]

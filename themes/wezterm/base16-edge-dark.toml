@@ -1,0 +1,33 @@
+# Base16 Edge Dark - wezterm color config
+# Scheme by cjayross (https://github.com/cjayross)
+[colors]
+background = "#262729"
+foreground = "#b7bec9"
+
+cursor_bg = "#88909f"
+cursor_border = "#b7bec9"
+cursor_fg = "#d390e7"
+
+selection_bg = "#b7bec9"
+selection_fg = "#262729"
+
+ansi = [
+  "#262729",
+  "#e77171",
+  "#a1bf78",
+  "#dbb774",
+  "#73b3e7",
+  "#d390e7",
+  "#5ebaa5",
+  "#d390e7"
+  ]
+brights = [
+  "#3e4249",
+  "#e77171",
+  "#a1bf78",
+  "#dbb774",
+  "#73b3e7",
+  "#d390e7",
+  "#5ebaa5",
+  "#3e4249"
+  ]

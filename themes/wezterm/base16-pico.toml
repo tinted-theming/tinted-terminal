@@ -1,0 +1,33 @@
+# Base16 Pico - wezterm color config
+# Scheme by PICO-8 (http://www.lexaloffle.com/pico-8.php)
+[colors]
+background = "#000000"
+foreground = "#5f574f"
+
+cursor_bg = "#1d2b53"
+cursor_border = "#5f574f"
+cursor_fg = "#c2c3c7"
+
+selection_bg = "#5f574f"
+selection_fg = "#000000"
+
+ansi = [
+  "#000000",
+  "#ff004d",
+  "#00e756",
+  "#fff024",
+  "#83769c",
+  "#ff77a8",
+  "#29adff",
+  "#c2c3c7"
+  ]
+brights = [
+  "#008751",
+  "#ff004d",
+  "#00e756",
+  "#fff024",
+  "#83769c",
+  "#ff77a8",
+  "#29adff",
+  "#fff1e8"
+  ]

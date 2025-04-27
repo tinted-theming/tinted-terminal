@@ -1,0 +1,33 @@
+# Base16 Gruvbox dark, pale - wezterm color config
+# Scheme by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+[colors]
+background = "#262626"
+foreground = "#dab997"
+
+cursor_bg = "#3a3a3a"
+cursor_border = "#dab997"
+cursor_fg = "#d5c4a1"
+
+selection_bg = "#dab997"
+selection_fg = "#262626"
+
+ansi = [
+  "#262626",
+  "#d75f5f",
+  "#afaf00",
+  "#ffaf00",
+  "#83adad",
+  "#d485ad",
+  "#85ad85",
+  "#d5c4a1"
+  ]
+brights = [
+  "#8a8a8a",
+  "#d75f5f",
+  "#afaf00",
+  "#ffaf00",
+  "#83adad",
+  "#d485ad",
+  "#85ad85",
+  "#ebdbb2"
+  ]

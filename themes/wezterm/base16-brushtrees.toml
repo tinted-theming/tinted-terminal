@@ -1,0 +1,33 @@
+# Base16 Brush Trees - wezterm color config
+# Scheme by Abraham White &lt;abelincoln.white@gmail.com&gt;
+[colors]
+background = "#e3efef"
+foreground = "#6d828e"
+
+cursor_bg = "#c9dbdc"
+cursor_border = "#6d828e"
+cursor_fg = "#5a6d7a"
+
+selection_bg = "#6d828e"
+selection_fg = "#e3efef"
+
+ansi = [
+  "#e3efef",
+  "#b38686",
+  "#87b386",
+  "#aab386",
+  "#868cb3",
+  "#b386b2",
+  "#86b3b3",
+  "#5a6d7a"
+  ]
+brights = [
+  "#98afb5",
+  "#b38686",
+  "#87b386",
+  "#aab386",
+  "#868cb3",
+  "#b386b2",
+  "#86b3b3",
+  "#485867"
+  ]

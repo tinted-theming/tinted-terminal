@@ -1,0 +1,33 @@
+# Base16 Tomorrow Night Eighties - wezterm color config
+# Scheme by Chris Kempson (http://chriskempson.com)
+[colors]
+background = "#2d2d2d"
+foreground = "#cccccc"
+
+cursor_bg = "#393939"
+cursor_border = "#cccccc"
+cursor_fg = "#e0e0e0"
+
+selection_bg = "#cccccc"
+selection_fg = "#2d2d2d"
+
+ansi = [
+  "#2d2d2d",
+  "#f2777a",
+  "#99cc99",
+  "#ffcc66",
+  "#6699cc",
+  "#cc99cc",
+  "#66cccc",
+  "#e0e0e0"
+  ]
+brights = [
+  "#999999",
+  "#f2777a",
+  "#99cc99",
+  "#ffcc66",
+  "#6699cc",
+  "#cc99cc",
+  "#66cccc",
+  "#ffffff"
+  ]

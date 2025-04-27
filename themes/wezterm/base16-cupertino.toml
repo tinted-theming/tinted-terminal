@@ -1,0 +1,33 @@
+# Base16 Cupertino - wezterm color config
+# Scheme by Defman21
+[colors]
+background = "#ffffff"
+foreground = "#404040"
+
+cursor_bg = "#c0c0c0"
+cursor_border = "#404040"
+cursor_fg = "#404040"
+
+selection_bg = "#404040"
+selection_fg = "#ffffff"
+
+ansi = [
+  "#ffffff",
+  "#c41a15",
+  "#007400",
+  "#826b28",
+  "#0000ff",
+  "#a90d91",
+  "#318495",
+  "#404040"
+  ]
+brights = [
+  "#808080",
+  "#c41a15",
+  "#007400",
+  "#826b28",
+  "#0000ff",
+  "#a90d91",
+  "#318495",
+  "#5e5e5e"
+  ]

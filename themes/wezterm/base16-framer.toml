@@ -1,0 +1,33 @@
+# Base16 Framer - wezterm color config
+# Scheme by Framer (Maintained by Jesse Hoyos)
+[colors]
+background = "#181818"
+foreground = "#d0d0d0"
+
+cursor_bg = "#151515"
+cursor_border = "#d0d0d0"
+cursor_fg = "#e8e8e8"
+
+selection_bg = "#d0d0d0"
+selection_fg = "#181818"
+
+ansi = [
+  "#181818",
+  "#fd886b",
+  "#32ccdc",
+  "#fecb6e",
+  "#20bcfc",
+  "#ba8cfc",
+  "#acddfd",
+  "#e8e8e8"
+  ]
+brights = [
+  "#747474",
+  "#fd886b",
+  "#32ccdc",
+  "#fecb6e",
+  "#20bcfc",
+  "#ba8cfc",
+  "#acddfd",
+  "#eeeeee"
+  ]

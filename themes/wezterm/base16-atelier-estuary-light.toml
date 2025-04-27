@@ -1,0 +1,33 @@
+# Base16 Atelier Estuary Light - wezterm color config
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+[colors]
+background = "#f4f3ec"
+foreground = "#5f5e4e"
+
+cursor_bg = "#e7e6df"
+cursor_border = "#5f5e4e"
+cursor_fg = "#302f27"
+
+selection_bg = "#5f5e4e"
+selection_fg = "#f4f3ec"
+
+ansi = [
+  "#f4f3ec",
+  "#ba6236",
+  "#7d9726",
+  "#a5980d",
+  "#36a166",
+  "#5f9182",
+  "#5b9d48",
+  "#302f27"
+  ]
+brights = [
+  "#878573",
+  "#ba6236",
+  "#7d9726",
+  "#a5980d",
+  "#36a166",
+  "#5f9182",
+  "#5b9d48",
+  "#22221b"
+  ]

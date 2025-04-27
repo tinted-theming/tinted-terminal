@@ -1,0 +1,33 @@
+# Base16 Atelier Forest Light - wezterm color config
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+[colors]
+background = "#f1efee"
+foreground = "#68615e"
+
+cursor_bg = "#e6e2e0"
+cursor_border = "#68615e"
+cursor_fg = "#2c2421"
+
+selection_bg = "#68615e"
+selection_fg = "#f1efee"
+
+ansi = [
+  "#f1efee",
+  "#f22c40",
+  "#7b9726",
+  "#c38418",
+  "#407ee7",
+  "#6666ea",
+  "#3d97b8",
+  "#2c2421"
+  ]
+brights = [
+  "#9c9491",
+  "#f22c40",
+  "#7b9726",
+  "#c38418",
+  "#407ee7",
+  "#6666ea",
+  "#3d97b8",
+  "#1b1918"
+  ]

@@ -1,0 +1,33 @@
+# Base16 Atelier Sulphurpool Light - wezterm color config
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+[colors]
+background = "#f5f7ff"
+foreground = "#5e6687"
+
+cursor_bg = "#dfe2f1"
+cursor_border = "#5e6687"
+cursor_fg = "#293256"
+
+selection_bg = "#5e6687"
+selection_fg = "#f5f7ff"
+
+ansi = [
+  "#f5f7ff",
+  "#c94922",
+  "#ac9739",
+  "#c08b30",
+  "#3d8fd1",
+  "#6679cc",
+  "#22a2c9",
+  "#293256"
+  ]
+brights = [
+  "#898ea4",
+  "#c94922",
+  "#ac9739",
+  "#c08b30",
+  "#3d8fd1",
+  "#6679cc",
+  "#22a2c9",
+  "#202746"
+  ]

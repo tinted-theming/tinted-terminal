@@ -1,0 +1,33 @@
+# Base16 Tokyodark - wezterm color config
+# Scheme by Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
+[colors]
+background = "#11121d"
+foreground = "#a0a8cd"
+
+cursor_bg = "#212234"
+cursor_border = "#a0a8cd"
+cursor_fg = "#abb2bf"
+
+selection_bg = "#a0a8cd"
+selection_fg = "#11121d"
+
+ansi = [
+  "#11121d",
+  "#ee6d85",
+  "#95c561",
+  "#d7a65f",
+  "#7199ee",
+  "#a485dd",
+  "#9fbbf3",
+  "#abb2bf"
+  ]
+brights = [
+  "#353945",
+  "#ee6d85",
+  "#95c561",
+  "#d7a65f",
+  "#7199ee",
+  "#a485dd",
+  "#9fbbf3",
+  "#bcc2dc"
+  ]

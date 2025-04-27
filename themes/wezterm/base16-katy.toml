@@ -1,0 +1,33 @@
+# Base16 Katy - wezterm color config
+# Scheme by George Essig (https://github.com/gessig)
+[colors]
+background = "#292d3e"
+foreground = "#959dcb"
+
+cursor_bg = "#444267"
+cursor_border = "#959dcb"
+cursor_fg = "#959dcb"
+
+selection_bg = "#959dcb"
+selection_fg = "#292d3e"
+
+ansi = [
+  "#292d3e",
+  "#6e98e1",
+  "#78c06e",
+  "#e0a557",
+  "#82aaff",
+  "#c792ea",
+  "#83b7e5",
+  "#959dcb"
+  ]
+brights = [
+  "#676e95",
+  "#6e98e1",
+  "#78c06e",
+  "#e0a557",
+  "#82aaff",
+  "#c792ea",
+  "#83b7e5",
+  "#ffffff"
+  ]

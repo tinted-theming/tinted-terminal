@@ -1,0 +1,33 @@
+# Base16 Dark Violet - wezterm color config
+# Scheme by ruler501 (https://github.com/ruler501/base16-darkviolet)
+[colors]
+background = "#000000"
+foreground = "#b08ae6"
+
+cursor_bg = "#231a40"
+cursor_border = "#b08ae6"
+cursor_fg = "#9045e6"
+
+selection_bg = "#b08ae6"
+selection_fg = "#000000"
+
+ansi = [
+  "#000000",
+  "#a82ee6",
+  "#4595e6",
+  "#f29df2",
+  "#4136d9",
+  "#7e5ce6",
+  "#40dfff",
+  "#9045e6"
+  ]
+brights = [
+  "#593380",
+  "#a82ee6",
+  "#4595e6",
+  "#f29df2",
+  "#4136d9",
+  "#7e5ce6",
+  "#40dfff",
+  "#a366ff"
+  ]

@@ -1,0 +1,33 @@
+# Base16 Atelier Dune - wezterm color config
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+[colors]
+background = "#20201d"
+foreground = "#a6a28c"
+
+cursor_bg = "#292824"
+cursor_border = "#a6a28c"
+cursor_fg = "#e8e4cf"
+
+selection_bg = "#a6a28c"
+selection_fg = "#20201d"
+
+ansi = [
+  "#20201d",
+  "#d73737",
+  "#60ac39",
+  "#ae9513",
+  "#6684e1",
+  "#b854d4",
+  "#1fad83",
+  "#e8e4cf"
+  ]
+brights = [
+  "#7d7a68",
+  "#d73737",
+  "#60ac39",
+  "#ae9513",
+  "#6684e1",
+  "#b854d4",
+  "#1fad83",
+  "#fefbec"
+  ]

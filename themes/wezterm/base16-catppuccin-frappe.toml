@@ -1,0 +1,33 @@
+# Base16 Catppuccin Frappe - wezterm color config
+# Scheme by https://github.com/catppuccin/catppuccin
+[colors]
+background = "#303446"
+foreground = "#c6d0f5"
+
+cursor_bg = "#292c3c"
+cursor_border = "#c6d0f5"
+cursor_fg = "#f2d5cf"
+
+selection_bg = "#c6d0f5"
+selection_fg = "#303446"
+
+ansi = [
+  "#303446",
+  "#e78284",
+  "#a6d189",
+  "#e5c890",
+  "#8caaee",
+  "#ca9ee6",
+  "#81c8be",
+  "#f2d5cf"
+  ]
+brights = [
+  "#51576d",
+  "#e78284",
+  "#a6d189",
+  "#e5c890",
+  "#8caaee",
+  "#ca9ee6",
+  "#81c8be",
+  "#babbf1"
+  ]

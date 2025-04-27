@@ -1,0 +1,33 @@
+# Base16 Atelier Forest - wezterm color config
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+[colors]
+background = "#1b1918"
+foreground = "#a8a19f"
+
+cursor_bg = "#2c2421"
+cursor_border = "#a8a19f"
+cursor_fg = "#e6e2e0"
+
+selection_bg = "#a8a19f"
+selection_fg = "#1b1918"
+
+ansi = [
+  "#1b1918",
+  "#f22c40",
+  "#7b9726",
+  "#c38418",
+  "#407ee7",
+  "#6666ea",
+  "#3d97b8",
+  "#e6e2e0"
+  ]
+brights = [
+  "#766e6b",
+  "#f22c40",
+  "#7b9726",
+  "#c38418",
+  "#407ee7",
+  "#6666ea",
+  "#3d97b8",
+  "#f1efee"
+  ]

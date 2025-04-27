@@ -1,0 +1,33 @@
+# Base16 Zenbones - wezterm color config
+# Scheme by mcchrish
+[colors]
+background = "#191919"
+foreground = "#b279a7"
+
+cursor_bg = "#de6e7c"
+cursor_border = "#b279a7"
+cursor_fg = "#66a5ad"
+
+selection_bg = "#b279a7"
+selection_fg = "#191919"
+
+ansi = [
+  "#191919",
+  "#3d3839",
+  "#d68c67",
+  "#8bae68",
+  "#cf86c1",
+  "#65b8c1",
+  "#61abda",
+  "#66a5ad"
+  ]
+brights = [
+  "#b77e64",
+  "#3d3839",
+  "#d68c67",
+  "#8bae68",
+  "#cf86c1",
+  "#65b8c1",
+  "#61abda",
+  "#bbbbbb"
+  ]

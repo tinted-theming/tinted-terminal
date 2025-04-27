@@ -1,0 +1,33 @@
+# Base16 Woodland - wezterm color config
+# Scheme by Jay Cornwall (https://jcornwall.com)
+[colors]
+background = "#231e18"
+foreground = "#cabcb1"
+
+cursor_bg = "#302b25"
+cursor_border = "#cabcb1"
+cursor_fg = "#d7c8bc"
+
+selection_bg = "#cabcb1"
+selection_fg = "#231e18"
+
+ansi = [
+  "#231e18",
+  "#d35c5c",
+  "#b7ba53",
+  "#e0ac16",
+  "#88a4d3",
+  "#bb90e2",
+  "#6eb958",
+  "#d7c8bc"
+  ]
+brights = [
+  "#9d8b70",
+  "#d35c5c",
+  "#b7ba53",
+  "#e0ac16",
+  "#88a4d3",
+  "#bb90e2",
+  "#6eb958",
+  "#e4d4c8"
+  ]

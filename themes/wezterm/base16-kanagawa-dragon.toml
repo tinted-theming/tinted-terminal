@@ -1,0 +1,33 @@
+# Base16 Kanagawa Dragon - wezterm color config
+# Scheme by Tommaso Laurenzi (https://github.com/rebelot)
+[colors]
+background = "#0d0c0c"
+foreground = "#c5c9c5"
+
+cursor_bg = "#1d1c19"
+cursor_border = "#c5c9c5"
+cursor_fg = "#7a8382"
+
+selection_bg = "#c5c9c5"
+selection_fg = "#0d0c0c"
+
+ansi = [
+  "#0d0c0c",
+  "#c4746e",
+  "#87a987",
+  "#c4b28a",
+  "#8ba4b0",
+  "#8992a7",
+  "#8ea4a2",
+  "#7a8382"
+  ]
+brights = [
+  "#737c73",
+  "#c4746e",
+  "#87a987",
+  "#c4b28a",
+  "#8ba4b0",
+  "#8992a7",
+  "#8ea4a2",
+  "#c5c9c5"
+  ]

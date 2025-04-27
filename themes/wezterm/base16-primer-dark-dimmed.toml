@@ -1,0 +1,33 @@
+# Base16 Primer Dark Dimmed - wezterm color config
+# Scheme by Jimmy Lin
+[colors]
+background = "#1c2128"
+foreground = "#909dab"
+
+cursor_bg = "#373e47"
+cursor_border = "#909dab"
+cursor_fg = "#adbac7"
+
+selection_bg = "#909dab"
+selection_fg = "#1c2128"
+
+ansi = [
+  "#1c2128",
+  "#f47067",
+  "#57ab5a",
+  "#c69026",
+  "#539bf5",
+  "#e275ad",
+  "#96d0ff",
+  "#adbac7"
+  ]
+brights = [
+  "#545d68",
+  "#f47067",
+  "#57ab5a",
+  "#c69026",
+  "#539bf5",
+  "#e275ad",
+  "#96d0ff",
+  "#cdd9e5"
+  ]

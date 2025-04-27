@@ -1,0 +1,33 @@
+# Base16 eris - wezterm color config
+# Scheme by ed (https://codeberg.org/ed)
+[colors]
+background = "#0a0920"
+foreground = "#606bac"
+
+cursor_bg = "#13133a"
+cursor_border = "#606bac"
+cursor_fg = "#7986c5"
+
+selection_bg = "#606bac"
+selection_fg = "#0a0920"
+
+ansi = [
+  "#0a0920",
+  "#f768a3",
+  "#faaea2",
+  "#faaea2",
+  "#258fc4",
+  "#f768a3",
+  "#258fc4",
+  "#7986c5"
+  ]
+brights = [
+  "#333773",
+  "#f768a3",
+  "#faaea2",
+  "#faaea2",
+  "#258fc4",
+  "#f768a3",
+  "#258fc4",
+  "#9aaae5"
+  ]

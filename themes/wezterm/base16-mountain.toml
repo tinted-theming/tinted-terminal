@@ -1,0 +1,33 @@
+# Base16 Mountain - wezterm color config
+# Scheme by gnsfujiwara (https://github.com/gnsfujiwara)
+[colors]
+background = "#0f0f0f"
+foreground = "#cacaca"
+
+cursor_bg = "#191919"
+cursor_border = "#cacaca"
+cursor_fg = "#e7e7e7"
+
+selection_bg = "#cacaca"
+selection_fg = "#0f0f0f"
+
+ansi = [
+  "#0f0f0f",
+  "#ac8a8c",
+  "#8aac8b",
+  "#aca98a",
+  "#8f8aac",
+  "#ac8aac",
+  "#8aabac",
+  "#e7e7e7"
+  ]
+brights = [
+  "#4c4c4c",
+  "#ac8a8c",
+  "#8aac8b",
+  "#aca98a",
+  "#8f8aac",
+  "#ac8aac",
+  "#8aabac",
+  "#f0f0f0"
+  ]

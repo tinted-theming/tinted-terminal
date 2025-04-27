@@ -1,0 +1,33 @@
+# Base16 Tokyodark Terminal - wezterm color config
+# Scheme by Tiagovla (https://github.com/tiagovla/)
+[colors]
+background = "#11121d"
+foreground = "#a0a8cd"
+
+cursor_bg = "#1a1b2a"
+cursor_border = "#a0a8cd"
+cursor_fg = "#a0a8cd"
+
+selection_bg = "#a0a8cd"
+selection_fg = "#11121d"
+
+ansi = [
+  "#11121d",
+  "#ee6d85",
+  "#95c561",
+  "#d7a65f",
+  "#7199ee",
+  "#a485dd",
+  "#38a89d",
+  "#a0a8cd"
+  ]
+brights = [
+  "#282c34",
+  "#ee6d85",
+  "#95c561",
+  "#d7a65f",
+  "#7199ee",
+  "#a485dd",
+  "#38a89d",
+  "#a0a8cd"
+  ]

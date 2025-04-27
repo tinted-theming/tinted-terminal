@@ -1,0 +1,33 @@
+# Base16 Ayu Dark - wezterm color config
+# Scheme by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+[colors]
+background = "#0f1419"
+foreground = "#e6e1cf"
+
+cursor_bg = "#131721"
+cursor_border = "#e6e1cf"
+cursor_fg = "#e6e1cf"
+
+selection_bg = "#e6e1cf"
+selection_fg = "#0f1419"
+
+ansi = [
+  "#0f1419",
+  "#f07178",
+  "#b8cc52",
+  "#ffb454",
+  "#59c2ff",
+  "#d2a6ff",
+  "#95e6cb",
+  "#e6e1cf"
+  ]
+brights = [
+  "#3e4b59",
+  "#f07178",
+  "#b8cc52",
+  "#ffb454",
+  "#59c2ff",
+  "#d2a6ff",
+  "#95e6cb",
+  "#f3f4f5"
+  ]

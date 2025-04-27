@@ -1,0 +1,33 @@
+# Base16 Tokyo Night Storm - wezterm color config
+# Scheme by Michaël Ball
+[colors]
+background = "#24283b"
+foreground = "#a9b1d6"
+
+cursor_bg = "#16161e"
+cursor_border = "#a9b1d6"
+cursor_fg = "#cbccd1"
+
+selection_bg = "#a9b1d6"
+selection_fg = "#24283b"
+
+ansi = [
+  "#24283b",
+  "#c0caf5",
+  "#9ece6a",
+  "#0db9d7",
+  "#2ac3de",
+  "#bb9af7",
+  "#b4f9f8",
+  "#cbccd1"
+  ]
+brights = [
+  "#444b6a",
+  "#c0caf5",
+  "#9ece6a",
+  "#0db9d7",
+  "#2ac3de",
+  "#bb9af7",
+  "#b4f9f8",
+  "#d5d6db"
+  ]

@@ -1,0 +1,33 @@
+# Base16 Paraiso - wezterm color config
+# Scheme by Jan T. Sott
+[colors]
+background = "#2f1e2e"
+foreground = "#a39e9b"
+
+cursor_bg = "#41323f"
+cursor_border = "#a39e9b"
+cursor_fg = "#b9b6b0"
+
+selection_bg = "#a39e9b"
+selection_fg = "#2f1e2e"
+
+ansi = [
+  "#2f1e2e",
+  "#ef6155",
+  "#48b685",
+  "#fec418",
+  "#06b6ef",
+  "#815ba4",
+  "#5bc4bf",
+  "#b9b6b0"
+  ]
+brights = [
+  "#776e71",
+  "#ef6155",
+  "#48b685",
+  "#fec418",
+  "#06b6ef",
+  "#815ba4",
+  "#5bc4bf",
+  "#e7e9db"
+  ]

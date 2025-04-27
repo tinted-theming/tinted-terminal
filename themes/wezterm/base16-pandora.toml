@@ -1,0 +1,33 @@
+# Base16 pandora - wezterm color config
+# Scheme by Cassandra Fox
+[colors]
+background = "#131213"
+foreground = "#f15c99"
+
+cursor_bg = "#2f1823"
+cursor_border = "#f15c99"
+cursor_fg = "#81506a"
+
+selection_bg = "#f15c99"
+selection_fg = "#131213"
+
+ansi = [
+  "#131213",
+  "#b00b69",
+  "#9ddf69",
+  "#ffcc00",
+  "#008080",
+  "#a24030",
+  "#714ca6",
+  "#81506a"
+  ]
+brights = [
+  "#ffbee3",
+  "#b00b69",
+  "#9ddf69",
+  "#ffcc00",
+  "#008080",
+  "#a24030",
+  "#714ca6",
+  "#632227"
+  ]

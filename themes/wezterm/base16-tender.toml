@@ -1,0 +1,33 @@
+# Base16 tender - wezterm color config
+# Scheme by Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+[colors]
+background = "#282828"
+foreground = "#eeeeee"
+
+cursor_bg = "#383838"
+cursor_border = "#eeeeee"
+cursor_fg = "#e8e8e8"
+
+selection_bg = "#eeeeee"
+selection_fg = "#282828"
+
+ansi = [
+  "#282828",
+  "#f43753",
+  "#c9d05c",
+  "#ffc24b",
+  "#b3deef",
+  "#d3b987",
+  "#73cef4",
+  "#e8e8e8"
+  ]
+brights = [
+  "#4c4c4c",
+  "#f43753",
+  "#c9d05c",
+  "#ffc24b",
+  "#b3deef",
+  "#d3b987",
+  "#73cef4",
+  "#feffff"
+  ]

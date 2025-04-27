@@ -1,0 +1,33 @@
+# Base16 Tomorrow - wezterm color config
+# Scheme by Chris Kempson (http://chriskempson.com)
+[colors]
+background = "#ffffff"
+foreground = "#4d4d4c"
+
+cursor_bg = "#e0e0e0"
+cursor_border = "#4d4d4c"
+cursor_fg = "#282a2e"
+
+selection_bg = "#4d4d4c"
+selection_fg = "#ffffff"
+
+ansi = [
+  "#ffffff",
+  "#c82829",
+  "#718c00",
+  "#eab700",
+  "#4271ae",
+  "#8959a8",
+  "#3e999f",
+  "#282a2e"
+  ]
+brights = [
+  "#8e908c",
+  "#c82829",
+  "#718c00",
+  "#eab700",
+  "#4271ae",
+  "#8959a8",
+  "#3e999f",
+  "#1d1f21"
+  ]

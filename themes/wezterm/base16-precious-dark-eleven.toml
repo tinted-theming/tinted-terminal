@@ -1,0 +1,33 @@
+# Base16 Precious Dark Eleven - wezterm color config
+# Scheme by 4lex4 &lt;4lex49@zoho.com&gt;
+[colors]
+background = "#1c1e20"
+foreground = "#b8b7b6"
+
+cursor_bg = "#292b2d"
+cursor_border = "#b8b7b6"
+cursor_fg = "#b8b7b6"
+
+selection_bg = "#b8b7b6"
+selection_fg = "#1c1e20"
+
+ansi = [
+  "#1c1e20",
+  "#ff8782",
+  "#95b658",
+  "#d0a543",
+  "#68b0ee",
+  "#b799fe",
+  "#42bda7",
+  "#b8b7b6"
+  ]
+brights = [
+  "#858585",
+  "#ff8782",
+  "#95b658",
+  "#d0a543",
+  "#68b0ee",
+  "#b799fe",
+  "#42bda7",
+  "#b8b7b6"
+  ]

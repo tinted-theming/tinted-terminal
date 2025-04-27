@@ -1,0 +1,33 @@
+# Base16 Atlas - wezterm color config
+# Scheme by Alex Lende (https://ajlende.com)
+[colors]
+background = "#002635"
+foreground = "#a1a19a"
+
+cursor_bg = "#00384d"
+cursor_border = "#a1a19a"
+cursor_fg = "#e6e6dc"
+
+selection_bg = "#a1a19a"
+selection_fg = "#002635"
+
+ansi = [
+  "#002635",
+  "#ff5a67",
+  "#7fc06e",
+  "#ffcc1b",
+  "#14747e",
+  "#9a70a4",
+  "#5dd7b9",
+  "#e6e6dc"
+  ]
+brights = [
+  "#6c8b91",
+  "#ff5a67",
+  "#7fc06e",
+  "#ffcc1b",
+  "#14747e",
+  "#9a70a4",
+  "#5dd7b9",
+  "#fafaf8"
+  ]

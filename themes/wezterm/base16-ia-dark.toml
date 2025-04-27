@@ -1,0 +1,33 @@
+# Base16 iA Dark - wezterm color config
+# Scheme by iA Inc. (modified by aramisgithub)
+[colors]
+background = "#1a1a1a"
+foreground = "#cccccc"
+
+cursor_bg = "#222222"
+cursor_border = "#cccccc"
+cursor_fg = "#e8e8e8"
+
+selection_bg = "#cccccc"
+selection_fg = "#1a1a1a"
+
+ansi = [
+  "#1a1a1a",
+  "#d88568",
+  "#83a471",
+  "#b99353",
+  "#8eccdd",
+  "#b98eb2",
+  "#7c9cae",
+  "#e8e8e8"
+  ]
+brights = [
+  "#767676",
+  "#d88568",
+  "#83a471",
+  "#b99353",
+  "#8eccdd",
+  "#b98eb2",
+  "#7c9cae",
+  "#f8f8f8"
+  ]

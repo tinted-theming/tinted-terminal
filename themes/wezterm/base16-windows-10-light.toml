@@ -1,0 +1,33 @@
+# Base16 Windows 10 Light - wezterm color config
+# Scheme by Fergus Collins (https://github.com/ferguscollins)
+[colors]
+background = "#f2f2f2"
+foreground = "#767676"
+
+cursor_bg = "#e5e5e5"
+cursor_border = "#767676"
+cursor_fg = "#414141"
+
+selection_bg = "#767676"
+selection_fg = "#f2f2f2"
+
+ansi = [
+  "#f2f2f2",
+  "#c50f1f",
+  "#13a10e",
+  "#c19c00",
+  "#0037da",
+  "#881798",
+  "#3a96dd",
+  "#414141"
+  ]
+brights = [
+  "#cccccc",
+  "#c50f1f",
+  "#13a10e",
+  "#c19c00",
+  "#0037da",
+  "#881798",
+  "#3a96dd",
+  "#0c0c0c"
+  ]

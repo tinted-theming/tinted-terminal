@@ -1,0 +1,33 @@
+# Base16 Green Screen - wezterm color config
+# Scheme by Chris Kempson (http://chriskempson.com)
+[colors]
+background = "#001100"
+foreground = "#00bb00"
+
+cursor_bg = "#003300"
+cursor_border = "#00bb00"
+cursor_fg = "#00dd00"
+
+selection_bg = "#00bb00"
+selection_fg = "#001100"
+
+ansi = [
+  "#001100",
+  "#007700",
+  "#00bb00",
+  "#007700",
+  "#009900",
+  "#00bb00",
+  "#005500",
+  "#00dd00"
+  ]
+brights = [
+  "#007700",
+  "#007700",
+  "#00bb00",
+  "#007700",
+  "#009900",
+  "#00bb00",
+  "#005500",
+  "#00ff00"
+  ]

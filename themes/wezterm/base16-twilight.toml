@@ -1,0 +1,33 @@
+# Base16 Twilight - wezterm color config
+# Scheme by David Hart (https://github.com/hartbit)
+[colors]
+background = "#1e1e1e"
+foreground = "#a7a7a7"
+
+cursor_bg = "#323537"
+cursor_border = "#a7a7a7"
+cursor_fg = "#c3c3c3"
+
+selection_bg = "#a7a7a7"
+selection_fg = "#1e1e1e"
+
+ansi = [
+  "#1e1e1e",
+  "#cf6a4c",
+  "#8f9d6a",
+  "#f9ee98",
+  "#7587a6",
+  "#9b859d",
+  "#afc4db",
+  "#c3c3c3"
+  ]
+brights = [
+  "#5f5a60",
+  "#cf6a4c",
+  "#8f9d6a",
+  "#f9ee98",
+  "#7587a6",
+  "#9b859d",
+  "#afc4db",
+  "#ffffff"
+  ]

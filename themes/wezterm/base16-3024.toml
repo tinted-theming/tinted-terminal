@@ -1,0 +1,33 @@
+# Base16 3024 - wezterm color config
+# Scheme by Jan T. Sott (http://github.com/idleberg)
+[colors]
+background = "#090300"
+foreground = "#a5a2a2"
+
+cursor_bg = "#3a3432"
+cursor_border = "#a5a2a2"
+cursor_fg = "#d6d5d4"
+
+selection_bg = "#a5a2a2"
+selection_fg = "#090300"
+
+ansi = [
+  "#090300",
+  "#db2d20",
+  "#01a252",
+  "#fded02",
+  "#01a0e4",
+  "#a16a94",
+  "#b5e4f4",
+  "#d6d5d4"
+  ]
+brights = [
+  "#5c5855",
+  "#db2d20",
+  "#01a252",
+  "#fded02",
+  "#01a0e4",
+  "#a16a94",
+  "#b5e4f4",
+  "#f7f7f7"
+  ]

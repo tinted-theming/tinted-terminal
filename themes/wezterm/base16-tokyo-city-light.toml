@@ -1,0 +1,33 @@
+# Base16 Tokyo City Light - wezterm color config
+# Scheme by Michaël Ball
+[colors]
+background = "#fbfbfd"
+foreground = "#343b59"
+
+cursor_bg = "#f6f6f8"
+cursor_border = "#343b59"
+cursor_fg = "#1d252c"
+
+selection_bg = "#343b59"
+selection_fg = "#fbfbfd"
+
+ansi = [
+  "#fbfbfd",
+  "#8c4351",
+  "#485e30",
+  "#4c505e",
+  "#34548a",
+  "#5a4a78",
+  "#4c505e",
+  "#1d252c"
+  ]
+brights = [
+  "#9699a3",
+  "#8c4351",
+  "#485e30",
+  "#4c505e",
+  "#34548a",
+  "#5a4a78",
+  "#4c505e",
+  "#171d23"
+  ]

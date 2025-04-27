@@ -1,0 +1,33 @@
+# Base16 PhD - wezterm color config
+# Scheme by Hennig Hasemann (http://leetless.de/vim.html)
+[colors]
+background = "#061229"
+foreground = "#b8bbc2"
+
+cursor_bg = "#2a3448"
+cursor_border = "#b8bbc2"
+cursor_fg = "#dbdde0"
+
+selection_bg = "#b8bbc2"
+selection_fg = "#061229"
+
+ansi = [
+  "#061229",
+  "#d07346",
+  "#99bf52",
+  "#fbd461",
+  "#5299bf",
+  "#9989cc",
+  "#72b9bf",
+  "#dbdde0"
+  ]
+brights = [
+  "#717885",
+  "#d07346",
+  "#99bf52",
+  "#fbd461",
+  "#5299bf",
+  "#9989cc",
+  "#72b9bf",
+  "#ffffff"
+  ]

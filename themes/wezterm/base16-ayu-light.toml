@@ -1,0 +1,33 @@
+# Base16 Ayu Light - wezterm color config
+# Scheme by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+[colors]
+background = "#fafafa"
+foreground = "#5c6773"
+
+cursor_bg = "#f3f4f5"
+cursor_border = "#5c6773"
+cursor_fg = "#242936"
+
+selection_bg = "#5c6773"
+selection_fg = "#fafafa"
+
+ansi = [
+  "#fafafa",
+  "#f07178",
+  "#86b300",
+  "#f2ae49",
+  "#36a3d9",
+  "#a37acc",
+  "#4cbf99",
+  "#242936"
+  ]
+brights = [
+  "#abb0b6",
+  "#f07178",
+  "#86b300",
+  "#f2ae49",
+  "#36a3d9",
+  "#a37acc",
+  "#4cbf99",
+  "#1a1f29"
+  ]

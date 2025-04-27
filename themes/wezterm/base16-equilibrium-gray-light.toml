@@ -1,0 +1,33 @@
+# Base16 Equilibrium Gray Light - wezterm color config
+# Scheme by Carlo Abelli
+[colors]
+background = "#f1f1f1"
+foreground = "#474747"
+
+cursor_bg = "#e2e2e2"
+cursor_border = "#474747"
+cursor_fg = "#303030"
+
+selection_bg = "#474747"
+selection_fg = "#f1f1f1"
+
+ansi = [
+  "#f1f1f1",
+  "#d02023",
+  "#637200",
+  "#9d6f00",
+  "#0073b5",
+  "#4e66b6",
+  "#007a72",
+  "#303030"
+  ]
+brights = [
+  "#777777",
+  "#d02023",
+  "#637200",
+  "#9d6f00",
+  "#0073b5",
+  "#4e66b6",
+  "#007a72",
+  "#1b1b1b"
+  ]

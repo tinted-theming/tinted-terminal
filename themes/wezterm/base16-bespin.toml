@@ -1,0 +1,33 @@
+# Base16 Bespin - wezterm color config
+# Scheme by Jan T. Sott
+[colors]
+background = "#28211c"
+foreground = "#8a8986"
+
+cursor_bg = "#36312e"
+cursor_border = "#8a8986"
+cursor_fg = "#9d9b97"
+
+selection_bg = "#8a8986"
+selection_fg = "#28211c"
+
+ansi = [
+  "#28211c",
+  "#cf6a4c",
+  "#54be0d",
+  "#f9ee98",
+  "#5ea6ea",
+  "#9b859d",
+  "#afc4db",
+  "#9d9b97"
+  ]
+brights = [
+  "#666666",
+  "#cf6a4c",
+  "#54be0d",
+  "#f9ee98",
+  "#5ea6ea",
+  "#9b859d",
+  "#afc4db",
+  "#baae9e"
+  ]

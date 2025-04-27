@@ -1,0 +1,33 @@
+# Base16 standardized-dark - wezterm color config
+# Scheme by ali (https://github.com/ali-githb/base16-standardized-scheme)
+[colors]
+background = "#222222"
+foreground = "#c0c0c0"
+
+cursor_bg = "#303030"
+cursor_border = "#c0c0c0"
+cursor_fg = "#e0e0e0"
+
+selection_bg = "#c0c0c0"
+selection_fg = "#222222"
+
+ansi = [
+  "#222222",
+  "#e15d67",
+  "#5db129",
+  "#e1b31a",
+  "#00a3f2",
+  "#b46ee0",
+  "#21c992",
+  "#e0e0e0"
+  ]
+brights = [
+  "#898989",
+  "#e15d67",
+  "#5db129",
+  "#e1b31a",
+  "#00a3f2",
+  "#b46ee0",
+  "#21c992",
+  "#ffffff"
+  ]

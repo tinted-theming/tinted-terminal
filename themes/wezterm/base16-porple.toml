@@ -1,0 +1,33 @@
+# Base16 Porple - wezterm color config
+# Scheme by Niek den Breeje (https://github.com/AuditeMarlow)
+[colors]
+background = "#292c36"
+foreground = "#d8d8d8"
+
+cursor_bg = "#333344"
+cursor_border = "#d8d8d8"
+cursor_fg = "#e8e8e8"
+
+selection_bg = "#d8d8d8"
+selection_fg = "#292c36"
+
+ansi = [
+  "#292c36",
+  "#f84547",
+  "#95c76f",
+  "#efa16b",
+  "#8485ce",
+  "#b74989",
+  "#64878f",
+  "#e8e8e8"
+  ]
+brights = [
+  "#65568a",
+  "#f84547",
+  "#95c76f",
+  "#efa16b",
+  "#8485ce",
+  "#b74989",
+  "#64878f",
+  "#f8f8f8"
+  ]

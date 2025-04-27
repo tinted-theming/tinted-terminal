@@ -1,0 +1,33 @@
+# Base16 Nebula - wezterm color config
+# Scheme by Gabriel Fontes (https://github.com/Misterio77)
+[colors]
+background = "#22273b"
+foreground = "#a4a6a9"
+
+cursor_bg = "#414f60"
+cursor_border = "#a4a6a9"
+cursor_fg = "#c7c9cd"
+
+selection_bg = "#a4a6a9"
+selection_fg = "#22273b"
+
+ansi = [
+  "#22273b",
+  "#777abc",
+  "#6562a8",
+  "#4f9062",
+  "#4d6bb6",
+  "#716cae",
+  "#226f68",
+  "#c7c9cd"
+  ]
+brights = [
+  "#6e6f72",
+  "#777abc",
+  "#6562a8",
+  "#4f9062",
+  "#4d6bb6",
+  "#716cae",
+  "#226f68",
+  "#8dbdaa"
+  ]

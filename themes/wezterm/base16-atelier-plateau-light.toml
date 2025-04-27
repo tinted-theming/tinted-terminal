@@ -1,0 +1,33 @@
+# Base16 Atelier Plateau Light - wezterm color config
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+[colors]
+background = "#f4ecec"
+foreground = "#585050"
+
+cursor_bg = "#e7dfdf"
+cursor_border = "#585050"
+cursor_fg = "#292424"
+
+selection_bg = "#585050"
+selection_fg = "#f4ecec"
+
+ansi = [
+  "#f4ecec",
+  "#ca4949",
+  "#4b8b8b",
+  "#a06e3b",
+  "#7272ca",
+  "#8464c4",
+  "#5485b6",
+  "#292424"
+  ]
+brights = [
+  "#7e7777",
+  "#ca4949",
+  "#4b8b8b",
+  "#a06e3b",
+  "#7272ca",
+  "#8464c4",
+  "#5485b6",
+  "#1b1818"
+  ]

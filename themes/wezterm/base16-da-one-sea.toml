@@ -1,0 +1,33 @@
+# Base16 Da One Sea - wezterm color config
+# Scheme by NNB (https://github.com/NNBnh)
+[colors]
+background = "#22273d"
+foreground = "#ffffff"
+
+cursor_bg = "#374059"
+cursor_border = "#ffffff"
+cursor_fg = "#ffffff"
+
+selection_bg = "#ffffff"
+selection_fg = "#22273d"
+
+ansi = [
+  "#22273d",
+  "#fa7883",
+  "#98c379",
+  "#ff9470",
+  "#6bb8ff",
+  "#e799ff",
+  "#8af5ff",
+  "#ffffff"
+  ]
+brights = [
+  "#878d96",
+  "#fa7883",
+  "#98c379",
+  "#ff9470",
+  "#6bb8ff",
+  "#e799ff",
+  "#8af5ff",
+  "#ffffff"
+  ]

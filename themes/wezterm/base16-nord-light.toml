@@ -1,0 +1,33 @@
+# Base16 Nord Light - wezterm color config
+# Scheme by threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
+[colors]
+background = "#e5e9f0"
+foreground = "#2e3440"
+
+cursor_bg = "#c2d0e7"
+cursor_border = "#2e3440"
+cursor_fg = "#3b4252"
+
+selection_bg = "#2e3440"
+selection_fg = "#e5e9f0"
+
+ansi = [
+  "#e5e9f0",
+  "#99324b",
+  "#4f894c",
+  "#9a7500",
+  "#3b6ea8",
+  "#97365b",
+  "#398eac",
+  "#3b4252"
+  ]
+brights = [
+  "#aebacf",
+  "#99324b",
+  "#4f894c",
+  "#9a7500",
+  "#3b6ea8",
+  "#97365b",
+  "#398eac",
+  "#29838d"
+  ]
