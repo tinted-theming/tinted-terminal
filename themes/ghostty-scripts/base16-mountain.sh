@@ -40,7 +40,7 @@ ghostty_palette_color_16="#ceb188"
 ghostty_palette_color_17="#ac8a8c"
 ghostty_palette_color_18="#191919"
 ghostty_palette_color_19="#262626"
-ghostty_palette_color_20="#ac8a8c"
+ghostty_palette_color_20="#4c4c4c"
 ghostty_palette_color_21="#e7e7e7"
 
 _theme_file() {

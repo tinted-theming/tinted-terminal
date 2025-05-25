@@ -33,6 +33,6 @@
     <value name="ColorTable17" type="dword" data="008c8aac"/> <!-- base0F -->
     <value name="ColorTable18" type="dword" data="00191919"/> <!-- base01 -->
     <value name="ColorTable19" type="dword" data="00262626"/> <!-- base02 -->
-    <value name="ColorTable20" type="dword" data="008c8aac"/> <!-- base04 -->
+    <value name="ColorTable20" type="dword" data="004c4c4c"/> <!-- base04 -->
     <value name="ColorTable21" type="dword" data="00e7e7e7"/> <!-- base06 -->
 </key>

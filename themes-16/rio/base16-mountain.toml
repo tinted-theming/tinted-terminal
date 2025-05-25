@@ -28,7 +28,7 @@ dim-green        = '#8aac8b' # base0B
 dim-cyan         = '#8aabac' # base0C
 dim-blue         = '#8f8aac' # base0D
 dim-magenta      = '#ac8aac' # base0E
-dim-white        = '#ac8a8c' # base04
+dim-white        = '#4c4c4c' # base04
 
 light-foreground = '#cacaca' # base05
 light-black      = '#262626' # base02
