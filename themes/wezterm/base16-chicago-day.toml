@@ -1,0 +1,33 @@
+# Base16 Chicago Day - wezterm color config
+# Scheme by Wendell, Ryan &lt;ryanjwendell@gmail.com&gt;
+[colors]
+background = "#e8f0ea"
+foreground = "#364c40"
+
+cursor_bg = "#d1e0d7"
+cursor_border = "#364c40"
+cursor_fg = "#2a3b32"
+
+selection_bg = "#364c40"
+selection_fg = "#e8f0ea"
+
+ansi = [
+  "#e8f0ea",
+  "#c60c30",
+  "#009b3a",
+  "#968400",
+  "#522398",
+  "#e27ea6",
+  "#00a1de",
+  "#2a3b32"
+  ]
+brights = [
+  "#8a9a91",
+  "#c60c30",
+  "#009b3a",
+  "#968400",
+  "#522398",
+  "#e27ea6",
+  "#00a1de",
+  "#1e2a24"
+  ]

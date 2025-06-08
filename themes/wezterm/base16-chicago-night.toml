@@ -1,0 +1,33 @@
+# Base16 Chicago Night - wezterm color config
+# Scheme by Wendell, Ryan &lt;ryanjwendell@gmail.com&gt;
+[colors]
+background = "#1e2a24"
+foreground = "#a7b8af"
+
+cursor_bg = "#2a3b32"
+cursor_border = "#a7b8af"
+cursor_fg = "#c1cdc7"
+
+selection_bg = "#a7b8af"
+selection_fg = "#1e2a24"
+
+ansi = [
+  "#1e2a24",
+  "#c60c30",
+  "#009b3a",
+  "#f9e300",
+  "#522398",
+  "#e27ea6",
+  "#00a1de",
+  "#c1cdc7"
+  ]
+brights = [
+  "#5f7368",
+  "#c60c30",
+  "#009b3a",
+  "#f9e300",
+  "#522398",
+  "#e27ea6",
+  "#00a1de",
+  "#dbe3de"
+  ]
