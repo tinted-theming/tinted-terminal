@@ -28,7 +28,7 @@ foot-base24:
   filename: themes/foot/{{ scheme-system }}-{{ scheme-slug }}.ini
   supported-systems: [base24]
 
-  # Ghostty
+# Ghostty
 # ----------------------------------------------------------------------
 ghostty-base16:
   filename: themes/ghostty/{{ scheme-system }}-{{ scheme-slug }}
@@ -97,6 +97,16 @@ putty-base16:
 putty-base24:
   filename: themes/putty/{{ scheme-system }}-{{ scheme-slug }}.reg
   supported-systems: [base24]
+
+# QTerminal
+# ----------------------------------------------------------------------
+qterminal-base16:
+    filename: themes/qterminal/{{ scheme-system }}-{{ scheme-slug }}.colorscheme
+    supported-systems: [base16]
+
+qterminal-base24:
+    filename: themes/qterminal/{{ scheme-system }}-{{ scheme-slug }}.colorscheme
+    supported-systems: [base24]
 
 # Rio
 # ----------------------------------------------------------------------
