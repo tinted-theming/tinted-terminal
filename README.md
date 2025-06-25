@@ -761,6 +761,7 @@ terminal template decisions.
 [themes-16/kermit/]: ./themes-16/kermit/
 [themes/kitty/]: ./themes/kitty/
 [themes/putty/]: ./themes/putty/
+[themes/qterminal]: ./themes/qterminal/
 [themes-16/rio/]: ./themes-16/rio/
 [themes/termite/]: ./themes/termite/
 [themes/xfce4/]: ./themes/xfce4/
