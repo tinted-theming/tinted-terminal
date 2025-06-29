@@ -1,0 +1,33 @@
+# Base16 Penumbra Light Contrast Plus - wezterm color config
+# Scheme by Zachary Weiss (https://github.com/zacharyweiss)
+[colors]
+background = "#fffdfb"
+foreground = "#636363"
+
+cursor_bg = "#fff7ed"
+cursor_border = "#636363"
+cursor_fg = "#24272b"
+
+selection_bg = "#636363"
+selection_fg = "#fffdfb"
+
+ansi = [
+  "#fffdfb",
+  "#df7f78",
+  "#50b584",
+  "#9ca748",
+  "#61a3e6",
+  "#a48fe1",
+  "#00b3c2",
+  "#24272b"
+  ]
+brights = [
+  "#cecece",
+  "#df7f78",
+  "#50b584",
+  "#9ca748",
+  "#61a3e6",
+  "#a48fe1",
+  "#00b3c2",
+  "#181b1f"
+  ]
