@@ -4,9 +4,9 @@
 background = "#0c0c0c"
 foreground = "#cccccc"
 
-cursor_bg = "#2f2f2f"
+cursor_bg = "#cccccc"
 cursor_border = "#cccccc"
-cursor_fg = "#dfdfdf"
+cursor_fg = "#0c0c0c"
 
 selection_bg = "#cccccc"
 selection_fg = "#0c0c0c"
