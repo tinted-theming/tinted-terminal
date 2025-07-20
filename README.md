@@ -359,11 +359,9 @@ if application "Ghostty" is running then
 end if
 ```
 
-Store this script somewhere on your machine, then after plugging in the correct keystroke to match the `reload_config` keymap for Ghostty (the above is the default),
-register a global hook in your Tinty config:
+Store this script somewhere on your machine, then after plugging in the correct keystroke to match the `reload_config` keymap for Ghostty (the above is the default), register a global hook in your Tinty config:
 
 ```toml
-
 hooks = [
    "osascript -se ~/path/to/ghostty-reload-config.scrpt"
 ]
