@@ -14,6 +14,7 @@ instructions:
 - [Kermit](#kermit)
 - [Kitty](#kitty)
 - [PuTTY](#putty)
+- [QTerminal](#qterminal)
 - [Rio](#rio)
 - [Termite](#termite)
 - [xfce4](#xfce4)
@@ -562,6 +563,56 @@ a single scheme system.
    to the session you would like to apply the theme;
 6. Run the file and accept it to make changes in Windows Registry.
 
+## QTerminal
+
+Tinted Theming template for [QTerminal terminal emulator].
+
+**Theme directory**: [themes/qterminal/]
+
+### Tinty
+
+1. Make sure the following directory exists:
+
+   ```sh
+   mkdir -p ~/.local/share/qterminal/color-schemes
+   ```
+
+2. Add the following to `~/.config/tinted-theming/tinty/config.toml`:
+
+   ```toml
+   [[items]]
+   hook = "cp -f %f ~/.local/share/qterminal/color-schemes/tinty.colorscheme"
+   name = "tinted-terminal"
+   path = "https://github.com/tinted-theming/tinted-terminal"
+   supported-systems = ["base16", "base24"]
+   themes-dir = "themes/qterminal"
+   ```
+
+3. Run `tinty apply <theme-of-choice>` to change the theme.
+
+4. In a QTerminal window goto: File > Preferences... > Appearance, set Color
+   scheme to tinty, and then click the Apply button.
+
+5. Close and reopen QTerminal.
+
+### Manual
+
+1. Clone this repository to a location of your choice.
+
+2. Make sure the following directory exists:
+
+   ```sh
+   mkdir -p ~/.local/share/qterminal/color-schemes
+   ```
+
+3. Copy the desired theme from the `themes/qterminal` directory into the
+   directory created in the prior step.
+
+4. In a QTerminal window goto: File > Preferences... > Appearance, set Color
+   scheme to tinty, and then click the Apply button.
+
+5. Close and reopen QTerminal.
+
 ## Rio
 
 <img src="./assets/rio-icon.svg" alt="Terminal icon" width="50"/>
@@ -710,6 +761,7 @@ terminal template decisions.
 [themes-16/kermit/]: ./themes-16/kermit/
 [themes/kitty/]: ./themes/kitty/
 [themes/putty/]: ./themes/putty/
+[themes/qterminal/]: ./themes/qterminal/
 [themes-16/rio/]: ./themes-16/rio/
 [themes/termite/]: ./themes/termite/
 [themes/xfce4/]: ./themes/xfce4/
@@ -721,6 +773,7 @@ terminal template decisions.
 [Kermit terminal emulator]: https://github.com/orhun/kermit
 [Kitty terminal emulator]: https://github.com/kovidgoyal/kitty
 [PuTTY terminal emulator]: https://www.putty.org/
+[QTerminal terminal emulator]: https://github.com/lxqt/qterminal
 [Rio terminal emulator]: https://github.com/raphamorim/rio
 [Termite terminal emulator]: https://github.com/thestinger/termite
 [iTerm2 terminal emulator]: https://github.com/gnachman/iTerm2
