@@ -31,3 +31,11 @@ brights = [
   "#fb6acb",
   "#f2fbff"
   ]
+
+[colors.indexed]
+16 = "#19f988"
+17 = "#6187ff"
+18 = "#2d303d"
+19 = "#5a576e"
+20 = "#cad3ff"
+21 = "#e9e7e1"
