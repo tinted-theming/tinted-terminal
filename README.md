@@ -342,7 +342,9 @@ theme = base16-ayu-dark
 > [!IMPORTANT]
 > You will need to trigger `reload_config` in Ghostty for the palette to apply. The default keybinding for this is `Cmd + Shift + ,` for macOS, or `Ctrl + Shift + ,` for Linux/Windows
 
-#### macOS users
+### macOS
+
+####  Auto `reload_config`
 
 You can use AppleScript to tell Ghostty to reload the config e.g.:
 
@@ -357,8 +359,8 @@ if application "Ghostty" is running then
 end if
 ```
 
-After plugging in the correct keystroke to match the `reload_config` keymap for Ghostty (the above is the default),
-store this script somewhere on your machine then register a global hook in your Tinty config:
+Store this script somewhere on your machine, then after plugging in the correct keystroke to match the `reload_config` keymap for Ghostty (the above is the default),
+register a global hook in your Tinty config:
 
 ```toml
 
@@ -367,15 +369,15 @@ hooks = [
 ]
 ```
 
-The next time you run `tinty apply`, Ghostty will prompt you for "App Management" permissions. Allow this to ensure the hook works in making the theme reflect in Ghostty right away.
+The next time you run `tinty apply`, Ghostty will prompt you for "App Management" permissions. Allow this to allow the hook to work going forward.
 
-### Customize Ghostty's app icon (macOS only)
+####  Customize Ghostty's app icon
 
 By default, the theme files assigns `Bright White` and `Bright Blue` for the icon's ghost tint and screen tint,
 respectively. If you'd like to use different colors, this repository provides scripts to generate a theme file with the 
 icon & screen tints you prefer. They are located in `./themes/ghostty-scripts` and can be used as follows:
 
-#### Manual
+##### Manual
 
 ```sh
 # Example:
@@ -388,7 +390,7 @@ sh /path/to/tinted-terminal/themes/ghostty-scripts/base16-ayu-dark.sh \
 The above example would generate a `base16-ayu-dark` theme with `macos-icon-ghost-color` set to `palette[5]` color, and
 `macos-icon-screen-color` set to a gradient of `palette[16]`, `palette[12]`, and `palette[10]`.
 
-#### Tinty
+##### Tinty
 
 Follow the same [Tinty instructions](#tinty-2), but put this in `~/.config/tinted-theming/tinty/config.toml` instead for
 Step 2:
