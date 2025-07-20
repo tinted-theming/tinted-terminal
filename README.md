@@ -342,6 +342,32 @@ theme = base16-ayu-dark
 > [!IMPORTANT]
 > You will need to trigger `reload_config` in Ghostty for the palette to apply. The default keybinding for this is `Cmd + Shift + ,` for macOS, or `Ctrl + Shift + ,` for Linux/Windows
 
+#### macOS users
+
+You can use AppleScript to tell Ghostty to reload the config e.g.:
+
+```applescript
+if application "Ghostty" is running then
+   tell application "Ghostty" to activate
+   delay 0.25
+   tell application "System Events"
+      -- The keymap for `reload_config` in Ghostty. Change this if necessary:
+      keystroke "," using {shift down, command down}
+   end tell
+end if
+```
+
+After plugging in the correct keystroke to match the `reload_config` keymap for Ghostty (the above is the default),
+store this script somewhere on your machine then register a global hook in your Tinty config:
+
+```toml
+
+hooks = [
+   "osascript -se ~/path/to/ghostty-reload-config.scrpt"
+]
+```
+
+The next time you run `tinty apply`, Ghostty will prompt you for "App Management" permissions. Allow this to ensure the hook works in making the theme reflect in Ghostty right away.
 
 ### Customize Ghostty's app icon (macOS only)
 
