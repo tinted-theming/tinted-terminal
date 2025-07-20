@@ -154,3 +154,7 @@ xfce4-base24:
 wezterm-base16:
   filename: themes/wezterm/{{ scheme-system }}-{{ scheme-slug }}.toml
   supported-systems: [base16]
+
+wezterm-base24:
+  filename: themes/wezterm/{{ scheme-system }}-{{ scheme-slug }}.toml
+  supported-systems: [base24]

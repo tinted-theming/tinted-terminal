@@ -677,6 +677,23 @@ mkdir -p ~/.config/termite
 curl https://raw.githubusercontent.com/tinted-theming/tinted-terminal/main/termite/base16-default-dark.config >> ~/.config/termite/config
 ```
 
+## WezTerm
+
+<img src="./assets/wezterm-icon.svg" alt="WezTerm icon" width="50"/>
+
+Tinted Theming template for [WezTerm terminal emulator].
+
+**Theme directory**: [themes/wezterm/]
+
+### Manual
+
+1. Clone this repo locally
+2. ln -s `/path/to/tinted-terminal/themes/wezterm` `~/.config/wezterm/colors`
+3. Add the theme name to your `wezterm.lua` file:
+   ```
+    color_scheme = "base16-ayu-dark",
+   ```
+
 ## xfce4
 
 <img src="./assets/terminal-icon.svg" alt="Terminal icon" width="50"/>
@@ -777,6 +794,7 @@ terminal template decisions.
 [Rio terminal emulator]: https://github.com/raphamorim/rio
 [Termite terminal emulator]: https://github.com/thestinger/termite
 [iTerm2 terminal emulator]: https://github.com/gnachman/iTerm2
+[WezTerm terminal emulator]: https://wezterm.org/index.html
 [xfce4 terminal emulator]: https://docs.xfce.org/apps/terminal/start
 
 [color options]: assets/ConEmu_Color_Options.png
