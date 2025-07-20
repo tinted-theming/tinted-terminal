@@ -1,5 +1,7 @@
-# Base16 Harmonic16 Dark - wezterm color config
-# Scheme by Jannik Siebert (https://github.com/janniks)
+# base16 Harmonic16 Dark
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#0b1c2c"
 foreground = "#cbd6e2"
@@ -9,7 +11,7 @@ cursor_border = "#cbd6e2"
 cursor_fg = "#0b1c2c"
 
 selection_bg = "#cbd6e2"
-selection_fg = "#0b1c2c"
+selection_fg = "#405c79"
 
 ansi = [
   "#0b1c2c",
@@ -20,9 +22,9 @@ ansi = [
   "#bf568b",
   "#568bbf",
   "#e5ebf1"
-  ]
+]
 brights = [
-  "#627e99",
+  "#405c79",
   "#bf8b56",
   "#56bf8b",
   "#8bbf56",
@@ -30,7 +32,7 @@ brights = [
   "#bf568b",
   "#568bbf",
   "#f7f9fb"
-  ]
+]
 
 [colors.indexed]
 16 = "#bfbf56"

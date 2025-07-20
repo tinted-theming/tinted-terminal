@@ -1,5 +1,7 @@
-# Base16 Apprentice - wezterm color config
-# Scheme by romainl
+# base16 Apprentice
+# Scheme author: romainl
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#262626"
 foreground = "#5f5f87"
@@ -9,7 +11,7 @@ cursor_border = "#5f5f87"
 cursor_fg = "#262626"
 
 selection_bg = "#5f5f87"
-selection_fg = "#262626"
+selection_fg = "#5f875f"
 
 ansi = [
   "#262626",
@@ -20,9 +22,9 @@ ansi = [
   "#5fafaf",
   "#87afd7",
   "#5f8787"
-  ]
+]
 brights = [
-  "#87875f",
+  "#5f875f",
   "#444444",
   "#ffffaf",
   "#87af87",
@@ -30,7 +32,7 @@ brights = [
   "#5fafaf",
   "#87afd7",
   "#6c6c6c"
-  ]
+]
 
 [colors.indexed]
 16 = "#ff8700"

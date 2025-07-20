@@ -1,5 +1,7 @@
-# Base16 Nova - wezterm color config
-# Scheme by George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+# base16 Nova
+# Scheme author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#3c4c55"
 foreground = "#c5d4dd"
@@ -9,7 +11,7 @@ cursor_border = "#c5d4dd"
 cursor_fg = "#3c4c55"
 
 selection_bg = "#c5d4dd"
-selection_fg = "#3c4c55"
+selection_fg = "#6a7d89"
 
 ansi = [
   "#3c4c55",
@@ -20,9 +22,9 @@ ansi = [
   "#9a93e1",
   "#f2c38f",
   "#899ba6"
-  ]
+]
 brights = [
-  "#899ba6",
+  "#6a7d89",
   "#83afe5",
   "#7fc1ca",
   "#a8ce93",
@@ -30,7 +32,7 @@ brights = [
   "#9a93e1",
   "#f2c38f",
   "#556873"
-  ]
+]
 
 [colors.indexed]
 16 = "#7fc1ca"

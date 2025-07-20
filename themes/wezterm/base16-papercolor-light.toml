@@ -1,5 +1,7 @@
-# Base16 PaperColor Light - wezterm color config
-# Scheme by Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# base16 PaperColor Light
+# Scheme author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#eeeeee"
 foreground = "#444444"
@@ -9,7 +11,7 @@ cursor_border = "#444444"
 cursor_fg = "#eeeeee"
 
 selection_bg = "#444444"
-selection_fg = "#eeeeee"
+selection_fg = "#008700"
 
 ansi = [
   "#eeeeee",
@@ -20,9 +22,9 @@ ansi = [
   "#005faf",
   "#d75f00",
   "#005f87"
-  ]
+]
 brights = [
-  "#5f8700",
+  "#008700",
   "#bcbcbc",
   "#8700af",
   "#d70087",
@@ -30,7 +32,7 @@ brights = [
   "#005faf",
   "#d75f00",
   "#878787"
-  ]
+]
 
 [colors.indexed]
 16 = "#d70000"

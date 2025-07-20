@@ -1,5 +1,7 @@
-# Base16 Summerfruit Light - wezterm color config
-# Scheme by Christopher Corley (http://christop.club/)
+# base16 Summerfruit Light
+# Scheme author: Christopher Corley (http://christop.club/)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#ffffff"
 foreground = "#101010"
@@ -9,7 +11,7 @@ cursor_border = "#101010"
 cursor_fg = "#ffffff"
 
 selection_bg = "#101010"
-selection_fg = "#ffffff"
+selection_fg = "#d0d0d0"
 
 ansi = [
   "#ffffff",
@@ -20,9 +22,9 @@ ansi = [
   "#ad00a1",
   "#1faaaa",
   "#151515"
-  ]
+]
 brights = [
-  "#b0b0b0",
+  "#d0d0d0",
   "#ff0086",
   "#00c918",
   "#aba800",
@@ -30,7 +32,7 @@ brights = [
   "#ad00a1",
   "#1faaaa",
   "#202020"
-  ]
+]
 
 [colors.indexed]
 16 = "#fd8900"

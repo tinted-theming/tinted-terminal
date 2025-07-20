@@ -1,5 +1,7 @@
-# Base16 London Tube - wezterm color config
-# Scheme by Jan T. Sott
+# base16 London Tube
+# Scheme author: Jan T. Sott
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#231f20"
 foreground = "#d9d8d8"
@@ -9,7 +11,7 @@ cursor_border = "#d9d8d8"
 cursor_fg = "#231f20"
 
 selection_bg = "#d9d8d8"
-selection_fg = "#231f20"
+selection_fg = "#5a5758"
 
 ansi = [
   "#231f20",
@@ -20,9 +22,9 @@ ansi = [
   "#98005d",
   "#85cebc",
   "#e7e7e8"
-  ]
+]
 brights = [
-  "#737171",
+  "#5a5758",
   "#ee2e24",
   "#00853e",
   "#ffd204",
@@ -30,7 +32,7 @@ brights = [
   "#98005d",
   "#85cebc",
   "#ffffff"
-  ]
+]
 
 [colors.indexed]
 16 = "#f386a1"

@@ -1,5 +1,7 @@
-# Base16 Atlas - wezterm color config
-# Scheme by Alex Lende (https://ajlende.com)
+# base16 Atlas
+# Scheme author: Alex Lende (https://ajlende.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#002635"
 foreground = "#a1a19a"
@@ -9,7 +11,7 @@ cursor_border = "#a1a19a"
 cursor_fg = "#002635"
 
 selection_bg = "#a1a19a"
-selection_fg = "#002635"
+selection_fg = "#517f8d"
 
 ansi = [
   "#002635",
@@ -20,9 +22,9 @@ ansi = [
   "#9a70a4",
   "#5dd7b9",
   "#e6e6dc"
-  ]
+]
 brights = [
-  "#6c8b91",
+  "#517f8d",
   "#ff5a67",
   "#7fc06e",
   "#ffcc1b",
@@ -30,7 +32,7 @@ brights = [
   "#9a70a4",
   "#5dd7b9",
   "#fafaf8"
-  ]
+]
 
 [colors.indexed]
 16 = "#f08e48"

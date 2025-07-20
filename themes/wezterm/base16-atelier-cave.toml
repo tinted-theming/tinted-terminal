@@ -1,5 +1,7 @@
-# Base16 Atelier Cave - wezterm color config
-# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# base16 Atelier Cave
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#19171c"
 foreground = "#8b8792"
@@ -9,7 +11,7 @@ cursor_border = "#8b8792"
 cursor_fg = "#19171c"
 
 selection_bg = "#8b8792"
-selection_fg = "#19171c"
+selection_fg = "#585260"
 
 ansi = [
   "#19171c",
@@ -20,9 +22,9 @@ ansi = [
   "#955ae7",
   "#398bc6",
   "#e2dfe7"
-  ]
+]
 brights = [
-  "#655f6d",
+  "#585260",
   "#be4678",
   "#2a9292",
   "#a06e3b",
@@ -30,7 +32,7 @@ brights = [
   "#955ae7",
   "#398bc6",
   "#efecf4"
-  ]
+]
 
 [colors.indexed]
 16 = "#aa573c"

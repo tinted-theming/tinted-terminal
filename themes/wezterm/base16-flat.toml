@@ -1,5 +1,7 @@
-# Base16 Flat - wezterm color config
-# Scheme by Chris Kempson (http://chriskempson.com)
+# base16 Flat
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#2c3e50"
 foreground = "#e0e0e0"
@@ -9,7 +11,7 @@ cursor_border = "#e0e0e0"
 cursor_fg = "#2c3e50"
 
 selection_bg = "#e0e0e0"
-selection_fg = "#2c3e50"
+selection_fg = "#7f8c8d"
 
 ansi = [
   "#2c3e50",
@@ -20,9 +22,9 @@ ansi = [
   "#9b59b6",
   "#1abc9c",
   "#f5f5f5"
-  ]
+]
 brights = [
-  "#95a5a6",
+  "#7f8c8d",
   "#e74c3c",
   "#2ecc71",
   "#f1c40f",
@@ -30,7 +32,7 @@ brights = [
   "#9b59b6",
   "#1abc9c",
   "#ecf0f1"
-  ]
+]
 
 [colors.indexed]
 16 = "#e67e22"

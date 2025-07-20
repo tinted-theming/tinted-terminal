@@ -1,5 +1,7 @@
-# Base16 pandora - wezterm color config
-# Scheme by Cassandra Fox
+# base16 pandora
+# Scheme author: Cassandra Fox
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#131213"
 foreground = "#f15c99"
@@ -9,7 +11,7 @@ cursor_border = "#f15c99"
 cursor_fg = "#131213"
 
 selection_bg = "#f15c99"
-selection_fg = "#131213"
+selection_fg = "#472234"
 
 ansi = [
   "#131213",
@@ -20,9 +22,9 @@ ansi = [
   "#a24030",
   "#714ca6",
   "#81506a"
-  ]
+]
 brights = [
-  "#ffbee3",
+  "#472234",
   "#b00b69",
   "#9ddf69",
   "#ffcc00",
@@ -30,7 +32,7 @@ brights = [
   "#a24030",
   "#714ca6",
   "#632227"
-  ]
+]
 
 [colors.indexed]
 16 = "#ff9153"

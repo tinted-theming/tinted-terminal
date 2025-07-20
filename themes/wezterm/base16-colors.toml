@@ -1,5 +1,7 @@
-# Base16 Colors - wezterm color config
-# Scheme by mrmrs (http://clrs.cc)
+# base16 Colors
+# Scheme author: mrmrs (http://clrs.cc)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#111111"
 foreground = "#bbbbbb"
@@ -9,7 +11,7 @@ cursor_border = "#bbbbbb"
 cursor_fg = "#111111"
 
 selection_bg = "#bbbbbb"
-selection_fg = "#111111"
+selection_fg = "#555555"
 
 ansi = [
   "#111111",
@@ -20,9 +22,9 @@ ansi = [
   "#b10dc9",
   "#7fdbff",
   "#dddddd"
-  ]
+]
 brights = [
-  "#777777",
+  "#555555",
   "#ff4136",
   "#2ecc40",
   "#ffdc00",
@@ -30,7 +32,7 @@ brights = [
   "#b10dc9",
   "#7fdbff",
   "#ffffff"
-  ]
+]
 
 [colors.indexed]
 16 = "#ff851b"

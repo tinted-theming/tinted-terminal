@@ -1,5 +1,7 @@
-# Base16 Atelier Seaside - wezterm color config
-# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# base16 Atelier Seaside
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#131513"
 foreground = "#8ca68c"
@@ -9,7 +11,7 @@ cursor_border = "#8ca68c"
 cursor_fg = "#131513"
 
 selection_bg = "#8ca68c"
-selection_fg = "#131513"
+selection_fg = "#5e6e5e"
 
 ansi = [
   "#131513",
@@ -20,9 +22,9 @@ ansi = [
   "#ad2bee",
   "#1999b3",
   "#cfe8cf"
-  ]
+]
 brights = [
-  "#687d68",
+  "#5e6e5e",
   "#e6193c",
   "#29a329",
   "#98981b",
@@ -30,7 +32,7 @@ brights = [
   "#ad2bee",
   "#1999b3",
   "#f4fbf4"
-  ]
+]
 
 [colors.indexed]
 16 = "#87711d"

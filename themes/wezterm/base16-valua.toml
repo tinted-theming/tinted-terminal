@@ -1,5 +1,7 @@
-# Base16 Valua - wezterm color config
-# Scheme by Nonetrix (https://github.com/nonetrix)
+# base16 Valua
+# Scheme author: Nonetrix (https://github.com/nonetrix)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#131f1f"
 foreground = "#98c1a3"
@@ -9,7 +11,7 @@ cursor_border = "#98c1a3"
 cursor_fg = "#131f1f"
 
 selection_bg = "#98c1a3"
-selection_fg = "#131f1f"
+selection_fg = "#273d3c"
 
 ansi = [
   "#131f1f",
@@ -20,9 +22,9 @@ ansi = [
   "#a874e0",
   "#76dbd2",
   "#a5cbb9"
-  ]
+]
 brights = [
-  "#3e5c53",
+  "#273d3c",
   "#d7586e",
   "#59d678",
   "#dfe754",
@@ -30,7 +32,7 @@ brights = [
   "#a874e0",
   "#76dbd2",
   "#aacbcb"
-  ]
+]
 
 [colors.indexed]
 16 = "#e6b466"

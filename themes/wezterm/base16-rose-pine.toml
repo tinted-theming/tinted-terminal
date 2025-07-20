@@ -1,5 +1,7 @@
-# Base16 Rosé Pine - wezterm color config
-# Scheme by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
+# base16 Rosé Pine
+# Scheme author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#191724"
 foreground = "#e0def4"
@@ -9,7 +11,7 @@ cursor_border = "#e0def4"
 cursor_fg = "#191724"
 
 selection_bg = "#e0def4"
-selection_fg = "#191724"
+selection_fg = "#26233a"
 
 ansi = [
   "#191724",
@@ -20,9 +22,9 @@ ansi = [
   "#f6c177",
   "#9ccfd8",
   "#e0def4"
-  ]
+]
 brights = [
-  "#6e6a86",
+  "#26233a",
   "#eb6f92",
   "#31748f",
   "#ebbcba",
@@ -30,7 +32,7 @@ brights = [
   "#f6c177",
   "#9ccfd8",
   "#524f67"
-  ]
+]
 
 [colors.indexed]
 16 = "#f6c177"

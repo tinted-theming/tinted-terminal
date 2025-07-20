@@ -1,5 +1,7 @@
-# Base16 Atelier Plateau - wezterm color config
-# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# base16 Atelier Plateau
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#1b1818"
 foreground = "#8a8585"
@@ -9,7 +11,7 @@ cursor_border = "#8a8585"
 cursor_fg = "#1b1818"
 
 selection_bg = "#8a8585"
-selection_fg = "#1b1818"
+selection_fg = "#585050"
 
 ansi = [
   "#1b1818",
@@ -20,9 +22,9 @@ ansi = [
   "#8464c4",
   "#5485b6",
   "#e7dfdf"
-  ]
+]
 brights = [
-  "#655d5d",
+  "#585050",
   "#ca4949",
   "#4b8b8b",
   "#a06e3b",
@@ -30,7 +32,7 @@ brights = [
   "#8464c4",
   "#5485b6",
   "#f4ecec"
-  ]
+]
 
 [colors.indexed]
 16 = "#b45a3c"

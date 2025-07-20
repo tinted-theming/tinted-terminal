@@ -1,5 +1,7 @@
-# Base16 Chicago Night - wezterm color config
-# Scheme by Wendell, Ryan &lt;ryanjwendell@gmail.com&gt;
+# base16 Chicago Night
+# Scheme author: Wendell, Ryan &lt;ryanjwendell@gmail.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#1e2a24"
 foreground = "#a7b8af"
@@ -9,7 +11,7 @@ cursor_border = "#a7b8af"
 cursor_fg = "#1e2a24"
 
 selection_bg = "#a7b8af"
-selection_fg = "#1e2a24"
+selection_fg = "#364c40"
 
 ansi = [
   "#1e2a24",
@@ -20,9 +22,9 @@ ansi = [
   "#e27ea6",
   "#00a1de",
   "#c1cdc7"
-  ]
+]
 brights = [
-  "#5f7368",
+  "#364c40",
   "#c60c30",
   "#009b3a",
   "#f9e300",
@@ -30,7 +32,7 @@ brights = [
   "#e27ea6",
   "#00a1de",
   "#dbe3de"
-  ]
+]
 
 [colors.indexed]
 16 = "#f9461c"

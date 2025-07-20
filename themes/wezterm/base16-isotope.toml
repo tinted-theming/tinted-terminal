@@ -1,5 +1,7 @@
-# Base16 Isotope - wezterm color config
-# Scheme by Jan T. Sott
+# base16 Isotope
+# Scheme author: Jan T. Sott
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#000000"
 foreground = "#d0d0d0"
@@ -9,7 +11,7 @@ cursor_border = "#d0d0d0"
 cursor_fg = "#000000"
 
 selection_bg = "#d0d0d0"
-selection_fg = "#000000"
+selection_fg = "#606060"
 
 ansi = [
   "#000000",
@@ -20,9 +22,9 @@ ansi = [
   "#cc00ff",
   "#00ffff",
   "#e0e0e0"
-  ]
+]
 brights = [
-  "#808080",
+  "#606060",
   "#ff0000",
   "#33ff00",
   "#ff0099",
@@ -30,7 +32,7 @@ brights = [
   "#cc00ff",
   "#00ffff",
   "#ffffff"
-  ]
+]
 
 [colors.indexed]
 16 = "#ff9900"

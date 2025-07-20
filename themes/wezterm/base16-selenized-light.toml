@@ -1,5 +1,7 @@
-# Base16 selenized-light - wezterm color config
-# Scheme by Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# base16 selenized-light
+# Scheme author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#fbf3db"
 foreground = "#53676d"
@@ -9,7 +11,7 @@ cursor_border = "#53676d"
 cursor_fg = "#fbf3db"
 
 selection_bg = "#53676d"
-selection_fg = "#fbf3db"
+selection_fg = "#d5cdb6"
 
 ansi = [
   "#fbf3db",
@@ -20,9 +22,9 @@ ansi = [
   "#825dc0",
   "#00978a",
   "#3a4d53"
-  ]
+]
 brights = [
-  "#909995",
+  "#d5cdb6",
   "#cc1729",
   "#428b00",
   "#a78300",
@@ -30,7 +32,7 @@ brights = [
   "#825dc0",
   "#00978a",
   "#3a4d53"
-  ]
+]
 
 [colors.indexed]
 16 = "#bc5819"

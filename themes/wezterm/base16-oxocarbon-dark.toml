@@ -1,5 +1,7 @@
-# Base16 Oxocarbon Dark - wezterm color config
-# Scheme by shaunsingh/IBM
+# base16 Oxocarbon Dark
+# Scheme author: shaunsingh/IBM
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#161616"
 foreground = "#f2f4f8"
@@ -9,7 +11,7 @@ cursor_border = "#f2f4f8"
 cursor_fg = "#161616"
 
 selection_bg = "#f2f4f8"
-selection_fg = "#161616"
+selection_fg = "#393939"
 
 ansi = [
   "#161616",
@@ -20,9 +22,9 @@ ansi = [
   "#be95ff",
   "#ff7eb6",
   "#ffffff"
-  ]
+]
 brights = [
-  "#525252",
+  "#393939",
   "#3ddbd9",
   "#33b1ff",
   "#ee5396",
@@ -30,7 +32,7 @@ brights = [
   "#be95ff",
   "#ff7eb6",
   "#08bdba"
-  ]
+]
 
 [colors.indexed]
 16 = "#78a9ff"

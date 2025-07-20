@@ -1,5 +1,7 @@
-# Base16 Material Darker - wezterm color config
-# Scheme by Nate Peterson
+# base16 Material Darker
+# Scheme author: Nate Peterson
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#212121"
 foreground = "#eeffff"
@@ -9,7 +11,7 @@ cursor_border = "#eeffff"
 cursor_fg = "#212121"
 
 selection_bg = "#eeffff"
-selection_fg = "#212121"
+selection_fg = "#353535"
 
 ansi = [
   "#212121",
@@ -20,9 +22,9 @@ ansi = [
   "#c792ea",
   "#89ddff",
   "#eeffff"
-  ]
+]
 brights = [
-  "#4a4a4a",
+  "#353535",
   "#f07178",
   "#c3e88d",
   "#ffcb6b",
@@ -30,7 +32,7 @@ brights = [
   "#c792ea",
   "#89ddff",
   "#ffffff"
-  ]
+]
 
 [colors.indexed]
 16 = "#f78c6c"

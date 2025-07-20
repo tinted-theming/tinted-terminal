@@ -1,5 +1,7 @@
-# Base16 Humanoid light - wezterm color config
-# Scheme by Thomas (tasmo) Friese
+# base16 Humanoid light
+# Scheme author: Thomas (tasmo) Friese
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#f8f8f2"
 foreground = "#232629"
@@ -9,7 +11,7 @@ cursor_border = "#232629"
 cursor_fg = "#f8f8f2"
 
 selection_bg = "#232629"
-selection_fg = "#f8f8f2"
+selection_fg = "#deded8"
 
 ansi = [
   "#f8f8f2",
@@ -20,9 +22,9 @@ ansi = [
   "#700f98",
   "#008e8e",
   "#2f3337"
-  ]
+]
 brights = [
-  "#c0c0bd",
+  "#deded8",
   "#b0151a",
   "#388e3c",
   "#ffb627",
@@ -30,7 +32,7 @@ brights = [
   "#700f98",
   "#008e8e",
   "#070708"
-  ]
+]
 
 [colors.indexed]
 16 = "#ff3d00"

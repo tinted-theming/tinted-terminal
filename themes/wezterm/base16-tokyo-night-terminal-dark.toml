@@ -1,5 +1,7 @@
-# Base16 Tokyo Night Terminal Dark - wezterm color config
-# Scheme by Michaël Ball
+# base16 Tokyo Night Terminal Dark
+# Scheme author: Michaël Ball
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#16161e"
 foreground = "#787c99"
@@ -9,7 +11,7 @@ cursor_border = "#787c99"
 cursor_fg = "#16161e"
 
 selection_bg = "#787c99"
-selection_fg = "#16161e"
+selection_fg = "#2f3549"
 
 ansi = [
   "#16161e",
@@ -20,9 +22,9 @@ ansi = [
   "#bb9af7",
   "#7dcfff",
   "#cbccd1"
-  ]
+]
 brights = [
-  "#444b6a",
+  "#2f3549",
   "#f7768e",
   "#41a6b5",
   "#e0af68",
@@ -30,7 +32,7 @@ brights = [
   "#bb9af7",
   "#7dcfff",
   "#d5d6db"
-  ]
+]
 
 [colors.indexed]
 16 = "#ff9e64"

@@ -1,5 +1,7 @@
-# Base16 Atelier Forest - wezterm color config
-# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# base16 Atelier Forest
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#1b1918"
 foreground = "#a8a19f"
@@ -9,7 +11,7 @@ cursor_border = "#a8a19f"
 cursor_fg = "#1b1918"
 
 selection_bg = "#a8a19f"
-selection_fg = "#1b1918"
+selection_fg = "#68615e"
 
 ansi = [
   "#1b1918",
@@ -20,9 +22,9 @@ ansi = [
   "#6666ea",
   "#3d97b8",
   "#e6e2e0"
-  ]
+]
 brights = [
-  "#766e6b",
+  "#68615e",
   "#f22c40",
   "#7b9726",
   "#c38418",
@@ -30,7 +32,7 @@ brights = [
   "#6666ea",
   "#3d97b8",
   "#f1efee"
-  ]
+]
 
 [colors.indexed]
 16 = "#df5320"

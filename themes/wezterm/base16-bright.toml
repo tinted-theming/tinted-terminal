@@ -1,5 +1,7 @@
-# Base16 Bright - wezterm color config
-# Scheme by Chris Kempson (http://chriskempson.com)
+# base16 Bright
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#000000"
 foreground = "#e0e0e0"
@@ -9,7 +11,7 @@ cursor_border = "#e0e0e0"
 cursor_fg = "#000000"
 
 selection_bg = "#e0e0e0"
-selection_fg = "#000000"
+selection_fg = "#505050"
 
 ansi = [
   "#000000",
@@ -20,9 +22,9 @@ ansi = [
   "#d381c3",
   "#76c7b7",
   "#f5f5f5"
-  ]
+]
 brights = [
-  "#b0b0b0",
+  "#505050",
   "#fb0120",
   "#a1c659",
   "#fda331",
@@ -30,7 +32,7 @@ brights = [
   "#d381c3",
   "#76c7b7",
   "#ffffff"
-  ]
+]
 
 [colors.indexed]
 16 = "#fc6d24"

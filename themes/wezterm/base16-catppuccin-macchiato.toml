@@ -1,5 +1,7 @@
-# Base16 Catppuccin Macchiato - wezterm color config
-# Scheme by https://github.com/catppuccin/catppuccin
+# base16 Catppuccin Macchiato
+# Scheme author: https://github.com/catppuccin/catppuccin
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#24273a"
 foreground = "#cad3f5"
@@ -9,7 +11,7 @@ cursor_border = "#cad3f5"
 cursor_fg = "#24273a"
 
 selection_bg = "#cad3f5"
-selection_fg = "#24273a"
+selection_fg = "#363a4f"
 
 ansi = [
   "#24273a",
@@ -20,9 +22,9 @@ ansi = [
   "#c6a0f6",
   "#8bd5ca",
   "#f4dbd6"
-  ]
+]
 brights = [
-  "#494d64",
+  "#363a4f",
   "#ed8796",
   "#a6da95",
   "#eed49f",
@@ -30,7 +32,7 @@ brights = [
   "#c6a0f6",
   "#8bd5ca",
   "#b7bdf8"
-  ]
+]
 
 [colors.indexed]
 16 = "#f5a97f"

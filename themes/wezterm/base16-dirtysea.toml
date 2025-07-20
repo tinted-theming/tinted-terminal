@@ -1,5 +1,7 @@
-# Base16 dirtysea - wezterm color config
-# Scheme by Kahlil (Kal) Hodgson
+# base16 dirtysea
+# Scheme author: Kahlil (Kal) Hodgson
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#e0e0e0"
 foreground = "#000000"
@@ -9,7 +11,7 @@ cursor_border = "#000000"
 cursor_fg = "#e0e0e0"
 
 selection_bg = "#000000"
-selection_fg = "#e0e0e0"
+selection_fg = "#d0d0d0"
 
 ansi = [
   "#e0e0e0",
@@ -20,9 +22,9 @@ ansi = [
   "#000090",
   "#755b00",
   "#f8f8f8"
-  ]
+]
 brights = [
-  "#707070",
+  "#d0d0d0",
   "#840000",
   "#730073",
   "#755b00",
@@ -30,7 +32,7 @@ brights = [
   "#000090",
   "#755b00",
   "#c4d9c4"
-  ]
+]
 
 [colors.indexed]
 16 = "#006565"

@@ -1,5 +1,7 @@
-# Base16 SAGA - wezterm color config
-# Scheme by https://github.com/SAGAtheme/SAGA
+# base16 SAGA
+# Scheme author: https://github.com/SAGAtheme/SAGA
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#05080a"
 foreground = "#dce2f7"
@@ -9,7 +11,7 @@ cursor_border = "#dce2f7"
 cursor_fg = "#05080a"
 
 selection_bg = "#dce2f7"
-selection_fg = "#05080a"
+selection_fg = "#0f181e"
 
 ansi = [
   "#05080a",
@@ -20,9 +22,9 @@ ansi = [
   "#dcc3f9",
   "#c5edc1",
   "#f8eae7"
-  ]
+]
 brights = [
-  "#141f27",
+  "#0f181e",
   "#ffd4e9",
   "#f7ddff",
   "#fbebc8",
@@ -30,7 +32,7 @@ brights = [
   "#dcc3f9",
   "#c5edc1",
   "#ccd3fe"
-  ]
+]
 
 [colors.indexed]
 16 = "#fbcbae"

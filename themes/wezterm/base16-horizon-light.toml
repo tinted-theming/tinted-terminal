@@ -1,5 +1,7 @@
-# Base16 Horizon Light - wezterm color config
-# Scheme by Michaël Ball (http://github.com/michael-ball/)
+# base16 Horizon Light
+# Scheme author: Michaël Ball (http://github.com/michael-ball/)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#fdf0ed"
 foreground = "#403c3d"
@@ -9,7 +11,7 @@ cursor_border = "#403c3d"
 cursor_fg = "#fdf0ed"
 
 selection_bg = "#403c3d"
-selection_fg = "#fdf0ed"
+selection_fg = "#f9cbbe"
 
 ansi = [
   "#fdf0ed",
@@ -20,9 +22,9 @@ ansi = [
   "#1d8991",
   "#dc3318",
   "#302c2d"
-  ]
+]
 brights = [
-  "#bdb3b1",
+  "#f9cbbe",
   "#f7939b",
   "#94e1b0",
   "#fbe0d9",
@@ -30,7 +32,7 @@ brights = [
   "#1d8991",
   "#dc3318",
   "#201c1d"
-  ]
+]
 
 [colors.indexed]
 16 = "#f6661e"

@@ -1,5 +1,7 @@
-# Base16 Default Dark - wezterm color config
-# Scheme by Chris Kempson (http://chriskempson.com)
+# base16 Default Dark
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#181818"
 foreground = "#d8d8d8"
@@ -9,7 +11,7 @@ cursor_border = "#d8d8d8"
 cursor_fg = "#181818"
 
 selection_bg = "#d8d8d8"
-selection_fg = "#181818"
+selection_fg = "#383838"
 
 ansi = [
   "#181818",
@@ -20,9 +22,9 @@ ansi = [
   "#ba8baf",
   "#86c1b9",
   "#e8e8e8"
-  ]
+]
 brights = [
-  "#585858",
+  "#383838",
   "#ab4642",
   "#a1b56c",
   "#f7ca88",
@@ -30,7 +32,7 @@ brights = [
   "#ba8baf",
   "#86c1b9",
   "#f8f8f8"
-  ]
+]
 
 [colors.indexed]
 16 = "#dc9656"

@@ -1,5 +1,7 @@
-# Base16 Aztec - wezterm color config
-# Scheme by TheNeverMan (github.com/TheNeverMan)
+# base16 Aztec
+# Scheme author: TheNeverMan (github.com/TheNeverMan)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#101600"
 foreground = "#ffda51"
@@ -9,7 +11,7 @@ cursor_border = "#ffda51"
 cursor_fg = "#101600"
 
 selection_bg = "#ffda51"
-selection_fg = "#101600"
+selection_fg = "#242604"
 
 ansi = [
   "#101600",
@@ -20,9 +22,9 @@ ansi = [
   "#883e9f",
   "#3d94a5",
   "#ffe178"
-  ]
+]
 brights = [
-  "#2e2e05",
+  "#242604",
   "#ee2e00",
   "#63d932",
   "#eebb00",
@@ -30,7 +32,7 @@ brights = [
   "#883e9f",
   "#3d94a5",
   "#ffeba0"
-  ]
+]
 
 [colors.indexed]
 16 = "#ee8800"

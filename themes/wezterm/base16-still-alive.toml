@@ -1,5 +1,7 @@
-# Base16 Still Alive - wezterm color config
-# Scheme by Derrick McKee (derrick.mckee@gmail.com)
+# base16 Still Alive
+# Scheme author: Derrick McKee (derrick.mckee@gmail.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#f0f0f0"
 foreground = "#d80000"
@@ -9,7 +11,7 @@ cursor_border = "#d80000"
 cursor_fg = "#f0f0f0"
 
 selection_bg = "#d80000"
-selection_fg = "#f0f0f0"
+selection_fg = "#fff018"
 
 ansi = [
   "#f0f0f0",
@@ -20,9 +22,9 @@ ansi = [
   "#900000",
   "#2c3c57",
   "#489000"
-  ]
+]
 brights = [
-  "#f01818",
+  "#fff018",
   "#487830",
   "#5c5c6a",
   "#426395",
@@ -30,7 +32,7 @@ brights = [
   "#900000",
   "#2c3c57",
   "#30a860"
-  ]
+]
 
 [colors.indexed]
 16 = "#183048"

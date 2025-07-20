@@ -1,5 +1,7 @@
-# Base16 Blue Forest - wezterm color config
-# Scheme by alonsodomin (https://github.com/alonsodomin)
+# base16 Blue Forest
+# Scheme author: alonsodomin (https://github.com/alonsodomin)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#141f2e"
 foreground = "#ffcc33"
@@ -9,7 +11,7 @@ cursor_border = "#ffcc33"
 cursor_fg = "#141f2e"
 
 selection_bg = "#ffcc33"
-selection_fg = "#141f2e"
+selection_fg = "#273e5c"
 
 ansi = [
   "#141f2e",
@@ -20,9 +22,9 @@ ansi = [
   "#0099ff",
   "#80ff80",
   "#91ccff"
-  ]
+]
 brights = [
-  "#a0ffa0",
+  "#273e5c",
   "#fffab1",
   "#80ff80",
   "#91ccff",
@@ -30,7 +32,7 @@ brights = [
   "#0099ff",
   "#80ff80",
   "#375780"
-  ]
+]
 
 [colors.indexed]
 16 = "#ff8080"

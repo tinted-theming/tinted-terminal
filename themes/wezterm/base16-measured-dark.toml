@@ -1,5 +1,7 @@
-# Base16 Measured Dark - wezterm color config
-# Scheme by Measured (https://measured.co)
+# base16 Measured Dark
+# Scheme author: Measured (https://measured.co)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#00211f"
 foreground = "#dcdcdc"
@@ -9,7 +11,7 @@ cursor_border = "#dcdcdc"
 cursor_fg = "#00211f"
 
 selection_bg = "#dcdcdc"
-selection_fg = "#00211f"
+selection_fg = "#005453"
 
 ansi = [
   "#00211f",
@@ -20,9 +22,9 @@ ansi = [
   "#b39be0",
   "#62c0be",
   "#efefef"
-  ]
+]
 brights = [
-  "#ababab",
+  "#005453",
   "#ce7e8e",
   "#56c16f",
   "#bfac4e",
@@ -30,7 +32,7 @@ brights = [
   "#b39be0",
   "#62c0be",
   "#f5f5f5"
-  ]
+]
 
 [colors.indexed]
 16 = "#dca37c"

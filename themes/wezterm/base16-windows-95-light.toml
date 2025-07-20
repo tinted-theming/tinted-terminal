@@ -1,5 +1,7 @@
-# Base16 Windows 95 Light - wezterm color config
-# Scheme by Fergus Collins (https://github.com/ferguscollins)
+# base16 Windows 95 Light
+# Scheme author: Fergus Collins (https://github.com/ferguscollins)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#fcfcfc"
 foreground = "#545454"
@@ -9,7 +11,7 @@ cursor_border = "#545454"
 cursor_fg = "#fcfcfc"
 
 selection_bg = "#545454"
-selection_fg = "#fcfcfc"
+selection_fg = "#c4c4c4"
 
 ansi = [
   "#fcfcfc",
@@ -20,9 +22,9 @@ ansi = [
   "#a800a8",
   "#00a8a8",
   "#2a2a2a"
-  ]
+]
 brights = [
-  "#a8a8a8",
+  "#c4c4c4",
   "#a80000",
   "#00a800",
   "#a85400",
@@ -30,7 +32,7 @@ brights = [
   "#a800a8",
   "#00a8a8",
   "#000000"
-  ]
+]
 
 [colors.indexed]
 16 = "#fcfc54"

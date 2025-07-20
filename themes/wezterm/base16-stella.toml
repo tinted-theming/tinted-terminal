@@ -1,5 +1,7 @@
-# Base16 Stella - wezterm color config
-# Scheme by Shrimpram
+# base16 Stella
+# Scheme author: Shrimpram
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#2b213c"
 foreground = "#998bad"
@@ -9,7 +11,7 @@ cursor_border = "#998bad"
 cursor_fg = "#2b213c"
 
 selection_bg = "#998bad"
-selection_fg = "#2b213c"
+selection_fg = "#4d4160"
 
 ansi = [
   "#2b213c",
@@ -20,9 +22,9 @@ ansi = [
   "#c594ff",
   "#9bc7bf",
   "#b4a5c8"
-  ]
+]
 brights = [
-  "#655978",
+  "#4d4160",
   "#c79987",
   "#acc79b",
   "#c7c691",
@@ -30,7 +32,7 @@ brights = [
   "#c594ff",
   "#9bc7bf",
   "#ebdcff"
-  ]
+]
 
 [colors.indexed]
 16 = "#8865c6"

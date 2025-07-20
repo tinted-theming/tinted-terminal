@@ -1,5 +1,7 @@
-# Base16 Vesper - wezterm color config
-# Scheme by FormalSnake (https://github.com/formalsnake)
+# base16 Vesper
+# Scheme author: FormalSnake (https://github.com/formalsnake)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#101010"
 foreground = "#b7b7b7"
@@ -9,7 +11,7 @@ cursor_border = "#b7b7b7"
 cursor_fg = "#101010"
 
 selection_bg = "#b7b7b7"
-selection_fg = "#101010"
+selection_fg = "#222222"
 
 ansi = [
   "#101010",
@@ -20,9 +22,9 @@ ansi = [
   "#d69094",
   "#60a592",
   "#c1c1c1"
-  ]
+]
 brights = [
-  "#333333",
+  "#222222",
   "#de6e6e",
   "#5f8787",
   "#ffc799",
@@ -30,7 +32,7 @@ brights = [
   "#d69094",
   "#60a592",
   "#d5d5d5"
-  ]
+]
 
 [colors.indexed]
 16 = "#dab083"

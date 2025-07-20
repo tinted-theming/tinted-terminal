@@ -1,5 +1,7 @@
-# Base16 OceanicNext - wezterm color config
-# Scheme by https://github.com/voronianski/oceanic-next-color-scheme
+# base16 OceanicNext
+# Scheme author: https://github.com/voronianski/oceanic-next-color-scheme
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#1b2b34"
 foreground = "#c0c5ce"
@@ -9,7 +11,7 @@ cursor_border = "#c0c5ce"
 cursor_fg = "#1b2b34"
 
 selection_bg = "#c0c5ce"
-selection_fg = "#1b2b34"
+selection_fg = "#4f5b66"
 
 ansi = [
   "#1b2b34",
@@ -20,9 +22,9 @@ ansi = [
   "#c594c5",
   "#5fb3b3",
   "#cdd3de"
-  ]
+]
 brights = [
-  "#65737e",
+  "#4f5b66",
   "#ec5f67",
   "#99c794",
   "#fac863",
@@ -30,7 +32,7 @@ brights = [
   "#c594c5",
   "#5fb3b3",
   "#d8dee9"
-  ]
+]
 
 [colors.indexed]
 16 = "#f99157"

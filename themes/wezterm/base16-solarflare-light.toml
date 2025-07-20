@@ -1,5 +1,7 @@
-# Base16 Solar Flare Light - wezterm color config
-# Scheme by Chuck Harmston (https://chuck.harmston.ch)
+# base16 Solar Flare Light
+# Scheme author: Chuck Harmston (https://chuck.harmston.ch)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#f5f7fa"
 foreground = "#586875"
@@ -9,7 +11,7 @@ cursor_border = "#586875"
 cursor_fg = "#f5f7fa"
 
 selection_bg = "#586875"
-selection_fg = "#f5f7fa"
+selection_fg = "#a6afb8"
 
 ansi = [
   "#f5f7fa",
@@ -20,9 +22,9 @@ ansi = [
   "#a363d5",
   "#52cbb0",
   "#222e38"
-  ]
+]
 brights = [
-  "#85939e",
+  "#a6afb8",
   "#ef5253",
   "#7cc844",
   "#e4b51c",
@@ -30,7 +32,7 @@ brights = [
   "#a363d5",
   "#52cbb0",
   "#18262f"
-  ]
+]
 
 [colors.indexed]
 16 = "#e66b2b"

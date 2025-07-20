@@ -1,5 +1,7 @@
-# Base16 Zenbones - wezterm color config
-# Scheme by mcchrish
+# base16 Zenbones
+# Scheme author: mcchrish
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#191919"
 foreground = "#b279a7"
@@ -9,7 +11,7 @@ cursor_border = "#b279a7"
 cursor_fg = "#191919"
 
 selection_bg = "#b279a7"
-selection_fg = "#191919"
+selection_fg = "#819b69"
 
 ansi = [
   "#191919",
@@ -20,9 +22,9 @@ ansi = [
   "#65b8c1",
   "#61abda",
   "#66a5ad"
-  ]
+]
 brights = [
-  "#b77e64",
+  "#819b69",
   "#3d3839",
   "#d68c67",
   "#8bae68",
@@ -30,7 +32,7 @@ brights = [
   "#65b8c1",
   "#61abda",
   "#bbbbbb"
-  ]
+]
 
 [colors.indexed]
 16 = "#e8838f"

@@ -1,5 +1,7 @@
-# Base16 Eva - wezterm color config
-# Scheme by kjakapat (https://github.com/kjakapat)
+# base16 Eva
+# Scheme author: kjakapat (https://github.com/kjakapat)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#2a3b4d"
 foreground = "#9fa2a6"
@@ -9,7 +11,7 @@ cursor_border = "#9fa2a6"
 cursor_fg = "#2a3b4d"
 
 selection_bg = "#9fa2a6"
-selection_fg = "#2a3b4d"
+selection_fg = "#4b6988"
 
 ansi = [
   "#2a3b4d",
@@ -20,9 +22,9 @@ ansi = [
   "#9c6cd3",
   "#4b8f77",
   "#d6d7d9"
-  ]
+]
 brights = [
-  "#55799c",
+  "#4b6988",
   "#c4676c",
   "#66ff66",
   "#ffff66",
@@ -30,7 +32,7 @@ brights = [
   "#9c6cd3",
   "#4b8f77",
   "#ffffff"
-  ]
+]
 
 [colors.indexed]
 16 = "#ff9966"

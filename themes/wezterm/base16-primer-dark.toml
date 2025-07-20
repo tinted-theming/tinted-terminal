@@ -1,5 +1,7 @@
-# Base16 Primer Dark - wezterm color config
-# Scheme by Jimmy Lin
+# base16 Primer Dark
+# Scheme author: Jimmy Lin
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#010409"
 foreground = "#b1bac4"
@@ -9,7 +11,7 @@ cursor_border = "#b1bac4"
 cursor_fg = "#010409"
 
 selection_bg = "#b1bac4"
-selection_fg = "#010409"
+selection_fg = "#30363d"
 
 ansi = [
   "#010409",
@@ -20,9 +22,9 @@ ansi = [
   "#f778ba",
   "#a5d6ff",
   "#c9d1d9"
-  ]
+]
 brights = [
-  "#484f58",
+  "#30363d",
   "#ff7b72",
   "#3fb950",
   "#d29922",
@@ -30,7 +32,7 @@ brights = [
   "#f778ba",
   "#a5d6ff",
   "#f0f6fc"
-  ]
+]
 
 [colors.indexed]
 16 = "#f0883e"

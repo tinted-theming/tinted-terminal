@@ -1,5 +1,7 @@
-# Base16 Penumbra Dark - wezterm color config
-# Scheme by Zachary Weiss (https://github.com/zacharyweiss)
+# base16 Penumbra Dark
+# Scheme author: Zachary Weiss (https://github.com/zacharyweiss)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#24272b"
 foreground = "#bebebe"
@@ -9,7 +11,7 @@ cursor_border = "#bebebe"
 cursor_fg = "#24272b"
 
 selection_bg = "#bebebe"
-selection_fg = "#24272b"
+selection_fg = "#3e4044"
 
 ansi = [
   "#24272b",
@@ -20,9 +22,9 @@ ansi = [
   "#9481cc",
   "#00a2af",
   "#fff7ed"
-  ]
+]
 brights = [
-  "#636363",
+  "#3e4044",
   "#ca736c",
   "#47a477",
   "#8d9741",
@@ -30,7 +32,7 @@ brights = [
   "#9481cc",
   "#00a2af",
   "#fffdfb"
-  ]
+]
 
 [colors.indexed]
 16 = "#ba823a"

@@ -1,5 +1,7 @@
-# Base16 Precious Light White - wezterm color config
-# Scheme by 4lex4 &lt;4lex49@zoho.com&gt;
+# base16 Precious Light White
+# Scheme author: 4lex4 &lt;4lex49@zoho.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#ffffff"
 foreground = "#555555"
@@ -9,7 +11,7 @@ cursor_border = "#555555"
 cursor_fg = "#ffffff"
 
 selection_bg = "#555555"
-selection_fg = "#ffffff"
+selection_fg = "#dbdbdb"
 
 ansi = [
   "#ffffff",
@@ -20,9 +22,9 @@ ansi = [
   "#7b4ecb",
   "#087767",
   "#555555"
-  ]
+]
 brights = [
-  "#848484",
+  "#dbdbdb",
   "#af4947",
   "#557301",
   "#876500",
@@ -30,7 +32,7 @@ brights = [
   "#7b4ecb",
   "#087767",
   "#555555"
-  ]
+]
 
 [colors.indexed]
 16 = "#a0570d"

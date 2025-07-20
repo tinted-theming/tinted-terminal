@@ -1,5 +1,7 @@
-# Base16 Edge Dark - wezterm color config
-# Scheme by cjayross (https://github.com/cjayross)
+# base16 Edge Dark
+# Scheme author: cjayross (https://github.com/cjayross)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#262729"
 foreground = "#b7bec9"
@@ -9,7 +11,7 @@ cursor_border = "#b7bec9"
 cursor_fg = "#262729"
 
 selection_bg = "#b7bec9"
-selection_fg = "#262729"
+selection_fg = "#b7bec9"
 
 ansi = [
   "#262729",
@@ -20,9 +22,9 @@ ansi = [
   "#d390e7",
   "#5ebaa5",
   "#d390e7"
-  ]
+]
 brights = [
-  "#3e4249",
+  "#b7bec9",
   "#e77171",
   "#a1bf78",
   "#dbb774",
@@ -30,7 +32,7 @@ brights = [
   "#d390e7",
   "#5ebaa5",
   "#3e4249"
-  ]
+]
 
 [colors.indexed]
 16 = "#e77171"

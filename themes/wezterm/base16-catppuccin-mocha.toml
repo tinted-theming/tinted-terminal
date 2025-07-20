@@ -1,5 +1,7 @@
-# Base16 Catppuccin Mocha - wezterm color config
-# Scheme by https://github.com/catppuccin/catppuccin
+# base16 Catppuccin Mocha
+# Scheme author: https://github.com/catppuccin/catppuccin
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#1e1e2e"
 foreground = "#cdd6f4"
@@ -9,7 +11,7 @@ cursor_border = "#cdd6f4"
 cursor_fg = "#1e1e2e"
 
 selection_bg = "#cdd6f4"
-selection_fg = "#1e1e2e"
+selection_fg = "#313244"
 
 ansi = [
   "#1e1e2e",
@@ -20,9 +22,9 @@ ansi = [
   "#cba6f7",
   "#94e2d5",
   "#f5e0dc"
-  ]
+]
 brights = [
-  "#45475a",
+  "#313244",
   "#f38ba8",
   "#a6e3a1",
   "#f9e2af",
@@ -30,7 +32,7 @@ brights = [
   "#cba6f7",
   "#94e2d5",
   "#b4befe"
-  ]
+]
 
 [colors.indexed]
 16 = "#fab387"

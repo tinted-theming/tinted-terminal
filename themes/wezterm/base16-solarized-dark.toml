@@ -1,5 +1,7 @@
-# Base16 Solarized Dark - wezterm color config
-# Scheme by Ethan Schoonover (modified by aramisgithub)
+# base16 Solarized Dark
+# Scheme author: Ethan Schoonover (modified by aramisgithub)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#002b36"
 foreground = "#93a1a1"
@@ -9,7 +11,7 @@ cursor_border = "#93a1a1"
 cursor_fg = "#002b36"
 
 selection_bg = "#93a1a1"
-selection_fg = "#002b36"
+selection_fg = "#586e75"
 
 ansi = [
   "#002b36",
@@ -20,9 +22,9 @@ ansi = [
   "#6c71c4",
   "#2aa198",
   "#eee8d5"
-  ]
+]
 brights = [
-  "#657b83",
+  "#586e75",
   "#dc322f",
   "#859900",
   "#b58900",
@@ -30,7 +32,7 @@ brights = [
   "#6c71c4",
   "#2aa198",
   "#fdf6e3"
-  ]
+]
 
 [colors.indexed]
 16 = "#cb4b16"

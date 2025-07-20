@@ -1,5 +1,7 @@
-# Base16 Atelier Savanna - wezterm color config
-# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# base16 Atelier Savanna
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#171c19"
 foreground = "#87928a"
@@ -9,7 +11,7 @@ cursor_border = "#87928a"
 cursor_fg = "#171c19"
 
 selection_bg = "#87928a"
-selection_fg = "#171c19"
+selection_fg = "#526057"
 
 ansi = [
   "#171c19",
@@ -20,9 +22,9 @@ ansi = [
   "#55859b",
   "#1c9aa0",
   "#dfe7e2"
-  ]
+]
 brights = [
-  "#5f6d64",
+  "#526057",
   "#b16139",
   "#489963",
   "#a07e3b",
@@ -30,7 +32,7 @@ brights = [
   "#55859b",
   "#1c9aa0",
   "#ecf4ee"
-  ]
+]
 
 [colors.indexed]
 16 = "#9f713c"

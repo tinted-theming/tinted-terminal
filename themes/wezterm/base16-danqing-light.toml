@@ -1,5 +1,7 @@
-# Base16 DanQing Light - wezterm color config
-# Scheme by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# base16 DanQing Light
+# Scheme author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#fcfefd"
 foreground = "#5a605d"
@@ -9,7 +11,7 @@ cursor_border = "#5a605d"
 cursor_fg = "#fcfefd"
 
 selection_bg = "#5a605d"
-selection_fg = "#fcfefd"
+selection_fg = "#e0f0ef"
 
 ansi = [
   "#fcfefd",
@@ -20,9 +22,9 @@ ansi = [
   "#cca4e3",
   "#30dff3",
   "#434846"
-  ]
+]
 brights = [
-  "#cad8d2",
+  "#e0f0ef",
   "#f9906f",
   "#8ab361",
   "#f0c239",
@@ -30,7 +32,7 @@ brights = [
   "#cca4e3",
   "#30dff3",
   "#2d302f"
-  ]
+]
 
 [colors.indexed]
 16 = "#b38a61"

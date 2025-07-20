@@ -1,5 +1,7 @@
-# Base16 Kanagawa Dragon - wezterm color config
-# Scheme by Tommaso Laurenzi (https://github.com/rebelot)
+# base16 Kanagawa Dragon
+# Scheme author: Tommaso Laurenzi (https://github.com/rebelot)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#0d0c0c"
 foreground = "#c5c9c5"
@@ -9,7 +11,7 @@ cursor_border = "#c5c9c5"
 cursor_fg = "#0d0c0c"
 
 selection_bg = "#c5c9c5"
-selection_fg = "#0d0c0c"
+selection_fg = "#282727"
 
 ansi = [
   "#0d0c0c",
@@ -20,9 +22,9 @@ ansi = [
   "#8992a7",
   "#8ea4a2",
   "#7a8382"
-  ]
+]
 brights = [
-  "#737c73",
+  "#282727",
   "#c4746e",
   "#87a987",
   "#c4b28a",
@@ -30,7 +32,7 @@ brights = [
   "#8992a7",
   "#8ea4a2",
   "#c5c9c5"
-  ]
+]
 
 [colors.indexed]
 16 = "#b98d7b"

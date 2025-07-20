@@ -1,5 +1,7 @@
-# Base16 Helios - wezterm color config
-# Scheme by Alex Meyer (https://github.com/reyemxela)
+# base16 Helios
+# Scheme author: Alex Meyer (https://github.com/reyemxela)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#1d2021"
 foreground = "#d5d5d5"
@@ -9,7 +11,7 @@ cursor_border = "#d5d5d5"
 cursor_fg = "#1d2021"
 
 selection_bg = "#d5d5d5"
-selection_fg = "#1d2021"
+selection_fg = "#53585b"
 
 ansi = [
   "#1d2021",
@@ -20,9 +22,9 @@ ansi = [
   "#be4264",
   "#1ba595",
   "#dddddd"
-  ]
+]
 brights = [
-  "#6f7579",
+  "#53585b",
   "#d72638",
   "#88b92d",
   "#f19d1a",
@@ -30,7 +32,7 @@ brights = [
   "#be4264",
   "#1ba595",
   "#e5e5e5"
-  ]
+]
 
 [colors.indexed]
 16 = "#eb8413"

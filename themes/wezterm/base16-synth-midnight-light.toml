@@ -1,5 +1,7 @@
-# Base16 Synth Midnight Terminal Light - wezterm color config
-# Scheme by Michaël Ball (http://github.com/michael-ball/)
+# base16 Synth Midnight Terminal Light
+# Scheme author: Michaël Ball (http://github.com/michael-ball/)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#dddfe0"
 foreground = "#28292a"
@@ -9,7 +11,7 @@ cursor_border = "#28292a"
 cursor_fg = "#dddfe0"
 
 selection_bg = "#28292a"
-selection_fg = "#dddfe0"
+selection_fg = "#c1c3c4"
 
 ansi = [
   "#dddfe0",
@@ -20,9 +22,9 @@ ansi = [
   "#ea5ce2",
   "#42fff9",
   "#1a1b1c"
-  ]
+]
 brights = [
-  "#a3a5a6",
+  "#c1c3c4",
   "#b53b50",
   "#06ea61",
   "#c9d364",
@@ -30,7 +32,7 @@ brights = [
   "#ea5ce2",
   "#42fff9",
   "#050608"
-  ]
+]
 
 [colors.indexed]
 16 = "#ea770d"

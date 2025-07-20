@@ -1,5 +1,7 @@
-# Base16 Chicago Day - wezterm color config
-# Scheme by Wendell, Ryan &lt;ryanjwendell@gmail.com&gt;
+# base16 Chicago Day
+# Scheme author: Wendell, Ryan &lt;ryanjwendell@gmail.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#e8f0ea"
 foreground = "#364c40"
@@ -9,7 +11,7 @@ cursor_border = "#364c40"
 cursor_fg = "#e8f0ea"
 
 selection_bg = "#364c40"
-selection_fg = "#e8f0ea"
+selection_fg = "#b9d0c3"
 
 ansi = [
   "#e8f0ea",
@@ -20,9 +22,9 @@ ansi = [
   "#e27ea6",
   "#00a1de",
   "#2a3b32"
-  ]
+]
 brights = [
-  "#8a9a91",
+  "#b9d0c3",
   "#c60c30",
   "#009b3a",
   "#968400",
@@ -30,7 +32,7 @@ brights = [
   "#e27ea6",
   "#00a1de",
   "#1e2a24"
-  ]
+]
 
 [colors.indexed]
 16 = "#f9461c"

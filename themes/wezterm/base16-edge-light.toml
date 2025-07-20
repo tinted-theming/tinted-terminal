@@ -1,5 +1,7 @@
-# Base16 Edge Light - wezterm color config
-# Scheme by cjayross (https://github.com/cjayross)
+# base16 Edge Light
+# Scheme author: cjayross (https://github.com/cjayross)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#fafafa"
 foreground = "#5e646f"
@@ -9,7 +11,7 @@ cursor_border = "#5e646f"
 cursor_fg = "#fafafa"
 
 selection_bg = "#5e646f"
-selection_fg = "#fafafa"
+selection_fg = "#d69822"
 
 ansi = [
   "#fafafa",
@@ -20,9 +22,9 @@ ansi = [
   "#b870ce",
   "#509c93",
   "#b870ce"
-  ]
+]
 brights = [
-  "#5e646f",
+  "#d69822",
   "#db7070",
   "#7c9f4b",
   "#d69822",
@@ -30,7 +32,7 @@ brights = [
   "#b870ce",
   "#509c93",
   "#5e646f"
-  ]
+]
 
 [colors.indexed]
 16 = "#db7070"

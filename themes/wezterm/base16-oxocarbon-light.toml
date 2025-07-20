@@ -1,5 +1,7 @@
-# Base16 Oxocarbon Light - wezterm color config
-# Scheme by shaunsingh/IBM
+# base16 Oxocarbon Light
+# Scheme author: shaunsingh/IBM
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#f2f4f8"
 foreground = "#393939"
@@ -9,7 +11,7 @@ cursor_border = "#393939"
 cursor_fg = "#f2f4f8"
 
 selection_bg = "#393939"
-selection_fg = "#f2f4f8"
+selection_fg = "#525252"
 
 ansi = [
   "#f2f4f8",
@@ -20,9 +22,9 @@ ansi = [
   "#be95ff",
   "#673ab7",
   "#525252"
-  ]
+]
 brights = [
-  "#161616",
+  "#525252",
   "#ff7eb6",
   "#0f62fe",
   "#ff6f00",
@@ -30,7 +32,7 @@ brights = [
   "#be95ff",
   "#673ab7",
   "#08bdba"
-  ]
+]
 
 [colors.indexed]
 16 = "#ee5396"

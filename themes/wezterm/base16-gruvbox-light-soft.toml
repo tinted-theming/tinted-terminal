@@ -1,5 +1,7 @@
-# Base16 Gruvbox light, soft - wezterm color config
-# Scheme by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# base16 Gruvbox light, soft
+# Scheme author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#f2e5bc"
 foreground = "#504945"
@@ -9,7 +11,7 @@ cursor_border = "#504945"
 cursor_fg = "#f2e5bc"
 
 selection_bg = "#504945"
-selection_fg = "#f2e5bc"
+selection_fg = "#d5c4a1"
 
 ansi = [
   "#f2e5bc",
@@ -20,9 +22,9 @@ ansi = [
   "#8f3f71",
   "#427b58",
   "#3c3836"
-  ]
+]
 brights = [
-  "#bdae93",
+  "#d5c4a1",
   "#9d0006",
   "#79740e",
   "#b57614",
@@ -30,7 +32,7 @@ brights = [
   "#8f3f71",
   "#427b58",
   "#282828"
-  ]
+]
 
 [colors.indexed]
 16 = "#af3a03"

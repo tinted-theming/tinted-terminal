@@ -1,5 +1,7 @@
-# Base16 ShadeSmear Light - wezterm color config
-# Scheme by Kyle Giammarco (http://kyle.giammar.co)
+# base16 ShadeSmear Light
+# Scheme author: Kyle Giammarco (http://kyle.giammar.co)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#dbdbdb"
 foreground = "#232323"
@@ -9,7 +11,7 @@ cursor_border = "#232323"
 cursor_fg = "#dbdbdb"
 
 selection_bg = "#232323"
-selection_fg = "#dbdbdb"
+selection_fg = "#c0c0c0"
 
 ansi = [
   "#dbdbdb",
@@ -20,9 +22,9 @@ ansi = [
   "#d7ab54",
   "#c57d42",
   "#1c1c1c"
-  ]
+]
 brights = [
-  "#4e4e4e",
+  "#c0c0c0",
   "#cc5450",
   "#71983b",
   "#307878",
@@ -30,7 +32,7 @@ brights = [
   "#d7ab54",
   "#c57d42",
   "#e4e4e4"
-  ]
+]
 
 [colors.indexed]
 16 = "#a64270"

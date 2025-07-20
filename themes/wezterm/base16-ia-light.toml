@@ -1,5 +1,7 @@
-# Base16 iA Light - wezterm color config
-# Scheme by iA Inc. (modified by aramisgithub)
+# base16 iA Light
+# Scheme author: iA Inc. (modified by aramisgithub)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#f6f6f6"
 foreground = "#181818"
@@ -9,7 +11,7 @@ cursor_border = "#181818"
 cursor_fg = "#f6f6f6"
 
 selection_bg = "#181818"
-selection_fg = "#f6f6f6"
+selection_fg = "#bde5f2"
 
 ansi = [
   "#f6f6f6",
@@ -20,9 +22,9 @@ ansi = [
   "#a94598",
   "#2d6bb1",
   "#e8e8e8"
-  ]
+]
 brights = [
-  "#898989",
+  "#bde5f2",
   "#9c5a02",
   "#38781c",
   "#c48218",
@@ -30,7 +32,7 @@ brights = [
   "#a94598",
   "#2d6bb1",
   "#f8f8f8"
-  ]
+]
 
 [colors.indexed]
 16 = "#c43e18"

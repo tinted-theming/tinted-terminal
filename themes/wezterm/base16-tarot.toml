@@ -1,5 +1,7 @@
-# Base16 tarot - wezterm color config
-# Scheme by ed (https://codeberg.org/ed)
+# base16 tarot
+# Scheme author: ed (https://codeberg.org/ed)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#0e091d"
 foreground = "#aa556f"
@@ -9,7 +11,7 @@ cursor_border = "#aa556f"
 cursor_fg = "#0e091d"
 
 selection_bg = "#aa556f"
-selection_fg = "#0e091d"
+selection_fg = "#4b2054"
 
 ansi = [
   "#0e091d",
@@ -20,9 +22,9 @@ ansi = [
   "#a45782",
   "#8c9785",
   "#c4686d"
-  ]
+]
 brights = [
-  "#74316b",
+  "#4b2054",
   "#c53253",
   "#a68e5a",
   "#ff6565",
@@ -30,7 +32,7 @@ brights = [
   "#a45782",
   "#8c9785",
   "#dc8f7c"
-  ]
+]
 
 [colors.indexed]
 16 = "#ea4d60"

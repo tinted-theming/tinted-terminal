@@ -1,0 +1,43 @@
+# base24 Ayu Light
+# Scheme author: FredHappyface (https://github.com/fredHappyface)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
+[colors]
+background = "#fafafa"
+foreground = "#cbcbcb"
+
+cursor_bg = "#000000"
+cursor_border = "#cbcbcb"
+cursor_fg = "#ffffff"
+
+selection_bg = "#cbcbcb"
+selection_fg = "#323232"
+
+ansi = [
+  "#fafafa",
+  "#ff3333",
+  "#86b300",
+  "#73d8ff",
+  "#41a6d9",
+  "#f07178",
+  "#4dbf99",
+  "#ffffff"
+]
+brights = [
+  "#323232",
+  "#ff6565",
+  "#b8e532",
+  "#ffc94a",
+  "#73d8ff",
+  "#ffa3aa",
+  "#7ff1cb",
+  "#ffffff"
+]
+
+[colors.indexed]
+16 = "#f29718"
+17 = "#7f1919"
+18 = "#000000"
+19 = "#323232"
+20 = "#989898"
+21 = "#cbcbcb"

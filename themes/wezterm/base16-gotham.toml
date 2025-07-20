@@ -1,5 +1,7 @@
-# Base16 Gotham - wezterm color config
-# Scheme by Andrea Leopardi (arranged by Brett Jones)
+# base16 Gotham
+# Scheme author: Andrea Leopardi (arranged by Brett Jones)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#0c1014"
 foreground = "#599cab"
@@ -9,7 +11,7 @@ cursor_border = "#599cab"
 cursor_fg = "#0c1014"
 
 selection_bg = "#599cab"
-selection_fg = "#0c1014"
+selection_fg = "#091f2e"
 
 ansi = [
   "#0c1014",
@@ -20,9 +22,9 @@ ansi = [
   "#888ca6",
   "#2aa889",
   "#99d1ce"
-  ]
+]
 brights = [
-  "#0a3749",
+  "#091f2e",
   "#c23127",
   "#33859e",
   "#edb443",
@@ -30,7 +32,7 @@ brights = [
   "#888ca6",
   "#2aa889",
   "#d3ebe9"
-  ]
+]
 
 [colors.indexed]
 16 = "#d26937"

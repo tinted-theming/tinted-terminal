@@ -1,5 +1,7 @@
-# Base16 Seti UI - wezterm color config
-# Scheme by 
+# base16 Seti UI
+# Scheme author: 
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#151718"
 foreground = "#d6d6d6"
@@ -9,7 +11,7 @@ cursor_border = "#d6d6d6"
 cursor_fg = "#151718"
 
 selection_bg = "#d6d6d6"
-selection_fg = "#151718"
+selection_fg = "#3b758c"
 
 ansi = [
   "#151718",
@@ -20,9 +22,9 @@ ansi = [
   "#a074c4",
   "#55dbbe",
   "#eeeeee"
-  ]
+]
 brights = [
-  "#41535b",
+  "#3b758c",
   "#cd3f45",
   "#9fca56",
   "#e6cd69",
@@ -30,7 +32,7 @@ brights = [
   "#a074c4",
   "#55dbbe",
   "#ffffff"
-  ]
+]
 
 [colors.indexed]
 16 = "#db7b55"

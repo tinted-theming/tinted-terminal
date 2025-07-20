@@ -1,5 +1,7 @@
-# Base16 Atelier Heath Light - wezterm color config
-# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# base16 Atelier Heath Light
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#f7f3f7"
 foreground = "#695d69"
@@ -9,7 +11,7 @@ cursor_border = "#695d69"
 cursor_fg = "#f7f3f7"
 
 selection_bg = "#695d69"
-selection_fg = "#f7f3f7"
+selection_fg = "#ab9bab"
 
 ansi = [
   "#f7f3f7",
@@ -20,9 +22,9 @@ ansi = [
   "#7b59c0",
   "#159393",
   "#292329"
-  ]
+]
 brights = [
-  "#9e8f9e",
+  "#ab9bab",
   "#ca402b",
   "#918b3b",
   "#bb8a35",
@@ -30,7 +32,7 @@ brights = [
   "#7b59c0",
   "#159393",
   "#1b181b"
-  ]
+]
 
 [colors.indexed]
 16 = "#a65926"

@@ -1,5 +1,7 @@
-# Base16 Mexico Light - wezterm color config
-# Scheme by Sheldon Johnson
+# base16 Mexico Light
+# Scheme author: Sheldon Johnson
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#f8f8f8"
 foreground = "#383838"
@@ -9,7 +11,7 @@ cursor_border = "#383838"
 cursor_fg = "#f8f8f8"
 
 selection_bg = "#383838"
-selection_fg = "#f8f8f8"
+selection_fg = "#d8d8d8"
 
 ansi = [
   "#f8f8f8",
@@ -20,9 +22,9 @@ ansi = [
   "#96609e",
   "#4b8093",
   "#282828"
-  ]
+]
 brights = [
-  "#b8b8b8",
+  "#d8d8d8",
   "#ab4642",
   "#538947",
   "#f79a0e",
@@ -30,7 +32,7 @@ brights = [
   "#96609e",
   "#4b8093",
   "#181818"
-  ]
+]
 
 [colors.indexed]
 16 = "#dc9656"

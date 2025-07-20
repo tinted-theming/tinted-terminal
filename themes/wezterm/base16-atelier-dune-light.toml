@@ -1,5 +1,7 @@
-# Base16 Atelier Dune Light - wezterm color config
-# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# base16 Atelier Dune Light
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#fefbec"
 foreground = "#6e6b5e"
@@ -9,7 +11,7 @@ cursor_border = "#6e6b5e"
 cursor_fg = "#fefbec"
 
 selection_bg = "#6e6b5e"
-selection_fg = "#fefbec"
+selection_fg = "#a6a28c"
 
 ansi = [
   "#fefbec",
@@ -20,9 +22,9 @@ ansi = [
   "#b854d4",
   "#1fad83",
   "#292824"
-  ]
+]
 brights = [
-  "#999580",
+  "#a6a28c",
   "#d73737",
   "#60ac39",
   "#ae9513",
@@ -30,7 +32,7 @@ brights = [
   "#b854d4",
   "#1fad83",
   "#20201d"
-  ]
+]
 
 [colors.indexed]
 16 = "#b65611"

@@ -1,5 +1,7 @@
-# Base16 XCode Dusk - wezterm color config
-# Scheme by Elsa Gonsiorowski (https://github.com/gonsie)
+# base16 XCode Dusk
+# Scheme author: Elsa Gonsiorowski (https://github.com/gonsie)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#282b35"
 foreground = "#939599"
@@ -9,7 +11,7 @@ cursor_border = "#939599"
 cursor_fg = "#282b35"
 
 selection_bg = "#939599"
-selection_fg = "#282b35"
+selection_fg = "#53555d"
 
 ansi = [
   "#282b35",
@@ -20,9 +22,9 @@ ansi = [
   "#b21889",
   "#00a0be",
   "#a9aaae"
-  ]
+]
 brights = [
-  "#686a71",
+  "#53555d",
   "#b21889",
   "#df0002",
   "#438288",
@@ -30,7 +32,7 @@ brights = [
   "#b21889",
   "#00a0be",
   "#bebfc2"
-  ]
+]
 
 [colors.indexed]
 16 = "#786dc5"

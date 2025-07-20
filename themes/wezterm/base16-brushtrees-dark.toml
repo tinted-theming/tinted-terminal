@@ -1,5 +1,7 @@
-# Base16 Brush Trees Dark - wezterm color config
-# Scheme by Abraham White &lt;abelincoln.white@gmail.com&gt;
+# base16 Brush Trees Dark
+# Scheme author: Abraham White &lt;abelincoln.white@gmail.com&gt;
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#485867"
 foreground = "#b0c5c8"
@@ -9,7 +11,7 @@ cursor_border = "#b0c5c8"
 cursor_fg = "#485867"
 
 selection_bg = "#b0c5c8"
-selection_fg = "#485867"
+selection_fg = "#6d828e"
 
 ansi = [
   "#485867",
@@ -20,9 +22,9 @@ ansi = [
   "#b386b2",
   "#86b3b3",
   "#c9dbdc"
-  ]
+]
 brights = [
-  "#8299a1",
+  "#6d828e",
   "#b38686",
   "#87b386",
   "#aab386",
@@ -30,7 +32,7 @@ brights = [
   "#b386b2",
   "#86b3b3",
   "#e3efef"
-  ]
+]
 
 [colors.indexed]
 16 = "#d8bba2"

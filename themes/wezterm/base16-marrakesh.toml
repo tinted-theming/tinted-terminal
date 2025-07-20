@@ -1,5 +1,7 @@
-# Base16 Marrakesh - wezterm color config
-# Scheme by Alexandre Gavioli (http://github.com/Alexx2/)
+# base16 Marrakesh
+# Scheme author: Alexandre Gavioli (http://github.com/Alexx2/)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#201602"
 foreground = "#948e48"
@@ -9,7 +11,7 @@ cursor_border = "#948e48"
 cursor_fg = "#201602"
 
 selection_bg = "#948e48"
-selection_fg = "#201602"
+selection_fg = "#5f5b17"
 
 ansi = [
   "#201602",
@@ -20,9 +22,9 @@ ansi = [
   "#8868b3",
   "#75a738",
   "#ccc37a"
-  ]
+]
 brights = [
-  "#6c6823",
+  "#5f5b17",
   "#c35359",
   "#18974e",
   "#a88339",
@@ -30,7 +32,7 @@ brights = [
   "#8868b3",
   "#75a738",
   "#faf0a5"
-  ]
+]
 
 [colors.indexed]
 16 = "#b36144"

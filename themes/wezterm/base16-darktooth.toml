@@ -1,5 +1,7 @@
-# Base16 Darktooth - wezterm color config
-# Scheme by Jason Milkins (https://github.com/jasonm23)
+# base16 Darktooth
+# Scheme author: Jason Milkins (https://github.com/jasonm23)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#1d2021"
 foreground = "#a89984"
@@ -9,7 +11,7 @@ cursor_border = "#a89984"
 cursor_fg = "#1d2021"
 
 selection_bg = "#a89984"
-selection_fg = "#1d2021"
+selection_fg = "#504945"
 
 ansi = [
   "#1d2021",
@@ -20,9 +22,9 @@ ansi = [
   "#8f4673",
   "#8ba59b",
   "#d5c4a1"
-  ]
+]
 brights = [
-  "#665c54",
+  "#504945",
   "#fb543f",
   "#95c085",
   "#fac03b",
@@ -30,7 +32,7 @@ brights = [
   "#8f4673",
   "#8ba59b",
   "#fdf4c1"
-  ]
+]
 
 [colors.indexed]
 16 = "#fe8625"

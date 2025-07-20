@@ -1,5 +1,7 @@
-# Base16 Google Light - wezterm color config
-# Scheme by Seth Wright (http://sethawright.com)
+# base16 Google Light
+# Scheme author: Seth Wright (http://sethawright.com)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#ffffff"
 foreground = "#373b41"
@@ -9,7 +11,7 @@ cursor_border = "#373b41"
 cursor_fg = "#ffffff"
 
 selection_bg = "#373b41"
-selection_fg = "#ffffff"
+selection_fg = "#c5c8c6"
 
 ansi = [
   "#ffffff",
@@ -20,9 +22,9 @@ ansi = [
   "#a36ac7",
   "#3971ed",
   "#282a2e"
-  ]
+]
 brights = [
-  "#b4b7b4",
+  "#c5c8c6",
   "#cc342b",
   "#198844",
   "#fba922",
@@ -30,7 +32,7 @@ brights = [
   "#a36ac7",
   "#3971ed",
   "#1d1f21"
-  ]
+]
 
 [colors.indexed]
 16 = "#f96a38"

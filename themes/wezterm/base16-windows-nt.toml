@@ -1,5 +1,7 @@
-# Base16 Windows NT - wezterm color config
-# Scheme by Fergus Collins (https://github.com/ferguscollins)
+# base16 Windows NT
+# Scheme author: Fergus Collins (https://github.com/ferguscollins)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
 [colors]
 background = "#000000"
 foreground = "#c0c0c0"
@@ -9,7 +11,7 @@ cursor_border = "#c0c0c0"
 cursor_fg = "#000000"
 
 selection_bg = "#c0c0c0"
-selection_fg = "#000000"
+selection_fg = "#555555"
 
 ansi = [
   "#000000",
@@ -20,9 +22,9 @@ ansi = [
   "#ff00ff",
   "#00ffff",
   "#e0e0e0"
-  ]
+]
 brights = [
-  "#808080",
+  "#555555",
   "#ff0000",
   "#00ff00",
   "#ffff00",
@@ -30,7 +32,7 @@ brights = [
   "#ff00ff",
   "#00ffff",
   "#ffffff"
-  ]
+]
 
 [colors.indexed]
 16 = "#808000"
