@@ -20,34 +20,34 @@ EOF
 }
 
 
-ghostty_palette_color_0="#ffffff"
-ghostty_palette_color_1="#c82829"
-ghostty_palette_color_2="#718c00"
-ghostty_palette_color_3="#eab700"
-ghostty_palette_color_4="#4271ae"
-ghostty_palette_color_5="#8959a8"
-ghostty_palette_color_6="#3e999f"
-ghostty_palette_color_7="#373b41"
-ghostty_palette_color_8="#c5c8c6"
-ghostty_palette_color_9="#c82829"
-ghostty_palette_color_10="#718c00"
-ghostty_palette_color_11="#eab700"
-ghostty_palette_color_12="#4271ae"
-ghostty_palette_color_13="#8959a8"
-ghostty_palette_color_14="#3e999f"
-ghostty_palette_color_15="#1d1f21"
-ghostty_palette_color_16="#f5871f"
-ghostty_palette_color_17="#a3685a"
-ghostty_palette_color_18="#e0e0e0"
-ghostty_palette_color_19="#c5c8c6"
-ghostty_palette_color_20="#969896"
-ghostty_palette_color_21="#282a2e"
+ghostty_palette_color_0="#2d353b"
+ghostty_palette_color_1="#e67e80"
+ghostty_palette_color_2="#a7c080"
+ghostty_palette_color_3="#dbbc7f"
+ghostty_palette_color_4="#7fbbb3"
+ghostty_palette_color_5="#d699b6"
+ghostty_palette_color_6="#83c092"
+ghostty_palette_color_7="#859289"
+ghostty_palette_color_8="#3d484d"
+ghostty_palette_color_9="#e67e80"
+ghostty_palette_color_10="#a7c080"
+ghostty_palette_color_11="#dbbc7f"
+ghostty_palette_color_12="#7fbbb3"
+ghostty_palette_color_13="#d699b6"
+ghostty_palette_color_14="#83c092"
+ghostty_palette_color_15="#d3c6aa"
+ghostty_palette_color_16="#e69875"
+ghostty_palette_color_17="#514045"
+ghostty_palette_color_18="#343f44"
+ghostty_palette_color_19="#3d484d"
+ghostty_palette_color_20="#7a8478"
+ghostty_palette_color_21="#9da9a0"
 
 _theme_file() {
 cat <<EOF
 # vim: ft=ghostty
-# Tomorrow theme for Ghostty
-# Scheme Author: Chris Kempson (http://chriskempson.com)
+# Everforest Dark Medium theme for Ghostty
+# Scheme Author: Sainnhe Park (https://github.com/sainnhe)
 # Scheme System: base16
 # Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 

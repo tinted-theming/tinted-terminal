@@ -2,13 +2,13 @@
 Color=255,255,255
 
 [BackgroundIntense]
-Color=142,144,140
+Color=180,183,180
 
 [Color0]
 Color=255,255,255
 
 [Color0Intense]
-Color=142,144,140
+Color=180,183,180
 
 [Color1]
 Color=200,40,41
@@ -47,13 +47,13 @@ Color=62,153,159
 Color=62,153,159
 
 [Color7]
-Color=77,77,76
+Color=55,59,65
 
 [Color7Intense]
 Color=29,31,33
 
 [Foreground]
-Color=77,77,76
+Color=55,59,65
 
 [ForegroundIntense]
 Color=29,31,33
