@@ -1,41 +1,41 @@
 # Rio Terminal base16 color theme (https://github.com/tinted-theming)
-# Color scheme: Ayu Light by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Color scheme: Ayu Light by Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 
 [colors]
-selection-background = '#f8f9fa' # base02
-selection-foreground = '#5c6773' # base05
+selection-background = '#d2d4d8' # base02
+selection-foreground = '#5c6166' # base05
 
-cursor         = '#5c6773' # base05
-tabs           = '#f3f4f5' # base01
-tabs-active    = '#f8f9fa' # base02
+cursor         = '#5c6166' # base05
+tabs           = '#edeff1' # base01
+tabs-active    = '#d2d4d8' # base02
 
-background     = '#fafafa' # base00
-foreground     = '#5c6773' # base05
-black          = '#f3f4f5' # base01
-red            = '#f07178' # base08
+background     = '#f8f9fa' # base00
+foreground     = '#5c6166' # base05
+black          = '#edeff1' # base01
+red            = '#f07171' # base08
 yellow         = '#f2ae49' # base0A
-green          = '#86b300' # base0B
+green          = '#6cbf49' # base0B
 cyan           = '#4cbf99' # base0C
-blue           = '#36a3d9' # base0D
+blue           = '#399ee6' # base0D
 magenta        = '#a37acc' # base0E
-white          = '#242936' # base06
+white          = '#4e5257' # base06
 
-dim-foreground   = '#5c6773' # base05
-dim-black        = '#f3f4f5' # base01
-dim-red          = '#f07178' # base08
+dim-foreground   = '#5c6166' # base05
+dim-black        = '#edeff1' # base01
+dim-red          = '#f07171' # base08
 dim-yellow       = '#f2ae49' # base0A
-dim-green        = '#86b300' # base0B
+dim-green        = '#6cbf49' # base0B
 dim-cyan         = '#4cbf99' # base0C
-dim-blue         = '#36a3d9' # base0D
+dim-blue         = '#399ee6' # base0D
 dim-magenta      = '#a37acc' # base0E
-dim-white        = '#828c99' # base04
+dim-white        = '#8a9199' # base04
 
-light-foreground = '#5c6773' # base05
-light-black      = '#f8f9fa' # base02
-light-red        = '#f07178' # base08
+light-foreground = '#5c6166' # base05
+light-black      = '#d2d4d8' # base02
+light-red        = '#f07171' # base08
 light-yellow     = '#f2ae49' # base0A
-light-green      = '#86b300' # base0B
+light-green      = '#6cbf49' # base0B
 light-cyan       = '#4cbf99' # base0C
-light-blue       = '#36a3d9' # base0D
+light-blue       = '#399ee6' # base0D
 light-magenta    = '#a37acc' # base0E
-light-white      = '#1a1f29' # base07
+light-white      = '#404447' # base07

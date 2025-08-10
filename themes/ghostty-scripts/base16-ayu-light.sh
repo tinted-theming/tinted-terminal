@@ -20,34 +20,34 @@ EOF
 }
 
 
-ghostty_palette_color_0="#fafafa"
-ghostty_palette_color_1="#f07178"
-ghostty_palette_color_2="#86b300"
+ghostty_palette_color_0="#f8f9fa"
+ghostty_palette_color_1="#f07171"
+ghostty_palette_color_2="#6cbf49"
 ghostty_palette_color_3="#f2ae49"
-ghostty_palette_color_4="#36a3d9"
+ghostty_palette_color_4="#399ee6"
 ghostty_palette_color_5="#a37acc"
 ghostty_palette_color_6="#4cbf99"
-ghostty_palette_color_7="#5c6773"
-ghostty_palette_color_8="#f8f9fa"
-ghostty_palette_color_9="#f07178"
-ghostty_palette_color_10="#86b300"
+ghostty_palette_color_7="#5c6166"
+ghostty_palette_color_8="#d2d4d8"
+ghostty_palette_color_9="#f07171"
+ghostty_palette_color_10="#6cbf49"
 ghostty_palette_color_11="#f2ae49"
-ghostty_palette_color_12="#36a3d9"
+ghostty_palette_color_12="#399ee6"
 ghostty_palette_color_13="#a37acc"
 ghostty_palette_color_14="#4cbf99"
-ghostty_palette_color_15="#1a1f29"
+ghostty_palette_color_15="#404447"
 ghostty_palette_color_16="#fa8d3e"
 ghostty_palette_color_17="#e6ba7e"
-ghostty_palette_color_18="#f3f4f5"
-ghostty_palette_color_19="#f8f9fa"
-ghostty_palette_color_20="#828c99"
-ghostty_palette_color_21="#242936"
+ghostty_palette_color_18="#edeff1"
+ghostty_palette_color_19="#d2d4d8"
+ghostty_palette_color_20="#8a9199"
+ghostty_palette_color_21="#4e5257"
 
 _theme_file() {
 cat <<EOF
 # vim: ft=ghostty
 # Ayu Light theme for Ghostty
-# Scheme Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme Author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Scheme System: base16
 # Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 

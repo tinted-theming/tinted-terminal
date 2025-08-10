@@ -1,43 +1,43 @@
 # base16 Ayu Dark
-# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
 
 [colors]
-background = "#0f1419"
+background = "#0b0e14"
 foreground = "#e6e1cf"
 
 cursor_bg = "#e6e1cf"
 cursor_border = "#e6e1cf"
-cursor_fg = "#0f1419"
+cursor_fg = "#0b0e14"
 
 selection_bg = "#e6e1cf"
-selection_fg = "#272d38"
+selection_fg = "#202229"
 
 ansi = [
-  "#0f1419",
+  "#0b0e14",
   "#f07178",
-  "#b8cc52",
+  "#aad94c",
   "#ffb454",
   "#59c2ff",
   "#d2a6ff",
   "#95e6cb",
-  "#e6e1cf"
+  "#ece8db"
 ]
 brights = [
-  "#272d38",
+  "#202229",
   "#f07178",
-  "#b8cc52",
+  "#aad94c",
   "#ffb454",
   "#59c2ff",
   "#d2a6ff",
   "#95e6cb",
-  "#f3f4f5"
+  "#f2f0e7"
 ]
 
 [colors.indexed]
 16 = "#ff8f40"
-17 = "#e6b673"
+17 = "#e6b450"
 18 = "#131721"
-19 = "#272d38"
+19 = "#202229"
 20 = "#bfbdb6"
 21 = "#e6e1cf"

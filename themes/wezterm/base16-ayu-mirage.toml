@@ -1,34 +1,34 @@
 # base16 Ayu Mirage
-# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
 
 [colors]
-background = "#171b24"
+background = "#1f2430"
 foreground = "#cccac2"
 
 cursor_bg = "#cccac2"
 cursor_border = "#cccac2"
-cursor_fg = "#171b24"
+cursor_fg = "#1f2430"
 
 selection_bg = "#cccac2"
-selection_fg = "#242936"
+selection_fg = "#323844"
 
 ansi = [
-  "#171b24",
+  "#1f2430",
   "#f28779",
   "#d5ff80",
   "#ffd173",
-  "#5ccfe6",
+  "#73d0ff",
   "#d4bfff",
   "#95e6cb",
   "#d9d7ce"
 ]
 brights = [
-  "#242936",
+  "#323844",
   "#f28779",
   "#d5ff80",
   "#ffd173",
-  "#5ccfe6",
+  "#73d0ff",
   "#d4bfff",
   "#95e6cb",
   "#f3f4f5"
@@ -36,8 +36,8 @@ brights = [
 
 [colors.indexed]
 16 = "#ffad66"
-17 = "#f29e74"
-18 = "#1f2430"
-19 = "#242936"
-20 = "#8a9199"
+17 = "#f27983"
+18 = "#242936"
+19 = "#323844"
+20 = "#707a8c"
 21 = "#cccac2"

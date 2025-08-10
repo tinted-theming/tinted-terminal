@@ -1,43 +1,43 @@
 # vim: ft=ghostty
 # Ayu Light theme for Ghostty
-# Scheme Author: FredHappyface (https://github.com/fredHappyface)
+# Scheme Author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Scheme System: base24
 # Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
-palette = 0=#fafafa
-palette = 1=#ff3333
-palette = 2=#86b300
-palette = 3=#73d8ff
-palette = 4=#41a6d9
-palette = 5=#f07178
-palette = 6=#4dbf99
-palette = 7=#ffffff
-palette = 8=#323232
-palette = 9=#ff6565
-palette = 10=#b8e532
-palette = 11=#ffc94a
-palette = 12=#73d8ff
-palette = 13=#ffa3aa
-palette = 14=#7ff1cb
-palette = 15=#ffffff
-palette = 16=#f29718
-palette = 17=#7f1919
-palette = 18=#000000
-palette = 19=#323232
-palette = 20=#989898
-palette = 21=#ffffff
+palette = 0=#f8f9fa
+palette = 1=#f07171
+palette = 2=#6cbf49
+palette = 3=#f2ae49
+palette = 4=#399ee6
+palette = 5=#a37acc
+palette = 6=#4cbf99
+palette = 7=#4e5257
+palette = 8=#d2d4d8
+palette = 9=#ff7383
+palette = 10=#86b300
+palette = 11=#ffaa33
+palette = 12=#478acc
+palette = 13=#b595d6
+palette = 14=#55b4d4
+palette = 15=#404447
+palette = 16=#fa8d3e
+palette = 17=#e6ba7e
+palette = 18=#edeff1
+palette = 19=#d2d4d8
+palette = 20=#8a9199
+palette = 21=#4e5257
 
 # Foreground & background colors
-background = #fafafa
-foreground = #cbcbcb
-cursor-color = #cbcbcb
-selection-background = #323232
-selection-foreground = #cbcbcb
+background = #f8f9fa
+foreground = #5c6166
+cursor-color = #5c6166
+selection-background = #d2d4d8
+selection-foreground = #5c6166
 
 # Set `macos-icon = custom-style` in your main configuration file to enable theming of the app icon.
 #
 # Set the ghost color to the lightest foreground:
-macos-icon-ghost-color = #ffffff
+macos-icon-ghost-color = #404447
 # Replace the official icon's blue background with the designated bright blue color:
-macos-icon-screen-color = #73d8ff
+macos-icon-screen-color = #478acc

@@ -2,94 +2,94 @@ Windows Registry Editor Version 5.00
 
 ; Scheme name: Ayu Light
 ; Scheme system: base24
-; Scheme author: FredHappyface (https://github.com/fredHappyface)
+; Scheme author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 ; Template author: Tinted Theming (https://github.com/tinted-theming)
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-ayu-light]
 
 ; Default Foreground
-; base05 #cbcbcb
-"Colour0"="203,203,203"
+; base05 #5c6166
+"Colour0"="92,97,102"
 
 ; Default Bold Foreground  -- equals to non-bold
-; base05 #cbcbcb
-"Colour1"="203,203,203"
+; base05 #5c6166
+"Colour1"="92,97,102"
 
 ; Default Background
-; base00 #fafafa
-"Colour2"="250,250,250"
+; base00 #f8f9fa
+"Colour2"="248,249,250"
 
 ; Default Bold Background  -- equals to non-bold
-; base00 #fafafa
-"Colour3"="250,250,250"
+; base00 #f8f9fa
+"Colour3"="248,249,250"
 
 ; Cursor Text -- equals to default background
-; base00 #fafafa
-"Colour4"="250,250,250"
+; base00 #f8f9fa
+"Colour4"="248,249,250"
 
 ; Cursor Colour -- equals to default foreground
-; base05 #cbcbcb
-"Colour5"="203,203,203"
+; base05 #5c6166
+"Colour5"="92,97,102"
 
 ; ANSI Black
-; base01 #000000
-"Colour6"="0,0,0"
+; base01 #edeff1
+"Colour6"="237,239,241"
 
 ; ANSI Black Bright
-; base02 #323232
-"Colour7"="50,50,50"
+; base02 #d2d4d8
+"Colour7"="210,212,216"
 
 ; ANSI Red
-; base08 #ff3333
-"Colour8"="255,51,51"
+; base08 #f07171
+"Colour8"="240,113,113"
 
 ; ANSI Red Bright
-; base12 #ff6565
-"Colour9"="255,101,101"
+; base12 #ff7383
+"Colour9"="255,115,131"
 
 ; ANSI Green
-; base0B #86b300
-"Colour10"="134,179,0"
+; base0B #6cbf49
+"Colour10"="108,191,73"
 
 ; ANSI Green Bright
-; base14 #b8e532
-"Colour11"="184,229,50"
+; base14 #86b300
+"Colour11"="134,179,0"
 
 ; ANSI Yellow
-; base0A #73d8ff
-"Colour12"="115,216,255"
+; base0A #f2ae49
+"Colour12"="242,174,73"
 
 ; ANSI Yellow Bright
-; base13 #ffc94a
-"Colour13"="255,201,74"
+; base13 #ffaa33
+"Colour13"="255,170,51"
 
 ; ANSI Blue
-; base0D #41a6d9
-"Colour14"="65,166,217"
+; base0D #399ee6
+"Colour14"="57,158,230"
 
 ; ANSI Blue Bright
-; base16 #73d8ff
-"Colour15"="115,216,255"
+; base16 #478acc
+"Colour15"="71,138,204"
 
 ; ANSI Magenta
-; base0E #f07178
-"Colour16"="240,113,120"
+; base0E #a37acc
+"Colour16"="163,122,204"
 
 ; ANSI Magenta Bright
-; base17 #ffa3aa
-"Colour17"="255,163,170"
+; base17 #b595d6
+"Colour17"="181,149,214"
 
 ; ANSI Cyan
-; base0C #4dbf99
-"Colour18"="77,191,153"
+; base0C #4cbf99
+"Colour18"="76,191,153"
 
 ; ANSI Cyan Bright
-; base15 #7ff1cb
-"Colour19"="127,241,203"
+; base15 #55b4d4
+"Colour19"="85,180,212"
 
 ; ANSI White
-; base06 #ffffff
-"Colour20"="255,255,255"
+; base06 #4e5257
+"Colour20"="78,82,87"
 
 ; ANSI White Bright
-; base07 ffffff
-"Colour21"="255,255,255"
+; base07 404447
+"Colour21"="64,68,71"
