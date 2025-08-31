@@ -15,6 +15,7 @@ instructions:
 - [Kitty](#kitty)
 - [PuTTY](#putty)
 - [QTerminal](#qterminal)
+- [st](#st)
 - [Rio](#rio)
 - [Termite](#termite)
 - [xfce4](#xfce4)
@@ -373,7 +374,7 @@ The next time you run `tinty apply`, Ghostty will prompt you for "App Management
 ####  Customize Ghostty's app icon
 
 By default, the theme files assigns `Bright White` and `Bright Blue` for the icon's ghost tint and screen tint,
-respectively. If you'd like to use different colors, this repository provides scripts to generate a theme file with the 
+respectively. If you'd like to use different colors, this repository provides scripts to generate a theme file with the
 icon & screen tints you prefer. They are located in `./themes/ghostty-scripts` and can be used as follows:
 
 ##### Manual
@@ -545,7 +546,7 @@ kitty -o allow_remote_control=yes
    `base16-ayu-dark`
 
 Note: If you don't have the Kitty feature `allow_remote_control`
-enabled, Kitty should be manually restarted after using `tinty apply` to 
+enabled, Kitty should be manually restarted after using `tinty apply` to
 set a new theme for it to take effect.
 
 ### Manual
@@ -685,6 +686,28 @@ Copy the contents of your desired theme into your
 `~/.config/rio/config.toml` configuration file. Make sure to remove or
 comment out any previous theme.
 
+## st
+
+<img src="./assets/st-icon.svg" alt="st icon" width="50"/>
+
+Tinted Theming template for [st terminal emulator].
+
+**Theme directory**: [themes/st/]
+
+### Manual
+
+Patch your local copy of the st terminal using the `patch` or `git apply` command.
+
+```bash
+# Example
+cd st-0.9.3
+patch -p1 < path/to/st-base16-default-dark-0.9.3.diff
+```
+
+### Tinty
+
+No support. As an alternative, use [xresources](https://st.suckless.org/patches/xresources/) patch in combination with [tinted-theming/tinted-xresources](https://github.com/tinted-theming/tinted-xresources).
+
 ## Termite
 
 Tinted Theming template for [Termite terminal emulator].
@@ -806,6 +829,7 @@ terminal template decisions.
 [themes/putty/]: ./themes/putty/
 [themes/qterminal/]: ./themes/qterminal/
 [themes-16/rio/]: ./themes-16/rio/
+[themes/st/]: ./themes/st/
 [themes/termite/]: ./themes/termite/
 [themes/xfce4/]: ./themes/xfce4/
 
@@ -818,6 +842,7 @@ terminal template decisions.
 [PuTTY terminal emulator]: https://www.putty.org/
 [QTerminal terminal emulator]: https://github.com/lxqt/qterminal
 [Rio terminal emulator]: https://github.com/raphamorim/rio
+[st terminal emulator]: https://st.suckless.org/
 [Termite terminal emulator]: https://github.com/thestinger/termite
 [iTerm2 terminal emulator]: https://github.com/gnachman/iTerm2
 [WezTerm terminal emulator]: https://wezterm.org/index.html
