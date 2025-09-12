@@ -118,6 +118,16 @@ rio-base24-16:
   filename: themes-16/rio/{{ scheme-system }}-{{ scheme-slug }}.toml
   supported-systems: [base24]
 
+# st
+# ----------------------------------------------------------------------
+st-base16:
+  filename: themes/st/st-{{ scheme-system }}-{{ scheme-slug }}-0.9.3.diff
+  supported-systems: [base16]
+
+st-base24:
+  filename: themes/st/st-{{ scheme-system }}-{{ scheme-slug }}-0.9.3.diff
+  supported-systems: [base24]
+
 # Termite
 # ----------------------------------------------------------------------
 termite-base16:
