@@ -13,6 +13,7 @@ instructions:
 - [iTerm2](#iterm2)
 - [Kermit](#kermit)
 - [Kitty](#kitty)
+- [Konsole](#konsole)
 - [PuTTY](#putty)
 - [QTerminal](#qterminal)
 - [st](#st)
@@ -562,6 +563,44 @@ Alternatively, you can include the theme conf file directly in
 include /path/to/tinted-terminal/themes/kitty/base16-ayu-dark.conf
 ```
 
+## Konsole
+
+<img src="./assets/konsole-icon.svg" alt="Konsole terminal logo" width="50"/>
+
+Tinted Theming template for [Konsole terminal emulator].
+
+**Theme directory**: [themes/konsole/]
+
+### Tinty
+
+1. Add the following to `~/.config/tinted-theming/tinty/config.toml`:
+
+   ```toml
+   [[items]]
+   path = "https://github.com/tinted-theming/tinted-terminal"
+   name = "tinted-terminal"
+   themes-dir = "themes/konsole"
+   hook = "cp -f %f ~/.local/share/konsole/%n.colorscheme && konsoleprofile ColorScheme=%n"
+   supported-systems = ["base16", "base24"]
+   ```
+
+2. `tinty apply base16-ayu-dark` to change the theme to
+   `base16-ayu-dark`
+
+For more information on Tinty setup or usage, have a look at the [Tinty]
+GitHub page.
+
+### Manual
+
+1. Copy the desired theme file to `~/.local/share/konsole/`:
+
+   ```sh
+   cp themes/konsole/base16-ayu-dark.colorscheme ~/.local/share/konsole/
+   ```
+
+2. In Konsole, go to Settings → Edit Current Profile → Appearance
+3. Select the color scheme from the dropdown
+
 ## PuTTY
 
 <img src="./assets/putty-icon.svg" alt="PuTTY terminal icon" width="50"/>
@@ -826,6 +865,7 @@ terminal template decisions.
 [themes-16/iterm2-scripts/]: ./themes-16/iterm2-scripts/
 [themes-16/kermit/]: ./themes-16/kermit/
 [themes/kitty/]: ./themes/kitty/
+[themes/konsole/]: ./themes/konsole/
 [themes/putty/]: ./themes/putty/
 [themes/qterminal/]: ./themes/qterminal/
 [themes-16/rio/]: ./themes-16/rio/
@@ -839,6 +879,7 @@ terminal template decisions.
 [Ghostty]: https://ghostty.org
 [Kermit terminal emulator]: https://github.com/orhun/kermit
 [Kitty terminal emulator]: https://github.com/kovidgoyal/kitty
+[Konsole terminal emulator]: https://konsole.kde.org/
 [PuTTY terminal emulator]: https://www.putty.org/
 [QTerminal terminal emulator]: https://github.com/lxqt/qterminal
 [Rio terminal emulator]: https://github.com/raphamorim/rio
