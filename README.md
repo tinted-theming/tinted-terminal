@@ -336,41 +336,13 @@ theme = base16-ayu-dark
    name = "tinted-terminal"
    themes-dir = "themes/ghostty"
    # With `theme` set to "tinted-theming", this will be where Ghostty looks for the theme file:
-   hook = "command cp -f %f ~/.config/ghostty/themes/tinted-theming"
+   hook = "command cp -f %f ~/.config/ghostty/themes/tinted-theming" && killall -SIGUSR2 ghostty"
    supported-systems = ["base16", "base24"]
    ```
 
 3. `tinty apply base16-ayu-dark` to change the theme to `base16-ayu-dark`.
 
-> [!IMPORTANT]
-> You will need to trigger `reload_config` in Ghostty for the palette to apply. The default keybinding for this is `Cmd + Shift + ,` for macOS, or `Ctrl + Shift + ,` for Linux/Windows
-
 ### macOS
-
-####  Auto `reload_config`
-
-You can use AppleScript to tell Ghostty to reload the config e.g.:
-
-```applescript
-if application "Ghostty" is running then
-   tell application "Ghostty" to activate
-   delay 0.25
-   tell application "System Events"
-      -- The keymap for `reload_config` in Ghostty. Change this if necessary:
-      keystroke "," using {shift down, command down}
-   end tell
-end if
-```
-
-Store this script somewhere on your machine, then after plugging in the correct keystroke to match the `reload_config` keymap for Ghostty (the above is the default), register a global hook in your Tinty config:
-
-```toml
-hooks = [
-   "osascript -se ~/path/to/ghostty-reload-config.scrpt"
-]
-```
-
-The next time you run `tinty apply`, Ghostty will prompt you for "App Management" permissions. Allow this to allow the hook to work going forward.
 
 ####  Customize Ghostty's app icon
 
