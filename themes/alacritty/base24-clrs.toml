@@ -13,7 +13,7 @@ cursor = '0x9a9b9a'
 
 # Normal colors
 [colors.normal]
-black = '0x000000'
+black = '0xffffff'
 red = '0xf72729'
 green = '0x32895c'
 yellow = '0x156ffe'
@@ -24,7 +24,7 @@ white = '0xb2b2b2'
 
 # Bright colors
 [colors.bright]
-black = '0x545753'
+black = '0x6b6d6a'
 red = '0xfb0416'
 green = '0x2cc631'
 yellow = '0xfcd627'
@@ -55,4 +55,4 @@ color = "0x838482"
 
 [[colors.indexed_colors]]
 index = 21
-color = "0xb2b2b2"
+color = "0x9a9b9a"

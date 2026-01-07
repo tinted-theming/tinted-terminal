@@ -16,9 +16,9 @@ palette = 7=#f0f2f4
 palette = 8=#3b4261
 palette = 9=#f89a9d
 palette = 10=#6fffc1
-palette = 11=#f5ffa1
-palette = 12=#f0313e
-palette = 13=#f58bc8
+palette = 11=#f9e9a1
+palette = 12=#7ae9ff
+palette = 13=#d4b3ff
 palette = 14=#6ce9ff
 palette = 15=#ffffff
 palette = 16=#f7c67f
@@ -40,4 +40,4 @@ selection-foreground = #ebfafa
 # Set the ghost color to the lightest foreground:
 macos-icon-ghost-color = #ffffff
 # Replace the official icon's blue background with the designated bright blue color:
-macos-icon-screen-color = #f0313e
+macos-icon-screen-color = #7ae9ff
