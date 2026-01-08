@@ -5,6 +5,6 @@
 Name=base16-cyberpunk
 ColorForeground=#dcdccc
 ColorBackground=#000000
-ColorCursor=x
+ColorCursor=#dcdccc
 ColorBoldIsBright=FALSE
-ColorPalette=#2b2b2b;#ff0000;#61ce3c;#ffff00;#4c83ff;#ff1493;#93e0e3;#f8f8f8;#383838;#ff0000;#61ce3c;#ffff00;#4c83ff;#ff1493;#93e0e3;#ffffff
+ColorPalette=#000000;#ff0000;#61ce3c;#ffff00;#4c83ff;#ff1493;#93e0e3;#dcdccc;#4f4f4f;#ff0000;#61ce3c;#ffff00;#4c83ff;#ff1493;#93e0e3;#ffffff

@@ -3,9 +3,9 @@
 	"name": "Cyberpunk",
 	"foreground": "#dcdccc",
 	"background": "#000000",
-	"black": "#2b2b2b",
+	"black": "#000000",
 	"blue": "#4c83ff",
-	"brightBlack": "#383838",
+	"brightBlack": "#4f4f4f",
 	"brightBlue": "#4c83ff",
 	"brightCyan": "#93e0e3",
 	"brightGreen": "#61ce3c",
@@ -17,6 +17,6 @@
 	"green": "#61ce3c",
 	"purple": "#ff1493",
 	"red": "#ff0000",
-	"white": "#f8f8f8",
-	"yellow": "#ffa500"
+	"white": "#dcdccc",
+	"yellow": "#ffff00"
 },

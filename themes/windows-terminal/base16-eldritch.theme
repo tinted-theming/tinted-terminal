@@ -3,9 +3,9 @@
 	"name": "Eldritch",
 	"foreground": "#ebfafa",
 	"background": "#212337",
-	"black": "#323449",
+	"black": "#212337",
 	"blue": "#39ddfd",
-	"brightBlack": "#3b4261",
+	"brightBlack": "#7081d0",
 	"brightBlue": "#39ddfd",
 	"brightCyan": "#04d1f9",
 	"brightGreen": "#37f499",
@@ -17,6 +17,6 @@
 	"green": "#37f499",
 	"purple": "#a48cf2",
 	"red": "#f16c75",
-	"white": "#f0f2f4",
-	"yellow": "#f7c67f"
+	"white": "#ebfafa",
+	"yellow": "#f1fc79"
 },

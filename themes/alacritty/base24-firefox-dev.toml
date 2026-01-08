@@ -20,7 +20,7 @@ yellow = '0x006fc0'
 blue = '0x359ddf'
 magenta = '0xd75cff'
 cyan = '0x4b73a2'
-white = '0xdcdcdc'
+white = '0xa5acae'
 
 # Bright colors
 [colors.bright]
@@ -55,4 +55,4 @@ color = "0x6e7d81"
 
 [[colors.indexed_colors]]
 index = 21
-color = "0xa5acae"
+color = "0xdcdcdc"

@@ -8,13 +8,13 @@ Color=23,25,40
 Color=33,35,55
 
 [Color0]
-Color=50,52,73
+Color=33,35,55
 
 [Color0Faint]
 Color=33,35,55
 
 [Color0Intense]
-Color=59,66,97
+Color=112,129,208
 
 [Color1]
 Color=241,108,117
@@ -35,10 +35,10 @@ Color=55,244,153
 Color=111,255,193
 
 [Color3]
-Color=247,198,127
+Color=241,252,121
 
 [Color3Faint]
-Color=247,198,127
+Color=241,252,121
 
 [Color3Intense]
 Color=249,233,161
@@ -71,7 +71,7 @@ Color=4,209,249
 Color=108,233,255
 
 [Color7]
-Color=240,242,244
+Color=235,250,250
 
 [Color7Faint]
 Color=235,250,250
@@ -92,4 +92,3 @@ Color=240,242,244
 Blur=true
 Description=Eldritch
 Opacity=0.95
-

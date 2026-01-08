@@ -5,6 +5,6 @@
 Name=base16-eldritch
 ColorForeground=#ebfafa
 ColorBackground=#212337
-ColorCursor=x
+ColorCursor=#ebfafa
 ColorBoldIsBright=FALSE
-ColorPalette=#323449;#f16c75;#37f499;#f1fc79;#39ddfd;#a48cf2;#04d1f9;#f0f2f4;#3b4261;#f16c75;#37f499;#f1fc79;#39ddfd;#a48cf2;#04d1f9;#ffffff
+ColorPalette=#212337;#f16c75;#37f499;#f1fc79;#39ddfd;#a48cf2;#04d1f9;#ebfafa;#7081d0;#f16c75;#37f499;#f1fc79;#39ddfd;#a48cf2;#04d1f9;#ffffff
