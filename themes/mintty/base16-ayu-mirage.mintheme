@@ -1,0 +1,27 @@
+# Ayu Mirage theme for Mintty
+# Scheme Author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme System: base16
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #171b24
+Red         = #f28779
+Green       = #d5ff80
+Yellow      = #ffd173
+Blue        = #5ccfe6
+Magenta     = #d4bfff
+Cyan        = #95e6cb
+White       = #cccac2
+BoldBlack   = #707a8c
+BoldRed     = #f28779
+BoldGreen   = #d5ff80
+BoldYellow  = #ffd173
+BoldBlue    = #5ccfe6
+BoldMagenta = #d4bfff
+BoldCyan    = #95e6cb
+BoldWhite   = #f3f4f5
+
+# Background & foreground colors
+BackgroundColour = #171b24
+ForegroundColour = #cccac2
+CursorColour     = #cccac2

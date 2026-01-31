@@ -14,6 +14,7 @@ instructions:
 - [Kermit](#kermit)
 - [Kitty](#kitty)
 - [Konsole](#konsole)
+- [Mintty](#mintty)
 - [PuTTY](#putty)
 - [QTerminal](#qterminal)
 - [st](#st)
@@ -573,6 +574,33 @@ GitHub page.
 2. In Konsole, go to Settings → Edit Current Profile → Appearance
 3. Select the color scheme from the dropdown
 
+## Mintty
+
+<img src="./assets/mintty-icon.svg" alt="Mintty terminal logo" width="50"/>
+
+Tinted Theming template for [Mintty terminal emulator].
+
+**Theme directory**: [themes/mintty/]
+
+This project provides `.mintheme` files for configuring Mintty colors
+according to the `base16 system` and `base24 system`.
+
+### Manual
+
+1. Choose your theme from the [Tinted Theming Gallery];
+
+2. Locate the corresponding file in `mintty` directory and download it;
+
+3. Edit you `.minttyrc` file (usually located in your home directory
+   `~/.minttyrc` or `$APPDATA/mintty/config`, `~/.config/mintty/config`)
+   and add the following line:
+
+   ```ini
+   ThemeFile=absolute/path/to/your/downloaded/theme-file.mintheme
+   ```
+
+4. Save the file; close and reopen Mintty.
+
 ## PuTTY
 
 <img src="./assets/putty-icon.svg" alt="PuTTY terminal icon" width="50"/>
@@ -838,6 +866,7 @@ terminal template decisions.
 [themes-16/kermit/]: ./themes-16/kermit/
 [themes/kitty/]: ./themes/kitty/
 [themes/konsole/]: ./themes/konsole/
+[themes/mintty/]: ./themes/mintty/
 [themes/putty/]: ./themes/putty/
 [themes/qterminal/]: ./themes/qterminal/
 [themes-16/rio/]: ./themes-16/rio/
@@ -852,6 +881,7 @@ terminal template decisions.
 [Kermit terminal emulator]: https://github.com/orhun/kermit
 [Kitty terminal emulator]: https://github.com/kovidgoyal/kitty
 [Konsole terminal emulator]: https://konsole.kde.org/
+[Mintty terminal emulator]: https://mintty.github.io/
 [PuTTY terminal emulator]: https://www.putty.org/
 [QTerminal terminal emulator]: https://github.com/lxqt/qterminal
 [Rio terminal emulator]: https://github.com/raphamorim/rio

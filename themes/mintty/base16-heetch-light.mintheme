@@ -1,0 +1,27 @@
+# Heetch Light theme for Mintty
+# Scheme Author: Geoffrey Teale (tealeg@gmail.com)
+# Scheme System: base16
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #feffff
+Red         = #27d9d5
+Green       = #f80059
+Yellow      = #5ba2b6
+Blue        = #47f9f5
+Magenta     = #bd0152
+Cyan        = #c33678
+White       = #5a496e
+BoldBlack   = #9c92a8
+BoldRed     = #27d9d5
+BoldGreen   = #f80059
+BoldYellow  = #5ba2b6
+BoldBlue    = #47f9f5
+BoldMagenta = #bd0152
+BoldCyan    = #c33678
+BoldWhite   = #190134
+
+# Background & foreground colors
+BackgroundColour = #feffff
+ForegroundColour = #5a496e
+CursorColour     = #5a496e
