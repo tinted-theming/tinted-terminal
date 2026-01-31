@@ -1,0 +1,27 @@
+# eris theme for Mintty
+# Scheme Author: ed (https://codeberg.org/ed)
+# Scheme System: base16
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #0a0920
+Red         = #f768a3
+Green       = #faaea2
+Yellow      = #faaea2
+Blue        = #258fc4
+Magenta     = #f768a3
+Cyan        = #258fc4
+White       = #606bac
+BoldBlack   = #333773
+BoldRed     = #f768a3
+BoldGreen   = #faaea2
+BoldYellow  = #faaea2
+BoldBlue    = #258fc4
+BoldMagenta = #f768a3
+BoldCyan    = #258fc4
+BoldWhite   = #9aaae5
+
+# Background & foreground colors
+BackgroundColour = #0a0920
+ForegroundColour = #606bac
+CursorColour     = #606bac
