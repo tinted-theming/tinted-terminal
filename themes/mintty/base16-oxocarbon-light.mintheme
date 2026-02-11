@@ -1,0 +1,27 @@
+# Oxocarbon Light theme for Mintty
+# Scheme Author: shaunsingh/IBM
+# Scheme System: base16
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #f2f4f8
+Red         = #ff7eb6
+Green       = #0f62fe
+Yellow      = #ff6f00
+Blue        = #42be65
+Magenta     = #be95ff
+Cyan        = #673ab7
+White       = #393939
+BoldBlack   = #161616
+BoldRed     = #ff7eb6
+BoldGreen   = #0f62fe
+BoldYellow  = #ff6f00
+BoldBlue    = #42be65
+BoldMagenta = #be95ff
+BoldCyan    = #673ab7
+BoldWhite   = #08bdba
+
+# Background & foreground colors
+BackgroundColour = #f2f4f8
+ForegroundColour = #393939
+CursorColour     = #393939
