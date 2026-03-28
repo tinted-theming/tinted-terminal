@@ -1,0 +1,27 @@
+# Edge Light theme for Mintty
+# Scheme Author: cjayross (https://github.com/cjayross)
+# Scheme System: base16
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #fafafa
+Red         = #db7070
+Green       = #7c9f4b
+Yellow      = #d69822
+Blue        = #6587bf
+Magenta     = #b870ce
+Cyan        = #509c93
+White       = #5e646f
+BoldBlack   = #5e646f
+BoldRed     = #db7070
+BoldGreen   = #7c9f4b
+BoldYellow  = #d69822
+BoldBlue    = #6587bf
+BoldMagenta = #b870ce
+BoldCyan    = #509c93
+BoldWhite   = #5e646f
+
+# Background & foreground colors
+BackgroundColour = #fafafa
+ForegroundColour = #5e646f
+CursorColour     = #5e646f
