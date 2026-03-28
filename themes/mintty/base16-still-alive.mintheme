@@ -1,27 +1,27 @@
 # Still Alive theme for Mintty
-# Scheme Author: Derrick McKee (derrick.mckee@gmail.com)
+# Scheme Author: Derrick McKee (derrick.mckee@gmail.com), Tinted Theming (https://github.com/tinted-theming)
 # Scheme System: base16
 # Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # The 16 color palette
 Black       = #f0f0f0
-Red         = #487830
-Green       = #5c5c6a
-Yellow      = #426395
-Blue        = #001878
-Magenta     = #900000
-Cyan        = #2c3c57
-White       = #d80000
-BoldBlack   = #f01818
-BoldRed     = #487830
-BoldGreen   = #5c5c6a
-BoldYellow  = #426395
-BoldBlue    = #001878
-BoldMagenta = #900000
-BoldCyan    = #2c3c57
-BoldWhite   = #30a860
+Red         = #d80000
+Green       = #30a860
+Yellow      = #fff018
+Blue        = #365eff
+Magenta     = #9036ff
+Cyan        = #36d3ff
+White       = #4c383b
+BoldBlack   = #a3a3a3
+BoldRed     = #d80000
+BoldGreen   = #30a860
+BoldYellow  = #fff018
+BoldBlue    = #365eff
+BoldMagenta = #9036ff
+BoldCyan    = #36d3ff
+BoldWhite   = #140c0d
 
 # Background & foreground colors
 BackgroundColour = #f0f0f0
-ForegroundColour = #d80000
-CursorColour     = #d80000
+ForegroundColour = #4c383b
+CursorColour     = #4c383b

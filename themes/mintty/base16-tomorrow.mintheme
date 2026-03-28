@@ -11,8 +11,8 @@ Yellow      = #eab700
 Blue        = #4271ae
 Magenta     = #8959a8
 Cyan        = #3e999f
-White       = #4d4d4c
-BoldBlack   = #8e908c
+White       = #373b41
+BoldBlack   = #b4b7b4
 BoldRed     = #c82829
 BoldGreen   = #718c00
 BoldYellow  = #eab700
@@ -23,5 +23,5 @@ BoldWhite   = #1d1f21
 
 # Background & foreground colors
 BackgroundColour = #ffffff
-ForegroundColour = #4d4d4c
-CursorColour     = #4d4d4c
+ForegroundColour = #373b41
+CursorColour     = #373b41
