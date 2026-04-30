@@ -41,10 +41,10 @@ ghostty_ui_foreground_color="#cdd6f4"
 ghostty_ui_cursorcolor_color="#1e1e2e"
 ghostty_ui_selectionbackground_color="#353554"
 ghostty_ui_selectionforeground_color="#cdd6f4"
-ghostty_ui_searchbackground_color="#"
-ghostty_ui_searchforeground_color="#"
-ghostty_ui_searchselectedbackground_color="#"
-ghostty_ui_searchselectedforeground_color="#"
+ghostty_ui_searchbackground_color="#353554"
+ghostty_ui_searchforeground_color="#f9e2af"
+ghostty_ui_searchselectedbackground_color="#505365"
+ghostty_ui_searchselectedforeground_color="#f9e2af"
 
 _theme_file() {
 cat <<EOF
