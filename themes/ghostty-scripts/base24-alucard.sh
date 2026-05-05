@@ -20,35 +20,35 @@ EOF
 }
 
 
-ghostty_palette_color_0="#f5f4f0"
-ghostty_palette_color_1="#9e3e3e"
-ghostty_palette_color_2="#387050"
-ghostty_palette_color_3="#7d6820"
-ghostty_palette_color_4="#3468a8"
-ghostty_palette_color_5="#6438a0"
-ghostty_palette_color_6="#287070"
-ghostty_palette_color_7="#1f1c16"
-ghostty_palette_color_8="#91887d"
-ghostty_palette_color_9="#9e3e3e"
-ghostty_palette_color_10="#387050"
-ghostty_palette_color_11="#7d6820"
-ghostty_palette_color_12="#3468a8"
-ghostty_palette_color_13="#6438a0"
-ghostty_palette_color_14="#287070"
-ghostty_palette_color_15="#fefcfa"
-ghostty_palette_color_16="#8f5d22"
-ghostty_palette_color_17="#943a68"
-ghostty_palette_color_18="#e8e7e3"
-ghostty_palette_color_19="#d5d2cb"
-ghostty_palette_color_20="#746c62"
-ghostty_palette_color_21="#6e6459"
+ghostty_palette_color_0="#fffbeb"
+ghostty_palette_color_1="#cb3a2a"
+ghostty_palette_color_2="#14710a"
+ghostty_palette_color_3="#846e15"
+ghostty_palette_color_4="#644ac9"
+ghostty_palette_color_5="#a3144d"
+ghostty_palette_color_6="#036a96"
+ghostty_palette_color_7="#1f1f1f"
+ghostty_palette_color_8="#6c664b"
+ghostty_palette_color_9="#d74c3d"
+ghostty_palette_color_10="#198d0c"
+ghostty_palette_color_11="#9e841a"
+ghostty_palette_color_12="#7862d0"
+ghostty_palette_color_13="#bf185a"
+ghostty_palette_color_14="#047fb4"
+ghostty_palette_color_15="#2c2b31"
+ghostty_palette_color_16="#a34d14"
+ghostty_palette_color_17="#792219"
+ghostty_palette_color_18="#ceccc0"
+ghostty_palette_color_19="#cfcfde"
+ghostty_palette_color_20="#4c4a3d"
+ghostty_palette_color_21="#1f1f1f"
 
 _theme_file() {
 cat <<EOF
 # vim: ft=ghostty
-# Kissa Latte theme for Ghostty
-# Scheme Author: rwendell (https://github.com/rwendell/kissa)
-# Scheme System: base16
+# Alucard theme for Ghostty
+# Scheme Author: clach04 (https://github.com/clach04)
+# Scheme System: base24
 # Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
@@ -81,11 +81,10 @@ foreground = $ghostty_palette_color_7
 cursor-color = $ghostty_palette_color_7
 selection-background = $ghostty_palette_color_7
 selection-foreground = $ghostty_palette_color_19
-search-background = $ghostty_palette_color_11
-search-foreground = $ghostty_palette_color_18
+search-background = $ghostty_palette_color_18
+search-foreground = $ghostty_palette_color_3
 search-selected-background = $ghostty_palette_color_16
-search-selected-foreground = $ghostty_palette_color_18
-
+search-selected-foreground = $ghostty_palette_color_3
 
 # Set \`macos-icon\` = custom-style in your main configuration file to enable theming of the app icon.
 EOF
