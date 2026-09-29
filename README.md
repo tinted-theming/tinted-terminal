@@ -557,7 +557,7 @@ Tinted Theming template for [Konsole terminal emulator].
    path = "https://github.com/tinted-theming/tinted-terminal"
    name = "tinted-terminal"
    themes-dir = "themes/konsole"
-   hook = "cp -f %f ~/.local/share/konsole/%n.colorscheme && konsoleprofile ColorScheme=%n"
+   hook = "cp -f \"$TINTY_THEME_FILE_PATH\" ~/.local/share/konsole/$TINTY_SCHEME_ID.colorscheme && \"$TINTY_REPO_PATH/scripts/konsoleprofile.sh\" ColorScheme=$TINTY_SCHEME_ID"
    supported-systems = ["base16", "base24"]
    ```
 
