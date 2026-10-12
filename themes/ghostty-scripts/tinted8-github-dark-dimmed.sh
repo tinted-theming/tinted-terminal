@@ -38,7 +38,7 @@ ghostty_palette_color_15="#cdd9e5"
 
 ghostty_ui_background_color="#212830"
 ghostty_ui_foreground_color="#d1d7e0"
-ghostty_ui_cursorcolor_color="#212830"
+ghostty_ui_cursorcolor_color="#d1d7e0"
 ghostty_ui_selectionbackground_color="#656c76"
 ghostty_ui_selectionforeground_color="#f0f6fc"
 ghostty_ui_searchbackground_color="#656c76"

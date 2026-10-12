@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-     
-    Scheme author: 
+    tinted8 Github Light Colorblind
+    Scheme author: Tinted Theming (https://github.com/tinted-theming)
     Template author: Tinted Theming (https://github.com/tinted-theming)
-    semanticClass: theme..
+    semanticClass: theme.tinted8.github-light-colorblind
 -->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">

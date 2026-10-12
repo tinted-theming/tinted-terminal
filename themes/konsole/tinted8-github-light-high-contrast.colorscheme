@@ -2,10 +2,10 @@
 Color=255,255,255
 
 [BackgroundFaint]
-Color=,,
+Color=230,234,239
 
 [BackgroundIntense]
-Color=,,
+Color=129,139,152
 
 [Color0]
 Color=1,4,9
@@ -83,10 +83,10 @@ Color=129,139,152
 Color=1,4,9
 
 [ForegroundFaint]
-Color=,,
+Color=69,76,84
 
 [ForegroundIntense]
-Color=,,
+Color=0,0,0
 
 [General]
 Description=Github Light High Contrast

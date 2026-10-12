@@ -2,10 +2,10 @@
 Color=33,40,48
 
 [BackgroundFaint]
-Color=,,
+Color=38,44,54
 
 [BackgroundIntense]
-Color=,,
+Color=101,108,118
 
 [Color0]
 Color=47,55,66
@@ -83,10 +83,10 @@ Color=205,217,229
 Color=209,215,224
 
 [ForegroundFaint]
-Color=,,
+Color=145,152,161
 
 [ForegroundIntense]
-Color=,,
+Color=205,217,229
 
 [General]
 Description=Github Dark Dimmed

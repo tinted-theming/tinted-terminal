@@ -2,10 +2,10 @@
 Color=13,17,23
 
 [BackgroundFaint]
-Color=,,
+Color=21,27,35
 
 [BackgroundIntense]
-Color=,,
+Color=101,108,118
 
 [Color0]
 Color=47,55,66
@@ -83,10 +83,10 @@ Color=255,255,255
 Color=240,246,252
 
 [ForegroundFaint]
-Color=,,
+Color=145,152,161
 
 [ForegroundIntense]
-Color=,,
+Color=255,255,255
 
 [General]
 Description=Github Dark
