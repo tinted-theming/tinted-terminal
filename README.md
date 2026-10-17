@@ -19,7 +19,9 @@ terminal emulators with links to their installation instructions:
 - [st](#st)
 - [Rio](#rio)
 - [Termite](#termite)
+- [Warp](#warp)
 - [WezTerm](#wezterm)
+- [Windows Terminal](#windows-terminal)
 - [xfce4](#xfce4)
 
 Have a look at the [Tinted Theming Gallery] for examples of theme
@@ -49,11 +51,16 @@ extended ANSI color slots (16–21). This ensures that terminal app
 creators can access the full set of colors when creating ANSI-color
 passthrough themes.
 
+The iTerm2, Konsole, Mintty, PuTTY, QTerminal, st, Warp, Windows
+Terminal and xfce4 themes in `themes/` only set ANSI colors 0–15, so
+colors 16–21 keep the terminal's defaults there. [tinted-shell] can set
+them, as described below.
+
 ### 16-color themes
 
 Some terminals do not support extended ANSI-256 colors. In these cases,
 Tinted Terminal themes only set the first 16 ANSI colors and ANSI colors
-16-21 remain the default shades of blue. These 16-color Tinted Termianl
+16-21 remain the default shades of blue. These 16-color Tinted Terminal
 themes are located in the `themes-16/` directory.
 
 For most users, there is no noticeable difference between the 256-color
@@ -130,7 +137,7 @@ GitHub page.
 ### Manual
 
 After cloning this repo, simply copy the contents of your desired theme
-into your `alacritty.yml` configuration file. Make sure to remove or
+into your `alacritty.toml` configuration file. Make sure to remove or
 comment out any previous theme.
 
 ## ConEmu
@@ -152,7 +159,7 @@ modes:
 1. Run:
 
    ```ps1
-   .\scripts\Install-ConEmuTheme.ps1 [-ConfigPath Path] -Operation Add -ThemePathOrName .\themes\base16-twilight.xml
+   .\scripts\Install-ConEmuTheme.ps1 [-ConfigPath Path] -Operation Add -ThemePathOrName .\themes\conemu\base16-twilight.xml
    ```
 
 2. Restart ConEmu and activate the color theme in `ConEmu Settings` ->
@@ -484,7 +491,7 @@ update your theme when running `tinty apply base16-default-dark` (where
 ### Manual
 
 ```sh
-curl https://raw.githubusercontent.com/tinted-theming/tinted-kermit-terminal/main/themes/base16-default-dark.config > ~/.config/kermit.conf
+curl https://raw.githubusercontent.com/tinted-theming/tinted-terminal/main/themes-16/kermit/base16-default-dark.config > ~/.config/kermit.conf
 ```
 
 ## Kitty
@@ -697,7 +704,7 @@ Tinted Theming template for [Rio terminal emulator].
 
    ```sh
    git clone https://github.com/tinted-theming/tinted-terminal /path/to/tinted-terminal
-   ln -s /path/to/tinted-terminal/rio ~/.config/rio/themes
+   ln -s /path/to/tinted-terminal/themes-16/rio ~/.config/rio/themes
    ```
 
 2. Add the following to `~/.config/tinted-theming/tinty/config.toml`:
@@ -714,7 +721,7 @@ Tinted Theming template for [Rio terminal emulator].
 3. Add the following to `~/.config/rio/config.toml`:
 
    ```toml
-   themes = "base16-default-dark"
+   theme = "base16-default-dark"
    ```
 
 4. `tinty apply base16-ayu-dark` to change the theme to
@@ -762,11 +769,11 @@ Base16 and Base24 color schemes to generate a functional config file for
 [thestinger/termite](https://github.com/thestinger/termite), a
 keyboard-centric VTE-based terminal.
 
-To use, you can copy one of the config files in themes/ or use curl:
+To use, you can copy one of the config files in `themes/termite/` or use curl:
 
 ```sh
 mkdir -p ~/.config/termite
-curl https://raw.githubusercontent.com/tinted-theming/tinted-terminal/main/termite/base16-default-dark.config >> ~/.config/termite/config
+curl https://raw.githubusercontent.com/tinted-theming/tinted-terminal/main/themes/termite/base16-default-dark.config >> ~/.config/termite/config
 ```
 
 ## Warp
@@ -857,6 +864,37 @@ Tinted Theming template for [WezTerm terminal emulator].
     color_scheme = "base16-ayu-dark",
    ```
 
+## Windows Terminal
+
+<img src="./assets/terminal-icon.svg" alt="Terminal icon" width="50"/>
+
+Tinted Theming template for [Windows Terminal].
+
+**Theme directory**: [themes/windows-terminal/]
+
+Each `.theme` file is a color scheme object for the `schemes` array in
+Windows Terminal's `settings.json`.
+
+### Manual
+
+1. Open `settings.json` with `Ctrl`+`Shift`+`,`, or open Settings and
+   select "Open JSON file".
+
+2. Paste the contents of a theme file, for example
+   `themes/windows-terminal/base16-ayu-dark.theme`, into the `schemes`
+   array. If it's the last entry in the array, remove its trailing comma.
+
+3. Set `colorScheme` to the scheme's `name`, either for one profile or
+   for all profiles under `profiles.defaults`:
+
+   ```json
+   "profiles": {
+       "defaults": {
+           "colorScheme": "Ayu Dark"
+       }
+   }
+   ```
+
 ## xfce4
 
 <img src="./assets/terminal-icon.svg" alt="Terminal icon" width="50"/>
@@ -875,8 +913,8 @@ Tinted Theming template for [xfce4 terminal emulator].
    name = "tinted-xfce4-terminal"
    themes-dir = "themes/xfce4"
    hook = """
-   mkdir -p $XDG_CONFIG_HOME/xfce4/terminal/colorschemes
-   cat %f > $XDG_CONFIG_HOME/xfce4/terminal/colorschemes/%n.theme
+   mkdir -p "${XDG_CONFIG_HOME:-$HOME/.config}/xfce4/terminal/colorschemes"
+   cat %f > "${XDG_CONFIG_HOME:-$HOME/.config}/xfce4/terminal/colorschemes/%n.theme"
    """
    supported-systems = ["base16", "base24"]
    ```
@@ -891,13 +929,13 @@ GitHub page.
 
 ### Manual
 
-Put the prebuilt `*.theme` files from `colorschemes/` into
+Put the prebuilt `*.theme` files from [themes/xfce4/] into
 `~/.local/share/xfce4/terminal/colorschemes/` (create this directory if
 it does not exist), and the themes will be available under `Preferences > Colors > Presets`.
 
 ```sh
-mkdir -p ~/.local/share/xfce4/terminal
-cp -r /path/to/tinted-xfce-terminal/colorschemes ~/.local/share/xfce4/terminal
+mkdir -p ~/.local/share/xfce4/terminal/colorschemes
+cp /path/to/tinted-terminal/themes/xfce4/*.theme ~/.local/share/xfce4/terminal/colorschemes/
 ```
 
 ## Contributing
@@ -949,6 +987,9 @@ terminal template decisions.
 [themes-16/rio/]: ./themes-16/rio/
 [themes/st/]: ./themes/st/
 [themes/termite/]: ./themes/termite/
+[themes/warp/]: ./themes/warp/
+[themes/wezterm/]: ./themes/wezterm/
+[themes/windows-terminal/]: ./themes/windows-terminal/
 [themes/xfce4/]: ./themes/xfce4/
 
 [Alacritty terminal emulator]: https://github.com/alacritty/alacritty
@@ -967,6 +1008,7 @@ terminal template decisions.
 [iTerm2 terminal emulator]: https://github.com/gnachman/iTerm2
 [Warp terminal emulator]: https://www.warp.dev/
 [WezTerm terminal emulator]: https://wezterm.org/index.html
+[Windows Terminal]: https://github.com/microsoft/terminal
 [xfce4 terminal emulator]: https://docs.xfce.org/apps/terminal/start
 
 [color options]: assets/ConEmu_Color_Options.png
