@@ -1,0 +1,37 @@
+name: Check templates
+on:
+  pull_request:
+    paths:
+      - "templates/**"
+      - "scripts/check-*.sh"
+      - ".github/workflows/check-templates.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch the repository code
+        uses: actions/checkout@9a9194f87191a7e9055e3e9b95b8cfb13023bb08 # 4.1.7
+
+      - name: Install tinted-builder-rust
+        uses: jaxxstorm/action-install-gh-release@v1.10.0
+        with:
+          repo: tinted-theming/tinted-builder-rust
+
+      # Render into empty directories so outputs left behind by schemes that
+      # were removed upstream aren't checked.
+      - name: Render themes
+        run: |
+          rm -rf themes themes-16
+          tinted-builder-rust sync
+          tinted-builder-rust build .
+
+      - name: Check final newlines
+        run: scripts/check-final-newline.sh templates themes themes-16
+
+      - name: Check st patches apply
+        run: scripts/check-st-patches.sh
