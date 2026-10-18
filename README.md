@@ -52,16 +52,17 @@ creators can access the full set of colors when creating ANSI-color
 passthrough themes.
 
 The iTerm2, Konsole, Mintty, PuTTY, QTerminal, st, Warp, Windows
-Terminal and xfce4 themes in `themes/` only set ANSI colors 0–15, so
-colors 16–21 keep the terminal's defaults there. [tinted-shell] can set
-them, as described below.
+Terminal and xfce4 themes in `themes/`, and all Tinted8 themes, only set
+ANSI colors 0–15, so colors 16–21 keep the terminal's defaults there.
+For Base16 and Base24 schemes, [tinted-shell] can set them, as described
+below.
 
 ### 16-color themes
 
-Some terminals do not support extended ANSI-256 colors. In these cases,
-Tinted Terminal themes only set the first 16 ANSI colors and ANSI colors
-16-21 remain the default shades of blue. These 16-color Tinted Terminal
-themes are located in the `themes-16/` directory.
+Some terminals do not support extended ANSI-256 colors. Themes for these
+terminals are located in the `themes-16/` directory; they only set the
+first 16 ANSI colors, and ANSI colors 16-21 remain the default shades of
+blue.
 
 For most users, there is no noticeable difference between the 256-color
 and 16-color themes unless they are using CLI tool themes that
@@ -714,15 +715,19 @@ Tinted Theming template for [Rio terminal emulator].
    path = "/path/to/tinted-terminal"
    name = "tinted-terminal"
    themes-dir = "themes-16/rio"
-   hook = "sed -i 's/theme = \"[^\"]*\"/theme = \"%n\"/' ~/.config/rio/config.toml"
+   hook = "sed -i.bak 's/^theme = \"[^\"]*\"/theme = \"%n\"/' ~/.config/rio/config.toml && rm -f ~/.config/rio/config.toml.bak"
    supported-systems = ["base16", "base24"]
    ```
 
-3. Add the following to `~/.config/rio/config.toml`:
+3. Add the following to the top level of `~/.config/rio/config.toml`
+   (the hook only replaces a line that starts with `theme =`):
 
    ```toml
    theme = "base16-default-dark"
    ```
+
+   A platform-specific theme, such as `macos.theme` under `[platform]`,
+   still overrides it on that platform.
 
 4. `tinty apply base16-ayu-dark` to change the theme to
    `base16-ayu-dark`
@@ -885,7 +890,9 @@ Windows Terminal's `settings.json`.
    array. If it's the last entry in the array, remove its trailing comma.
 
 3. Set `colorScheme` to the scheme's `name`, either for one profile or
-   for all profiles under `profiles.defaults`:
+   for all profiles under `profiles.defaults`. Base16, Base24 and Tinted8
+   versions of a scheme share the same `name`, so only add one of them,
+   or rename the others:
 
    ```json
    "profiles": {
