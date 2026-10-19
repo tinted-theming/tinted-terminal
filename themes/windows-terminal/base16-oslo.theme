@@ -3,6 +3,8 @@
 	"name": "Oslo",
 	"foreground": "#abb2bf",
 	"background": "#3f4451",
+	"cursorColor": "#abb2bf",
+	"selectionBackground": "#abb2bf",
 	"black": "#3f4451",
 	"blue": "#4aa5f0",
 	"brightBlack": "#6c727f",

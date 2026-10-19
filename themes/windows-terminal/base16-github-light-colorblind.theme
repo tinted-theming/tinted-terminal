@@ -3,6 +3,8 @@
 	"name": "Github Light Colorblind",
 	"foreground": "#454c54",
 	"background": "#ffffff",
+	"cursorColor": "#454c54",
+	"selectionBackground": "#454c54",
 	"black": "#ffffff",
 	"blue": "#0969da",
 	"brightBlack": "#818b98",

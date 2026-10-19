@@ -3,6 +3,8 @@
 	"name": "Apprentice",
 	"foreground": "#bcbcbc",
 	"background": "#262626",
+	"cursorColor": "#bcbcbc",
+	"selectionBackground": "#bcbcbc",
 	"black": "#262626",
 	"blue": "#5f87af",
 	"brightBlack": "#444444",

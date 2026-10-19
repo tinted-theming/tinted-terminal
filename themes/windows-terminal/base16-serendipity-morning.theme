@@ -3,6 +3,8 @@
 	"name": "Serendipity Morning",
 	"foreground": "#3f4363",
 	"background": "#f6f7fb",
+	"cursorColor": "#3f4363",
+	"selectionBackground": "#3f4363",
 	"black": "#f6f7fb",
 	"blue": "#6288d8",
 	"brightBlack": "#6d7296",

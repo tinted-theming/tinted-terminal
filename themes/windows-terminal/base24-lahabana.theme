@@ -3,6 +3,8 @@
 	"name": "Lahabana",
 	"foreground": "#f7f1ff",
 	"background": "#19191a",
+	"cursorColor": "#f7f1ff",
+	"selectionBackground": "#f7f1ff",
 	"black": "#19191a",
 	"blue": "#fd9353",
 	"brightBlack": "#76747a",

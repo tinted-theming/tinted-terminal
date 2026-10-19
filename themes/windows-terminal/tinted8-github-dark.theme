@@ -3,6 +3,8 @@
     "name": "Github Dark",
     "foreground": "#f0f6fc",
     "background": "#0d1117",
+    "cursorColor": "#f0f6fc",
+    "selectionBackground": "#656c76",
     "black": "#2f3742",
     "blue": "#58a6ff",
     "brightBlack": "#656c76",

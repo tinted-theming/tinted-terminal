@@ -3,6 +3,8 @@
 	"name": "Madrid",
 	"foreground": "#1a1a1a",
 	"background": "#fafafa",
+	"cursorColor": "#1a1a1a",
+	"selectionBackground": "#1a1a1a",
 	"black": "#fafafa",
 	"blue": "#007a9e",
 	"brightBlack": "#4d4d4d",

@@ -3,6 +3,8 @@
 	"name": "Berlin",
 	"foreground": "#cccccc",
 	"background": "#000000",
+	"cursorColor": "#cccccc",
+	"selectionBackground": "#cccccc",
 	"black": "#000000",
 	"blue": "#888888",
 	"brightBlack": "#333333",

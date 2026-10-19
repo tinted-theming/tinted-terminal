@@ -3,6 +3,8 @@
 	"name": "Corduroy Dark",
 	"foreground": "#ddd8df",
 	"background": "#141016",
+	"cursorColor": "#ddd8df",
+	"selectionBackground": "#ddd8df",
 	"black": "#141016",
 	"blue": "#dc92a3",
 	"brightBlack": "#7d7082",

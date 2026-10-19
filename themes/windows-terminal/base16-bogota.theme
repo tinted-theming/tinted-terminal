@@ -3,6 +3,8 @@
 	"name": "Bogota",
 	"foreground": "#f7f1ff",
 	"background": "#200b0a",
+	"cursorColor": "#f7f1ff",
+	"selectionBackground": "#f7f1ff",
 	"black": "#200b0a",
 	"blue": "#47e6ff",
 	"brightBlack": "#525053",

@@ -3,6 +3,8 @@
 	"name": "Abyssal",
 	"foreground": "#e0e4e7",
 	"background": "#000000",
+	"cursorColor": "#e0e4e7",
+	"selectionBackground": "#e0e4e7",
 	"black": "#000000",
 	"blue": "#01a0e4",
 	"brightBlack": "#4f5b66",

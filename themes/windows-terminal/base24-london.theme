@@ -3,6 +3,8 @@
 	"name": "London",
 	"foreground": "#333333",
 	"background": "#ffffff",
+	"cursorColor": "#333333",
+	"selectionBackground": "#333333",
 	"black": "#ffffff",
 	"blue": "#666666",
 	"brightBlack": "#333333",

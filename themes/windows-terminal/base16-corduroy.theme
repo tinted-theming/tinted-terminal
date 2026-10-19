@@ -3,6 +3,8 @@
 	"name": "Corduroy",
 	"foreground": "#cdc8d0",
 	"background": "#1d1920",
+	"cursorColor": "#cdc8d0",
+	"selectionBackground": "#cdc8d0",
 	"black": "#1d1920",
 	"blue": "#d27f91",
 	"brightBlack": "#6f6373",

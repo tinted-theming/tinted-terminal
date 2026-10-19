@@ -3,6 +3,8 @@
     "name": "Github Dark Dimmed",
     "foreground": "#d1d7e0",
     "background": "#212830",
+    "cursorColor": "#d1d7e0",
+    "selectionBackground": "#656c76",
     "black": "#2f3742",
     "blue": "#539bf5",
     "brightBlack": "#656c76",

@@ -3,6 +3,8 @@
 	"name": "Serendipity Midnight",
 	"foreground": "#dee0ef",
 	"background": "#151726",
+	"cursorColor": "#dee0ef",
+	"selectionBackground": "#dee0ef",
 	"black": "#151726",
 	"blue": "#94b8ff",
 	"brightBlack": "#6b6d7c",

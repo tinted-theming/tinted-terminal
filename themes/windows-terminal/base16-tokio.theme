@@ -3,6 +3,8 @@
 	"name": "Tokio",
 	"foreground": "#f7f1ff",
 	"background": "#1c1c1d",
+	"cursorColor": "#f7f1ff",
+	"selectionBackground": "#f7f1ff",
 	"black": "#1c1c1d",
 	"blue": "#fd9353",
 	"brightBlack": "#78757c",

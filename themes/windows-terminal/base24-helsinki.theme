@@ -3,6 +3,8 @@
 	"name": "Helsinki",
 	"foreground": "#544d40",
 	"background": "#f8fafe",
+	"cursorColor": "#544d40",
+	"selectionBackground": "#544d40",
 	"black": "#f8fafe",
 	"blue": "#b55a0f",
 	"brightBlack": "#b0a999",

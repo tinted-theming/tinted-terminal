@@ -3,6 +3,8 @@
 	"name": "Miami",
 	"foreground": "#f7f1ff",
 	"background": "#000000",
+	"cursorColor": "#f7f1ff",
+	"selectionBackground": "#f7f1ff",
 	"black": "#000000",
 	"blue": "#00ffa8",
 	"brightBlack": "#69676c",

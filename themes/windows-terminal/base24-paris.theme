@@ -3,6 +3,8 @@
 	"name": "Paris",
 	"foreground": "#f7f1ff",
 	"background": "#1a0a30",
+	"cursorColor": "#f7f1ff",
+	"selectionBackground": "#f7f1ff",
 	"black": "#1a0a30",
 	"blue": "#a3f3ff",
 	"brightBlack": "#c4bdff",

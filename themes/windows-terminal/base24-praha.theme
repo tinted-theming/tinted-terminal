@@ -3,6 +3,8 @@
 	"name": "Praha",
 	"foreground": "#ffffff",
 	"background": "#1a1a1a",
+	"cursorColor": "#ffffff",
+	"selectionBackground": "#ffffff",
 	"black": "#1a1a1a",
 	"blue": "#bd93f9",
 	"brightBlack": "#6272a4",

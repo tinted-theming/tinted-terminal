@@ -3,6 +3,8 @@
 	"name": "X",
 	"foreground": "#f7f1ff",
 	"background": "#050505",
+	"cursorColor": "#f7f1ff",
+	"selectionBackground": "#f7f1ff",
 	"black": "#050505",
 	"blue": "#fd9353",
 	"brightBlack": "#6b686e",

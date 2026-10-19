@@ -3,6 +3,8 @@
     "name": "Github Dark High Contrast",
     "foreground": "#ffffff",
     "background": "#010409",
+    "cursorColor": "#ffffff",
+    "selectionBackground": "#656c76",
     "black": "#2f3742",
     "blue": "#71b7ff",
     "brightBlack": "#656c76",

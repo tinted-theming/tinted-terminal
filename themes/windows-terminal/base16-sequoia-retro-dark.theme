@@ -3,6 +3,8 @@
 	"name": "Sequoia Retro Dark",
 	"foreground": "#868690",
 	"background": "#0f1014",
+	"cursorColor": "#868690",
+	"selectionBackground": "#868690",
 	"black": "#0f1014",
 	"blue": "#5c87a4",
 	"brightBlack": "#43444d",
