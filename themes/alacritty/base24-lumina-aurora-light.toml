@@ -1,0 +1,58 @@
+# base24 Lumina Aurora Light 256 - alacritty color config
+# Razik Ikhlef (https://github.com/RazikSF)
+
+# Default colors
+[colors.primary]
+background = '0xf7f6fb'
+foreground = '0x302a3b'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0xf7f6fb'
+cursor = '0x302a3b'
+
+# Normal colors
+[colors.normal]
+black = '0xf7f6fb'
+red = '0x860e23'
+green = '0x006d3c'
+yellow = '0x9b6400'
+blue = '0x2765b0'
+magenta = '0x524663'
+cyan = '0x006d80'
+white = '0x302a3b'
+
+# Bright colors
+[colors.bright]
+black = '0xd4d3da'
+red = '0x5f171e'
+green = '0x00572e'
+yellow = '0x815200'
+blue = '0x165196'
+magenta = '0x803569'
+cyan = '0x005867'
+white = '0x302a3b'
+
+[[colors.indexed_colors]]
+index = 16
+color = "0xa04f19"
+
+[[colors.indexed_colors]]
+index = 17
+color = "0x9a4580"
+
+[[colors.indexed_colors]]
+index = 18
+color = "0xf0eff6"
+
+[[colors.indexed_colors]]
+index = 19
+color = "0xe5e3ea"
+
+[[colors.indexed_colors]]
+index = 20
+color = "0x86858b"
+
+[[colors.indexed_colors]]
+index = 21
+color = "0x48474c"

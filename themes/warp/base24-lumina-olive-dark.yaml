@@ -1,0 +1,30 @@
+# Tinted Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Lumina Olive Dark by Razik Ikhlef (https://github.com/RazikSF)
+
+name: Base24 Lumina Olive Dark
+accent: "#8fb9f7" # base0D
+cursor: "#dfddce" # base05
+background: "#212311" # base00
+foreground: "#dfddce" # base05
+details: darker
+
+terminal_colors:
+  normal:
+    black: "#212311" # base00
+    red: "#cd6f71" # base08
+    yellow: "#edba7a" # base0A
+    green: "#9acca4" # base0B
+    cyan: "#8acbd2" # base0C
+    blue: "#8fb9f7" # base0D
+    magenta: "#baa5dd" # base0E
+    white: "#dfddce" # base05
+
+  bright:
+    black: "#3a3c27" # base03
+    red: "#da9090" # base12
+    yellow: "#ffd7a6" # base13
+    green: "#b2e7bd" # base14
+    cyan: "#a2e5ed" # base15
+    blue: "#b5d3ff" # base16
+    magenta: "#f8c4f3" # base17
+    white: "#dfddce" # base07

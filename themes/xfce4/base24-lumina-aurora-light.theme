@@ -1,0 +1,10 @@
+# Scheme name: Lumina Aurora Light
+# Scheme author: Razik Ikhlef (https://github.com/RazikSF)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
+[Scheme]
+Name=base24-lumina-aurora-light
+ColorForeground=#302a3b
+ColorBackground=#f7f6fb
+ColorCursor=#302a3b
+ColorBoldIsBright=FALSE
+ColorPalette=#f7f6fb;#860e23;#006d3c;#9b6400;#2765b0;#524663;#006d80;#302a3b;#d4d3da;#5f171e;#00572e;#815200;#165196;#803569;#005867;#302a3b

@@ -1,0 +1,10 @@
+# Scheme name: Lumina Olive Light
+# Scheme author: Razik Ikhlef (https://github.com/RazikSF)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
+[Scheme]
+Name=base24-lumina-olive-light
+ColorForeground=#262816
+ColorBackground=#f1f0d9
+ColorCursor=#262816
+ColorBoldIsBright=FALSE
+ColorPalette=#f1f0d9;#861d1d;#29703d;#955e00;#2e5ba6;#644d87;#006b7d;#262816;#cecdbe;#601e1c;#145b2b;#7b4c00;#244886;#6d3268;#005664;#262816

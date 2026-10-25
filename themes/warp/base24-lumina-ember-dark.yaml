@@ -1,0 +1,30 @@
+# Tinted Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Lumina Ember Dark by Razik Ikhlef (https://github.com/RazikSF)
+
+name: Base24 Lumina Ember Dark
+accent: "#78bbea" # base0D
+cursor: "#e0d8cb" # base05
+background: "#1c1916" # base00
+foreground: "#e0d8cb" # base05
+details: darker
+
+terminal_colors:
+  normal:
+    black: "#1c1916" # base00
+    red: "#d1635b" # base08
+    yellow: "#e4d874" # base0A
+    green: "#90d6b4" # base0B
+    cyan: "#77cfd9" # base0C
+    blue: "#78bbea" # base0D
+    magenta: "#d4c8f2" # base0E
+    white: "#e0d8cb" # base05
+
+  bright:
+    black: "#35312d" # base03
+    red: "#dd867e" # base12
+    yellow: "#f7eb89" # base13
+    green: "#a3f2cc" # base14
+    cyan: "#90e9f4" # base15
+    blue: "#99d4ff" # base16
+    magenta: "#ffc1f9" # base17
+    white: "#e0d8cb" # base07

@@ -1,0 +1,47 @@
+# vim: ft=ghostty
+# Lumina Nebula Light theme for Ghostty
+# Scheme Author: Razik Ikhlef (https://github.com/RazikSF)
+# Scheme System: base24
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# Color palette
+palette = 0=#f6f8fb
+palette = 1=#902725
+palette = 2=#2e7241
+palette = 3=#996000
+palette = 4=#34639e
+palette = 5=#6c4d9e
+palette = 6=#00657e
+palette = 7=#1f2a38
+palette = 8=#d3d5da
+palette = 9=#692623
+palette = 10=#1a5d2f
+palette = 11=#7e4e00
+palette = 12=#214f88
+palette = 13=#6e3569
+palette = 14=#005064
+palette = 15=#1f2a38
+palette = 16=#944d1f
+palette = 17=#84487f
+palette = 18=#eff1f6
+palette = 19=#e3e6ea
+palette = 20=#84868a
+palette = 21=#46484b
+
+# Foreground & background colors
+background = #f6f8fb
+foreground = #1f2a38
+cursor-color = #1f2a38
+selection-background = #1f2a38
+selection-foreground = #e3e6ea
+search-background = #996000
+search-foreground = #eff1f6
+search-selected-background = #944d1f
+search-selected-foreground = #eff1f6
+
+# Set `macos-icon = custom-style` in your main configuration file to enable theming of the app icon.
+#
+# Set the ghost color to the lightest foreground:
+macos-icon-ghost-color = #1f2a38
+# Replace the official icon's blue background with the designated bright blue color:
+macos-icon-screen-color = #214f88

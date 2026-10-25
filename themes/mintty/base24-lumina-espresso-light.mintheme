@@ -1,0 +1,27 @@
+# Lumina Espresso Light theme for Mintty
+# Scheme Author: Razik Ikhlef (https://github.com/RazikSF)
+# Scheme System: base24
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #fbeedf
+Red         = #cd2e3f
+Green       = #1e6d37
+Yellow      = #9d5c09
+Blue        = #03679f
+Magenta     = #5c4c9a
+Cyan        = #28596c
+White       = #322219
+BoldBlack   = #d6ccc0
+BoldRed     = #974043
+BoldGreen   = #065826
+BoldYellow  = #834a00
+BoldBlue    = #005381
+BoldMagenta = #6a2c65
+BoldCyan    = #00465c
+BoldWhite   = #322219
+
+# Background & foreground colors
+BackgroundColour = #fbeedf
+ForegroundColour = #322219
+CursorColour     = #322219

@@ -1,0 +1,30 @@
+# Tinted Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Lumina Nebula Light by Razik Ikhlef (https://github.com/RazikSF)
+
+name: Base24 Lumina Nebula Light
+accent: "#34639e" # base0D
+cursor: "#1f2a38" # base05
+background: "#f6f8fb" # base00
+foreground: "#1f2a38" # base05
+details: lighter
+
+terminal_colors:
+  normal:
+    black: "#f6f8fb" # base00
+    red: "#902725" # base08
+    yellow: "#996000" # base0A
+    green: "#2e7241" # base0B
+    cyan: "#00657e" # base0C
+    blue: "#34639e" # base0D
+    magenta: "#6c4d9e" # base0E
+    white: "#1f2a38" # base05
+
+  bright:
+    black: "#d3d5da" # base03
+    red: "#692623" # base12
+    yellow: "#7e4e00" # base13
+    green: "#1a5d2f" # base14
+    cyan: "#005064" # base15
+    blue: "#214f88" # base16
+    magenta: "#6e3569" # base17
+    white: "#1f2a38" # base07

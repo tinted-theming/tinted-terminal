@@ -1,0 +1,43 @@
+# base24 Lumina Canopy Dark
+# Scheme author: Razik Ikhlef (https://github.com/RazikSF)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
+[colors]
+background = "#131d16"
+foreground = "#cddbd0"
+
+cursor_bg = "#cddbd0"
+cursor_border = "#cddbd0"
+cursor_fg = "#131d16"
+
+selection_bg = "#cddbd0"
+selection_fg = "#202c24"
+
+ansi = [
+  "#131d16",
+  "#d3665e",
+  "#96d4a2",
+  "#f2bb31",
+  "#8dc6ff",
+  "#c1b8fc",
+  "#8ce3dd",
+  "#cddbd0"
+]
+brights = [
+  "#2a362d",
+  "#df8981",
+  "#aeefbb",
+  "#ffd989",
+  "#bedeff",
+  "#f2b9f5",
+  "#a1fbf5",
+  "#cddbd0"
+]
+
+[colors.indexed]
+16 = "#fdad76"
+17 = "#d1a5d3"
+18 = "#17221a"
+19 = "#202c24"
+20 = "#617064"
+21 = "#abb4ad"

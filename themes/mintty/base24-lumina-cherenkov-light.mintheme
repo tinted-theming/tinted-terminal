@@ -1,0 +1,27 @@
+# Lumina Cherenkov Light theme for Mintty
+# Scheme Author: Razik Ikhlef (https://github.com/RazikSF)
+# Scheme System: base24
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #f2f8fc
+Red         = #cb3f3c
+Green       = #4a7d26
+Yellow      = #a35f00
+Blue        = #2c516b
+Magenta     = #4433aa
+Cyan        = #00697b
+White       = #1e2735
+BoldBlack   = #ced6db
+BoldRed     = #9e423d
+BoldGreen   = #3b671b
+BoldYellow  = #874e00
+BoldBlue    = #003e60
+BoldMagenta = #6d347a
+BoldCyan    = #005462
+BoldWhite   = #1e2735
+
+# Background & foreground colors
+BackgroundColour = #f2f8fc
+ForegroundColour = #1e2735
+CursorColour     = #1e2735

@@ -1,0 +1,58 @@
+# base24 Lumina Harbor Dark 256 - alacritty color config
+# Razik Ikhlef (https://github.com/RazikSF)
+
+# Default colors
+[colors.primary]
+background = '0x0c1e37'
+foreground = '0xcfdceb'
+
+# Colors the cursor will use if `custom_cursor_colors` is true
+[colors.cursor]
+text = '0x0c1e37'
+cursor = '0xcfdceb'
+
+# Normal colors
+[colors.normal]
+black = '0x0c1e37'
+red = '0xdd6b62'
+green = '0x82d9b4'
+yellow = '0xe8d66b'
+blue = '0x87c6f2'
+magenta = '0xb897f0'
+cyan = '0xbedee4'
+white = '0xcfdceb'
+
+# Bright colors
+[colors.bright]
+black = '0x223755'
+red = '0xe88f86'
+green = '0xa1f2ce'
+yellow = '0xfbea87'
+blue = '0xb1deff'
+magenta = '0xffc5f8'
+cyan = '0xb8f4ff'
+white = '0xcfdceb'
+
+[[colors.indexed_colors]]
+index = 16
+color = "0xfca864"
+
+[[colors.indexed_colors]]
+index = 17
+color = "0xe8a9e1"
+
+[[colors.indexed_colors]]
+index = 18
+color = "0x0e233f"
+
+[[colors.indexed_colors]]
+index = 19
+color = "0x182d4a"
+
+[[colors.indexed_colors]]
+index = 20
+color = "0x577192"
+
+[[colors.indexed_colors]]
+index = 21
+color = "0xa2b2ca"

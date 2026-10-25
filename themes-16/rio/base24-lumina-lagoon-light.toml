@@ -1,0 +1,41 @@
+# Rio Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Lumina Lagoon Light by Razik Ikhlef (https://github.com/RazikSF)
+
+[colors]
+selection-background = '#212829' # base05
+selection-foreground = '#d8e8ea' # base02
+
+cursor         = '#212829' # base05
+tabs           = '#e4f3f6' # base01
+tabs-active    = '#d8e8ea' # base02
+
+background     = '#eef9fb' # base00
+foreground     = '#212829' # base05
+black          = '#eef9fb' # base00
+red            = '#901f1f' # base08
+yellow         = '#a06200' # base0A
+green          = '#007853' # base0B
+cyan           = '#345a61' # base0C
+blue           = '#1e69a2' # base0D
+magenta        = '#5f3fa9' # base0E
+white          = '#212829' # base05
+
+dim-foreground   = '#212829' # base05
+dim-black        = '#e4f3f6' # base01
+dim-red          = '#901f1f' # base08
+dim-yellow       = '#a06200' # base0A
+dim-green        = '#007853' # base0B
+dim-cyan         = '#345a61' # base0C
+dim-blue         = '#1e69a2' # base0D
+dim-magenta      = '#5f3fa9' # base0E
+dim-white        = '#7b898c' # base04
+
+light-foreground = '#212829' # base05
+light-black      = '#c8d7da' # base03
+light-red        = '#69221e' # base12
+light-yellow     = '#855100' # base13
+light-green      = '#006143' # base14
+light-cyan       = '#004953' # base15
+light-blue       = '#00558b' # base16
+light-magenta    = '#73356f' # base17
+light-white      = '#212829' # base07

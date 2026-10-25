@@ -1,0 +1,27 @@
+# Lumina Oxblood Dark theme for Mintty
+# Scheme Author: Razik Ikhlef (https://github.com/RazikSF)
+# Scheme System: base24
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #23171b
+Red         = #de6961
+Green       = #7dc797
+Yellow      = #f9c875
+Blue        = #96c3fb
+Magenta     = #beb5fc
+Cyan        = #00bed0
+White       = #e4d2d7
+BoldBlack   = #3d2f33
+BoldRed     = #e98e86
+BoldGreen   = #98e1b1
+BoldYellow  = #ffe4b8
+BoldBlue    = #c0dcff
+BoldMagenta = #f2d5ff
+BoldCyan    = #76d2df
+BoldWhite   = #e4d2d7
+
+# Background & foreground colors
+BackgroundColour = #23171b
+ForegroundColour = #e4d2d7
+CursorColour     = #e4d2d7

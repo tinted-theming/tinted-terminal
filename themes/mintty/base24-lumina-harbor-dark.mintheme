@@ -1,0 +1,27 @@
+# Lumina Harbor Dark theme for Mintty
+# Scheme Author: Razik Ikhlef (https://github.com/RazikSF)
+# Scheme System: base24
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #0c1e37
+Red         = #dd6b62
+Green       = #82d9b4
+Yellow      = #e8d66b
+Blue        = #87c6f2
+Magenta     = #b897f0
+Cyan        = #bedee4
+White       = #cfdceb
+BoldBlack   = #223755
+BoldRed     = #e88f86
+BoldGreen   = #a1f2ce
+BoldYellow  = #fbea87
+BoldBlue    = #b1deff
+BoldMagenta = #ffc5f8
+BoldCyan    = #b8f4ff
+BoldWhite   = #cfdceb
+
+# Background & foreground colors
+BackgroundColour = #0c1e37
+ForegroundColour = #cfdceb
+CursorColour     = #cfdceb

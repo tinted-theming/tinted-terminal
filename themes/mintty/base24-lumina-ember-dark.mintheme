@@ -1,0 +1,27 @@
+# Lumina Ember Dark theme for Mintty
+# Scheme Author: Razik Ikhlef (https://github.com/RazikSF)
+# Scheme System: base24
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #1c1916
+Red         = #d1635b
+Green       = #90d6b4
+Yellow      = #e4d874
+Blue        = #78bbea
+Magenta     = #d4c8f2
+Cyan        = #77cfd9
+White       = #e0d8cb
+BoldBlack   = #35312d
+BoldRed     = #dd867e
+BoldGreen   = #a3f2cc
+BoldYellow  = #f7eb89
+BoldBlue    = #99d4ff
+BoldMagenta = #ffc1f9
+BoldCyan    = #90e9f4
+BoldWhite   = #e0d8cb
+
+# Background & foreground colors
+BackgroundColour = #1c1916
+ForegroundColour = #e0d8cb
+CursorColour     = #e0d8cb

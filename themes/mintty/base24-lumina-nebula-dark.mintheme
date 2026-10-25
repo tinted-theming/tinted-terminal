@@ -1,0 +1,27 @@
+# Lumina Nebula Dark theme for Mintty
+# Scheme Author: Razik Ikhlef (https://github.com/RazikSF)
+# Scheme System: base24
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #0a111a
+Red         = #d36059
+Green       = #8bce99
+Yellow      = #f7cf55
+Blue        = #92bef8
+Magenta     = #aaaaec
+Cyan        = #00dfe5
+White       = #cadceb
+BoldBlack   = #202833
+BoldRed     = #df847d
+BoldGreen   = #a3e9b2
+BoldYellow  = #ffe6a0
+BoldBlue    = #bad7ff
+BoldMagenta = #ffbbf7
+BoldCyan    = #8ff1f4
+BoldWhite   = #cadceb
+
+# Background & foreground colors
+BackgroundColour = #0a111a
+ForegroundColour = #cadceb
+CursorColour     = #cadceb

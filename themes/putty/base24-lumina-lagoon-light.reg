@@ -1,0 +1,112 @@
+Windows Registry Editor Version 5.00
+
+; Scheme name: Lumina Lagoon Light
+; Scheme system: base24
+; Scheme description: 
+; Scheme author: Razik Ikhlef (https://github.com/RazikSF)
+; Template author: Tinted Theming (https://github.com/tinted-theming)
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-lumina-lagoon-light]
+
+; Default Foreground
+; base05 #212829
+"Colour0"="33,40,41"
+
+; Default Bold Foreground  -- equals to non-bold
+; base05 #212829
+"Colour1"="33,40,41"
+
+; Default Background
+; base00 #eef9fb
+"Colour2"="238,249,251"
+
+; Default Bold Background  -- equals to non-bold
+; base00 #eef9fb
+"Colour3"="238,249,251"
+
+; Cursor Text -- equals to default background
+; base00 #eef9fb
+"Colour4"="238,249,251"
+
+; Cursor Colour -- equals to default foreground
+; base05 #212829
+"Colour5"="33,40,41"
+
+; ANSI Black
+; 30m
+; base00 #eef9fb
+"Colour6"="238,249,251"
+
+; ANSI Black Bright
+; 1;30m
+; base03 #c8d7da
+"Colour7"="200,215,218"
+
+; ANSI Red
+; 31m
+; base08 #901f1f
+"Colour8"="144,31,31"
+
+; ANSI Red Bright
+; 1;31m
+; base12 #69221e
+"Colour9"="105,34,30"
+
+; ANSI Green
+; 32m
+; base0B #007853
+"Colour10"="0,120,83"
+
+; ANSI Green Bright
+; 1;32m
+; base14 #006143
+"Colour11"="0,97,67"
+
+; ANSI Yellow
+; 33m
+; base0A #a06200
+"Colour12"="160,98,0"
+
+; ANSI Yellow Bright
+; 1;33m
+; base13 #855100
+"Colour13"="133,81,0"
+
+; ANSI Blue
+; 34m
+; base0D #1e69a2
+"Colour14"="30,105,162"
+
+; ANSI Blue Bright
+; 1;34m
+; base16 #00558b
+"Colour15"="0,85,139"
+
+; ANSI Magenta
+; 35m
+; base0E #5f3fa9
+"Colour16"="95,63,169"
+
+; ANSI Magenta Bright
+; 1;35m
+; base17 #73356f
+"Colour17"="115,53,111"
+
+; ANSI Cyan
+; 36m
+; base0C #345a61
+"Colour18"="52,90,97"
+
+; ANSI Cyan Bright
+; 1;36m
+; base15 #004953
+"Colour19"="0,73,83"
+
+; ANSI White
+; 37m
+; base05 #212829
+"Colour20"="33,40,41"
+
+; ANSI White Bright
+; 1;37m
+; base07 212829
+"Colour21"="33,40,41"

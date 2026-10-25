@@ -1,0 +1,41 @@
+# Rio Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Lumina Harbor Light by Razik Ikhlef (https://github.com/RazikSF)
+
+[colors]
+selection-background = '#1b2737' # base05
+selection-foreground = '#d4e0eb' # base02
+
+cursor         = '#1b2737' # base05
+tabs           = '#e0ebf7' # base01
+tabs-active    = '#d4e0eb' # base02
+
+background     = '#e6f2fe' # base00
+foreground     = '#1b2737' # base05
+black          = '#e6f2fe' # base00
+red            = '#992a28' # base08
+yellow         = '#a55800' # base0A
+green          = '#007742' # base0B
+cyan           = '#006f82' # base0C
+blue           = '#2863ab' # base0D
+magenta        = '#7f5bb6' # base0E
+white          = '#1b2737' # base05
+
+dim-foreground   = '#1b2737' # base05
+dim-black        = '#e0ebf7' # base01
+dim-red          = '#992a28' # base08
+dim-yellow       = '#a55800' # base0A
+dim-green        = '#007742' # base0B
+dim-cyan         = '#006f82' # base0C
+dim-blue         = '#2863ab' # base0D
+dim-magenta      = '#7f5bb6' # base0E
+dim-white        = '#788695' # base04
+
+light-foreground = '#1b2737' # base05
+light-black      = '#c4cfdb' # base03
+light-red        = '#712a26' # base12
+light-yellow     = '#884806' # base13
+light-green      = '#086035' # base14
+light-cyan       = '#005969' # base15
+light-blue       = '#1e508b' # base16
+light-magenta    = '#70366c' # base17
+light-white      = '#1b2737' # base07

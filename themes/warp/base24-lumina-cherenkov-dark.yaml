@@ -1,0 +1,30 @@
+# Tinted Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Lumina Cherenkov Dark by Razik Ikhlef (https://github.com/RazikSF)
+
+name: Base24 Lumina Cherenkov Dark
+accent: "#c4dbed" # base0D
+cursor: "#d0dce9" # base05
+background: "#0a111f" # base00
+foreground: "#d0dce9" # base05
+details: darker
+
+terminal_colors:
+  normal:
+    black: "#0a111f" # base00
+    red: "#da6159" # base08
+    yellow: "#e0b955" # base0A
+    green: "#8bd29a" # base0B
+    cyan: "#6ad0db" # base0C
+    blue: "#c4dbed" # base0D
+    magenta: "#cdaef2" # base0E
+    white: "#d0dce9" # base05
+
+  bright:
+    black: "#20283a" # base03
+    red: "#e5867e" # base12
+    yellow: "#fcd36b" # base13
+    green: "#a4edb2" # base14
+    cyan: "#84eaf6" # base15
+    blue: "#d3ecff" # base16
+    magenta: "#ffbff8" # base17
+    white: "#d0dce9" # base07

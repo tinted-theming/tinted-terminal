@@ -1,0 +1,30 @@
+# Tinted Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Lumina Parchment Light by Razik Ikhlef (https://github.com/RazikSF)
+
+name: Base24 Lumina Parchment Light
+accent: "#2b5a94" # base0D
+cursor: "#302416" # base05
+background: "#f3e9d2" # base00
+foreground: "#302416" # base05
+details: lighter
+
+terminal_colors:
+  normal:
+    black: "#f3e9d2" # base00
+    red: "#811d1d" # base08
+    yellow: "#905c00" # base0A
+    green: "#1b4732" # base0B
+    cyan: "#006476" # base0C
+    blue: "#2b5a94" # base0D
+    magenta: "#594c92" # base0E
+    white: "#302416" # base05
+
+  bright:
+    black: "#cdc7b9" # base03
+    red: "#5c1d1b" # base12
+    yellow: "#764a00" # base13
+    green: "#003520" # base14
+    cyan: "#004f5e" # base15
+    blue: "#17467e" # base16
+    magenta: "#642955" # base17
+    white: "#302416" # base07

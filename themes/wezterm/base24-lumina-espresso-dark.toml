@@ -1,0 +1,43 @@
+# base24 Lumina Espresso Dark
+# Scheme author: Razik Ikhlef (https://github.com/RazikSF)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
+[colors]
+background = "#2f1d11"
+foreground = "#e5dbcd"
+
+cursor_bg = "#e5dbcd"
+cursor_border = "#e5dbcd"
+cursor_fg = "#2f1d11"
+
+selection_bg = "#e5dbcd"
+selection_fg = "#402b1d"
+
+ansi = [
+  "#2f1d11",
+  "#d47169",
+  "#92c79c",
+  "#fdcf90",
+  "#92bbea",
+  "#b6afe8",
+  "#b7dce5",
+  "#e5dbcd"
+]
+brights = [
+  "#4b3527",
+  "#e1938b",
+  "#aae1b5",
+  "#ffe3be",
+  "#b0d5ff",
+  "#efadd2",
+  "#bef2ff",
+  "#e5dbcd"
+]
+
+[colors.indexed]
+16 = "#ffbe92"
+17 = "#dc8ebb"
+18 = "#352114"
+19 = "#402b1d"
+20 = "#866e5c"
+21 = "#beada3"

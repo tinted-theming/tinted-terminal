@@ -1,0 +1,43 @@
+# base24 Lumina Nebula Light
+# Scheme author: Razik Ikhlef (https://github.com/RazikSF)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
+[colors]
+background = "#f6f8fb"
+foreground = "#1f2a38"
+
+cursor_bg = "#1f2a38"
+cursor_border = "#1f2a38"
+cursor_fg = "#f6f8fb"
+
+selection_bg = "#1f2a38"
+selection_fg = "#e3e6ea"
+
+ansi = [
+  "#f6f8fb",
+  "#902725",
+  "#2e7241",
+  "#996000",
+  "#34639e",
+  "#6c4d9e",
+  "#00657e",
+  "#1f2a38"
+]
+brights = [
+  "#d3d5da",
+  "#692623",
+  "#1a5d2f",
+  "#7e4e00",
+  "#214f88",
+  "#6e3569",
+  "#005064",
+  "#1f2a38"
+]
+
+[colors.indexed]
+16 = "#944d1f"
+17 = "#84487f"
+18 = "#eff1f6"
+19 = "#e3e6ea"
+20 = "#84868a"
+21 = "#46484b"

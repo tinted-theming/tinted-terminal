@@ -1,0 +1,43 @@
+# base24 Lumina Quartz Light
+# Scheme author: Razik Ikhlef (https://github.com/RazikSF)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
+[colors]
+background = "#f6f7f8"
+foreground = "#404246"
+
+cursor_bg = "#404246"
+cursor_border = "#404246"
+cursor_fg = "#f6f7f8"
+
+selection_bg = "#404246"
+selection_fg = "#e3e5e6"
+
+ansi = [
+  "#f6f7f8",
+  "#861d1d",
+  "#207f4f",
+  "#a16011",
+  "#3566a4",
+  "#653eae",
+  "#037393",
+  "#404246"
+]
+brights = [
+  "#d3d4d6",
+  "#601e1c",
+  "#0f693e",
+  "#874e00",
+  "#21528e",
+  "#7e3861",
+  "#005e79",
+  "#404246"
+]
+
+[colors.indexed]
+16 = "#9f420b"
+17 = "#a7367b"
+18 = "#eff0f2"
+19 = "#e3e5e6"
+20 = "#858687"
+21 = "#474849"

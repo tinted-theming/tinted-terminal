@@ -1,0 +1,43 @@
+# base24 Lumina Ember Dark
+# Scheme author: Razik Ikhlef (https://github.com/RazikSF)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
+[colors]
+background = "#1c1916"
+foreground = "#e0d8cb"
+
+cursor_bg = "#e0d8cb"
+cursor_border = "#e0d8cb"
+cursor_fg = "#1c1916"
+
+selection_bg = "#e0d8cb"
+selection_fg = "#2b2724"
+
+ansi = [
+  "#1c1916",
+  "#d1635b",
+  "#90d6b4",
+  "#e4d874",
+  "#78bbea",
+  "#d4c8f2",
+  "#77cfd9",
+  "#e0d8cb"
+]
+brights = [
+  "#35312d",
+  "#dd867e",
+  "#a3f2cc",
+  "#f7eb89",
+  "#99d4ff",
+  "#ffc1f9",
+  "#90e9f4",
+  "#e0d8cb"
+]
+
+[colors.indexed]
+16 = "#f8a461"
+17 = "#e5a7df"
+18 = "#211e1a"
+19 = "#2b2724"
+20 = "#706b66"
+21 = "#b3b0ae"

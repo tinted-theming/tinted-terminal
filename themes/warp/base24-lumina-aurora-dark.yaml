@@ -1,0 +1,30 @@
+# Tinted Terminal base24 color theme (https://github.com/tinted-theming)
+# Color scheme: Lumina Aurora Dark by Razik Ikhlef (https://github.com/RazikSF)
+
+name: Base24 Lumina Aurora Dark
+accent: "#b8c5e4" # base0D
+cursor: "#d9d5e3" # base05
+background: "#120c1c" # base00
+foreground: "#d9d5e3" # base05
+details: darker
+
+terminal_colors:
+  normal:
+    black: "#120c1c" # base00
+    red: "#d45f58" # base08
+    yellow: "#fecc74" # base0A
+    green: "#53e39c" # base0B
+    cyan: "#75d7e2" # base0C
+    blue: "#b8c5e4" # base0D
+    magenta: "#c3bbff" # base0E
+    white: "#d9d5e3" # base05
+
+  bright:
+    black: "#292336" # base03
+    red: "#e0847c" # base12
+    yellow: "#ffe4b7" # base13
+    green: "#a2f4c4" # base14
+    cyan: "#8ef2fd" # base15
+    blue: "#d2dfff" # base16
+    magenta: "#ffcbf9" # base17
+    white: "#d9d5e3" # base07

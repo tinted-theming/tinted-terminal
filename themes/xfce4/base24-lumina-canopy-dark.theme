@@ -1,0 +1,10 @@
+# Scheme name: Lumina Canopy Dark
+# Scheme author: Razik Ikhlef (https://github.com/RazikSF)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
+[Scheme]
+Name=base24-lumina-canopy-dark
+ColorForeground=#cddbd0
+ColorBackground=#131d16
+ColorCursor=#cddbd0
+ColorBoldIsBright=FALSE
+ColorPalette=#131d16;#d3665e;#96d4a2;#f2bb31;#8dc6ff;#c1b8fc;#8ce3dd;#cddbd0;#2a362d;#df8981;#aeefbb;#ffd989;#bedeff;#f2b9f5;#a1fbf5;#cddbd0

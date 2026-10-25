@@ -1,0 +1,10 @@
+# Scheme name: Lumina Rayleigh Dark
+# Scheme author: Razik Ikhlef (https://github.com/RazikSF)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
+[Scheme]
+Name=base24-lumina-rayleigh-dark
+ColorForeground=#d4dbea
+ColorBackground=#14182c
+ColorCursor=#d4dbea
+ColorBoldIsBright=FALSE
+ColorPalette=#14182c;#da6d65;#96d2a1;#f8c970;#7cbdff;#b897f0;#acdae6;#d4dbea;#2b3048;#e69088;#afedba;#ffe4b4;#aed6ff;#ffbee2;#bff2ff;#d4dbea

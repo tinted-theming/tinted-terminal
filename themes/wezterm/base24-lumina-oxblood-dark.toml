@@ -1,0 +1,43 @@
+# base24 Lumina Oxblood Dark
+# Scheme author: Razik Ikhlef (https://github.com/RazikSF)
+# Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
+
+[colors]
+background = "#23171b"
+foreground = "#e4d2d7"
+
+cursor_bg = "#e4d2d7"
+cursor_border = "#e4d2d7"
+cursor_fg = "#23171b"
+
+selection_bg = "#e4d2d7"
+selection_fg = "#332529"
+
+ansi = [
+  "#23171b",
+  "#de6961",
+  "#7dc797",
+  "#f9c875",
+  "#96c3fb",
+  "#beb5fc",
+  "#00bed0",
+  "#e4d2d7"
+]
+brights = [
+  "#3d2f33",
+  "#e98e86",
+  "#98e1b1",
+  "#ffe4b8",
+  "#c0dcff",
+  "#f2d5ff",
+  "#76d2df",
+  "#e4d2d7"
+]
+
+[colors.indexed]
+16 = "#fca970"
+17 = "#ddb7ed"
+18 = "#291b20"
+19 = "#332529"
+20 = "#79686d"
+21 = "#b9adb1"

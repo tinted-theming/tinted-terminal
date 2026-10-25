@@ -1,0 +1,27 @@
+# Lumina Canopy Dark theme for Mintty
+# Scheme Author: Razik Ikhlef (https://github.com/RazikSF)
+# Scheme System: base24
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# The 16 color palette
+Black       = #131d16
+Red         = #d3665e
+Green       = #96d4a2
+Yellow      = #f2bb31
+Blue        = #8dc6ff
+Magenta     = #c1b8fc
+Cyan        = #8ce3dd
+White       = #cddbd0
+BoldBlack   = #2a362d
+BoldRed     = #df8981
+BoldGreen   = #aeefbb
+BoldYellow  = #ffd989
+BoldBlue    = #bedeff
+BoldMagenta = #f2b9f5
+BoldCyan    = #a1fbf5
+BoldWhite   = #cddbd0
+
+# Background & foreground colors
+BackgroundColour = #131d16
+ForegroundColour = #cddbd0
+CursorColour     = #cddbd0
