@@ -2,29 +2,29 @@
 # Color scheme: Lumina Lagoon Dark by Razik Ikhlef (https://github.com/RazikSF)
 
 name: Base24 Lumina Lagoon Dark
-accent: "#a0c7f9" # base0D
-cursor: "#d4e5ea" # base05
-background: "#182f36" # base00
-foreground: "#d4e5ea" # base05
+accent: "#8ec3f9" # base0D
+cursor: "#d7e6e7" # base05
+background: "#042930" # base00
+foreground: "#d7e6e7" # base05
 details: darker
 
 terminal_colors:
   normal:
-    black: "#182f36" # base00
-    red: "#df7370" # base08
-    yellow: "#dfcc78" # base0A
-    green: "#8dcea3" # base0B
-    cyan: "#84d3dc" # base0C
-    blue: "#a0c7f9" # base0D
-    magenta: "#c3bbfb" # base0E
-    white: "#d4e5ea" # base05
+    black: "#042930" # base00
+    red: "#d3726a" # base08
+    yellow: "#e7cf94" # base0A
+    green: "#9fd4a9" # base0B
+    cyan: "#5ad3d6" # base0C
+    blue: "#8ec3f9" # base0D
+    magenta: "#c8baf6" # base0E
+    white: "#d7e6e7" # base05
 
   bright:
-    black: "#2f4952" # base03
-    red: "#eb9692" # base12
-    yellow: "#fbe68b" # base13
-    green: "#a7e8bc" # base14
-    cyan: "#9dedf7" # base15
-    blue: "#c8e0ff" # base16
-    magenta: "#eac1ff" # base17
-    white: "#d4e5ea" # base07
+    black: "#1c434b" # base03
+    red: "#e0938c" # base12
+    yellow: "#ffe6a7" # base13
+    green: "#b8efc2" # base14
+    cyan: "#9fe6e8" # base15
+    blue: "#badcff" # base16
+    magenta: "#ffcaf9" # base17
+    white: "#d7e6e7" # base07

@@ -3,41 +3,41 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming/tinted-termihal)
 
 [colors]
-background = "#212311"
-foreground = "#dfddce"
+background = "#1a1b0c"
+foreground = "#e1dfce"
 
-cursor_bg = "#dfddce"
-cursor_border = "#dfddce"
-cursor_fg = "#212311"
+cursor_bg = "#e1dfce"
+cursor_border = "#e1dfce"
+cursor_fg = "#1a1b0c"
 
-selection_bg = "#dfddce"
-selection_fg = "#30321d"
+selection_bg = "#e1dfce"
+selection_fg = "#282918"
 
 ansi = [
-  "#212311",
-  "#cd6f71",
-  "#9acca4",
-  "#edba7a",
-  "#8fb9f7",
-  "#baa5dd",
-  "#8acbd2",
-  "#dfddce"
+  "#1a1b0c",
+  "#d3726a",
+  "#b5d5c6",
+  "#ebc27c",
+  "#a2c4f0",
+  "#c0baf2",
+  "#8bcfd7",
+  "#e1dfce"
 ]
 brights = [
-  "#3a3c27",
-  "#da9090",
-  "#b2e7bd",
-  "#ffd7a6",
-  "#b5d3ff",
-  "#f8c4f3",
-  "#a2e5ed",
-  "#dfddce"
+  "#323422",
+  "#e0938c",
+  "#b5f7da",
+  "#ffdea7",
+  "#c4ddff",
+  "#f0bbeb",
+  "#a3e9f2",
+  "#e1dfce"
 ]
 
 [colors.indexed]
-16 = "#e18c5f"
-17 = "#ddabd8"
-18 = "#262814"
-19 = "#30321d"
-20 = "#6f755c"
-21 = "#b1b3a3"
+16 = "#ffc39b"
+17 = "#d5a2d0"
+18 = "#1f200f"
+19 = "#282918"
+20 = "#6a6e58"
+21 = "#b1b2a5"

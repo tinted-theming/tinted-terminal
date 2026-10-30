@@ -1,92 +1,92 @@
 [Background]
-Color=247,246,251
+Color=242,250,249
 
 [BackgroundFaint]
-Color=255,255,255
+Color=252,255,255
 
 [BackgroundIntense]
-Color=247,246,251
+Color=242,250,249
 
 [Color0]
-Color=247,246,251
+Color=242,250,249
 
 [Color0Faint]
-Color=247,246,251
+Color=242,250,249
 
 [Color0Intense]
-Color=212,211,218
+Color=205,216,215
 
 [Color1]
-Color=134,14,35
+Color=148,42,40
 
 [Color1Faint]
-Color=134,14,35
+Color=148,42,40
 
 [Color1Intense]
-Color=95,23,30
+Color=109,41,38
 
 [Color2]
-Color=0,109,60
+Color=2,109,67
 
 [Color2Faint]
-Color=0,109,60
+Color=2,109,67
 
 [Color2Intense]
-Color=0,87,46
+Color=0,87,52
 
 [Color3]
-Color=155,100,0
+Color=159,97,22
 
 [Color3Faint]
-Color=155,100,0
+Color=159,97,22
 
 [Color3Intense]
-Color=129,82,0
+Color=134,78,1
 
 [Color4]
-Color=39,101,176
+Color=66,91,122
 
 [Color4Faint]
-Color=39,101,176
+Color=66,91,122
 
 [Color4Intense]
-Color=22,81,150
+Color=23,70,125
 
 [Color5]
-Color=82,70,99
+Color=117,79,165
 
 [Color5Faint]
-Color=82,70,99
+Color=117,79,165
 
 [Color5Intense]
-Color=128,53,105
+Color=115,58,110
 
 [Color6]
-Color=0,109,128
+Color=0,115,134
 
 [Color6Faint]
-Color=0,109,128
+Color=0,115,134
 
 [Color6Intense]
-Color=0,88,103
+Color=0,93,109
 
 [Color7]
-Color=48,42,59
+Color=22,50,54
 
 [Color7Faint]
-Color=48,42,59
+Color=22,50,54
 
 [Color7Intense]
-Color=48,42,59
+Color=22,50,54
 
 [Foreground]
-Color=48,42,59
+Color=22,50,54
 
 [ForegroundFaint]
-Color=134,133,139
+Color=126,137,135
 
 [ForegroundIntense]
-Color=72,71,76
+Color=65,74,73
 
 [General]
 Description=Lumina Aurora Light

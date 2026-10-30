@@ -2,29 +2,29 @@
 # Color scheme: Lumina Canopy Light by Razik Ikhlef (https://github.com/RazikSF)
 
 name: Base24 Lumina Canopy Light
-accent: "#1d5c99" # base0D
-cursor: "#3b433a" # base05
-background: "#f1f5f0" # base00
-foreground: "#3b433a" # base05
+accent: "#046aa7" # base0D
+cursor: "#1e3323" # base05
+background: "#f1f9ef" # base00
+foreground: "#1e3323" # base05
 details: lighter
 
 terminal_colors:
   normal:
-    black: "#f1f5f0" # base00
-    red: "#9c2e2c" # base08
-    yellow: "#a06115" # base0A
-    green: "#007953" # base0B
-    cyan: "#007083" # base0C
-    blue: "#1d5c99" # base0D
-    magenta: "#7360b8" # base0E
-    white: "#3b433a" # base05
+    black: "#f1f9ef" # base00
+    red: "#860c2c" # base08
+    yellow: "#905705" # base0A
+    green: "#337545" # base0B
+    cyan: "#007184" # base0C
+    blue: "#046aa7" # base0D
+    magenta: "#65599e" # base0E
+    white: "#1e3323" # base05
 
   bright:
-    black: "#ced3cc" # base03
-    red: "#742d2a" # base12
-    yellow: "#874e00" # base13
-    green: "#006243" # base14
-    cyan: "#005a6a" # base15
-    blue: "#0c487f" # base16
-    magenta: "#763560" # base17
-    white: "#3b433a" # base07
+    black: "#cdd7cb" # base03
+    red: "#5b1d26" # base12
+    yellow: "#764600" # base13
+    green: "#206033" # base14
+    cyan: "#005b6b" # base15
+    blue: "#0e5686" # base16
+    magenta: "#70396c" # base17
+    white: "#1e3323" # base07

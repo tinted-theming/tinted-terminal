@@ -2,29 +2,29 @@
 # Color scheme: Lumina Quartz Dark by Razik Ikhlef (https://github.com/RazikSF)
 
 name: Base24 Lumina Quartz Dark
-accent: "#9cc2f4" # base0D
-cursor: "#cdd0d4" # base05
-background: "#1a1b1c" # base00
-foreground: "#cdd0d4" # base05
+accent: "#b6ceed" # base0D
+cursor: "#ccd0d3" # base05
+background: "#161719" # base00
+foreground: "#ccd0d3" # base05
 details: darker
 
 terminal_colors:
   normal:
-    black: "#1a1b1c" # base00
-    red: "#d96e66" # base08
-    yellow: "#ddbb67" # base0A
-    green: "#b9daaa" # base0B
-    cyan: "#95e0e8" # base0C
-    blue: "#9cc2f4" # base0D
-    magenta: "#b296ff" # base0E
-    white: "#cdd0d4" # base05
+    black: "#161719" # base00
+    red: "#c57c74" # base08
+    yellow: "#dfcfb0" # base0A
+    green: "#9dd7b7" # base0B
+    cyan: "#a8d5db" # base0C
+    blue: "#b6ceed" # base0D
+    magenta: "#cbb4ef" # base0E
+    white: "#ccd0d3" # base05
 
   bright:
-    black: "#323334" # base03
-    red: "#e59189" # base12
-    yellow: "#f9d57d" # base13
-    green: "#cbf8b6" # base14
-    cyan: "#acf7ff" # base15
-    blue: "#c0dbff" # base16
-    magenta: "#fec2f8" # base17
-    white: "#cdd0d4" # base07
+    black: "#2e2f31" # base03
+    red: "#d59a93" # base12
+    yellow: "#ffe5b1" # base13
+    green: "#c2edd5" # base14
+    cyan: "#c1eff6" # base15
+    blue: "#d6e8ff" # base16
+    magenta: "#ffd7fa" # base17
+    white: "#ccd0d3" # base07

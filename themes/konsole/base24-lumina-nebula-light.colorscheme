@@ -1,92 +1,92 @@
 [Background]
-Color=246,248,251
+Color=248,244,255
 
 [BackgroundFaint]
-Color=254,255,255
+Color=255,253,255
 
 [BackgroundIntense]
-Color=246,248,251
+Color=248,244,255
 
 [Color0]
-Color=246,248,251
+Color=248,244,255
 
 [Color0Faint]
-Color=246,248,251
+Color=248,244,255
 
 [Color0Intense]
-Color=211,213,218
+Color=214,209,223
 
 [Color1]
-Color=144,39,37
+Color=147,34,34
 
 [Color1Faint]
-Color=144,39,37
+Color=147,34,34
 
 [Color1Intense]
-Color=105,38,35
+Color=108,36,33
 
 [Color2]
-Color=46,114,65
+Color=0,118,80
 
 [Color2Faint]
-Color=46,114,65
+Color=0,118,80
 
 [Color2Intense]
-Color=26,93,47
+Color=0,95,64
 
 [Color3]
-Color=153,96,0
+Color=149,91,1
 
 [Color3Faint]
-Color=153,96,0
+Color=149,91,1
 
 [Color3Intense]
-Color=126,78,0
+Color=122,74,0
 
 [Color4]
-Color=52,99,158
+Color=63,87,119
 
 [Color4Faint]
-Color=52,99,158
+Color=63,87,119
 
 [Color4Intense]
-Color=33,79,136
+Color=14,65,127
 
 [Color5]
-Color=108,77,158
+Color=93,64,177
 
 [Color5Faint]
-Color=108,77,158
+Color=93,64,177
 
 [Color5Intense]
-Color=110,53,105
+Color=114,53,110
 
 [Color6]
-Color=0,101,126
+Color=1,110,144
 
 [Color6Faint]
-Color=0,101,126
+Color=1,110,144
 
 [Color6Intense]
-Color=0,80,100
+Color=0,89,117
 
 [Color7]
-Color=31,42,56
+Color=45,44,70
 
 [Color7Faint]
-Color=31,42,56
+Color=45,44,70
 
 [Color7Intense]
-Color=31,42,56
+Color=45,44,70
 
 [Foreground]
-Color=31,42,56
+Color=45,44,70
 
 [ForegroundFaint]
-Color=132,134,138
+Color=136,131,145
 
 [ForegroundIntense]
-Color=70,72,75
+Color=74,69,81
 
 [General]
 Description=Lumina Nebula Light

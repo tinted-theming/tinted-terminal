@@ -2,29 +2,29 @@
 # Color scheme: Lumina Nebula Dark by Razik Ikhlef (https://github.com/RazikSF)
 
 name: Base24 Lumina Nebula Dark
-accent: "#92bef8" # base0D
-cursor: "#cadceb" # base05
-background: "#0a111a" # base00
-foreground: "#cadceb" # base05
+accent: "#c6d6e8" # base0D
+cursor: "#dde1ec" # base05
+background: "#161826" # base00
+foreground: "#dde1ec" # base05
 details: darker
 
 terminal_colors:
   normal:
-    black: "#0a111a" # base00
-    red: "#d36059" # base08
-    yellow: "#f7cf55" # base0A
-    green: "#8bce99" # base0B
-    cyan: "#00dfe5" # base0C
-    blue: "#92bef8" # base0D
-    magenta: "#aaaaec" # base0E
-    white: "#cadceb" # base05
+    black: "#161826" # base00
+    red: "#d57068" # base08
+    yellow: "#f3c085" # base0A
+    green: "#8fdcba" # base0B
+    cyan: "#88d2da" # base0C
+    blue: "#c6d6e8" # base0D
+    magenta: "#b0a4f8" # base0E
+    white: "#dde1ec" # base05
 
   bright:
-    black: "#202833" # base03
-    red: "#df847d" # base12
-    yellow: "#ffe6a0" # base13
-    green: "#a3e9b2" # base14
-    cyan: "#8ff1f4" # base15
-    blue: "#bad7ff" # base16
-    magenta: "#ffbbf7" # base17
-    white: "#cadceb" # base07
+    black: "#2d3041" # base03
+    red: "#e2928a" # base12
+    yellow: "#ffdfba" # base13
+    green: "#b0f5d5" # base14
+    cyan: "#a1ecf5" # base15
+    blue: "#d8eaff" # base16
+    magenta: "#ffc8f9" # base17
+    white: "#dde1ec" # base07

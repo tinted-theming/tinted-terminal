@@ -3,56 +3,56 @@
 
 # Default colors
 [colors.primary]
-background = '0xf2f8fc'
-foreground = '0x1e2735'
+background = '0xf5f8ff'
+foreground = '0x1f2e53'
 
 # Colors the cursor will use if `custom_cursor_colors` is true
 [colors.cursor]
-text = '0xf2f8fc'
-cursor = '0x1e2735'
+text = '0xf5f8ff'
+cursor = '0x1f2e53'
 
 # Normal colors
 [colors.normal]
-black = '0xf2f8fc'
-red = '0xcb3f3c'
-green = '0x4a7d26'
+black = '0xf5f8ff'
+red = '0xa32224'
+green = '0x227a3e'
 yellow = '0xa35f00'
-blue = '0x2c516b'
-magenta = '0x4433aa'
-cyan = '0x00697b'
-white = '0x1e2735'
+blue = '0x0a4fcc'
+magenta = '0x7849c1'
+cyan = '0x087181'
+white = '0x1f2e53'
 
 # Bright colors
 [colors.bright]
-black = '0xced6db'
-red = '0x9e423d'
-green = '0x3b671b'
+black = '0xd1d5df'
+red = '0x792825'
+green = '0x07652c'
 yellow = '0x874e00'
-blue = '0x003e60'
-magenta = '0x6d347a'
-cyan = '0x005462'
-white = '0x1e2735'
+blue = '0x1d448f'
+magenta = '0x793474'
+cyan = '0x005c69'
+white = '0x1f2e53'
 
 [[colors.indexed_colors]]
 index = 16
-color = "0x95470f"
+color = "0xb54a04"
 
 [[colors.indexed_colors]]
 index = 17
-color = "0x814a8d"
+color = "0x90478a"
 
 [[colors.indexed_colors]]
 index = 18
-color = "0xe9f2f7"
+color = "0xedf1fb"
 
 [[colors.indexed_colors]]
 index = 19
-color = "0xdee6ec"
+color = "0xe2e6ef"
 
 [[colors.indexed_colors]]
 index = 20
-color = "0x80878c"
+color = "0x82868f"
 
 [[colors.indexed_colors]]
 index = 21
-color = "0x42494d"
+color = "0x44484f"

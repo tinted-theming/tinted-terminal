@@ -13,26 +13,26 @@
     <value name="BackColorIdx" type="hex" data="00"/>
     <value name="PopTextColorIdx" type="hex" data="07"/>
     <value name="PopBackColorIdx" type="hex" data="00"/>
-    <value name="ColorTable00" type="dword" data="001c1b1a"/> <!-- base00 - Black -->
-    <value name="ColorTable01" type="dword" data="00666ed9"/> <!-- base08 - Red -->
-    <value name="ColorTable02" type="dword" data="00aadab9"/> <!-- base0B - Green -->
-    <value name="ColorTable03" type="dword" data="0067bbdd"/> <!-- base0A - Yellow -->
-    <value name="ColorTable04" type="dword" data="00f4c29c"/> <!-- base0D - Blue -->
-    <value name="ColorTable05" type="dword" data="00ff96b2"/> <!-- base0E - Magenta -->
-    <value name="ColorTable06" type="dword" data="00e8e095"/> <!-- base0C - Cyan -->
-    <value name="ColorTable07" type="dword" data="00d4d0cd"/> <!-- base05 - White -->
-    <value name="ColorTable08" type="dword" data="00343332"/> <!-- base03 - Bright Black -->
-    <value name="ColorTable09" type="dword" data="008991e5"/> <!-- base12 - Bright Red -->
-    <value name="ColorTable10" type="dword" data="00b6f8cb"/> <!-- base14 - Bright Green -->
-    <value name="ColorTable11" type="dword" data="007dd5f9"/> <!-- base13 - Bright Yellow -->
-    <value name="ColorTable12" type="dword" data="00ffdbc0"/> <!-- base16 - Bright Blue -->
-    <value name="ColorTable13" type="dword" data="00f8c2fe"/> <!-- base17 - Bright Magenta -->
-    <value name="ColorTable14" type="dword" data="00fff7ac"/> <!-- base15 - Bright Cyan -->
-    <value name="ColorTable15" type="dword" data="00d4d0cd"/> <!-- base07 - Bright White -->
-    <value name="ColorTable16" type="dword" data="007cadfe"/> <!-- base09 -->
-    <value name="ColorTable17" type="dword" data="00dda9e2"/> <!-- base0F -->
-    <value name="ColorTable18" type="dword" data="0021201f"/> <!-- base01 -->
-    <value name="ColorTable19" type="dword" data="002a2928"/> <!-- base02 -->
-    <value name="ColorTable20" type="dword" data="006e6d6b"/> <!-- base04 -->
-    <value name="ColorTable21" type="dword" data="00b2b1b0"/> <!-- base06 -->
+    <value name="ColorTable00" type="dword" data="00191716"/> <!-- base00 - Black -->
+    <value name="ColorTable01" type="dword" data="00747cc5"/> <!-- base08 - Red -->
+    <value name="ColorTable02" type="dword" data="00b7d79d"/> <!-- base0B - Green -->
+    <value name="ColorTable03" type="dword" data="00b0cfdf"/> <!-- base0A - Yellow -->
+    <value name="ColorTable04" type="dword" data="00edceb6"/> <!-- base0D - Blue -->
+    <value name="ColorTable05" type="dword" data="00efb4cb"/> <!-- base0E - Magenta -->
+    <value name="ColorTable06" type="dword" data="00dbd5a8"/> <!-- base0C - Cyan -->
+    <value name="ColorTable07" type="dword" data="00d3d0cc"/> <!-- base05 - White -->
+    <value name="ColorTable08" type="dword" data="00312f2e"/> <!-- base03 - Bright Black -->
+    <value name="ColorTable09" type="dword" data="00939ad5"/> <!-- base12 - Bright Red -->
+    <value name="ColorTable10" type="dword" data="00d5edc2"/> <!-- base14 - Bright Green -->
+    <value name="ColorTable11" type="dword" data="00b1e5ff"/> <!-- base13 - Bright Yellow -->
+    <value name="ColorTable12" type="dword" data="00ffe8d6"/> <!-- base16 - Bright Blue -->
+    <value name="ColorTable13" type="dword" data="00fad7ff"/> <!-- base17 - Bright Magenta -->
+    <value name="ColorTable14" type="dword" data="00f6efc1"/> <!-- base15 - Bright Cyan -->
+    <value name="ColorTable15" type="dword" data="00d3d0cc"/> <!-- base07 - Bright White -->
+    <value name="ColorTable16" type="dword" data="009abef6"/> <!-- base09 -->
+    <value name="ColorTable17" type="dword" data="00dfbde4"/> <!-- base0F -->
+    <value name="ColorTable18" type="dword" data="001e1c1a"/> <!-- base01 -->
+    <value name="ColorTable19" type="dword" data="00272524"/> <!-- base02 -->
+    <value name="ColorTable20" type="dword" data="006d6a67"/> <!-- base04 -->
+    <value name="ColorTable21" type="dword" data="00b3b1b0"/> <!-- base06 -->
 </key>

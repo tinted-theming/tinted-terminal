@@ -1,92 +1,92 @@
 [Background]
-Color=251,248,240
+Color=249,244,234
 
 [BackgroundFaint]
-Color=255,255,251
+Color=255,253,248
 
 [BackgroundIntense]
-Color=251,248,240
+Color=249,244,234
 
 [Color0]
-Color=251,248,240
+Color=249,244,234
 
 [Color0Faint]
-Color=251,248,240
+Color=249,244,234
 
 [Color0Intense]
-Color=217,213,202
+Color=216,209,196
 
 [Color1]
-Color=151,37,36
+Color=129,29,29
 
 [Color1Faint]
-Color=151,37,36
+Color=129,29,29
 
 [Color1Intense]
-Color=111,38,35
+Color=92,29,27
 
 [Color2]
-Color=35,120,79
+Color=67,115,41
 
 [Color2Faint]
-Color=35,120,79
+Color=67,115,41
 
 [Color2Intense]
-Color=0,99,60
+Color=53,93,32
 
 [Color3]
-Color=104,72,45
+Color=160,97,22
 
 [Color3Faint]
-Color=104,72,45
+Color=160,97,22
 
 [Color3Intense]
-Color=92,49,0
+Color=135,78,1
 
 [Color4]
-Color=55,112,176
+Color=37,107,153
 
 [Color4Faint]
-Color=55,112,176
+Color=37,107,153
 
 [Color4Intense]
-Color=35,91,153
+Color=0,87,133
 
 [Color5]
-Color=102,69,153
+Color=101,89,161
 
 [Color5Faint]
-Color=102,69,153
+Color=101,89,161
 
 [Color5Intense]
-Color=127,55,98
+Color=120,55,99
 
 [Color6]
-Color=0,116,136
+Color=0,114,133
 
 [Color6Faint]
-Color=0,116,136
+Color=0,114,133
 
 [Color6Intense]
-Color=0,94,111
+Color=0,92,108
 
 [Color7]
-Color=61,51,43
+Color=55,43,30
 
 [Color7Faint]
-Color=61,51,43
+Color=55,43,30
 
 [Color7Intense]
-Color=61,51,43
+Color=55,43,30
 
 [Foreground]
-Color=61,51,43
+Color=55,43,30
 
 [ForegroundFaint]
-Color=138,134,124
+Color=140,133,121
 
 [ForegroundIntense]
-Color=75,71,62
+Color=77,71,60
 
 [General]
 Description=Lumina Ember Light

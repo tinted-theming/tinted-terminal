@@ -1,92 +1,92 @@
 [Background]
-Color=12,30,55
+Color=13,17,29
 
 [BackgroundFaint]
-Color=4,18,40
+Color=5,7,16
 
 [BackgroundIntense]
-Color=12,30,55
+Color=13,17,29
 
 [Color0]
-Color=12,30,55
+Color=13,17,29
 
 [Color0Faint]
-Color=12,30,55
+Color=13,17,29
 
 [Color0Intense]
-Color=34,55,85
+Color=35,40,55
 
 [Color1]
-Color=221,107,98
+Color=208,117,108
 
 [Color1Faint]
-Color=221,107,98
+Color=208,117,108
 
 [Color1Intense]
-Color=232,143,134
+Color=222,150,142
 
 [Color2]
-Color=130,217,180
+Color=155,216,180
 
 [Color2Faint]
-Color=130,217,180
+Color=155,216,180
 
 [Color2Intense]
-Color=161,242,206
+Color=185,241,208
 
 [Color3]
-Color=232,214,107
+Color=234,206,140
 
 [Color3Faint]
-Color=232,214,107
+Color=234,206,140
 
 [Color3Intense]
-Color=251,234,135
+Color=255,229,169
 
 [Color4]
-Color=135,198,242
+Color=145,197,234
 
 [Color4Faint]
-Color=135,198,242
+Color=145,197,234
 
 [Color4Intense]
 Color=177,222,255
 
 [Color5]
-Color=184,151,240
+Color=193,187,239
 
 [Color5Faint]
-Color=184,151,240
+Color=193,187,239
 
 [Color5Intense]
-Color=255,197,248
+Color=235,196,245
 
 [Color6]
-Color=190,222,228
+Color=145,207,214
 
 [Color6Faint]
-Color=190,222,228
+Color=145,207,214
 
 [Color6Intense]
-Color=184,244,255
+Color=170,233,240
 
 [Color7]
-Color=207,220,235
+Color=221,225,235
 
 [Color7Faint]
-Color=207,220,235
+Color=221,225,235
 
 [Color7Intense]
-Color=207,220,235
+Color=221,225,235
 
 [Foreground]
-Color=207,220,235
+Color=221,225,235
 
 [ForegroundFaint]
-Color=87,113,146
+Color=98,105,122
 
 [ForegroundIntense]
-Color=162,178,202
+Color=172,177,189
 
 [General]
 Description=Lumina Harbor Dark

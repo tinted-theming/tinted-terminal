@@ -5,27 +5,27 @@
 *)
 tell application "iTerm2"
     tell current session of current window
-        set background color to {6168, 12079, 13878}
-        set foreground color to {54484, 58853, 60138}
+        set background color to {1028, 10537, 12336}
+        set foreground color to {55255, 59110, 59367}
 
         -- Set ANSI Colors
-        set ANSI black color to {6168, 12079, 13878}
-        set ANSI red color to {57311, 29555, 28784}
-        set ANSI green color to {36237, 52942, 41891}
-        set ANSI yellow color to {57311, 52428, 30840}
-        set ANSI blue color to {41120, 51143, 63993}
-        set ANSI magenta color to {50115, 48059, 64507}
-        set ANSI cyan color to {33924, 54227, 56540}
-        set ANSI white color to {54484, 58853, 60138}
+        set ANSI black color to {1028, 10537, 12336}
+        set ANSI red color to {54227, 29298, 27242}
+        set ANSI green color to {40863, 54484, 43433}
+        set ANSI yellow color to {59367, 53199, 38036}
+        set ANSI blue color to {36494, 50115, 63993}
+        set ANSI magenta color to {51400, 47802, 63222}
+        set ANSI cyan color to {23130, 54227, 54998}
+        set ANSI white color to {55255, 59110, 59367}
 
         -- Set Bright ANSI Colors
-        set ANSI bright black color to {12079, 18761, 21074}
-        set ANSI bright red color to {60395, 38550, 37522}
-        set ANSI bright green color to {42919, 59624, 48316}
-        set ANSI bright yellow color to {64507, 59110, 35723}
-        set ANSI bright blue color to {51400, 57568, 65535}
-        set ANSI bright magenta color to {60138, 49601, 65535}
-        set ANSI bright cyan color to {40349, 60909, 63479}
-        set ANSI bright white color to {54484, 58853, 60138}
+        set ANSI bright black color to {7196, 17219, 19275}
+        set ANSI bright red color to {57568, 37779, 35980}
+        set ANSI bright green color to {47288, 61423, 49858}
+        set ANSI bright yellow color to {65535, 59110, 42919}
+        set ANSI bright blue color to {47802, 56540, 65535}
+        set ANSI bright magenta color to {65535, 51914, 63993}
+        set ANSI bright cyan color to {40863, 59110, 59624}
+        set ANSI bright white color to {55255, 59110, 59367}
     end tell
 end tell

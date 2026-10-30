@@ -2,29 +2,29 @@
 # Color scheme: Lumina Parchment Dark by Razik Ikhlef (https://github.com/RazikSF)
 
 name: Base24 Lumina Parchment Dark
-accent: "#9ebde6" # base0D
-cursor: "#eee7d9" # base05
-background: "#342d21" # base00
-foreground: "#eee7d9" # base05
+accent: "#97bdf4" # base0D
+cursor: "#efe5d0" # base05
+background: "#2a2116" # base00
+foreground: "#efe5d0" # base05
 details: darker
 
 terminal_colors:
   normal:
-    black: "#342d21" # base00
-    red: "#db7d75" # base08
-    yellow: "#f3cb7f" # base0A
-    green: "#c3dcc7" # base0B
-    cyan: "#89c7ce" # base0C
-    blue: "#9ebde6" # base0D
-    magenta: "#b9b3e7" # base0E
-    white: "#eee7d9" # base05
+    black: "#2a2116" # base00
+    red: "#d47169" # base08
+    yellow: "#e0ba6a" # base0A
+    green: "#92d3b9" # base0B
+    cyan: "#85cbd3" # base0C
+    blue: "#97bdf4" # base0D
+    magenta: "#bcb5ee" # base0E
+    white: "#efe5d0" # base05
 
   bright:
-    black: "#4f4739" # base03
-    red: "#e89e97" # base12
-    yellow: "#ffe4b3" # base13
-    green: "#c4f7cd" # base14
-    cyan: "#a1e1e8" # base15
-    blue: "#b8d7ff" # base16
-    magenta: "#ecb6e0" # base17
-    white: "#eee7d9" # base07
+    black: "#443a2d" # base03
+    red: "#e1938b" # base12
+    yellow: "#fad484" # base13
+    green: "#aaeed2" # base14
+    cyan: "#9ee5ee" # base15
+    blue: "#bbd7ff" # base16
+    magenta: "#ecbef3" # base17
+    white: "#efe5d0" # base07

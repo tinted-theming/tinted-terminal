@@ -20,14 +20,14 @@ diff '--color=auto' -u -N st-0.9.3/config.def.h st-0.9.3-mod/config.def.h
 -	"magenta3",
 -	"cyan3",
 -	"gray90",
-+	[0] = "#f3e9d2",   /* black  */
-+	[1] = "#811d1d",   /* red    */
-+	[2] = "#1b4732",   /* green  */
-+	[3] = "#905c00",   /* yellow */
-+	[4] = "#2b5a94",   /* blue   */
-+	[5] = "#594c92",   /* magenta*/
-+	[6] = "#006476",   /* cyan   */
-+	[7] = "#302416",   /* white  */
++	[0] = "#f9efda",   /* black  */
++	[1] = "#912918",   /* red    */
++	[2] = "#2d7341",   /* green  */
++	[3] = "#654935",   /* yellow */
++	[4] = "#2e5fb0",   /* blue   */
++	[5] = "#62559d",   /* magenta*/
++	[6] = "#006e81",   /* cyan   */
++	[7] = "#352516",   /* white  */
 
  	/* 8 bright colors */
 -	"gray50",
@@ -38,14 +38,14 @@ diff '--color=auto' -u -N st-0.9.3/config.def.h st-0.9.3-mod/config.def.h
 -	"magenta",
 -	"cyan",
 -	"white",
-+	[8] = "#cdc7b9",   /* black  */
-+	[9] = "#5c1d1b",   /* red    */
-+	[10] = "#003520",  /* green  */
-+	[11] = "#764a00",  /* yellow */
-+	[12] = "#17467e",  /* blue   */
-+	[13] = "#642955",  /* magenta*/
-+	[14] = "#004f5e",  /* cyan   */
-+	[15] = "#302416",  /* white  */
++	[8] = "#d3cdbf",   /* black  */
++	[9] = "#6b281c",   /* red    */
++	[10] = "#195e2f",  /* green  */
++	[11] = "#5f2f00",  /* yellow */
++	[12] = "#284d8a",  /* blue   */
++	[13] = "#6b3770",  /* magenta*/
++	[14] = "#005868",  /* cyan   */
++	[15] = "#352516",  /* white  */
 
  	[255] = 0,
 
@@ -54,8 +54,8 @@ diff '--color=auto' -u -N st-0.9.3/config.def.h st-0.9.3-mod/config.def.h
 -	"#555555",
 -	"gray90", /* default foreground colour */
 -	"black", /* default background colour */
-+	[256] = "#302416",  /* foreground */
-+	[257] = "#f3e9d2",  /* background */
++	[256] = "#352516",  /* foreground */
++	[257] = "#f9efda",  /* background */
  };
 
 
@@ -69,3 +69,4 @@ diff '--color=auto' -u -N st-0.9.3/config.def.h st-0.9.3-mod/config.def.h
 +unsigned int defaultbg = 257;
  unsigned int defaultcs = 256;
  static unsigned int defaultrcs = 257;
+

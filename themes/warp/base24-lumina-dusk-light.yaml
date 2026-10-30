@@ -2,29 +2,29 @@
 # Color scheme: Lumina Dusk Light by Razik Ikhlef (https://github.com/RazikSF)
 
 name: Base24 Lumina Dusk Light
-accent: "#334f9d" # base0D
-cursor: "#3f3341" # base05
-background: "#f1eaf2" # base00
-foreground: "#3f3341" # base05
+accent: "#3163ad" # base0D
+cursor: "#2e2945" # base05
+background: "#f6f3fe" # base00
+foreground: "#2e2945" # base05
 details: lighter
 
 terminal_colors:
   normal:
-    black: "#f1eaf2" # base00
-    red: "#882322" # base08
-    yellow: "#644c31" # base0A
-    green: "#27693a" # base0B
-    cyan: "#006576" # base0C
-    blue: "#334f9d" # base0D
-    magenta: "#5a4d91" # base0E
-    white: "#3f3341" # base05
+    black: "#f6f3fe" # base00
+    red: "#872423" # base08
+    yellow: "#9e611b" # base0A
+    green: "#357545" # base0B
+    cyan: "#007185" # base0C
+    blue: "#3163ad" # base0D
+    magenta: "#7b46a4" # base0E
+    white: "#2e2945" # base05
 
   bright:
-    black: "#d0c7d2" # base03
-    red: "#622220" # base12
-    yellow: "#593500" # base13
-    green: "#125529" # base14
-    cyan: "#00505e" # base15
-    blue: "#283e7a" # base16
-    magenta: "#532559" # base17
-    white: "#3f3341" # base07
+    black: "#d4d0de" # base03
+    red: "#622320" # base12
+    yellow: "#854e07" # base13
+    green: "#216033" # base14
+    cyan: "#005b6c" # base15
+    blue: "#2b5088" # base16
+    magenta: "#713a6c" # base17
+    white: "#2e2945" # base07

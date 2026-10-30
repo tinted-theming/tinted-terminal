@@ -2,29 +2,29 @@
 # Color scheme: Lumina Espresso Dark by Razik Ikhlef (https://github.com/RazikSF)
 
 name: Base24 Lumina Espresso Dark
-accent: "#92bbea" # base0D
-cursor: "#e5dbcd" # base05
-background: "#2f1d11" # base00
-foreground: "#e5dbcd" # base05
+accent: "#96bfe9" # base0D
+cursor: "#e5dfd6" # base05
+background: "#1e150e" # base00
+foreground: "#e5dfd6" # base05
 details: darker
 
 terminal_colors:
   normal:
-    black: "#2f1d11" # base00
-    red: "#d47169" # base08
-    yellow: "#fdcf90" # base0A
-    green: "#92c79c" # base0B
-    cyan: "#b7dce5" # base0C
-    blue: "#92bbea" # base0D
-    magenta: "#b6afe8" # base0E
-    white: "#e5dbcd" # base05
+    black: "#1e150e" # base00
+    red: "#cd766e" # base08
+    yellow: "#efca86" # base0A
+    green: "#95d3b1" # base0B
+    cyan: "#90cad1" # base0C
+    blue: "#96bfe9" # base0D
+    magenta: "#c7ade7" # base0E
+    white: "#e5dfd6" # base05
 
   bright:
-    black: "#4b3527" # base03
-    red: "#e1938b" # base12
-    yellow: "#ffe3be" # base13
-    green: "#aae1b5" # base14
-    cyan: "#bef2ff" # base15
-    blue: "#b0d5ff" # base16
-    magenta: "#efadd2" # base17
-    white: "#e5dbcd" # base07
+    black: "#382d24" # base03
+    red: "#db968f" # base12
+    yellow: "#ffe4b4" # base13
+    green: "#b5ebcd" # base14
+    cyan: "#a9e4ec" # base15
+    blue: "#b5d8fd" # base16
+    magenta: "#f6c6f1" # base17
+    white: "#e5dfd6" # base07

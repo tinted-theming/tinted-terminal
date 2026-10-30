@@ -3,8 +3,8 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base24-lumina-espresso-light
-ColorForeground=#322219
-ColorBackground=#fbeedf
-ColorCursor=#322219
+ColorForeground=#39261b
+ColorBackground=#fcf0e3
+ColorCursor=#39261b
 ColorBoldIsBright=FALSE
-ColorPalette=#fbeedf;#cd2e3f;#1e6d37;#9d5c09;#03679f;#5c4c9a;#28596c;#322219;#d6ccc0;#974043;#065826;#834a00;#005381;#6a2c65;#00465c;#322219
+ColorPalette=#fcf0e3;#842120;#15744d;#6d4e36;#2868a3;#7049a1;#007083;#39261b;#d9cec2;#5f201e;#005e3c;#653400;#1a5488;#70386b;#005a6a;#39261b

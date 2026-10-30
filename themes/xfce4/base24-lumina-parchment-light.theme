@@ -3,8 +3,8 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base24-lumina-parchment-light
-ColorForeground=#302416
-ColorBackground=#f3e9d2
-ColorCursor=#302416
+ColorForeground=#352516
+ColorBackground=#f9efda
+ColorCursor=#352516
 ColorBoldIsBright=FALSE
-ColorPalette=#f3e9d2;#811d1d;#1b4732;#905c00;#2b5a94;#594c92;#006476;#302416;#cdc7b9;#5c1d1b;#003520;#764a00;#17467e;#642955;#004f5e;#302416
+ColorPalette=#f9efda;#912918;#2d7341;#654935;#2e5fb0;#62559d;#006e81;#352516;#d3cdbf;#6b281c;#195e2f;#5f2f00;#284d8a;#6b3770;#005868;#352516

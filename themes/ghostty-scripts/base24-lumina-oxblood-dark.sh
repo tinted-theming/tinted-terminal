@@ -20,28 +20,28 @@ EOF
 }
 
 
-ghostty_palette_color_0="#23171b"
-ghostty_palette_color_1="#de6961"
+ghostty_palette_color_0="#200f16"
+ghostty_palette_color_1="#db6c63"
 ghostty_palette_color_2="#7dc797"
 ghostty_palette_color_3="#f9c875"
-ghostty_palette_color_4="#96c3fb"
-ghostty_palette_color_5="#beb5fc"
-ghostty_palette_color_6="#00bed0"
-ghostty_palette_color_7="#e4d2d7"
-ghostty_palette_color_8="#3d2f33"
-ghostty_palette_color_9="#e98e86"
-ghostty_palette_color_10="#98e1b1"
+ghostty_palette_color_4="#9ac3f8"
+ghostty_palette_color_5="#bfb6f9"
+ghostty_palette_color_6="#6fcad4"
+ghostty_palette_color_7="#e8d6dc"
+ghostty_palette_color_8="#3b262e"
+ghostty_palette_color_9="#e78f86"
+ghostty_palette_color_10="#9ce0b2"
 ghostty_palette_color_11="#ffe4b8"
-ghostty_palette_color_12="#c0dcff"
+ghostty_palette_color_12="#c2dcff"
 ghostty_palette_color_13="#f2d5ff"
-ghostty_palette_color_14="#76d2df"
-ghostty_palette_color_15="#e4d2d7"
-ghostty_palette_color_16="#fca970"
+ghostty_palette_color_14="#8de4ed"
+ghostty_palette_color_15="#e8d6dc"
+ghostty_palette_color_16="#fbac74"
 ghostty_palette_color_17="#ddb7ed"
-ghostty_palette_color_18="#291b20"
-ghostty_palette_color_19="#332529"
-ghostty_palette_color_20="#79686d"
-ghostty_palette_color_21="#b9adb1"
+ghostty_palette_color_18="#26131b"
+ghostty_palette_color_19="#301c24"
+ghostty_palette_color_20="#79616a"
+ghostty_palette_color_21="#bdacb2"
 
 _theme_file() {
 cat <<EOF
@@ -81,10 +81,10 @@ foreground = $ghostty_palette_color_7
 cursor-color = $ghostty_palette_color_7
 selection-background = $ghostty_palette_color_7
 selection-foreground = $ghostty_palette_color_19
-search-background = $ghostty_palette_color_18
-search-foreground = $ghostty_palette_color_3
+search-background = $ghostty_palette_color_3
+search-foreground = $ghostty_palette_color_18
 search-selected-background = $ghostty_palette_color_16
-search-selected-foreground = $ghostty_palette_color_3
+search-selected-foreground = $ghostty_palette_color_18
 
 # Set \`macos-icon\` = custom-style in your main configuration file to enable theming of the app icon.
 EOF

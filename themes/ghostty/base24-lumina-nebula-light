@@ -5,43 +5,43 @@
 # Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
 
 # Color palette
-palette = 0=#f6f8fb
-palette = 1=#902725
-palette = 2=#2e7241
-palette = 3=#996000
-palette = 4=#34639e
-palette = 5=#6c4d9e
-palette = 6=#00657e
-palette = 7=#1f2a38
-palette = 8=#d3d5da
-palette = 9=#692623
-palette = 10=#1a5d2f
-palette = 11=#7e4e00
-palette = 12=#214f88
-palette = 13=#6e3569
-palette = 14=#005064
-palette = 15=#1f2a38
-palette = 16=#944d1f
-palette = 17=#84487f
-palette = 18=#eff1f6
-palette = 19=#e3e6ea
-palette = 20=#84868a
-palette = 21=#46484b
+palette = 0=#f8f4ff
+palette = 1=#932222
+palette = 2=#007650
+palette = 3=#955b01
+palette = 4=#3f5777
+palette = 5=#5d40b1
+palette = 6=#016e90
+palette = 7=#2d2c46
+palette = 8=#d6d1df
+palette = 9=#6c2421
+palette = 10=#005f40
+palette = 11=#7a4a00
+palette = 12=#0e417f
+palette = 13=#72356e
+palette = 14=#005975
+palette = 15=#2d2c46
+palette = 16=#934916
+palette = 17=#894884
+palette = 18=#f2edfb
+palette = 19=#e6e1ef
+palette = 20=#888391
+palette = 21=#4a4551
 
 # Foreground & background colors
-background = #f6f8fb
-foreground = #1f2a38
-cursor-color = #1f2a38
-selection-background = #1f2a38
-selection-foreground = #e3e6ea
-search-background = #996000
-search-foreground = #eff1f6
-search-selected-background = #944d1f
-search-selected-foreground = #eff1f6
+background = #f8f4ff
+foreground = #2d2c46
+cursor-color = #2d2c46
+selection-background = #2d2c46
+selection-foreground = #e6e1ef
+search-background = #955b01
+search-foreground = #f2edfb
+search-selected-background = #934916
+search-selected-foreground = #f2edfb
 
 # Set `macos-icon = custom-style` in your main configuration file to enable theming of the app icon.
 #
 # Set the ghost color to the lightest foreground:
-macos-icon-ghost-color = #1f2a38
+macos-icon-ghost-color = #2d2c46
 # Replace the official icon's blue background with the designated bright blue color:
-macos-icon-screen-color = #214f88
+macos-icon-screen-color = #0e417f

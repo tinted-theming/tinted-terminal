@@ -20,28 +20,28 @@ EOF
 }
 
 
-ghostty_palette_color_0="#0a111f"
-ghostty_palette_color_1="#da6159"
-ghostty_palette_color_2="#8bd29a"
-ghostty_palette_color_3="#e0b955"
-ghostty_palette_color_4="#c4dbed"
-ghostty_palette_color_5="#cdaef2"
-ghostty_palette_color_6="#6ad0db"
-ghostty_palette_color_7="#d0dce9"
-ghostty_palette_color_8="#20283a"
-ghostty_palette_color_9="#e5867e"
-ghostty_palette_color_10="#a4edb2"
-ghostty_palette_color_11="#fcd36b"
-ghostty_palette_color_12="#d3ecff"
-ghostty_palette_color_13="#ffbff8"
-ghostty_palette_color_14="#84eaf6"
-ghostty_palette_color_15="#d0dce9"
-ghostty_palette_color_16="#fda769"
-ghostty_palette_color_17="#e7a3e0"
-ghostty_palette_color_18="#0e1525"
-ghostty_palette_color_19="#161f2f"
-ghostty_palette_color_20="#5f697d"
-ghostty_palette_color_21="#aab1bf"
+ghostty_palette_color_0="#021129"
+ghostty_palette_color_1="#db6c64"
+ghostty_palette_color_2="#9ad8a6"
+ghostty_palette_color_3="#ead293"
+ghostty_palette_color_4="#4ca1ff"
+ghostty_palette_color_5="#c7aefe"
+ghostty_palette_color_6="#8fe7fd"
+ghostty_palette_color_7="#d7e7f5"
+ghostty_palette_color_8="#142946"
+ghostty_palette_color_9="#e79088"
+ghostty_palette_color_10="#b2f3bf"
+ghostty_palette_color_11="#ffe6a4"
+ghostty_palette_color_12="#90bbee"
+ghostty_palette_color_13="#ffcefa"
+ghostty_palette_color_14="#bff2ff"
+ghostty_palette_color_15="#d7e7f5"
+ghostty_palette_color_16="#fba26f"
+ghostty_palette_color_17="#ecafe6"
+ghostty_palette_color_18="#031530"
+ghostty_palette_color_19="#0a1f3b"
+ghostty_palette_color_20="#536a8b"
+ghostty_palette_color_21="#a2b3ca"
 
 _theme_file() {
 cat <<EOF
@@ -81,10 +81,10 @@ foreground = $ghostty_palette_color_7
 cursor-color = $ghostty_palette_color_7
 selection-background = $ghostty_palette_color_7
 selection-foreground = $ghostty_palette_color_19
-search-background = $ghostty_palette_color_18
-search-foreground = $ghostty_palette_color_3
+search-background = $ghostty_palette_color_3
+search-foreground = $ghostty_palette_color_18
 search-selected-background = $ghostty_palette_color_16
-search-selected-foreground = $ghostty_palette_color_3
+search-selected-foreground = $ghostty_palette_color_18
 
 # Set \`macos-icon\` = custom-style in your main configuration file to enable theming of the app icon.
 EOF

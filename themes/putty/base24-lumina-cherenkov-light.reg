@@ -8,58 +8,58 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-lumina-cherenkov-light]
 
 ; Default Foreground
-; base05 #1e2735
-"Colour0"="30,39,53"
+; base05 #1f2e53
+"Colour0"="31,46,83"
 
 ; Default Bold Foreground  -- equals to non-bold
-; base05 #1e2735
-"Colour1"="30,39,53"
+; base05 #1f2e53
+"Colour1"="31,46,83"
 
 ; Default Background
-; base00 #f2f8fc
-"Colour2"="242,248,252"
+; base00 #f5f8ff
+"Colour2"="245,248,255"
 
 ; Default Bold Background  -- equals to non-bold
-; base00 #f2f8fc
-"Colour3"="242,248,252"
+; base00 #f5f8ff
+"Colour3"="245,248,255"
 
 ; Cursor Text -- equals to default background
-; base00 #f2f8fc
-"Colour4"="242,248,252"
+; base00 #f5f8ff
+"Colour4"="245,248,255"
 
 ; Cursor Colour -- equals to default foreground
-; base05 #1e2735
-"Colour5"="30,39,53"
+; base05 #1f2e53
+"Colour5"="31,46,83"
 
 ; ANSI Black
 ; 30m
-; base00 #f2f8fc
-"Colour6"="242,248,252"
+; base00 #f5f8ff
+"Colour6"="245,248,255"
 
 ; ANSI Black Bright
 ; 1;30m
-; base03 #ced6db
-"Colour7"="206,214,219"
+; base03 #d1d5df
+"Colour7"="209,213,223"
 
 ; ANSI Red
 ; 31m
-; base08 #cb3f3c
-"Colour8"="203,63,60"
+; base08 #a32224
+"Colour8"="163,34,36"
 
 ; ANSI Red Bright
 ; 1;31m
-; base12 #9e423d
-"Colour9"="158,66,61"
+; base12 #792825
+"Colour9"="121,40,37"
 
 ; ANSI Green
 ; 32m
-; base0B #4a7d26
-"Colour10"="74,125,38"
+; base0B #227a3e
+"Colour10"="34,122,62"
 
 ; ANSI Green Bright
 ; 1;32m
-; base14 #3b671b
-"Colour11"="59,103,27"
+; base14 #07652c
+"Colour11"="7,101,44"
 
 ; ANSI Yellow
 ; 33m
@@ -73,40 +73,40 @@ Windows Registry Editor Version 5.00
 
 ; ANSI Blue
 ; 34m
-; base0D #2c516b
-"Colour14"="44,81,107"
+; base0D #0a4fcc
+"Colour14"="10,79,204"
 
 ; ANSI Blue Bright
 ; 1;34m
-; base16 #003e60
-"Colour15"="0,62,96"
+; base16 #1d448f
+"Colour15"="29,68,143"
 
 ; ANSI Magenta
 ; 35m
-; base0E #4433aa
-"Colour16"="68,51,170"
+; base0E #7849c1
+"Colour16"="120,73,193"
 
 ; ANSI Magenta Bright
 ; 1;35m
-; base17 #6d347a
-"Colour17"="109,52,122"
+; base17 #793474
+"Colour17"="121,52,116"
 
 ; ANSI Cyan
 ; 36m
-; base0C #00697b
-"Colour18"="0,105,123"
+; base0C #087181
+"Colour18"="8,113,129"
 
 ; ANSI Cyan Bright
 ; 1;36m
-; base15 #005462
-"Colour19"="0,84,98"
+; base15 #005c69
+"Colour19"="0,92,105"
 
 ; ANSI White
 ; 37m
-; base05 #1e2735
-"Colour20"="30,39,53"
+; base05 #1f2e53
+"Colour20"="31,46,83"
 
 ; ANSI White Bright
 ; 1;37m
-; base07 1e2735
-"Colour21"="30,39,53"
+; base07 1f2e53
+"Colour21"="31,46,83"

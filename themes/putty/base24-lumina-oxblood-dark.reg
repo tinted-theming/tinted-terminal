@@ -8,48 +8,48 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\base24-lumina-oxblood-dark]
 
 ; Default Foreground
-; base05 #e4d2d7
-"Colour0"="228,210,215"
+; base05 #e8d6dc
+"Colour0"="232,214,220"
 
 ; Default Bold Foreground  -- equals to non-bold
-; base05 #e4d2d7
-"Colour1"="228,210,215"
+; base05 #e8d6dc
+"Colour1"="232,214,220"
 
 ; Default Background
-; base00 #23171b
-"Colour2"="35,23,27"
+; base00 #200f16
+"Colour2"="32,15,22"
 
 ; Default Bold Background  -- equals to non-bold
-; base00 #23171b
-"Colour3"="35,23,27"
+; base00 #200f16
+"Colour3"="32,15,22"
 
 ; Cursor Text -- equals to default background
-; base00 #23171b
-"Colour4"="35,23,27"
+; base00 #200f16
+"Colour4"="32,15,22"
 
 ; Cursor Colour -- equals to default foreground
-; base05 #e4d2d7
-"Colour5"="228,210,215"
+; base05 #e8d6dc
+"Colour5"="232,214,220"
 
 ; ANSI Black
 ; 30m
-; base00 #23171b
-"Colour6"="35,23,27"
+; base00 #200f16
+"Colour6"="32,15,22"
 
 ; ANSI Black Bright
 ; 1;30m
-; base03 #3d2f33
-"Colour7"="61,47,51"
+; base03 #3b262e
+"Colour7"="59,38,46"
 
 ; ANSI Red
 ; 31m
-; base08 #de6961
-"Colour8"="222,105,97"
+; base08 #db6c63
+"Colour8"="219,108,99"
 
 ; ANSI Red Bright
 ; 1;31m
-; base12 #e98e86
-"Colour9"="233,142,134"
+; base12 #e78f86
+"Colour9"="231,143,134"
 
 ; ANSI Green
 ; 32m
@@ -58,8 +58,8 @@ Windows Registry Editor Version 5.00
 
 ; ANSI Green Bright
 ; 1;32m
-; base14 #98e1b1
-"Colour11"="152,225,177"
+; base14 #9ce0b2
+"Colour11"="156,224,178"
 
 ; ANSI Yellow
 ; 33m
@@ -73,18 +73,18 @@ Windows Registry Editor Version 5.00
 
 ; ANSI Blue
 ; 34m
-; base0D #96c3fb
-"Colour14"="150,195,251"
+; base0D #9ac3f8
+"Colour14"="154,195,248"
 
 ; ANSI Blue Bright
 ; 1;34m
-; base16 #c0dcff
-"Colour15"="192,220,255"
+; base16 #c2dcff
+"Colour15"="194,220,255"
 
 ; ANSI Magenta
 ; 35m
-; base0E #beb5fc
-"Colour16"="190,181,252"
+; base0E #bfb6f9
+"Colour16"="191,182,249"
 
 ; ANSI Magenta Bright
 ; 1;35m
@@ -93,20 +93,20 @@ Windows Registry Editor Version 5.00
 
 ; ANSI Cyan
 ; 36m
-; base0C #00bed0
-"Colour18"="0,190,208"
+; base0C #6fcad4
+"Colour18"="111,202,212"
 
 ; ANSI Cyan Bright
 ; 1;36m
-; base15 #76d2df
-"Colour19"="118,210,223"
+; base15 #8de4ed
+"Colour19"="141,228,237"
 
 ; ANSI White
 ; 37m
-; base05 #e4d2d7
-"Colour20"="228,210,215"
+; base05 #e8d6dc
+"Colour20"="232,214,220"
 
 ; ANSI White Bright
 ; 1;37m
-; base07 e4d2d7
-"Colour21"="228,210,215"
+; base07 e8d6dc
+"Colour21"="232,214,220"

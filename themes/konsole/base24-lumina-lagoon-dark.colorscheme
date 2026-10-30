@@ -1,92 +1,92 @@
 [Background]
-Color=24,47,54
+Color=4,41,48
 
 [BackgroundFaint]
-Color=14,34,40
+Color=0,28,34
 
 [BackgroundIntense]
-Color=24,47,54
+Color=4,41,48
 
 [Color0]
-Color=24,47,54
+Color=4,41,48
 
 [Color0Faint]
-Color=24,47,54
+Color=4,41,48
 
 [Color0Intense]
-Color=47,73,82
+Color=28,67,75
 
 [Color1]
-Color=223,115,112
+Color=211,114,106
 
 [Color1Faint]
-Color=223,115,112
+Color=211,114,106
 
 [Color1Intense]
-Color=235,150,146
+Color=224,147,140
 
 [Color2]
-Color=141,206,163
+Color=159,212,169
 
 [Color2Faint]
-Color=141,206,163
+Color=159,212,169
 
 [Color2Intense]
-Color=167,232,188
+Color=184,239,194
 
 [Color3]
-Color=223,204,120
+Color=231,207,148
 
 [Color3Faint]
-Color=223,204,120
+Color=231,207,148
 
 [Color3Intense]
-Color=251,230,139
+Color=255,230,167
 
 [Color4]
-Color=160,199,249
+Color=142,195,249
 
 [Color4Faint]
-Color=160,199,249
+Color=142,195,249
 
 [Color4Intense]
-Color=200,224,255
+Color=186,220,255
 
 [Color5]
-Color=195,187,251
+Color=200,186,246
 
 [Color5Faint]
-Color=195,187,251
+Color=200,186,246
 
 [Color5Intense]
-Color=234,193,255
+Color=255,202,249
 
 [Color6]
-Color=132,211,220
+Color=90,211,214
 
 [Color6Faint]
-Color=132,211,220
+Color=90,211,214
 
 [Color6Intense]
-Color=157,237,247
+Color=159,230,232
 
 [Color7]
-Color=212,229,234
+Color=215,230,231
 
 [Color7Faint]
-Color=212,229,234
+Color=215,230,231
 
 [Color7Intense]
-Color=212,229,234
+Color=215,230,231
 
 [Foreground]
-Color=212,229,234
+Color=215,230,231
 
 [ForegroundFaint]
-Color=100,130,139
+Color=84,124,134
 
 [ForegroundIntense]
-Color=162,181,187
+Color=157,182,188
 
 [General]
 Description=Lumina Lagoon Dark

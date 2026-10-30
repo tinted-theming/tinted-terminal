@@ -3,8 +3,8 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base24-lumina-olive-dark
-ColorForeground=#dfddce
-ColorBackground=#212311
-ColorCursor=#dfddce
+ColorForeground=#e1dfce
+ColorBackground=#1a1b0c
+ColorCursor=#e1dfce
 ColorBoldIsBright=FALSE
-ColorPalette=#212311;#cd6f71;#9acca4;#edba7a;#8fb9f7;#baa5dd;#8acbd2;#dfddce;#3a3c27;#da9090;#b2e7bd;#ffd7a6;#b5d3ff;#f8c4f3;#a2e5ed;#dfddce
+ColorPalette=#1a1b0c;#d3726a;#b5d5c6;#ebc27c;#a2c4f0;#c0baf2;#8bcfd7;#e1dfce;#323422;#e0938c;#b5f7da;#ffdea7;#c4ddff;#f0bbeb;#a3e9f2;#e1dfce

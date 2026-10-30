@@ -2,29 +2,29 @@
 # Color scheme: Lumina Olive Dark by Razik Ikhlef (https://github.com/RazikSF)
 
 name: Base24 Lumina Olive Dark
-accent: "#8fb9f7" # base0D
-cursor: "#dfddce" # base05
-background: "#212311" # base00
-foreground: "#dfddce" # base05
+accent: "#a2c4f0" # base0D
+cursor: "#e1dfce" # base05
+background: "#1a1b0c" # base00
+foreground: "#e1dfce" # base05
 details: darker
 
 terminal_colors:
   normal:
-    black: "#212311" # base00
-    red: "#cd6f71" # base08
-    yellow: "#edba7a" # base0A
-    green: "#9acca4" # base0B
-    cyan: "#8acbd2" # base0C
-    blue: "#8fb9f7" # base0D
-    magenta: "#baa5dd" # base0E
-    white: "#dfddce" # base05
+    black: "#1a1b0c" # base00
+    red: "#d3726a" # base08
+    yellow: "#ebc27c" # base0A
+    green: "#b5d5c6" # base0B
+    cyan: "#8bcfd7" # base0C
+    blue: "#a2c4f0" # base0D
+    magenta: "#c0baf2" # base0E
+    white: "#e1dfce" # base05
 
   bright:
-    black: "#3a3c27" # base03
-    red: "#da9090" # base12
-    yellow: "#ffd7a6" # base13
-    green: "#b2e7bd" # base14
-    cyan: "#a2e5ed" # base15
-    blue: "#b5d3ff" # base16
-    magenta: "#f8c4f3" # base17
-    white: "#dfddce" # base07
+    black: "#323422" # base03
+    red: "#e0938c" # base12
+    yellow: "#ffdea7" # base13
+    green: "#b5f7da" # base14
+    cyan: "#a3e9f2" # base15
+    blue: "#c4ddff" # base16
+    magenta: "#f0bbeb" # base17
+    white: "#e1dfce" # base07

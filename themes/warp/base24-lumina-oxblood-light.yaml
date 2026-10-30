@@ -2,29 +2,29 @@
 # Color scheme: Lumina Oxblood Light by Razik Ikhlef (https://github.com/RazikSF)
 
 name: Base24 Lumina Oxblood Light
-accent: "#35659f" # base0D
-cursor: "#4f3c45" # base05
-background: "#f9f4f5" # base00
-foreground: "#4f3c45" # base05
+accent: "#3166a6" # base0D
+cursor: "#42222f" # base05
+background: "#fef2f4" # base00
+foreground: "#42222f" # base05
 details: lighter
 
 terminal_colors:
   normal:
-    black: "#f9f4f5" # base00
-    red: "#982e24" # base08
-    yellow: "#9f6202" # base0A
-    green: "#287849" # base0B
-    cyan: "#3d606e" # base0C
-    blue: "#35659f" # base0D
-    magenta: "#724399" # base0E
-    white: "#4f3c45" # base05
+    black: "#fef2f4" # base00
+    red: "#9b2827" # base08
+    yellow: "#a1600a" # base0A
+    green: "#237742" # base0B
+    cyan: "#087380" # base0C
+    blue: "#3166a6" # base0D
+    magenta: "#6556a3" # base0E
+    white: "#42222f" # base05
 
   bright:
-    black: "#d8d1d2" # base03
-    red: "#712c24" # base12
-    yellow: "#845000" # base13
-    green: "#166338" # base14
-    cyan: "#004f66" # base15
-    blue: "#215189" # base16
-    magenta: "#70376b" # base17
-    white: "#4f3c45" # base07
+    black: "#deced1" # base03
+    red: "#732926" # base12
+    yellow: "#874e00" # base13
+    green: "#0f6131" # base14
+    cyan: "#005d68" # base15
+    blue: "#1c5290" # base16
+    magenta: "#683a7d" # base17
+    white: "#42222f" # base07

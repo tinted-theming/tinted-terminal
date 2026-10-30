@@ -3,8 +3,8 @@
 # Template author: Tinted Theming (https://github.com/tinted-theming/tinted-xfce-terminal)
 [Scheme]
 Name=base24-lumina-lagoon-light
-ColorForeground=#212829
-ColorBackground=#eef9fb
-ColorCursor=#212829
+ColorForeground=#0b323b
+ColorBackground=#e9fafa
+ColorCursor=#0b323b
 ColorBoldIsBright=FALSE
-ColorPalette=#eef9fb;#901f1f;#007853;#a06200;#1e69a2;#5f3fa9;#345a61;#212829;#c8d7da;#69221e;#006143;#855100;#00558b;#73356f;#004953;#212829
+ColorPalette=#e9fafa;#8f2121;#2e6147;#a1600d;#185ca9;#7153b5;#006e71;#0b323b;#c5d8d8;#682220;#005031;#874e00;#154986;#72366e;#00585b;#0b323b

@@ -2,40 +2,40 @@
 # Color scheme: Lumina Lagoon Light by Razik Ikhlef (https://github.com/RazikSF)
 
 [colors]
-selection-background = '#212829' # base05
-selection-foreground = '#d8e8ea' # base02
+selection-background = '#0b323b' # base05
+selection-foreground = '#d5e8e8' # base02
 
-cursor         = '#212829' # base05
-tabs           = '#e4f3f6' # base01
-tabs-active    = '#d8e8ea' # base02
+cursor         = '#0b323b' # base05
+tabs           = '#e1f4f4' # base01
+tabs-active    = '#d5e8e8' # base02
 
-background     = '#eef9fb' # base00
-foreground     = '#212829' # base05
-black          = '#eef9fb' # base00
-red            = '#901f1f' # base08
-yellow         = '#a06200' # base0A
-green          = '#007853' # base0B
-cyan           = '#345a61' # base0C
-blue           = '#1e69a2' # base0D
-magenta        = '#5f3fa9' # base0E
-white          = '#212829' # base05
+background     = '#e9fafa' # base00
+foreground     = '#0b323b' # base05
+black          = '#e9fafa' # base00
+red            = '#8f2121' # base08
+yellow         = '#a1600d' # base0A
+green          = '#2e6147' # base0B
+cyan           = '#006e71' # base0C
+blue           = '#185ca9' # base0D
+magenta        = '#7153b5' # base0E
+white          = '#0b323b' # base05
 
-dim-foreground   = '#212829' # base05
-dim-black        = '#e4f3f6' # base01
-dim-red          = '#901f1f' # base08
-dim-yellow       = '#a06200' # base0A
-dim-green        = '#007853' # base0B
-dim-cyan         = '#345a61' # base0C
-dim-blue         = '#1e69a2' # base0D
-dim-magenta      = '#5f3fa9' # base0E
-dim-white        = '#7b898c' # base04
+dim-foreground   = '#0b323b' # base05
+dim-black        = '#e1f4f4' # base01
+dim-red          = '#8f2121' # base08
+dim-yellow       = '#a1600d' # base0A
+dim-green        = '#2e6147' # base0B
+dim-cyan         = '#006e71' # base0C
+dim-blue         = '#185ca9' # base0D
+dim-magenta      = '#7153b5' # base0E
+dim-white        = '#758b8b' # base04
 
-light-foreground = '#212829' # base05
-light-black      = '#c8d7da' # base03
-light-red        = '#69221e' # base12
-light-yellow     = '#855100' # base13
-light-green      = '#006143' # base14
-light-cyan       = '#004953' # base15
-light-blue       = '#00558b' # base16
-light-magenta    = '#73356f' # base17
-light-white      = '#212829' # base07
+light-foreground = '#0b323b' # base05
+light-black      = '#c5d8d8' # base03
+light-red        = '#682220' # base12
+light-yellow     = '#874e00' # base13
+light-green      = '#005031' # base14
+light-cyan       = '#00585b' # base15
+light-blue       = '#154986' # base16
+light-magenta    = '#72366e' # base17
+light-white      = '#0b323b' # base07

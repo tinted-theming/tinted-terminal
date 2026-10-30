@@ -1,92 +1,92 @@
 [Background]
-Color=26,27,28
+Color=22,23,25
 
 [BackgroundFaint]
-Color=15,16,17
+Color=11,12,14
 
 [BackgroundIntense]
-Color=26,27,28
+Color=22,23,25
 
 [Color0]
-Color=26,27,28
+Color=22,23,25
 
 [Color0Faint]
-Color=26,27,28
+Color=22,23,25
 
 [Color0Intense]
-Color=50,51,52
+Color=46,47,49
 
 [Color1]
-Color=217,110,102
+Color=197,124,116
 
 [Color1Faint]
-Color=217,110,102
+Color=197,124,116
 
 [Color1Intense]
-Color=229,145,137
+Color=213,154,147
 
 [Color2]
-Color=185,218,170
+Color=157,215,183
 
 [Color2Faint]
-Color=185,218,170
+Color=157,215,183
 
 [Color2Intense]
-Color=203,248,182
+Color=194,237,213
 
 [Color3]
-Color=221,187,103
+Color=223,207,176
 
 [Color3Faint]
-Color=221,187,103
+Color=223,207,176
 
 [Color3Intense]
-Color=249,213,125
+Color=255,229,177
 
 [Color4]
-Color=156,194,244
+Color=182,206,237
 
 [Color4Faint]
-Color=156,194,244
+Color=182,206,237
 
 [Color4Intense]
-Color=192,219,255
+Color=214,232,255
 
 [Color5]
-Color=178,150,255
+Color=203,180,239
 
 [Color5Faint]
-Color=178,150,255
+Color=203,180,239
 
 [Color5Intense]
-Color=254,194,248
+Color=255,215,250
 
 [Color6]
-Color=149,224,232
+Color=168,213,219
 
 [Color6Faint]
-Color=149,224,232
+Color=168,213,219
 
 [Color6Intense]
-Color=172,247,255
+Color=193,239,246
 
 [Color7]
-Color=205,208,212
+Color=204,208,211
 
 [Color7Faint]
-Color=205,208,212
+Color=204,208,211
 
 [Color7Intense]
-Color=205,208,212
+Color=204,208,211
 
 [Foreground]
-Color=205,208,212
+Color=204,208,211
 
 [ForegroundFaint]
-Color=107,109,110
+Color=103,106,109
 
 [ForegroundIntense]
-Color=176,177,178
+Color=176,177,179
 
 [General]
 Description=Lumina Quartz Dark
