@@ -6,8 +6,11 @@
 set -euo pipefail
 
 failed=0
+checked=0
 
+shopt -s nullglob
 for rex in themes/rex/*.lua; do
+  checked=$((checked + 1))
   name=$(basename "$rex" .lua)
   ghostty="themes/ghostty/$name"
   if [ ! -f "$ghostty" ]; then
@@ -34,3 +37,9 @@ if [ "$failed" -gt 0 ]; then
   echo "$failed Rex theme(s) don't match themes/ghostty/" >&2
   exit 1
 fi
+
+if [ "$checked" -eq 0 ]; then
+  echo "No Rex themes found in themes/rex" >&2
+  exit 1
+fi
+echo "All $checked Rex themes match themes/ghostty/"
