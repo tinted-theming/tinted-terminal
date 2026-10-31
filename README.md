@@ -694,6 +694,8 @@ Tinted Theming template for [QTerminal terminal emulator].
 
 ## Rex
 
+<img src="./assets/rex-icon.png" alt="Rex logo" width="50"/>
+
 Tinted Theming template for [Rex].
 
 Rex reads Ghostty theme files, so each Rex theme carries the matching
