@@ -10,7 +10,9 @@ if [ "$#" -eq 0 ]; then
 fi
 
 missing=0
+checked=0
 while IFS= read -r -d '' file; do
+  checked=$((checked + 1))
   # $(...) strips a trailing newline, so a non-empty result means the last
   # byte is something else.
   if [ -s "$file" ] && [ -n "$(tail -c 1 "$file")" ]; then
@@ -23,3 +25,4 @@ if [ "$missing" -gt 0 ]; then
   echo "$missing file(s) missing a final newline" >&2
   exit 1
 fi
+echo "All $checked files end with a newline"
