@@ -696,17 +696,21 @@ Tinted Theming template for [QTerminal terminal emulator].
 
 Tinted Theming template for [Rex].
 
-Rex reads Ghostty theme files, so it uses the same colors as the
-[Ghostty](#ghostty) themes.
+Rex reads Ghostty theme files, so each Rex theme carries the matching
+[Ghostty](#ghostty) theme unchanged.
 
-**Theme directory**: [themes/rex-scripts/]
+**Theme directory**: [themes/rex/]
+
+> [!WARNING]
+>
+> Rex is in private beta and hasn't been publicly released yet. Its CLI and theme handling may change before release, so these instructions are subject to change.
 
 ### Tinty
 
-Each script in `themes/rex-scripts/` imports its scheme into every Rex
-app on the machine where it runs, then switches the app to the scheme's
-light or dark appearance. The themes appear in Rex's theme picker under
-their scheme names, such as `base16-ayu-dark`.
+Each Lua script in `themes/rex/` imports its scheme into every Rex app on
+the machine where it runs, then switches the app to the scheme's light or
+dark appearance. The themes appear in Rex's theme picker under their
+scheme names, such as `base16-ayu-dark`.
 
 1. Add the following to `~/.config/tinted-theming/tinty/config.toml`:
 
@@ -714,8 +718,8 @@ their scheme names, such as `base16-ayu-dark`.
    [[items]]
    path = "https://github.com/tinted-theming/tinted-terminal"
    name = "tinted-terminal-rex"
-   themes-dir = "themes/rex-scripts"
-   hook = "sh %f"
+   themes-dir = "themes/rex"
+   hook = "rex --autostart=false do %f"
    supported-systems = ["base16", "base24", "tinted8"]
    ```
 
@@ -723,19 +727,22 @@ their scheme names, such as `base16-ayu-dark`.
 3. `tinty apply base16-ayu-dark` to change the theme to
    `base16-ayu-dark`.
 
-The script does nothing if `rex` isn't installed or no Rex server is
-running. Rex can only import a theme file from the app's own machine,
-so the script skips apps connected to the server from another machine.
-To theme those apps, run Tinty on their machines too.
+`--autostart=false` stops the hook from starting a Rex server when none
+is running; the hook fails instead. Rex can only import a theme file from
+the app's own machine, so the script skips apps connected to the server
+from another machine. To theme those apps, run Tinty on their machines
+too.
 
 ### Manual
 
-Run **Import Theme File** from Rex's command palette and choose a theme
-from [themes/ghostty/], or run:
+Run a theme's script with the Rex CLI:
 
 ```sh
-rex do client.theme.import path="$PWD/themes/ghostty/base16-ayu-dark"
+rex do themes/rex/base16-ayu-dark.lua
 ```
+
+Or run **Import Theme File** from Rex's command palette and choose a
+theme from [themes/ghostty/].
 
 ## Rio
 
@@ -1037,7 +1044,7 @@ terminal template decisions.
 [themes/mintty/]: ./themes/mintty/
 [themes/putty/]: ./themes/putty/
 [themes/qterminal/]: ./themes/qterminal/
-[themes/rex-scripts/]: ./themes/rex-scripts/
+[themes/rex/]: ./themes/rex/
 [themes-16/rio/]: ./themes-16/rio/
 [themes/st/]: ./themes/st/
 [themes/termite/]: ./themes/termite/
