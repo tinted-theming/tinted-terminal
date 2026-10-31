@@ -1,0 +1,106 @@
+#!/usr/bin/env sh
+# vim: ft=sh
+# {{ scheme-name }} theme for Rex
+# Scheme Author: {{ scheme-author }}
+# Scheme System: {{ scheme-system }}
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+#
+# Imports this scheme into every Rex app running on this machine and switches
+# it to {{ scheme-variant }} appearance. Designed to be used as a tinty hook:
+#
+#     hook = "sh %f"
+#
+# Rex can only import theme files from the app's own machine, so apps connected
+# to the Rex server from another machine are skipped. Run tinty there too.
+
+theme_name="{{ scheme-system }}-{{ scheme-slug }}"
+theme_variant="{{ scheme-variant }}"
+theme_dir="${XDG_CACHE_HOME:-$HOME/.cache}/tinted-theming/rex"
+
+# Nothing to do without Rex, or when no Rex server is running.
+command -v rex >/dev/null 2>&1 || exit 0
+rex --autostart=false server status >/dev/null 2>&1 || exit 0
+
+mkdir -p "$theme_dir" || exit 1
+
+# Rex names imported themes after the file, and re-importing a name replaces it.
+cat > "$theme_dir/$theme_name" <<'EOF'
+# vim: ft=ghostty
+# {{ scheme-name }} theme for Rex (Ghostty theme format)
+# Scheme Author: {{ scheme-author }}
+# Scheme System: {{ scheme-system }}
+# Template Author: Tinted Terminal (https://github.com/tinted-theming/tinted-terminal)
+
+# Color palette
+palette = 0=#{{ base00-hex }}
+palette = 1=#{{ base08-hex }}
+palette = 2=#{{ base0B-hex }}
+palette = 3=#{{ base0A-hex }}
+palette = 4=#{{ base0D-hex }}
+palette = 5=#{{ base0E-hex }}
+palette = 6=#{{ base0C-hex }}
+palette = 7=#{{ base05-hex }}
+palette = 8=#{{ base03-hex }}
+palette = 9=#{{ base08-hex }}
+palette = 10=#{{ base0B-hex }}
+palette = 11=#{{ base0A-hex }}
+palette = 12=#{{ base0D-hex }}
+palette = 13=#{{ base0E-hex }}
+palette = 14=#{{ base0C-hex }}
+palette = 15=#{{ base07-hex }}
+palette = 16=#{{ base09-hex }}
+palette = 17=#{{ base0F-hex }}
+palette = 18=#{{ base01-hex }}
+palette = 19=#{{ base02-hex }}
+palette = 20=#{{ base04-hex }}
+palette = 21=#{{ base06-hex }}
+
+# Foreground & background colors
+background = #{{ base00-hex }}
+foreground = #{{ base05-hex }}
+cursor-color = #{{ base05-hex }}
+selection-background = #{{ base05-hex }}
+selection-foreground = #{{ base02-hex }}
+EOF
+
+# The Lua below runs inside the rex CLI. It finds the Rex apps connected over
+# the server's local socket as the same user, i.e. the apps on this machine.
+TINTED_REX_THEME_FILE="$theme_dir/$theme_name" \
+TINTED_REX_THEME_VARIANT="$theme_variant" \
+rex --autostart=false do -e '
+local me = assert(rex.call("server.whoami")).principal
+if me.transport ~= "unix" then
+    io.stderr:write("rex: not connected to a local Rex server, skipping\n")
+    return
+end
+
+local file = os.getenv("TINTED_REX_THEME_FILE")
+local variant = os.getenv("TINTED_REX_THEME_VARIANT")
+local list = assert(rex.call("client.list", { kinds = { "app" } }))
+local failures = {}
+
+local function perform(client, action, args)
+    local _, err = rex.call("client.perform", {
+        client_id = client.client_id, action = action, args = args,
+    })
+    return err
+end
+
+for _, client in ipairs(list.clients or {}) do
+    local peer = client.principal or {}
+    local name = (client.info or {}).label or client.client_id
+    if peer.transport == "unix" and peer.uid == me.uid then
+        local err = perform(client, "client.theme.import", { path = file })
+            or perform(client, "client.appearance.switch_mode", { mode = variant })
+        if err then
+            table.insert(failures, name .. ": " .. tostring(err))
+        end
+    else
+        io.stderr:write("rex: skipped " .. name .. ", which is connected from another machine or user\n")
+    end
+end
+
+if #failures > 0 then
+    error(table.concat(failures, "\n"))
+end
+'
