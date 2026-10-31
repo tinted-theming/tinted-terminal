@@ -219,16 +219,16 @@ qterminal-tinted8:
 
 # Rex
 # ----------------------------------------------------------------------
-rex-script-base16:
-  filename: themes/rex-scripts/{{ scheme-system }}-{{ scheme-slug }}.sh
+rex-base16:
+  filename: themes/rex/{{ scheme-system }}-{{ scheme-slug }}.lua
   supported-systems: [base16]
 
-rex-script-base24:
-  filename: themes/rex-scripts/{{ scheme-system }}-{{ scheme-slug }}.sh
+rex-base24:
+  filename: themes/rex/{{ scheme-system }}-{{ scheme-slug }}.lua
   supported-systems: [base24]
 
-rex-script-tinted8:
-  filename: themes/rex-scripts/{{ scheme-system }}-{{ scheme-slug }}.sh
+rex-tinted8:
+  filename: themes/rex/{{ scheme-system }}-{{ scheme-slug }}.lua
   supported-systems: [tinted8]
   supports:
     tinted8-builder: ~0.2.0
