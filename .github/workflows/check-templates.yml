@@ -35,3 +35,6 @@ jobs:
 
       - name: Check st patches apply
         run: scripts/check-st-patches.sh
+
+      - name: Check Rex themes match Ghostty themes
+        run: scripts/check-rex-themes.sh
